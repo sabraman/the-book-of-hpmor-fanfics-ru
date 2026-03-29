@@ -109,6 +109,7 @@ across multiple segments.
 | Cannons | Пушки Педдл | Potter's Army / ROSMEN | Quidditch team. |
 | Beauxbatons | Шармбатон | Potter's Army / ROSMEN | Canon school name. |
 | Durmstrang | Дурмстранг | Potter's Army / ROSMEN | Canon school name. |
+| veela | вейла | Potter's Army / ROSMEN | Magical being term. |
 | Quidditch | квиддич | Potter's Army / ROSMEN | Sport name, lower-case in running text. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
 | house-elf | домовой эльф | Potter's Army / ROSMEN | Creature type. |
@@ -134,6 +135,7 @@ across multiple segments.
 | Azkaban | Азкабан | Potter's Army / ROSMEN | Canon place name. |
 | Privet Drive | Тисовая улица | Potter's Army / ROSMEN | Dursley address. |
 | Forbidden Forest | Запретный лес | Potter's Army / ROSMEN | Canon place name. |
+| Portkey | портключ | Potter's Army / ROSMEN | Canon transport object. |
 | werewolf | оборотень | Potter's Army / ROSMEN | Creature type. |
 | werewolves | оборотни | Potter's Army / ROSMEN | Plural form. |
 | Wolfsbane | волчье противоядие | Potter's Army / ROSMEN | Potion shorthand in dialogue context. |
@@ -158,6 +160,9 @@ across multiple segments.
 | Mudblood | грязнокровка | Potter's Army / ROSMEN | Canon slur; use only in-character. |
 | knut | кнат | Potter's Army / ROSMEN | Lowest-value wizarding coin. |
 | Nargle | наргл | Potter's Army / ROSMEN / HP Wiki | Luna's creature name. |
+| Grindylow | гриндилоу | Potter's Army / ROSMEN | Lake creature. |
+| Animagus | анимаг | Potter's Army / ROSMEN | Wizard who can transform into an animal. |
+| Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
 | D.A. | О.Д. | Potter's Army / ROSMEN | `Отряд Дамблдора`. |
 | M.o.M. | М.М. | Potter's Army / ROSMEN | `Министерство Магии`. |
 | Wizengamot | Визенгамот | Potter's Army / ROSMEN | Use council name directly unless a specific abbreviated source demands otherwise. |
