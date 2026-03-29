@@ -36,6 +36,7 @@ across multiple segments.
 | Justin Finch-Fletchley | Джастин Финч-Флетчли | Potter's Army / ROSMEN | Canon form. |
 | Colin Creevey | Колин Криви | Potter's Army / ROSMEN | Canon form. |
 | Sirius Black | Сириус Блэк | Potter's Army / ROSMEN | Canon form. |
+| Barty Crouch, Jr. | Барти Крауч-младший | Potter's Army / ROSMEN | Canon form. |
 | Rita Skeeter | Рита Скитер | Potter's Army / ROSMEN | Canon form. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
 | Sybill Trelawney | Сивилла Трелони | Potter's Army / ROSMEN | Canon form. |
@@ -131,6 +132,7 @@ across multiple segments.
 | Patronus | Патронус | Potter's Army / ROSMEN | Capitalize as spell/conjuration name. |
 | boggart | боггарт | Potter's Army / ROSMEN | Magical creature. |
 | Grim | Грим | Potter's Army / ROSMEN | Omen name in Divination context. |
+| Wrackspurt | мозгошмыг | Potter's Army / ROSMEN | Luna's creature term; plural usually follows the same form in running text. |
 | Howler | Громовещатель | Potter's Army / ROSMEN | Magical letter. |
 | Azkaban | Азкабан | Potter's Army / ROSMEN | Canon place name. |
 | Privet Drive | Тисовая улица | Potter's Army / ROSMEN | Dursley address. |
@@ -163,6 +165,7 @@ across multiple segments.
 | Grindylow | гриндилоу | Potter's Army / ROSMEN | Lake creature. |
 | Animagus | анимаг | Potter's Army / ROSMEN | Wizard who can transform into an animal. |
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
+| Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | D.A. | О.Д. | Potter's Army / ROSMEN | `Отряд Дамблдора`. |
 | M.o.M. | М.М. | Potter's Army / ROSMEN | `Министерство Магии`. |
 | Wizengamot | Визенгамот | Potter's Army / ROSMEN | Use council name directly unless a specific abbreviated source demands otherwise. |
