@@ -32,6 +32,7 @@ across multiple segments.
 | Neville Longbottom | Невилл Долгопупс | Potter's Army / ROSMEN | Canon form. |
 | Draco Malfoy | Драко Малфой | Potter's Army / ROSMEN | Canon form. |
 | Ginny Weasley | Джинни Уизли | Potter's Army / ROSMEN | Canon form. |
+| Ginevra | Джиневра | Potter's Army / ROSMEN | Full given name when spelled out. |
 | Justin Finch-Fletchley | Джастин Финч-Флетчли | Potter's Army / ROSMEN | Canon form. |
 | Colin Creevey | Колин Криви | Potter's Army / ROSMEN | Canon form. |
 | Sirius Black | Сириус Блэк | Potter's Army / ROSMEN | Canon form. |
@@ -88,6 +89,7 @@ across multiple segments.
 | Philosopher's Stone | Философский камень | Potter's Army / ROSMEN | Canon artifact. |
 | Sorting Hat | Распределяющая Шляпа | Potter's Army / ROSMEN | Capitalize as iconic magical object. |
 | Great Hall | Большой зал | Potter's Army / ROSMEN | School location. |
+| Hogwarts Express | Хогвартс-экспресс | Potter's Army / ROSMEN | Canon train name. |
 | Quidditch | квиддич | Potter's Army / ROSMEN | Sport name, lower-case in running text. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
 | house-elf | домовой эльф | Potter's Army / ROSMEN | Creature type. |
@@ -114,6 +116,13 @@ across multiple segments.
 | Forbidden Forest | Запретный лес | Potter's Army / ROSMEN | Canon place name. |
 | werewolf | оборотень | Potter's Army / ROSMEN | Creature type. |
 | werewolves | оборотни | Potter's Army / ROSMEN | Plural form. |
+| Wolfsbane | волчье противоядие | Potter's Army / ROSMEN | Potion shorthand in dialogue context. |
+| Wolfsbane Potion | волчье противоядие | Potter's Army / ROSMEN | Standard potion name. |
+| unicorn | единорог | Potter's Army / ROSMEN | Magical creature. |
+| full moon | полнолуние | Potter's Army / ROSMEN | Standard phrase for werewolf context. |
+| Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
+| Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
+| Exploding Snap | взрывающиеся карты | Potter's Army / ROSMEN | Canon wizard game. |
 | wandless magic | беспалочковая магия | Project | Use unless a story requires a marked variant. |
 | wizarding world | магический мир | Project | Neutral default phrase. |
 | preface | предисловие | Project | Front matter label. |
