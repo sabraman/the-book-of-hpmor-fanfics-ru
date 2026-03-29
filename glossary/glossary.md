@@ -130,7 +130,7 @@ across multiple segments.
 | Patronus | Патронус | Potter's Army / ROSMEN | Capitalize as spell/conjuration name. |
 | boggart | боггарт | Potter's Army / ROSMEN | Magical creature. |
 | Grim | Грим | Potter's Army / ROSMEN | Omen name in Divination context. |
-| Howler | вопиллер | Potter's Army / ROSMEN | Magical letter. |
+| Howler | Громовещатель | Potter's Army / ROSMEN | Magical letter. |
 | Azkaban | Азкабан | Potter's Army / ROSMEN | Canon place name. |
 | Privet Drive | Тисовая улица | Potter's Army / ROSMEN | Dursley address. |
 | Forbidden Forest | Запретный лес | Potter's Army / ROSMEN | Canon place name. |
@@ -147,17 +147,39 @@ across multiple segments.
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
 | Arithmancy | Арифмантика | Potter's Army / ROSMEN | School subject. |
 | Exploding Snap | взрывающиеся карты | Potter's Army / ROSMEN | Canon wizard game. |
+| O.W.L. | С.О.В. | Potter's Army / ROSMEN | `Стандарты Обучения Волшебству`; fifth-year exam set. |
 | NEWT | ЖАБА | Potter's Army / ROSMEN | Exam level abbreviation used for advanced schoolwork. |
+| N.E.W.T. | Ж.А.Б.А. | Potter's Army / ROSMEN | `Жутко Академическая Блестящая Аттестация`; final exam set. |
+| W.O.M.B.A.T. | В.О.М.Б.А.Т. | Fan usage | `Всеобщий Обычный Магический Базовый Аттестационный Тест`; mostly fan-usage transliteration. |
 | Ancient Runes | Древние руны | Potter's Army / ROSMEN | School subject. |
 | Curse Breaker | разрушитель проклятий | Potter's Army / ROSMEN | Standard profession term. |
 | Scabbers | Короста | Potter's Army / ROSMEN | Rat name. |
+| S.P.E.W. | Г.А.В.Н.Э. | Potter's Army / ROSMEN | `Гражданская Ассоциация Восстановления Независимости Эльфов`. |
 | Mudblood | грязнокровка | Potter's Army / ROSMEN | Canon slur; use only in-character. |
 | knut | кнат | Potter's Army / ROSMEN | Lowest-value wizarding coin. |
 | Nargle | наргл | Potter's Army / ROSMEN / HP Wiki | Luna's creature name. |
+| D.A. | О.Д. | Potter's Army / ROSMEN | `Отряд Дамблдора`. |
+| M.o.M. | М.М. | Potter's Army / ROSMEN | `Министерство Магии`. |
+| Wizengamot | Визенгамот | Potter's Army / ROSMEN | Use council name directly unless a specific abbreviated source demands otherwise. |
 | wandless magic | беспалочковая магия | Project | Use unless a story requires a marked variant. |
 | wizarding world | магический мир | Project | Neutral default phrase. |
 | preface | предисловие | Project | Front matter label. |
 | table of contents | оглавление | Project | Reader-facing navigation label. |
+
+## Exam Grades
+
+Use ROSMEN grade names as the default in running prose. Keep the single-letter
+Russian abbreviations only where the text is explicitly about report cards,
+exam tables, forms, or the visual letter itself.
+
+| English | Russian | Authority | Notes |
+| --- | --- | --- | --- |
+| O — Outstanding | П — Превосходно | Potter's Army / ROSMEN | Passing grade; keep the letter joke as `П` in Russian. |
+| E — Exceeds Expectations | В — Выше ожидаемого | Potter's Army / ROSMEN | Passing grade. |
+| A — Acceptable | У — Удовлетворительно | Potter's Army / ROSMEN | Passing grade. |
+| P — Poor | С — Слабо | Potter's Army / ROSMEN | Failing grade. |
+| D — Dreadful | О — Отвратительно | Potter's Army / ROSMEN | Failing grade. |
+| T — Troll | Т — Тролль | Potter's Army / ROSMEN | Failing grade. |
 
 ## Story-Specific Terms
 
