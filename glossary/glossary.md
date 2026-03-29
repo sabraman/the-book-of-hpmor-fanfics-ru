@@ -34,6 +34,14 @@ across multiple segments.
 | Ginny Weasley | Джинни Уизли | Potter's Army / ROSMEN | Canon form. |
 | Justin Finch-Fletchley | Джастин Финч-Флетчли | Potter's Army / ROSMEN | Canon form. |
 | Colin Creevey | Колин Криви | Potter's Army / ROSMEN | Canon form. |
+| Sirius Black | Сириус Блэк | Potter's Army / ROSMEN | Canon form. |
+| Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
+| Sybill Trelawney | Сивилла Трелони | Potter's Army / ROSMEN | Canon form. |
+| Lavender | Лаванда | Potter's Army / ROSMEN | Given-name short form used in dialogue. |
+| Sally-Anne | Салли-Энн | Potter's Army / ROSMEN | Keep hyphenation. |
+| Seamus Finnegan | Симус Финниган | Potter's Army / ROSMEN | Canon form. |
+| Dean | Дин | Potter's Army / ROSMEN | Given-name short form used in dialogue. |
+| Percival Weasley | Персиваль Уизли | Potter's Army / ROSMEN | Use full form when the text spells it out. |
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Minerva McGonagall | Минерва МакГонагалл | Potter's Army / ROSMEN | Do not use `Макгонагал` or mixed forms. |
@@ -83,6 +91,8 @@ across multiple segments.
 | Quidditch | квиддич | Potter's Army / ROSMEN | Sport name, lower-case in running text. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
 | house-elf | домовой эльф | Potter's Army / ROSMEN | Creature type. |
+| Dementor | дементор | Potter's Army / ROSMEN | Creature type. |
+| Dementors | дементоры | Potter's Army / ROSMEN | Plural form. |
 | Cornish Pixies | корнуэльские пикси | Potter's Army / ROSMEN | Creature type. |
 | Deathday Party | вечеринка в честь дня смерти | Potter's Army / ROSMEN | Event term. |
 | Basilisk | василиск | Potter's Army / ROSMEN | Creature type. |
@@ -96,6 +106,14 @@ across multiple segments.
 | Parselmouth | змееуст | Potter's Army / ROSMEN | Canon magical ability. |
 | Legilimens | легилимент | Potter's Army / ROSMEN | Wizard skilled in Legilimency. |
 | Fantastic Beasts and Where to Find Them | Фантастические звери и места их обитания | Potter's Army / ROSMEN | Canon book title. |
+| Patronus | Патронус | Potter's Army / ROSMEN | Capitalize as spell/conjuration name. |
+| boggart | боггарт | Potter's Army / ROSMEN | Magical creature. |
+| Grim | Грим | Potter's Army / ROSMEN | Omen name in Divination context. |
+| Howler | вопиллер | Potter's Army / ROSMEN | Magical letter. |
+| Azkaban | Азкабан | Potter's Army / ROSMEN | Canon place name. |
+| Forbidden Forest | Запретный лес | Potter's Army / ROSMEN | Canon place name. |
+| werewolf | оборотень | Potter's Army / ROSMEN | Creature type. |
+| werewolves | оборотни | Potter's Army / ROSMEN | Plural form. |
 | wandless magic | беспалочковая магия | Project | Use unless a story requires a marked variant. |
 | wizarding world | магический мир | Project | Neutral default phrase. |
 | preface | предисловие | Project | Front matter label. |
