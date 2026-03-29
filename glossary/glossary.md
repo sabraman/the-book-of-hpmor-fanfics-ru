@@ -43,6 +43,9 @@ across multiple segments.
 | Seamus Finnegan | Симус Финниган | Potter's Army / ROSMEN | Canon form. |
 | Dean | Дин | Potter's Army / ROSMEN | Given-name short form used in dialogue. |
 | Percival Weasley | Персиваль Уизли | Potter's Army / ROSMEN | Use full form when the text spells it out. |
+| Molly Weasley | Молли Уизли | Potter's Army / ROSMEN | Canon form. |
+| Arthur Weasley | Артур Уизли | Potter's Army / ROSMEN | Canon form. |
+| Fleur Delacour | Флёр Делакур | Potter's Army / ROSMEN | Canon form. |
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Minerva McGonagall | Минерва МакГонагалл | Potter's Army / ROSMEN | Do not use `Макгонагал` or mixed forms. |
@@ -85,11 +88,21 @@ across multiple segments.
 | Hog's Head | Кабанья Голова | Potter's Army / ROSMEN | Inn name. |
 | The Prophet | «Пророк» | Potter's Army / ROSMEN | Newspaper short form. |
 | Dark Mark | Чёрная Метка | Potter's Army / ROSMEN | Capitalized in title-like use. |
+| Unforgivable Curses | Непростительные заклятия | Potter's Army / ROSMEN | Canon collective name for the three forbidden curses. |
+| Imperius Curse | заклятие Империус | Potter's Army / ROSMEN | Canon curse name. |
+| Cruciatus Curse | заклятие Круциатус | Potter's Army / ROSMEN | Canon curse name. |
 | Avada Kedavra | Авада Кедавра | Potter's Army / ROSMEN | Canon incantation. |
+| Killing Curse | Убивающее заклятие | Potter's Army / ROSMEN | Canon description of `Avada Kedavra`. |
 | Philosopher's Stone | Философский камень | Potter's Army / ROSMEN | Canon artifact. |
+| Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
+| Triwizard Tournament | Турнир Трёх Волшебников | Potter's Army / ROSMEN | Canon tournament name. |
 | Sorting Hat | Распределяющая Шляпа | Potter's Army / ROSMEN | Capitalize as iconic magical object. |
 | Great Hall | Большой зал | Potter's Army / ROSMEN | School location. |
 | Hogwarts Express | Хогвартс-экспресс | Potter's Army / ROSMEN | Canon train name. |
+| World Cup | Кубок мира | Potter's Army / ROSMEN | Quidditch context. |
+| Cannons | Пушки Педдл | Potter's Army / ROSMEN | Quidditch team. |
+| Beauxbatons | Шармбатон | Potter's Army / ROSMEN | Canon school name. |
+| Durmstrang | Дурмстранг | Potter's Army / ROSMEN | Canon school name. |
 | Quidditch | квиддич | Potter's Army / ROSMEN | Sport name, lower-case in running text. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
 | house-elf | домовой эльф | Potter's Army / ROSMEN | Creature type. |
@@ -118,11 +131,18 @@ across multiple segments.
 | werewolves | оборотни | Potter's Army / ROSMEN | Plural form. |
 | Wolfsbane | волчье противоядие | Potter's Army / ROSMEN | Potion shorthand in dialogue context. |
 | Wolfsbane Potion | волчье противоядие | Potter's Army / ROSMEN | Standard potion name. |
+| Felix Felicis | Феликс Фелицис | Potter's Army / ROSMEN | Lucky potion name. |
+| butterbeer | сливочное пиво | Potter's Army / ROSMEN | Standard drink name. |
+| firewhiskey | огневиски | Potter's Army / ROSMEN | Standard drink name. |
 | unicorn | единорог | Potter's Army / ROSMEN | Magical creature. |
 | full moon | полнолуние | Potter's Army / ROSMEN | Standard phrase for werewolf context. |
 | Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
 | Exploding Snap | взрывающиеся карты | Potter's Army / ROSMEN | Canon wizard game. |
+| NEWT | ЖАБА | Potter's Army / ROSMEN | Exam level abbreviation used for advanced schoolwork. |
+| Ancient Runes | Древние руны | Potter's Army / ROSMEN | School subject. |
+| Curse Breaker | разрушитель проклятий | Potter's Army / ROSMEN | Standard profession term. |
+| Scabbers | Короста | Potter's Army / ROSMEN | Rat name. |
 | wandless magic | беспалочковая магия | Project | Use unless a story requires a marked variant. |
 | wizarding world | магический мир | Project | Neutral default phrase. |
 | preface | предисловие | Project | Front matter label. |
