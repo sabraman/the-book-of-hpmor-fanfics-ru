@@ -1,0 +1,69 @@
+<span id="seg-0615__seg-0615-6c43d979d6"></span>
+
+## Table of Contents
+
+- <a href="#seg-0616" class="pcalibre calibre3">Chapter 1: Social Gatherings</a>
+- <a href="#seg-0617" class="pcalibre calibre3">Chapter 2: Social Gatherings, Pt 2</a>
+- <a href="#seg-0618" class="pcalibre calibre3">Chapter 3: Correspondence</a>
+- <a href="#seg-0619" class="pcalibre calibre3">Chapter 4: Strangers on a Train</a>
+- <a href="#seg-0620" class="pcalibre calibre3">Chapter 5: Strangers on a Train, Pt 2</a>
+- <a href="#seg-0621" class="pcalibre calibre3">Chapter 6: Efficient Sorting Algorithms</a>
+- <a href="#seg-0622" class="pcalibre calibre3">Chapter 7: Unknown Unknowns, Pt 1</a>
+- <a href="#seg-0623" class="pcalibre calibre3">Chapter 8: Unknown Unknowns, Pt 2</a>
+- <a href="#seg-0624" class="pcalibre calibre3">Chapter 9: Known Unknowns</a>
+- <a href="#seg-0625" class="pcalibre calibre3">Chapter 10: Defence and Offence, Pt 1</a>
+- <a href="#seg-0626" class="pcalibre calibre3">Chapter 11: Defence and Offence, Pt 2</a>
+- <a href="#seg-0627" class="pcalibre calibre3">Chapter 12: Defence and Offence, Pt 3</a>
+- <a href="#seg-0628" class="pcalibre calibre3">Chapter 13: Bold Thinking, Pt 1</a>
+- <a href="#seg-0629" class="pcalibre calibre3">Chapter 14: Bold Thinking, Pt 2</a>
+- <a href="#seg-0630" class="pcalibre calibre3">Chapter 15: Chess</a>
+- <a href="#seg-0631" class="pcalibre calibre3">Chapter 16: Bold Thinking, Pt 3</a>
+- <a href="#seg-0632" class="pcalibre calibre3">Chapter 17: The Halo Effect</a>
+- <a href="#seg-0633" class="pcalibre calibre3">Chapter 18: Asymmetric Warfare, Pt 1</a>
+- <a href="#seg-0634" class="pcalibre calibre3">Chapter 19: Asymmetric Warfare, Pt 2</a>
+- <a href="#seg-0635" class="pcalibre calibre3">Chapter 20: Acting Headmistress</a>
+- <a href="#seg-0636" class="pcalibre calibre3">Chapter 21: October</a>
+- <a href="#seg-0637" class="pcalibre calibre3">Chapter 22: Reflections, Pt 3</a>
+- <a href="#seg-0638" class="pcalibre calibre3">Chapter 23: Correspondence, Pt 2</a>
+- <a href="#seg-0639" class="pcalibre calibre3">Chapter 24: Asymmetric Warfare, Pt 3</a>
+- <a href="#seg-0640" class="pcalibre calibre3">Chapter 25: Security Conscious, Pt 1</a>
+- <a href="#seg-0641" class="pcalibre calibre3">Chapter 26: Security Conscious, Pt 2</a>
+- <a href="#seg-0642" class="pcalibre calibre3">Chapter 27: Problem Solving</a>
+- <a href="#seg-0643" class="pcalibre calibre3">Chapter 28: Holiday Shopping</a>
+- <a href="#seg-0644" class="pcalibre calibre3">Chapter 29: The Date, Pt 1</a>
+- <a href="#seg-0645" class="pcalibre calibre3">Chapter 30: The Date, Pt 2</a>
+- <a href="#seg-0646" class="pcalibre calibre3">Chapter 31: The Date, Pt 3</a>
+- <a href="#seg-0647" class="pcalibre calibre3">Chapter 32: Portkeys, Trains and Carriages, Pt 1</a>
+- <a href="#seg-0648" class="pcalibre calibre3">Chapter 33: Portkeys, Trains and Carriages, Pt 2</a>
+- <a href="#seg-0649" class="pcalibre calibre3">Chapter 34: Wargames, Pt 1</a>
+- <a href="#seg-0650" class="pcalibre calibre3">Chapter 35: Wargames, Pt 2 (Purple and Green)</a>
+- <a href="#seg-0651" class="pcalibre calibre3">Chapter 36: Too Much Information</a>
+- <a href="#seg-0652" class="pcalibre calibre3">Chapter 37: Wargames, Pt 3</a>
+- <a href="#seg-0653" class="pcalibre calibre3">Chapter 38: Wargames, Pt 4</a>
+- <a href="#seg-0654" class="pcalibre calibre3">Chapter 39: Wargames, Pt 5</a>
+- <a href="#seg-0655" class="pcalibre calibre3">Chapter 40: Chess and other Wargames</a>
+- <a href="#seg-0656" class="pcalibre calibre3">Chapter 41: Wargames, Pt 6, Casualties of War</a>
+- <a href="#seg-0657" class="pcalibre calibre3">Chapter 42: Surprise</a>
+- <a href="#seg-0658" class="pcalibre calibre3">Chapter 43: Pressure</a>
+- <a href="#seg-0659" class="pcalibre calibre3">Chapter 44: Release</a>
+- <a href="#seg-0660" class="pcalibre calibre3">Chapter 45: January</a>
+- <a href="#seg-0661" class="pcalibre calibre3">Chapter 46: Reflections, Pt 4</a>
+- <a href="#seg-0662" class="pcalibre calibre3">Chapter 47: Wargames, Pt 7</a>
+- <a href="#seg-0663" class="pcalibre calibre3">Chapter 48: Wargames, Pt 8</a>
+- <a href="#seg-0664" class="pcalibre calibre3">Chapter 49: Contingencies</a>
+- <a href="#seg-0665" class="pcalibre calibre3">Chapter 50: Thirty-Four Years Later</a>
+- <a href="#seg-0666" class="pcalibre calibre3">Chapter 51: Good Words</a>
+- <a href="#seg-0667" class="pcalibre calibre3">Chapter 52: Fully Awake</a>
+- <a href="#seg-0668" class="pcalibre calibre3">Chapter 53: Bluff and Double Bluff, Pt 1</a>
+- <a href="#seg-0669" class="pcalibre calibre3">Chapter 54: Bluff and Double Bluff, Pt 2</a>
+- <a href="#seg-0670" class="pcalibre calibre3">Chapter 55: Bluff and Double Bluff, Pt 3</a>
+- <a href="#seg-0671" class="pcalibre calibre3">Chapter 56: Bluff and Double Bluff, Pt 4</a>
+- <a href="#seg-0672" class="pcalibre calibre3">Chapter 57: Asking the Right Questions</a>
+- <a href="#seg-0673" class="pcalibre calibre3">Chapter 58: Bluff and Double Bluff, Pt 5</a>
+- <a href="#seg-0674" class="pcalibre calibre3">Chapter 59: Testament</a>
+- <a href="#seg-0675" class="pcalibre calibre3">Chapter 60: Moving Forward</a>
+- <a href="#seg-0676" class="pcalibre calibre3">Chapter 61: Beginnings</a>
+- <a href="#seg-0677" class="pcalibre calibre3">Chapter 62: Thirty-Four Years Later, Pt 2</a>
+- <a href="#seg-0678" class="pcalibre calibre3">Chapter 63: Destroying the Legend, Epilogue Pt 1</a>
+- <a href="#seg-0679" class="pcalibre calibre3">Chapter 64: Gates of Ivory and Horn, Epilogue Pt 2</a>
+- <a href="#seg-0680" class="pcalibre calibre3">Chapter 65: The Marriage of Heaven &amp; Hell, Epilogue Pt 3</a>

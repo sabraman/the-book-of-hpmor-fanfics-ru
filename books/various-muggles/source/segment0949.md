@@ -1,0 +1,271 @@
+<span id="seg-0949__seg-0949-c64d1b701e"></span>
+
+<div id="seg-0949__s24-88b8b0c4d2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 49
+
+<div id="seg-0949__storytext-9c93142583" class="calibre4">
+
+Note: I know we really have no idea when Voldemort made Nagini a Horcrux, but leaving her alive is a bad idea in case she is, so hence the orders to get rid of her. Also, I don't know if Crouch specifically denied being a Death Eater, but when Harry saw him in the Pensieve, he was certainly claiming innocence about the Longbottom's and I doubt 'well, yeah, I worship Voldemort and am incredibly put out that he's gone but I have nothing to do with an expedition to try and find him' would work very well and when Harry asked Dumbledore if it was a possibility that Crouch was innocent at the time, Dumbledore didn't tell him that he admitted to being a Death Eater (and since he was supposedly dead why not tell him? He explained all about Neville's parents, after all) so that was most likely not a matter of public record. And simply denying trying to find Voldemort would probably be enough for him to claim Crouch abandoned him.
+
+And yeah, the ending of the last chapter was mean. But it was really either that or the Avada Kedavra…
+
+Disclaimer: I do not own Harry Potter.
+
+"*Master! I'm being attacked!"* Nagini hissed.
+
+Voldemort stiffened. *"Attacked? Who would dare-?"*
+
+Looks like Fred and Cedric were making their move. Only one thing to do. Harry took a deep breath. Even though he'd already survived death…well, a few times, really, that didn't mean that he was looking forward to sacrificing himself on purpose. Although the fact he was choosing now to try and keep focus off of Cedric and Fred should mean that they'd be protected once he got back, right? That was how it worked before, at any rate. Of course, then he really thought he'd stay dead but it was entirely possible that Voldemort would use the Killing Curse and he'd either stay a Horcrux or stay dead. Oh, who was he kidding? Voldemort had only ever shown himself capable of using the three Unforgiveable Curses around him. Although he might have used something else that one time he was fighting Dumbledore in the Ministry…
+
+"*Two boys, Master, they-"* Nagini abruptly cut off with a hiss of pain. She was either dead or would be soon.
+
+*Quit stalling*, Harry mentally ordered himself. Reluctantly, he stepped out from behind his stone shield. "You can't kill me."
+
+"I can try," Voldemort said simply, raising his wand. "Avada Kedavra!"
+
+------------------------------------------------------------------------
+
+Harry looked around him idly. He was at King's Cross again. "Why couldn't I be more creative than using a train station as a metaphor for being at a crossroads?" Harry murmured.
+
+"I don't know, but personally I blame your mother," a voice said from behind him. "A true Marauder would never be that unoriginal."
+
+Harry spun around and came face to face with a man who looked very much how he would look in a few years sans the bright green eyes.
+
+"Oh, and you might want to be aware of the fact that you're naked," James Potter said helpfully.
+
+Harry glanced down. So he was. Of course, the moment he became aware of that, he was in robes. Why did he need to be naked in the first place? Honestly.
+
+" 'Original' as far as infantile pranks go, maybe," a girl said. Harry glanced over and saw Lily Potter. "But you never were one for symbolism."
+
+"Can't we just blame your relatives for not believing in creativity and attempting to stifle it in our son?" James implored.
+
+"I refuse to admit a relation to that man," Lily insisted, crossing her arms. "Petunia's just scared and should never, ever under any circumstances EVER have been placed in charge of a magical child. The son…well, he'll probably grow up sooner or later."
+
+"Mum? Dad?" Harry could hardly believe it.
+
+"Who were you expecting? Dumbledore?" James asked with a sardonic smirk. "Hate to break it to you, kid, but he's not quite dead in this timeline yet."
+
+Harry's eyes widened. " 'This timeline'? Then…you know?"
+
+"Harry, we're dead. And possibly just manifestations of your subconscious mind," Lily said gently. "Of course we know."
+
+"And?" Harry asked, wondering what their verdict would be on all of this.
+
+"I couldn't be more proud," James said beaming. "Aside from that Luna girl and Sirius – who really doesn't count because he also came back – no one knows about the whole time travel thing and you've done an admirable job to create chaos." Lily nudged him. "Oh, and help people. That was good, too."
+
+"While I may not strictly approve of all the willful mayhem," Lily said. "Or just up and leaving your original timeline, the fact that you're trying to end everything now before people start dying is admirable and I hope you succeed."
+
+"I didn't meant to come back," Harry pointed out. "I wasn't really thinking, it's just…it was like I was compelled to. And once I got here, I had no idea how to go back so I just figured I might as well make the best of it. Really my school days, though…I swear, I might have fun sometimes, but I don't recommend trying it. Repeating your schooling is one of the most tedious things I have ever encountered. If I didn't try to liven things up, God knows I would have gone mad by now."
+
+"That's assuming you're not mad already," Lily said.
+
+Harry shrugged. "True. But as long as I'm not violently insane, I suppose it doesn't matter. Mental stability's overrated anyway."
+
+"Hear, hear!" James cheered. "Tell Sirius that I don't blame him for picking Peter to be our Secret Keeper, will you? Yeah, that turned out to be a really stupid idea, but Lily and I were the ones to agree to it in the end, so…"
+
+"I will," Harry said solemnly.
+
+"He's still a horrible influence, though. And tell Severus I forgive him," Lily requested.
+
+"If I call him 'Severus' he's likely to hex me but…alright," Harry agreed.
+
+"I still don't see what you see in him," James said, shaking his head ruefully.
+
+"He was my best friend for years," Lily reminded him. "And even if the prophecy getting out was all his fault, we would have been in danger anyway."
+
+"Not *that* much danger," James countered. "Besides, he was a Death Eater!"
+
+" 'Was' being the operative word," Lily told him. "He's still alive, but God knows he hasn't been acting like it for thirteen years now. He's back on the right side and needs to move past this. I'm hoping my forgiveness will help."
+
+"Yeah, I suppose if he died I might have to see him more," James mused. "Let's hope that doesn't happen for awhile."
+
+"I have to go back soon, don't I?" Harry asked.
+
+Lily nodded. "Stay here too long and you'll lose the opportunity."
+
+"Thank you for protecting me," Harry said sincerely.
+
+Lily smiled softly at him. "We're your parents, Harry. That's what parents do."
+
+"We'll keep watching over you," James promised. "After all, we love you, you're rather entertaining, and we really have nothing better to do. Now do us all a favor and go kick Voldemort's ass."
+
+"I'll try not to disappoint," Harry said dryly.
+
+------------------------------------------------------------------------
+
+When Harry came to, he felt sore all over. Granted, he was already sore from those five Crucios, but his body felt like he'd been struck with five more while unconscious. Or was it while he was dead? That very well could be the case.
+
+"My Lord," Crouch was saying. "Are you alright?"
+
+"I'm fine," Voldemort insisted. Harry chanced a glance over at the snake man and saw him rise to his feet. "How about Potter? Is he dead?"
+
+Harry hoped he could move quickly enough or stun Voldemort enough to do what he deeded to do. He sat up and turned his wand on Voldemort. "You. Wish."
+
+Voldemort's eyes widened. "Pott-"
+
+Harry distantly heard the tell-tale cracks of Apparation but he ignored them in favor of crying out, "Avada Kedavra!"
+
+He wasn't the only one to say it and a jolt of green light struck Voldemort from the front and the back. As Voldemort fell, Harry locked eyes with his godfather, who slowly lowered his wand.
+
+"Took you long enough," Harry greeted him.
+
+"You're the one who wouldn't call for backup until Voldemort had gone and gotten himself reborn," Sirius countered.
+
+"True," Harry agreed. His eyes felt heavy and his head was swimming. While he knew that passing out in a graveyard full of Death Eaters and, he supposed, Aurors about to go at it was probably not one of his better ideas, those Crucios and that Avada Kedavra were really starting to take its toll on him. "You better not let me die…"
+
+------------------------------------------------------------------------
+
+When Harry woke up, he was back at Hogwarts in the Hospital Wing. He sighed. "And I had *so* hoped to avoid this place…"
+
+"Then maybe you shouldn't have gone and faced down with Voldemort," George said from the next bed over.
+
+"What are you doing here?" Harry asked, confused.
+
+George shrugged. "Damned if I know. I didn't even get to go with you. They said it was because of the maze but I noticed that Fleur and Krum don't need to be here…"
+
+"Where's Cedric? And Fred? Are they alright?" Harry asked, concerned.
+
+"We're right here," Fred said. He and Cedric were on beds on the opposite side of Harry. "What's the last thing you remember?"
+
+"Passing out," Harry replied succinctly. "And seeing as how I was unconscious after that, I'm not quite sure what else I'm *supposed* to be remembering."
+
+"Good point," Fred admitted. "So do you want to know what happened?"
+
+"That would be nice," Harry confirmed.
+
+"Let me start by saying that you have got to be the craziest person I've ever met," Cedric said. "Voldemort was coming back to life and Crucio-ing you ever time you turned around and you would not stop taunting him!"
+
+"I have no regrets," Harry insisted, crossing his arms.
+
+"You never do," Cedric sighed. "Although maybe if you had let up just a little, you wouldn't have passed out. Fred and I made sure to put a use that charm you showed us earlier, the Muffliato. We weren't sure what it did, but we figured it must have been some sort of modified silencing charm that let us hear each other to communicate while not letting other people hear us if you were willing to admit we were there while insisting we remained invisible."
+
+Harry nodded. "Anyone else who got close to you would just hear a sort of buzzing and unless they were trying to hear what you were saying – which they wouldn't have been since you were invisible – they wouldn't even notice."
+
+"So Cedric and I weren't sure if we should intervene when you got stunned and that Crouch guy was doing some sort of ritual, but you didn't really seem all that concerned and we were looking for that snake. It would have been a lot easier if Cedric hadn't have been on the verge of a panic attack-" Fred started to say.
+
+"*You* try and shake off a year of conditioning that fast," Cedric interrupted. "Besides, I could see a lot of sense in Harry's suggestion to run like Hell."
+
+"You know, seeing sense in anything Harry says doesn't speak very highly of your mental state," George noted.
+
+"In my defense, a Death Eater was trying to bring back Voldemort and then more Death Eaters showed up," Cedric said defensively.
+
+"Just keep telling yourself that," Fred said patronizingly.
+
+"You know, I would probably be a lot more offended if that weren't true…" Harry spoke up.
+
+"But since it is true you don't really care?" Cedric asked.
+
+Harry shrugged. "Not really. But go on. What happened after you saw the ritual?"
+
+"Death Eaters were Apparating all around us," Fred continued. "One of them appeared not six inches away from us and really freaked us out so we quickly moved back a little. We saw the snake but it was right by Voldemort and so we didn't want to risk it. After Voldemort started explaining his epic quest to kill a teenager, the snake slithered off and so when everyone was distracted by that 'duel' Cedric and I stabbed it to death and then Cedric cut off its head for good measure."
+
+"Good thinking," Harry said. "When Voldemort was bodiless he apparently tied his life force to Nagini in order to make himself stronger and tie him to the physical world using some obscure ritual so in order to kill him, the snake had to go."
+
+"Are you saying we were partially responsible for killing Voldemort?" Cedric look stunned.
+
+"Indeed," Harry nodded. "That should get you extra credit on your DADA NEWT if nothing else."
+
+"We're lucky your godfather showed up when he did," Fred told him. "He must have brought two dozen Aurors or so. Once the anti-Apparation wards went up, the Death Eaters didn't stand a chance."
+
+"Did anyone get away?" Harry asked, concerned.
+
+"Just one," Fred answered. "I don't know who it was, though."
+
+"Ah, Harry, my boy, you're awake?" Fudge asked as he strolled into the Hospital Wing. Rita Skeeter, Dumbledore, Sirius, and Snape were with him.
+
+"Yes, sir," Harry nodded.
+
+"Maybe you can help clear up some of this confusion about this so-called 'return of He-Who-Must-Not-Be-Named'," Fudge said hopefully.
+
+"I think it's obvious what happened, sir. Barty Crouch Jr. was driven insane by the Dementors and somehow managed to escape Azkaban. Since he's supposed to be dead, he probably had help and you should question him on that. He tried to do a dangerous, obscure, and probably illegal ritual to summon Voldemort's spirit back to this world in a makeshift body. The ritual heavily depended on a snake named Nagini, which Cedric and Fred managed to kill. Crouch brought me there to for 'Voldemort' to kill but fortunately my godfather and I managed to destroy it. Then, the fact that I'm here now means that our wonderfully competent Aurors took care of any others who showed up to see if Crouch's delusions had any basis in fact."
+
+"Can I quote you on that?" Rita asked eagerly.
+
+Harry nodded. "That's my official statement and I won't be saying anything more on the matter until I've recovered. Faux Voldemort Cruciod me five times, you know."
+
+Fudge winced at that. "Well, it's a good thing you're alright and that that monstrosity was put down and the escaped Death Eater caught. I need to go deal with the fallout now but first...Who actually won the Pentawizard Playoffs? I need to give out the winnings and make an announcement?"
+
+"It was a tie," Harry explained. "Fred, Cedric, and I all touched it at the same time and that's how we got transported to the graveyard. Crouch Jr. must have made it a Portkey, although I have no idea how he managed to do that."
+
+"About that," Fudge looked a little awkward. "Turns out he'd been using Polyjuice to replace his father all year. Since he was busy with his little ritual, tonight he sent his father under an Imperius Curse to be a judge. It looks like it's wearing off so we should be able to question him about his involvement soon enough. Normally, there would be a presentation ceremony, but under the circumstance…" With that, he tossed a bag of galleons at Harry and left, Rita hurrying after him.
+
+"Harry, why did you tell Minister Fudge that that wasn't really Voldemort?" Dumbledore asked reprovingly.
+
+"Because even if Voldemort got killed relatively quickly, the fact he came back once could mean that he could come back again and since the last thing Fudge wants to do is be known as the Minister who 'let' Voldemort come back, there is no way he would ever admit it. It's better to give him a nice public-friendly version than to have him try and destroy our credibility," Harry replied matter-of-factly.
+
+"But Voldemort *can* come back and once more he *will*," Dumbledore said, looking older than he normally did.
+
+"Actually, Professor, you'll find that he won't," Harry corrected. "I know all about his Horcruxes. When I fought the Diary him in the Chamber, I showed it to Sirius and he recognized it as a Horcrux."
+
+"My family was always rather dark," Sirius piped up. "We decided that even he wouldn't be so careless with his soul as to hand it off to Wormtail for safe-keeping so there might be more. It took some time, but we eventually managed to get Hufflepuff's Cup from Bellatrix's vault, Slytherin's Locket from my house-"
+
+"You had one of the Dark Lord's Horcruxes in your *house*?" Snape interjected skeptically.
+
+Sirius shrugged. "I already mentioned my family was dark. But in this case, my brother found out about them, turned on Voldemort, and took it but he died before figuring out how to destroy them."
+
+"How did you manage to destroy them?" Dumbledore asked, intrigued.
+
+"Fiendfyre, mostly, but we did use a bit of the basilisk venom Harry got from the Chamber," Sirius replied. "We found Ravenclaw's Diadem hidden here at Hogwarts and Slytherin's ring at Voldemort's maternal family's house not too far from that graveyard."
+
+Then it was Harry's turn. "I suspected Nagini might be one so I had Fred and Cedric kill it and I realized I was one as well, so while I was fully prepared to give my life to see Voldemort destroyed, the fact that he used my blood to bring himself back meant that he anchored me to this world while destroying his own Horcrux."
+
+"You died?" Sirius looked alarmed.
+
+"I told you I was going to," Harry pointed out.
+
+"Yeah, but still…I have got to be the worst guardian ever…" Sirius said mournfully.
+
+"There is very little you could do to make you worse than my previous guardians," Harry tried to comfort him.
+
+"Considering they kept you in a cupboard, that's really not saying much!" Sirius shot back.
+
+"Well, while I was dead I met my parents," Harry told him. "My dad said he didn't blame you and even if you suggested Pettigrew, he and Mum had the final say. Then Mum said that you're still a horrible influence and to tell someone named 'Severus' that she forgave him and that since he was still alive he should start acting like it. Oh, and Dad said that he wanted him to stay alive, too, if only so he wouldn't have to deal with him."
+
+Snape blinked at that but said nothing. Not that Harry really expected him to.
+
+"Your Mum said I was a horrible influence?" Sirius brightened at the thought. "I've still got it!"
+
+"These revelations are quite surprising," Dumbledore said. "Why didn't you tell me about your Horcrux Hunt?"
+
+"I was afraid that if I did you might shut me out because of my age and I felt it was something I needed to take care of on my own," Harry replied, semi-honestly. "Sirius and I had it covered and if we needed help, we would have asked for it. Besides, you had the same starting information that we did so you were free to make the Horcrux connection and start looking for them yourself independent of us."
+
+"I see," Dumbledore said. "I'll need to see the two of you in my office to see what our next move is," he told Snape and Sirius.
+
+Once the three of them left, George said casually, "So…about those winnings…"
+
+"You can have my share if you make me a partner in the joke shop you start with it," Harry said immediately.
+
+"What?" Fred looked gobsmacked. "That's over three hundred galleons."
+
+"Positive," Harry said. "I should make at least a third of that selling my exclusive anyway."
+
+Cedric appeared to be thinking something over. Finally, he said, "Me too."
+
+George looked at him uncomprehendingly. "You…too?"
+
+"You can have my share, too. I don't really need the money as we've got another year of schooling and so long as I can be a partner in your shop and see a return on my investment when you guys are wildly successful – which everyone knows you will be – then it will be worth it," Cedric said firmly. "Besides, after tonight I think that's exactly what everyone needs."
+
+"I…thank you," Fred said, accepting the bag of galleons Harry held out to him.
+
+"How can we ever repay you?" George asked.
+
+"By making us ridiculously wealthy when you make it big," Harry replied.
+
+"And not using us as test subjects," Cedric added.
+
+"And not letting your Mum kill us too much for this," Harry finished.
+
+"We make no promises," Fred smirked.
+
+Note: So now that Voldemort's dead, there's only one more chapter to tie up the loose ends.
+
+Review Please!
+
+</div>
+
+</div>

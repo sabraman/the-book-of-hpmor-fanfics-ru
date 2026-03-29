@@ -1,0 +1,62 @@
+<span id="seg-0783__seg-0783-6379861548"></span>
+
+## Table of Contents
+
+- <a href="#seg-0784" class="pcalibre calibre3">Chapter 1: Frontloading Mysteries</a>
+- <a href="#seg-0785" class="pcalibre calibre3">Chapter 2: Buffering Conflicts</a>
+- <a href="#seg-0786" class="pcalibre calibre3">Chapter 3: Resolving Differences</a>
+- <a href="#seg-0787" class="pcalibre calibre3">Chapter 4: Established Patterns' Predictive Value</a>
+- <a href="#seg-0788" class="pcalibre calibre3">Chapter 5: A Matter of Perspective</a>
+- <a href="#seg-0789" class="pcalibre calibre3">Chapter 6: George Jaxon</a>
+- <a href="#seg-0790" class="pcalibre calibre3">Chapter 7: Aitiai, Diaphorai, and Prophasis</a>
+- <a href="#seg-0791" class="pcalibre calibre3">Chapter 8: Morse Four</a>
+- <a href="#seg-0792" class="pcalibre calibre3">Chapter 9: Boxes</a>
+- <a href="#seg-0793" class="pcalibre calibre3">Chapter 10: What Is Beautiful Is Good</a>
+- <a href="#seg-0794" class="pcalibre calibre3">Chapter 11: Bonus: Goblins</a>
+- <a href="#seg-0795" class="pcalibre calibre3">Chapter 12: Any Advantage</a>
+- <a href="#seg-0796" class="pcalibre calibre3">Chapter 13: Bonus: War</a>
+- <a href="#seg-0797" class="pcalibre calibre3">Chapter 14: Opposition</a>
+- <a href="#seg-0798" class="pcalibre calibre3">Chapter 15: Pip's Day Out</a>
+- <a href="#seg-0799" class="pcalibre calibre3">Chapter 16: Azkaban</a>
+- <a href="#seg-0800" class="pcalibre calibre3">Chapter 17: Brute Existent</a>
+- <a href="#seg-0801" class="pcalibre calibre3">Chapter 18: Protagonists</a>
+- <a href="#seg-0802" class="pcalibre calibre3">Chapter 19: Taking Flight</a>
+- <a href="#seg-0803" class="pcalibre calibre3">Chapter 20: Contra</a>
+- <a href="#seg-0804" class="pcalibre calibre3">Chapter 21: Bonus: Shichinin</a>
+- <a href="#seg-0805" class="pcalibre calibre3">Chapter 22: Gholas</a>
+- <a href="#seg-0806" class="pcalibre calibre3">Chapter 23: Reproduction in Miniature</a>
+- <a href="#seg-0807" class="pcalibre calibre3">Chapter 24: Opfer Müssen Gebracht Werden</a>
+- <a href="#seg-0808" class="pcalibre calibre3">Chapter 25: Press Pass</a>
+- <a href="#seg-0809" class="pcalibre calibre3">Chapter 26: Watchers</a>
+- <a href="#seg-0810" class="pcalibre calibre3">Chapter 27: Bonus, Digitzations</a>
+- <a href="#seg-0811" class="pcalibre calibre3">Chapter 28: Parabolas</a>
+- <a href="#seg-0812" class="pcalibre calibre3">Chapter 29: Purchasing Power</a>
+- <a href="#seg-0813" class="pcalibre calibre3">Chapter 30: Delta V Over Delta T</a>
+- <a href="#seg-0814" class="pcalibre calibre3">Chapter 31: Harry and the Centaurs Argue Philosophy</a>
+- <a href="#seg-0815" class="pcalibre calibre3">Chapter 32: Zero Sum</a>
+- <a href="#seg-0816" class="pcalibre calibre3">Chapter 33: Sudden But Inevitable Betrayal</a>
+- <a href="#seg-0817" class="pcalibre calibre3">Chapter 34: Intent</a>
+- <a href="#seg-0818" class="pcalibre calibre3">Chapter 35: Ekkyklema</a>
+- <a href="#seg-0819" class="pcalibre calibre3">Chapter 36: Esse Quam Videri</a>
+- <a href="#seg-0820" class="pcalibre calibre3">Chapter 37: Levels</a>
+- <a href="#seg-0821" class="pcalibre calibre3">Chapter 38: Walpurgisnacht</a>
+- <a href="#seg-0822" class="pcalibre calibre3">Chapter 39: Directoire Exécutif</a>
+- <a href="#seg-0823" class="pcalibre calibre3">Chapter 40: Science</a>
+- <a href="#seg-0824" class="pcalibre calibre3">Chapter 41: Mascon</a>
+- <a href="#seg-0825" class="pcalibre calibre3">Chapter 42: Jagannātha</a>
+- <a href="#seg-0826" class="pcalibre calibre3">Chapter 43: Pip Around the World</a>
+- <a href="#seg-0827" class="pcalibre calibre3">Chapter 44: The Ineluctable Modality of the Visible</a>
+- <a href="#seg-0828" class="pcalibre calibre3">Chapter 45: Bonus, Draco</a>
+- <a href="#seg-0829" class="pcalibre calibre3">Chapter 46: The Compresence of Opposites</a>
+- <a href="#seg-0830" class="pcalibre calibre3">Chapter 47: The Thing with Wings</a>
+- <a href="#seg-0831" class="pcalibre calibre3">Chapter 48: Pithos</a>
+- <a href="#seg-0832" class="pcalibre calibre3">Chapter 49: Commentarii de Bello</a>
+- <a href="#seg-0833" class="pcalibre calibre3">Chapter 50: Melpomene</a>
+- <a href="#seg-0834" class="pcalibre calibre3">Chapter 51: Batter My Heart</a>
+- <a href="#seg-0835" class="pcalibre calibre3">Chapter 52: Homophone</a>
+- <a href="#seg-0836" class="pcalibre calibre3">Chapter 53: Levee</a>
+- <a href="#seg-0837" class="pcalibre calibre3">Chapter 54: Hell</a>
+- <a href="#seg-0838" class="pcalibre calibre3">Chapter 55: Antepenultimate</a>
+- <a href="#seg-0839" class="pcalibre calibre3">Chapter 56: Penultimate</a>
+- <a href="#seg-0840" class="pcalibre calibre3">Chapter 57: Ultimate</a>
+- <a href="#seg-0841" class="pcalibre calibre3">Chapter 58: Epilogue</a>

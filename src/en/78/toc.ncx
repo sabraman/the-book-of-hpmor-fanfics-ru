@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="00b4602f-4216-4ca8-ad71-690c0e937f20" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>78. Ginny Weasley and the Sealed Intelligence</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: Different Priors</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: Pareidolia</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3: The Halo Effect</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4: Untested Solutions</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5: Dis-</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6: Garbage In, Garbage Out</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7: Tool Use</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 8: Cult-Like Behavior</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 9: Radiocarbon Dating</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 10: Escape Sequence</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 11: Master-Slave Configuration</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 12: Blackmail in Game Theory, Pt 1</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 13: Blackmail in Game Theory, Pt 2</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 14: Blackmail in Game Theory, Pt 3</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 15: Blackmail in Game Theory, Aftermath</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 16: Programming</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 17: Dark Triad</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 18: Mysteries, Pt 1</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 19: Mysteries, Pt 2</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 20: Involuntary Cryopreservation</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 21: Utilitarian Priorities Again</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 22: The Problem Of Suicide</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter 23: Amorphous Confusion</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter 24: Pax Romana</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter 25: Occam's Razor, Pt 1</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Chapter 26: Occam's Razor, Pt 2</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s26.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Chapter 27: Occam's Razor, Pt 3</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s27.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Chapter 28: Occam's Razor, Pt 4</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s28.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Chapter 29: Autonomy</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s29.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Chapter 30: Standing on the Shoulders of Giants, Pt 1</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s30.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Chapter 31: Standing on the Shoulders of Giants, Pt 2</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s31.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Chapter 32: FOOM</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s32.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>Chapter 33: Dangerous Knowledge</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s33.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Chapter 34: Philip Zimbardo</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s34.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>Chapter 35: Omake &amp; Epilogue</text>
+      </navLabel>
+      <content src="39/OEBPF/content/s35.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

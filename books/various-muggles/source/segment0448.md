@@ -1,0 +1,73 @@
+<span id="seg-0448__seg-0448-c57a834ab0"></span>
+
+<div id="seg-0448__s8-535ef5ca16" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 8: Friendship of Slytherins
+
+<div id="seg-0448__storytext-9c93142583" class="calibre4">
+
+10:05 am, June 22nd, 1993
+
+Severus' transfiguration skills were not as good as Minerva's, nor were his healing skills as good as Madam Pomfrey's, but he was indeed one of the school's transfiguration authorities and Potions Master. During his ten-year tenure in Hogwarts, he had dealt with plenty of "creative" students and even two or three "ingenious" defense professors, and none of them had died on his watch.
+
+Now, Severus was quite worried that his perfect record might break.
+
+Severus knew his quick fixes on the idiots who tried free transfiguration on themselves could last for up to twelve hours, more than enough time to get them to Madam Pomfrey and St. Mungos. But the problem was, those dim-wit cretins usually only tried free human transfiguration on *parts* of their body. But for Lucius, every part below his neck was transfigured. Even if Severus put all his might into the quick fixes, and applied the duplicated Stone on Lucius for a minute afterwards, things would still go wrong within three to four hours. Afterwards, Severus would need at least one hour of rest to recharge himself.
+
+What made things worse, the fake Stone was losing its power fast. Previously, the power of it could be renewed every ten minutes or so, now it was one hour and counting. Severus suspected that the renewal time would soon be more than four hours, in which case Lucius was definitely doomed.
+
+Even now, when Severus still had time to rest, and the duplicated Stone was semi-working, Lucius had had a cardiatric arrest just two hours after Severus put the fake Stone on him, and Severus had to use his patronus to give Lucius another jump-start.
+
+If Severus still wanted Lucius to live - which he unfortunately did - he needed to get Lucius back to Britain, fast.
+
+The most inconspicuous way was apparition. You could apparate your way from North America to Hogwarts, if you were willing to apparate a couple dozen times, going from Alaska to Russia, from Siberia to Eastern Europe, and finally from France to the United Kingdom. However, taking a fragile Lucius in side-along apparition in such a long journey was obviously a bad idea.
+
+Then Severus was left with two options: the international Floo network, which was controlled by magical governments all over the world; and international Gringotts portkey travelling, which was operated by the goblins. Lucius had said that if what he knew a year ago was still true today, as long as you were willing to pay enough galleons for a first-class portkey, the goblins couldn't care less about who was traveling, or whatever or whoever was in your suitcase.
+
+Therefore, the current plan was that Lucius would enter Severus' suitcase, Severus would take the suitcase, apparate to Las Vegas, make sure Lucius was alright before entering Gringotts, buy a first-class portkey to London, and then apparate to Malfoy Manor.
+
+From what Lucius gathered from the Daily Prophet, Malfoy Manor must have been on high security mode for quite some time, which meant Severus couldn't simply apparate or Floo there without prior permission from either Draco or Narcissa. And if what Lucius was guessing was true, Thief's Downfalls were much more common in Britain these days than before.
+
+Therefore, Lucius had suggested that Severus sent a message to Draco, stating that Severus had a message from Lucius to deliver to him prior to the event that Draco became the next Lord Malfoy, which was technically true. Then, Severus could travel using his true identity.
+
+In his total magical exhaustion and lack of sleep, Severus agreed.
+
+As Severus was writing the letter to Draco with help from the ultimate Malfoy cheating guide, half-mindedly nodding to Lucius' endless praise for his son, some words suddenly caught his attention: "Severus, my brother, would you like to be Draco's godfather?"
+
+Perhaps Severus had had too much coffee and too little sleep during the past two days, but he was no fool. "What do you mean? Macnair was Draco's godfather, if I remember correctly."
+
+Severus almost let it slip that he had Macnair's thumb in his collections, but he closed his mouth in time.
+
+\-*Does Lucius want me to protect Draco? What an ungrateful bastard! Like saving Lucius' life a couple dozen times is not enough! On the other hand, Draco is redeeming Slytherin…*
+
+Lucius then began a tirade about how Severus was indeed his family and his brother now, to which Severus just wanted to put a silencing charm on. And then, "*I will never betray you firsst*", in Parseltongue.
+
+Severus was suddenly more awake.
+
+\-*Well, that's a statement that you can hardly expect from a Malfoy. And adding "firsst" to the end of it did make it more true. Maybe the pureblood is more grateful than I thought.*
+
+Severus decided to ignore the talking noises regardless. He was just too tired. He may consider Lucius' suggestion after he got some sleep.
+
+But the white-haired man seemed to be quite determined to annoy his one savior. "Severus, this might sound rude to you, but I do have to ask. Is your father a muggle or a squib?"
+
+Severus was too tired and annoyed to hex Lucius now, so he answered: "Muggle. I guess a half-blood is not good enough for Malfoy's godfather after all."
+
+Lucius firmly denied the accusation, and began to explain what he learnt about the Boy-Who-Lived's theory about the inheritance of magic from feeding Draco with Veritaserum, that there was only a single "gene" that determined if someone was magical or not. Two pieces of the gene meant wizards; one piece meant squib; and zero meant muggle.
+
+This oversimplified version of Mendel's pea experiment gave Severus a good laugh: "Oh Merlin, then I must be a squib for sure. And you, saved by a squib! On the other hand, I could be a bastard, which is a happy thought indeed."
+
+\-*Oh, shit. How did I manage to say the last part out loud?*
+
+Severus glanced at the awkward looking blood purist who was busy apologizing, considered hexing him into oblivion, then gave up and dozed off.
+
+Note:
+
+According to canon, Severus Snape, Seamus Finnigan and Lord Voldemort's father were all muggles, not squibs. According to Pottermore, Minerva McGonagall's father was a muggle, and she had two brothers, both of them were wizards. And if Quirrellmort was telling the truth in Chapter 70 of HPMOR, at least he considered his father to be a muggle. If Harry's theory about blood was true or partially true, at least it is not canon compatible, or he has some serious explanations to do with the ultra-high mutation rate. Otherwise, it is possible that none of the half-bloods AND their wizarding parents realized that the non-magic folks in their family are squibs, which means their stupidity and ignorance are beyond my imagination.
+
+</div>
+
+</div>

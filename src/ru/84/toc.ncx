@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="92e77902-debb-4fff-bb13-704c4a002414" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>84. Significant Digits</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: Frontloading Mysteries</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: Buffering Conflicts</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s2_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3: Resolving Differences</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4: Established Patterns' Predictive Value</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5: A Matter of Perspective</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s5_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6: George Jaxon</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7: Aitiai, Diaphorai, and Prophasis</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 8: Morse Four</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 9: Boxes</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s9_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 10: What Is Beautiful Is Good</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 11: Bonus: Goblins</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s11_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 12: Any Advantage</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 13: Bonus: War</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s13_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 14: Opposition</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 15: Pip's Day Out</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s15_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 16: Azkaban</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 17: Brute Existent</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 18: Protagonists</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 19: Taking Flight</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s19_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 20: Contra</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 21: Bonus: Shichinin</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 22: Gholas</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter 23: Reproduction in Miniature</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter 24: Opfer Müssen Gebracht Werden</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter 25: Press Pass</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Chapter 26: Watchers</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s26.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Chapter 27: Bonus, Digitzations</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s27.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Chapter 28: Parabolas</text>
+      </navLabel>
+      <content src="44/1/OEBPF/content/s28.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Chapter 29: Purchasing Power</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s1_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Chapter 30: Delta V Over Delta T</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Chapter 31: Harry and the Centaurs Argue Philosophy</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s3_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Chapter 32: Zero Sum</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s4_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>Chapter 33: Sudden But Inevitable Betrayal</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Chapter 34: Intent</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s6_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>Chapter 35: Ekkyklema</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s7_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Chapter 36: Esse Quam Videri</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s8_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>Chapter 37: Levels</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>Chapter 38: Walpurgisnacht</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s10_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>Chapter 39: Directoire Exécutif</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>Chapter 40: Science</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s12_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>Chapter 41: Mascon</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>Chapter 42: Jagannātha</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s14_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>Chapter 43: Pip Around the World</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>Chapter 44: The Ineluctable Modality of the Visible</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s16_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>Chapter 45: Bonus, Draco</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s17_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>Chapter 46: The Compresence of Opposites</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s18_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>Chapter 47: The Thing with Wings</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>Chapter 48: Pithos</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s20_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>Chapter 49: Commentarii de Bello</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s21_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>Chapter 50: Melpomene</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s22_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_51" playOrder="51">
+      <navLabel>
+        <text>Chapter 51: Batter My Heart</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s23_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>Chapter 52: Homophone</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s24_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>Chapter 53: Levee</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s25_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>Chapter 54: Hell</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s26_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>Chapter 55: Antepenultimate</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s27_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="56">
+      <navLabel>
+        <text>Chapter 56: Penultimate</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s28_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_57" playOrder="57">
+      <navLabel>
+        <text>Chapter 57: Ultimate</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s29.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="58">
+      <navLabel>
+        <text>Chapter 58: Epilogue</text>
+      </navLabel>
+      <content src="44/2/OEBPF/content/s30.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

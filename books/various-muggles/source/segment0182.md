@@ -1,0 +1,41 @@
+<span id="seg-0182__seg-0182-a36863f1b8"></span>
+
+## Table of Contents
+
+- <a href="#seg-0183" class="pcalibre calibre3">Chapter 81: Taboo Tradeoffs, Pt 3</a>
+- <a href="#seg-0184" class="pcalibre calibre3">Chapter 82: Taboo Tradeoffs, Final</a>
+- <a href="#seg-0185" class="pcalibre calibre3">Chapter 83: Following the Phoenix, Pt 1</a>
+- <a href="#seg-0186" class="pcalibre calibre3">Chapter 84: Following the Phoenix, Pt 2</a>
+- <a href="#seg-0187" class="pcalibre calibre3">Chapter 85: Following the Phoenix, Pt 3</a>
+- <a href="#seg-0188" class="pcalibre calibre3">Chapter 86: Following the Phoenix, Pt 4</a>
+- <a href="#seg-0189" class="pcalibre calibre3">Chapter 87: Perspective, Pt 1 - Distance</a>
+- <a href="#seg-0190" class="pcalibre calibre3">Chapter 88: Perspective, Pt 2 - Planning</a>
+- <a href="#seg-0191" class="pcalibre calibre3">Chapter 89: Updating Beliefs, Pt 1</a>
+- <a href="#seg-0192" class="pcalibre calibre3">Chapter 90: Updating Beliefs, Pt 2</a>
+- <a href="#seg-0193" class="pcalibre calibre3">Chapter 91: Updating Beliefs, Pt 3 – Aftermath</a>
+- <a href="#seg-0194" class="pcalibre calibre3">Chapter 92: Little Children Grow Up, Pt 1</a>
+- <a href="#seg-0195" class="pcalibre calibre3">Chapter 93: Little Children Grow Up, Pt2</a>
+- <a href="#seg-0196" class="pcalibre calibre3">Chapter 94: Nihil Supernum, Pt 1</a>
+- <a href="#seg-0197" class="pcalibre calibre3">Chapter 95: Nihil Supernum, Pt 2</a>
+- <a href="#seg-0198" class="pcalibre calibre3">Chapter 96: Nihil Supernum, Pt 3</a>
+- <a href="#seg-0199" class="pcalibre calibre3">Chapter 97: Nihil Supernum, Pt 4</a>
+- <a href="#seg-0200" class="pcalibre calibre3">Chapter 98: Nihil Supernum, Pt 5 – Aftermaths</a>
+- <a href="#seg-0201" class="pcalibre calibre3">Chapter 99: Day of the Dementors</a>
+- <a href="#seg-0202" class="pcalibre calibre3">Chapter 100: Lost Innocence</a>
+- <a href="#seg-0203" class="pcalibre calibre3">Chapter 101: Knowing the Enemy</a>
+- <a href="#seg-0204" class="pcalibre calibre3">Chapter 102: The Muggle War, Pt 1</a>
+- <a href="#seg-0205" class="pcalibre calibre3">Chapter 103: The Muggle War, Pt 2</a>
+- <a href="#seg-0206" class="pcalibre calibre3">Chapter 104: The Muggle War, Pt 3</a>
+- <a href="#seg-0207" class="pcalibre calibre3">Chapter 105: The Philosopher's Stone</a>
+- <a href="#seg-0208" class="pcalibre calibre3">Chapter 106: The Muggle War, Pt 4</a>
+- <a href="#seg-0209" class="pcalibre calibre3">Chapter 107: The Muggle War, Pt 5</a>
+- <a href="#seg-0210" class="pcalibre calibre3">Chapter 108: The Muggle War, Pt 6</a>
+- <a href="#seg-0211" class="pcalibre calibre3">Chapter 109: Negotiations, Pt 1</a>
+- <a href="#seg-0212" class="pcalibre calibre3">Chapter 110: Negotiations, Pt 2</a>
+- <a href="#seg-0213" class="pcalibre calibre3">Chapter 111: Negotiations, Pt 3</a>
+- <a href="#seg-0214" class="pcalibre calibre3">Chapter 112: Negotiations, Pt 4 – Aftermaths</a>
+- <a href="#seg-0215" class="pcalibre calibre3">Chapter 113: Endings and Beginnings</a>
+- <a href="#seg-0216" class="pcalibre calibre3">Chapter 114: The Deathly Hallows, Pt 1</a>
+- <a href="#seg-0217" class="pcalibre calibre3">Chapter 115: The Deathly Hallows, Pt 2</a>
+- <a href="#seg-0218" class="pcalibre calibre3">Chapter 116: The Man Who Lived</a>
+- <a href="#seg-0219" class="pcalibre calibre3">Chapter 117: Epilogue</a>

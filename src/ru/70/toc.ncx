@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="115da277-abe3-42ab-b7e3-420b16fbf7e8" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>70. The Universe is an Optimisation Problem</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: The Cup</text>
+      </navLabel>
+      <content src="29/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: A Floating Priest And An Owl</text>
+      </navLabel>
+      <content src="29/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3: Puddlejumping</text>
+      </navLabel>
+      <content src="29/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4: A Really Big Supermarket</text>
+      </navLabel>
+      <content src="29/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5: A Cassette</text>
+      </navLabel>
+      <content src="29/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6: A Painting Inside A Painting</text>
+      </navLabel>
+      <content src="29/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7: The Secret Society Secret Society</text>
+      </navLabel>
+      <content src="29/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

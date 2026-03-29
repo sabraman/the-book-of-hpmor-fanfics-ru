@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="5f771802-b2f7-4b45-9deb-54d9dd6195b4" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>01. Seventh Horcrux</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: HP vs Childhood</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: HP vs Quirinus Quirrel</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3: HP vs Gilderoy Lockhart</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4: HP vs Remus Lupin (Pt 1)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5: HP vs Remus Lupin (Pt 2)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6: HP vs Alastor Moody (Pt 1)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7: HP vs Alastor Moody (Pt 2)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 8: HP vs Alastor Moody (Pt 3)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 9: HP vs Alastor Moody (Pt 4)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 10: HP vs DoM</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 11: HP vs Dolores Umbridge (Pt 1)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 12: HP vs Dolores Umbridge (Pt 2)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 13: HP vs Dolores Umbridge (Pt 3)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 14: HP vs Love (Pt 1)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 15: HP vs Love (Pt 2)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 16: HP vs Love (Pt 3)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 17: HP vs Himself (Pt 1)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 18: HP vs Himself (Pt 2)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 19: HP vs Himself (Pt 3)</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 20: Epilogue: Thirteen Years Later</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 21: Omakes!</text>
+      </navLabel>
+      <content src="1/OEBPF/content/s21.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

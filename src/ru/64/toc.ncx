@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="d9b6bf6e-3531-4faf-856e-a4be487cdc42" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>64. Revival</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: The Bat Animagus</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: The Unbelievable Night</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s2_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3: Choice</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4: Unexpected Result</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s4_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5: The First Revival</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6: Lucius Malofy</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s6_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7: The Screw-Ups</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 8: Friendship of Slytherins</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s8_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 9: Return of Father</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 10: Secrets</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 11: Meeting</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 12: Lucius-Secrets and Knowledge</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 13: Lucius-Justice</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 14: Interlude</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s14_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 15: Private Meeting</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 16: Interlude, Draco</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 17: Tests</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 18: Answers</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s18_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 19: The Disappeared Lord</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 20: The Faithful Servent</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s20_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 21: The New Godfather</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 22: The Man of Many Names</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s22_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter 23: The Search, Pt I</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter 24: The Search, Pt II, Growing Up</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s24_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter 25: The Search, Pt III, To Be Nice</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Chapter 26: The Search, Ex-Lord Malfoy</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s26_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Chapter 27: The Search, Pt IV, Sacrifices</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s27.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Chapter 28: Memory Charms</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s28_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Chapter 29: Descendants Pt I, Tom Riddles</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s29.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Chapter 30: Descendants Pt II, Little Draco</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s30.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Chapter 31: Descendants Pt III, Lucius Malfoy</text>
+      </navLabel>
+      <content src="41/1/OEBPF/content/s31.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Chapter 32: Descendants Pt IV, Severus Snape</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s1_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>Chapter 33: Classes Pt I, Food Safety</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Chapter 34: Classes Pt II, Artificial Intelligence</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s3_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>Chapter 35: The True Return of Lord Salazar Slytherin</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Chapter 36: The Bicentennial House-elf</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s5_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>Chapter 37: Nurmengard Pt I, German Minister of Magic</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>Chapter 38: Nurmengard Pt II, Lucius Malfoy</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s7_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>Chapter 39: Nurmengard Pt III, Gellert Grindelwald</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>Chapter 40: Nurmengard, Interlude, Message to Britain</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s9_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>Chapter 41: Nurmengard, Pt IV, Gellert Grindelwald</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s10_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>Chapter 42: Nurmengard, Interlude, Ukraine</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s11_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>Chapter 43: Nurmengard, Part V, Girl-Who-Revived</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s12_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>Chapter 44: Space Travel Pt I, Cheating</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s13_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>Chapter 45: Space Travel Pt II, Possibilities</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>Chapter 46: Space Travel Pt III, Lord Slytherin's Favorite Morning Radio</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s15_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>Chapter 47: Space Travel Pt IV, Biases of the Phoenix</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s16_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>Chapter 48: Space Travel Pt V, Power</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s17_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>Chapter 49: Space Travel Pt VI, Prisoner's Dilemma</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>Chapter 50: Space Travel Pt VII, Domestic Problems</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s19_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_51" playOrder="51">
+      <navLabel>
+        <text>Chapter 51: Space Travel Pt VIII, Bionics</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>Chapter 52: Space Travel Pt IX, PC or NPC?</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s21_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>Chapter 53: Space Travel Pt X, Expansion</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>Chapter 54: Space Travel Pt XI, Loyalty Problem</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s23_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>Chapter 55: Space Travel Pt XII, Abilities of Phoenixes</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="56">
+      <navLabel>
+        <text>Chapter 56: Space Travel Pt XIII, Draco's Position</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s25_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_57" playOrder="57">
+      <navLabel>
+        <text>Chapter 57: Space Travel Pt XIV, Time Pressure I</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s26.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="58">
+      <navLabel>
+        <text>Chapter 58: SpaceTravel Pt XV, Time Pressure II</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s27_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="59">
+      <navLabel>
+        <text>Chapter 59: Space Travel Pt XVI, Emotional Choices</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s28.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_60" playOrder="60">
+      <navLabel>
+        <text>Chapter 60: Space Travel Pt XVII, Interdicts I</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s29_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_61" playOrder="61">
+      <navLabel>
+        <text>Chapter 61 Space Travel Pt XVIII, Interdicts II</text>
+      </navLabel>
+      <content src="41/2/OEBPF/content/s30_u1.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

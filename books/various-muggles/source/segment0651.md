@@ -1,0 +1,169 @@
+<span id="seg-0651__seg-0651-95b2bd5496"></span>
+
+<div id="seg-0651__s4-cf02869b10" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 36: Too Much Information
+
+<div id="seg-0651__storytext-9c93142583" class="calibre4">
+
+*"Passion makes fools of the clever, yet turns fools into geniuses." - Lucius Malfoy, quoting Albus Dumbledore*
+
+------------------------------------------------------------------------
+
+*Wednesday*
+
+Draco sat down heavily in the Potions classroom. He dropped his scroll onto his desk. Ten inches on the proper technique for mixing Arnica roots into Occulus potion. He'd stayed up late to finish it, but also to avoid going to bed early. He'd slept reasonably well back at home, still tossing and turning during the night, but always falling asleep after a few minutes.
+
+Rest had not followed him back to Hogwarts. He'd spent hours each night awake, alone with his thoughts. Draco realized that he'd had too much to do in too little time. Getting his business arrangements set up, his correspondence. He'd filled up his daytime hours and collapsed into a dreamless sleep, or if he was awake he had pressing matters.
+
+Now that Draco had urgent matters but no self-imposed deadlines he'd spent his first few nights lying awake, unable to sleep. If he closed his eyes the noise sounded like vines creeping along the ground, and the wind smelled of snow and pine needles. Gregory's snoring sounded relaxing in comparison, but set Draco's teeth on edge and something of it reminded him of the sound of ripping tendons. His shoulder would throb. After an hour or two Draco would sigh quietly in get up to review his lessons or do his homework. His grades would be exemplary for as long as he couldn't sleep.
+
+*Until he cracked.*
+
+Draco knew he could just go to the infirmary for a sleeping draught and he knew his pride was foolish, but he wasn't yet ready to go. Perhaps he'd just try to make some after class, but the thought of Professor Slughorn knowing felt even worse. He reconsidered talking to Madame Pomfrey.
+
+"Good morning, Draco, Gregory" said Padma Patil, sitting to Draco's right. *Had she been there when he was sitting down?* Gregory had taken the seat to his left, of course, but Draco didn't remember if the other seat had been occupied. He hadn't heard her sit down. She was smiling at him broadly.
+
+He hadn't heard much, this morning.
+
+"Good morning, Padma," Draco said, stiffing a yawn."I was up late," he said as an apology, motioning to his scroll as Gregory said hello. Draco looked around and saw Neville and Vincent. Today was a doubles session with Hufflepuff. If he'd been paying attention he would have sat next to them...
+
+*Pay attention to your guest!* Lucius' voice rang sternly in Draco's head and he turned back to Padma. He hadn't really done more than glance around the room, really. But Draco focused his attention.
+
+"You wrote way more than I did," Padma said, pointing to her own scroll.
+
+"I couldn't think of a way to summarize it. I rambled. *Too much information* and all that."
+
+"That's an interesting way of putting it," Padma said, leaning forward and resting her chin on her hands.
+
+"It's something Harry says, *Too much information and not enough insight*" Gregory interjected, then quickly gave an abashed look and leaned back, away from the conversation.
+
+Draco knew that Harry didn't consider the Bayesian Conspiracy an important secret. He'd be perfectly happy to lecture the entire school on it, if he felt they were ready. But Harry did recognize that by limiting the group ensured that people gave his lessons importance. If – when – Harry spouted off insights that revealed deep truths of human fallacy or the natural order people ignored him or even ridiculed him.
+
+(Draco made fun of Harry, too. Half of the fun of camaraderie involved mocking your friends foibles. And sometimes Draco didn't want people to have quite as good an understanding as Harry was willing to impart.)
+
+But when Harry doled out the truth slowly and made the recipients feel like a self-selected elite crowd, the same people would hang on his every word. Even knowing the trick, Draco felt more respectful during Conspiracy meetings. Harry left Galleons all over the place and nobody picked them up, but when he parceled out Knuts to their secret society, everyone quickly deposited them and thanked Harry profusely.
+
+Gregory, and most of the newer members of the Conspiracy, considered it their duty to guard the information they'd learned, lest the shared knowledge make them less important. Draco found it amusing, sometimes.
+
+"It's basically the same thing that Professor Quirrel talked about last year. If you know that exposing trolls to sunlight turned them to stone, you might be tempted to use that information..."
+
+"Instead of just apparating away," Padma finished. The classroom was filling up, but Professor Slughorn hadn't arrived yet. Gregory was pretending to proofread his homework, face slowly losing his crimson blush.
+
+"Right. Or deciding what spell to attack with, when you aren't even sure you should be dueling. You see?"
+
+"Oh absolutely," she said and Draco mentally added *Or like carrying on a friendly conversation with a girl who has romantic intentions with you without understanding what's going on.* Fortunately at that moment Professor Slughorn strolled into the room, chuckling at some private joke, and said "Today we are going to learn how to brew the *Wiggenweld Potion*. Incredibly useful if you happen to be attacked by Sleeping Sirens or if you tend to oversleep and are late, yes I'm referring to you Mr. MacMillan. Don't think I didn't see you try to slink in behind me!"
+
+------------------------------------------------------------------------
+
+*Thursday*
+
+Daphne Greengrass heard the footsteps behind her as she went up the stairs towards the Great Hall and breakfast. She glanced back to see Draco Malfoy barely putting one foot in front of the other, head down, behind her. As always, his robes and appearance looked immaculate, but the effect was ruined for once.
+
+"Another long night?" she asked cheerfully.
+
+Draco snorted, head still down, and she laughed. "What's funny?" It sounded like the words had escaped Draco's mouth by accident.
+
+"Your snort. The rudest thing you've done to me, so I know you consider me a friend. To a mere acquaintance you would have answered. You only grunt to friends, when you think others can't hear you."
+
+"And before breakfast," Draco added with a shrug.
+
+They walked up the next few flights of stairs in silence and came out of the Dungeons.
+
+"Daphne," Draco paused for a second, glancing around as they walked, and Daphne realized that there wasn't anyone else around. "What do girls say about me?"
+
+Daphne almost giggled or rolled her eyes, but something in Draco's expression stopped her. They were both Silvery Slytherins, after all. And he seemed so. Despondent. Draco had been full of energy all last year, even after he almost got murdered. *Especially* after he almost got murdered, and then when he rushed around trying to help after coming back to Hogwarts. But now his bursts of energy seemed to happen less often. He'd sit and think or hang out in the library. Now he only had energy when he was interacting with other people, in public.
+
+*Was Draco moping about a girl?* Did boys even do that? Boys in stories performed wildly outlandish acts to impress girls and - judging from the gossip - Draco *had*. Although Daphne did not for one minute believe Milicent Bulstrode's claim that Draco had dueled an Auror in Training for Hermione's hand. But the funny thing was, that wasn't out of the realm of reason. Draco probably had the ability, he'd been ambushed several times and while he hadn't won all of those duels he'd hardly been disgraced. No, the story didn't feel believable because she couldn't imagine Draco *having* to duel some foolish auror-wannabe.
+
+Outwardly, Daphne considered the question for seven more steps. Her mother had told her that treating other people's questions as serious and considering them fully would mark her as a serious thinker. And seven was lucky, after all. But she did actually come up with a few interesting thoughts during her pause.
+
+"Because of Hermione?"
+
+"No, because of Padma," Draco answered. "I … I didn't realize she liked me, so I'm thinking about everything I said to her – or didn't say – and it all seems innocent enough. But undoubtedly I've forgotten things. Does she think I've been cruel? Do others?"
+
+"Fortunately for you, girls think all boys are oblivious. This is the rare case where the fundamental attribution error doesn't apply. Not for a few years, at least. We're all very quick to point out to each other that sometimes when a boy isn't paying attention, it just means you haven't gotten his attention. Although now that I think about it Girls are usually oblivious, too. Your date with Hermione did get a lot of gossip and talk, but it's just talk..."
+
+"*Talk is never just talk*," Draco interrupted. Then, more softly, "Sorry."
+
+Daphne nodded, she saw his point. Draco hadn't asked what to do, he'd asked how he appeared to others. A subtle difference, but an important one. Daphne took seven more steps, then realized something she could say.
+
+"Do you remember last year during our battle in the Hallways, when I challenged Neville to a duel?
+
+Draco nodded. She noticed that he'd straightened up as they got closer to the hall. He'd gone from looking like a tired boy to a bored noble over the last hundred steps, like Draco Malfoy could transfigure himself into the outward appearance he desired. His strides lengthened, although he'd slowed after starting to pull away from Daphne.
+
+"Did you ever consider *why*?" she asked him.
+
+"To win the battle, obviously," Draco said, taking four steps. He suddenly stopped and turned towards her. Daphne blushed. At the time, she'd wanted people to notice. She'd felt annoyed they hadn't noticed...
+
+"So," Draco said, starting to walk again, "I think about it much more than anyone else? Just because I can say '*egocentric bias*' doesn't make me immune."
+
+The nice thing about being with a fellow Bayesian Conspirator is that you could have public conversations and sometimes nobody else could follow. Harry called that the *Darmok effect* for no reason Daphne could see. They'd walked into the Great Hall now and sat down to breakfast. Draco's words drew few glances, everyone knew he sometimes spoke in the cryptic way more suited to Harry Potter than the Most Noble and Ancient House of Malfoy.
+
+"No..." Daphne drawled the words out. There had been hours of discussion spread over the last few days. She'd discussed it with the Slytherin witches, who had noticed Padma's crush a few months ago and had wondered how she'd react to the news of Draco's date with Hermione. Tracey Davis had said Parvati had teased her sister during the entire second half of the train ride, until Hannah Abbot had stepped in to separate them. There had been ominous talk of love potions, duels, and an intra-family feud that would last a lifetime. Typical teenage girl declarations, the kind of thing that Daphne heard on a monthly basis.
+
+"Let's just say that witches don't assign you much agency," she said. "In this regard" she added hastily.
+
+Draco had cut up some fruit and took a bite, chewing slowly. Even though he'd paused to eat, it made him seem wise. *That really was good advice, to treat all questions with respect.* "So, I'm a plot's goal?" he said, after he swallowed. Several heads swung around to look at Draco and smile. The last two sentences had been easily to understand. Draco just rolled his eyes and mumbled "Witches" under his breath and Lesath Lestrange and Blaise Zabini just laughed and returned to their breakfast.
+
+Daphne took a bite of her pancakes and chewed slowly. Two could play that game.
+
+"Only to the uninterested parties. And not a plot, a play. The audience mingles in the lobby during intermission, trying to guess the ending. Or at least the next scene. It's just a distraction from their problems for the evening."
+
+"And that's all?" Draco asked, before biting down on a strawberry. He'd tilted his head at her and she felt like they were playing a subtle game. This was a discussion about Draco's romantic life - or lack thereof - but they were sitting in the Slytherin table and students slowly streamed into the room. Padma would be walking in any minute now, as would Gregory. And Draco and Daphne were breaking one of the unwritten rules of dating: *witches don't conspire with wizards against witches.* She just assumed that wizards had a similar rule.
+
+And the people around them had figured out the conversation. Or at least enough. She needed to be obscure enough, to *Darmok* the conversation.
+
+"Hey, random question, everyone." She spoke up, addressing the table around them. "Which city has the bigger population, Detroit or Milwaukee? And another pair, Edinburgh or Aberdeen? Wait, don't blurt out the answers. Everyone write down your answers. Or whisper them to me." She took out a scroll and quill and passed it around the table.
+
+All of the Bayesian Conspirators had been reading up on cognitive biases and psychology, and Harry had - of course - given them all a *different* reading list so that they could take turns presenting their findings. For once Daphne knew something before the rest of the Conspiracy and she was going to use it. She got up from the table and leaned over and jotted down the answers that everyone gave, just putting tick marks. Then she went over to the other house tables and repeated the experiment, until she'd gotten enough responses.
+
+She came back and set down the scrolls in front of Draco. "See?"
+
+Gregory, Lesath, Blaise, all looked at the scroll. Tracey Davis, who'd just arrived as Daphne returned, looked over Daphne's shoulder as well, then just walked away.
+
+*Detroit: 26, Milwaukee: 5*
+
+*Aberdeen: 13, Edinburgh:17 (Not sure:1)*
+
+Gregory said, "What are the right answers?"
+
+"Oh," Daphne said, "Detroit and Edinburgh. People got it right, which you'd expect. Some people wouldn't know and they'd guess, and some people would know and they'd get the right answer. For things like this - questions of common knowledge - a poll usually gets the right answers. But that's not the *interesting* thing."
+
+Lesath looked up from the scroll. "We were much more sure about Detroit."
+
+Daphne beamed. "Yes, and that doesn't make sense! Why are we much more sure about an American cities? In both cases the larger city is about twice the population of the smaller one. You'd think we'd know more about ours."
+
+Gregory said "Well, I hadn't heard of Milwaukee. So I figured it was smaller. But I wasn't sure about the other two. I got it right! But it was just a guess."
+
+Daphne nodded. "Yes, when they originally did this experiment, it was in Germany and they used Hannover and Bielefeld as the local cities. And the Germans all knew that Detroit was bigger, but they were pretty evenly divided on the German cities. But when they asked a bunch of Americans, the percentages reversed. All the Americans knew Hanover was bigger. They'd never heard of Bielefled. But only sixty percent of Americans knew Detroit was bigger. Because all the Americans had heard of Milwaukee."
+
+"Weird," said Theodore Nott.
+
+Daphne sat back down next to Draco, speaking softly. "It's called the *recognition heuristic*. People just assume that things they have heard of are bigger or more important than things they haven't heard of. It's a good rule of thumb, actually. It can lead you astray, of course, but as this example shows people who have more information don't necessarily do better." She took another bite of the pancake. The others were drifting away, as she lectured Draco on psychology.
+
+"The funny thing is the researchers were studying something else. It was a German guy, and the Hanover question was meant to be the easy question and the Detroit one was the hard question. But then the results came back ... and they had a new study."
+
+Daphne leaned over to Draco, "Do you get what I'm trying to tell you?" she asked, glancing round the table and raising an eyebrow questioningly.
+
+Draco had finished the last of his fruit, but chewed slowly on a piece of buttered bread.
+
+"I think I do, Miss Greengrass. I think I do. 'Do not meddle in the affairs of witches...'" He shoved the remaining toast into his mouth. Daphne could hear the end of the quote in her head. *For they are subtle and quick to anger.* Harry had said that several times over the last year, although with wizards instead of witches.
+
+Draco finished chewing and then leaned over, smiling. "You are right, I wouldn't want too much information. Thanks for your help."
+
+------------------------------------------------------------------------
+
+**Author's Note** - The recognition heuristic study was (accidentally) performed by Goldstein & Gigerenzer in 2001.
+
+Currently Detroit's population is much closer to Milwaukee's, but it has lost 300,000+ people since the 1990 census. Picking UK examples was much tougher, because I don't understand how they define cities vs metropolitan areas. I may have gotten it technically wrong.
+
+*Darmok* (the Star Trek: Next Generation episode) originally aired on Sept 30, 1991.
+
+</div>
+
+</div>

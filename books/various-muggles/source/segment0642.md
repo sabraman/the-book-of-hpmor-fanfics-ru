@@ -1,0 +1,127 @@
+<span id="seg-0642__seg-0642-9be32851fe"></span>
+
+<div id="seg-0642__s27-fa23126591" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 27: Problem Solving
+
+<div id="seg-0642__storytext-9c93142583" class="calibre4">
+
+*"Great plotting can be learned. Perhaps it can also be taught, but if so I do not know how. You must use your experience and intuition, those are the best teachers I know of. At best, I can only teach you how to avoid bad plots." - Lucius Malfoy*
+
+------------------------------------------------------------------------
+
+The Bayesian Conspiracy, now one larger, found time to squeeze in one last session before exams and winter break that didn't conflict with Draco's detention. Harry had used the delay to help Blaise get up to speed.
+
+"I know that I said I'd try to discuss how you come up with solutions," Harry said just as Draco was walking in, still covered in dust. "For something practical in battle. It's actually surprisingly difficult for me to describe this. I don't want to sound like I'm bragging, but usually I just kind of … see the solution. Then I double check it. That's important, because sometimes you see the wrong solution. But it's hard to explain how I do it."
+
+"How can you do something but not know how?" Blaise asked. His cat-like eyes had narrowed to slits, like he still expected an ambush, but he didn't seem shy. Zabini radiated a confidence Draco suspected he didn't feel. Draco cast a few minor spells to clean himself up.
+
+"Gregory," said Harry, "You've seen Neville fly. You're the best flyer here. What's Neville doing wrong?" Neville let out an annoyed snort, but didn't contradict Harry. Daphne giggled a bit, until Hermione gave her a piercing look.
+
+"His balance looks off," Gregory said after a pause. "I can't really explain."
+
+"Gregory can't explain because true mastery means doing things automatically, without thinking. Some great artists can tell you why they picked a colour, but others would just say 'It looked right.' If Gregory stopped and thought about what he was doing when he was flying, he'd fall out of the sky. Like Draco said earlier this year, in a battle you don't feel like you are thinking. When I solve a problem, *I solve it*. Sometimes I have to think about how I'm thinking about it, but sometimes I don't. Anyway, I went back and solved some puzzles since last time and *paid attention to how I thought*, so I can explain it better. But I had to do it with maths puzzles," he finished sheepishly.
+
+Everyone groaned. Harry continued. "Sorry, but it's easier to explain and experiment with. I won't do anything complicated but I had to pick something simpler. A battle just has too many variables for me to explain. This is more about technique. But look, here's a puzzle. You have to make an 8 digit number, using each digit 1-4 twice. So, 11223344, or 12341234. Something like that. But you want to make one so that there is exactly a single digit between the two '1's, and two digits between the '2's, and three between the '3's and four digits between the '4's. It's not really even a maths puzzle, see? Just a regular puzzle using digits. Go ahead and try and do it, and think about what you are doing."
+
+Harry took out some paper and pencils. Hermione took one and started writing figures and scratching them out. The others reluctantly followed.
+
+"Come on," said Harry. "*Try it*."
+
+Hermione got the answer quickly, but three minutes later nobody else had solved it. Neville, sweat beading on his forehead, fidgeted as he started again. Draco had been scratching out numbers and writing new ones diligently, but showed no progress. Harry had been walking around and looking over shoulders. "OK, The rest of you are stuck. Let me give you a hint."
+
+"Problem solving is about meeting constraints. In a battle your constraint is what spell or strategy to use. In this, it's the order of the digits. But what if you have a lot of constraints? Deal with the most restrictive constraint first. That usually narrows down the solution space – the number of different answers you have to consider – quickly. There are lots of 8 digit numbers. Even if you only consider those with the digits 1-4 twice. We don't want to try them all. We want to solve the hardest constraint first. The one that narrows down the possible answers fastest. Now try it again."
+
+"It's like you are speaking another language," Draco complained as they started again.
+
+"He does that a lot," said Neville. "I thought you'd be used to it."
+
+This time Blaise and Daphne got it relatively quickly.
+
+Harry still walked around the room, inspecting work and offering encouragement. "Maybe it's a maths thing, Draco. Don't let it block you because it's not your standard subject. In this case, the constraints are how you build the numbers. You can't change the fact that it has 8 digits, or the fact that it has four pairs of numbers. Those are just part of the problem. But how you arrange them, those are the constraints. What's the most restrictive constraint, Hermione?"
+
+"The fours. They have to have the most digits between them."
+
+Harry took out some paper. "Right, there are only a few ways that can work." He scratched them out.
+
+4xxxx4xx
+
+x4xxxx4x
+
+xx4xxxx4
+
+"The first and last are the same, just reversed. Symmetry is another way to cut down the number of solutions, but that's specific to math and not often in the real world. Anyway, now we've got two candidate solutions. The one with a four at the end, and then one with both fours one off the end. So now the most restrictive constraint is how to place the threes. If you put a three right next to the first four the other three won't fit three spaces away. So you can try two places."
+
+4x3xx43x
+
+4xx3x4x3
+
+"And you can keep going if you have to, or you can just see the solution." He pushed the paper to Draco, who examined the two numbers above and wrote out.
+
+41312432\.
+
+"Yes. Or the mirror image, due to symmetry. That's how I solved it. Combinatorics aren't my strong suit but If I've done my calculations right we started with 1,260 possible legal 8 digit numbers that have the digits 1-4 twice. And we quickly came down to two patterns that might work with the first constraint, and by adding the second constraint we got close enough to the solution we could just see it. The constraint let you not have to just keep trying random things, and let you get to the answer quickly."
+
+"Anyway, for puzzles like that I have a bag of tricks. But the general technique is simple: Understand the problem. You have to know what you've got to work with and what you are trying to do. You'd be surprised how often just looking at what you can work with gives you a clue to the answer."
+
+Draco interrupted. "But in the real world you can do practically anything. Not like a math puzzle."
+
+"That's true," said Harry. "But especially in the real world clearly defining your goals may clarify the situation. Still, it's a good general technique. Anyway, after you understand the problem you look how to link what you know and what you are trying to do. Then you carry out your plan, you do the solution, examine your strategy. And you see if the answer works."
+
+Daphne said, "That's still vague."
+
+Harry nodded. "I know. If you didn't have a strategy you could just try every legal combination until you found it. That's a plan. It's not a great plan, but if you can't think of something better it works. Science doesn't care how you get the right answer, whether it's counting on your fingers or doing calculus. Efficiency comes from practice. Draco, what's nine times seven?"
+
+Draco barely paused "Sixty-three."
+
+"Right, you didn't have to think. But if I asked for larger numbers you'd take longer. If I asked a big enough number you'd need a pencil and paper and a lot of time. Just because a solution exists doesn't mean you can get to easily, even if you know what to do."
+
+"Anyway, here are some techniques I use that don't specifically apply to math. But I'll use math examples. You could try to think of a similar problem, or a related problem. That may clear it up. In the real world history is often a good guide. Muggle Science Fiction books often address problems similar to things I've seen here, and Professor Asimov is an expert in that field. If you can explain the magic he may have seen a clever solution before. I found a cool dueling idea in one of his stories and I'm sure there are lots of great ideas I've missed. In fact, several of my battle ideas came from books. And no, I'm not going to tell you which ones."
+
+"Sometimes I think he reads books just to annoy me," Hermione whispered to Daphne, while Harry was talking.*\*
+
+"If he likes you, he does anything to annoy you," she whispered back. Then, a bit louder, "Or if you like him...everything he does annoys you."
+
+Draco tried not to show any emotion during that last speech. He didn't inspect Harry for any sign. *Did Harry know that he'd been consulting with Professor Asimov?* Draco worried about it for a few seconds, then realized it didn't matter. Harry's use of Unbreakable Vows weren't much of a secret, the entire staff knew about them, so Draco's investigations could be easily explained as just testing Peverell's security for weakness. Asimov's Three Laws didn't seem to apply directly to Unbreakable Vows, but Harry had *probably* used the approach of simple layered directives in an order of precedence, with more layers for Grindelwald than for trusted Aurors ... Draco realized his focus had wandered and turned his attention back to Harry, who was still talking.
+
+"What else? You could solve a really simple version of the problem, then a slightly harder version, and look for a pattern. Proof by induction is messy, but powerful. Or you could try to break the problem into a bunch of smaller problems. Or try to solve a much harder version..."
+
+"That doesn't make any sense at all," said Neville. "If I can't solve a simple problem how can I solve a harder one?"
+
+"A harder problem forces you to be creative. For example, if I asked you to add up all the numbers from 1 to 10? You'd probably just add it up. But what if I asked you to add up the numbers from 1 to 100? Or a thousand? Or a million?" Harry paused. "Another trick is to assume there is a solution. Let me tell you a story. A Muggle teacher told his students - kids younger than us - to add up the numbers from 1 to 100 to keep them busy. And one kid gave the correct answer in a minute. Way too fast to do it the long way. Granted, that kid turned into a great mathematician, but he had a simple insight."
+
+"I thought this wasn't about maths," said Hermione, to general approval.
+
+"OK, let me think about something I can admit to," Harry said. "You think about the problem. Don't try to solve it, just try to think of what the insight is."
+
+Harry though while they doodled with math. He glanced at the papers and said "Daphne's on the right track." Everyone looked over her paper. Daphne had written 1,2,3, and then skipped the middle and written 98,99,100. They all looked at her paper.
+
+"They add to one hundred and one!" said Hermione. "One plus one hundred, two plus ninety nine, three plus ninety eight." She drew lines connecting them.
+
+"Yes, that's the key insight. The rest of it is technical, and we don't have to worry about the rest. Anyway, the problem I had was that newspapers were writing trash about me. My first thought was: I need to get them to stop. But that's not the right question. This is just like the eight digit number. We need to understand the problem. So let's restate it clearly. The Prophet wrote rumours about me and *I was worried that people believed them.* You see what that does?"
+
+"You don't have to get them to stop, you are just trying to keep people from believing them," said Daphne. "So you got them to publish that ridiculous story about Ginny Weasley."
+
+"Well, not that exactly. But restating the problem clearly gave me the key insight: I had a new way to attack the problem. Anyway, after I had the idea I didn't actually implement it. I was here at school, in any case. But when Headmaster Dumbledore read the article he demanded to know how I'd done it. He thought I'd spent my entire inheritance and started working through all the things he would have to do to get that story published. When I told him I'd just spent forty Galleons he figured it out almost instantly."
+
+"By making the problem harder," Draco said slowly, "you gave him another constraint, And that was enough."
+
+"Right. My sunlight potion came from the constraint that I had fewer people in my army. Focusing on constraints lets you zoom in on the right option."
+
+"And what if you still don't see it?" asked Blaise.
+
+"Then you try something else. If you have time, maybe you try every solution. Look, rationality keeps you from making mistakes and it points the way. In science, we build experiments, but usually a scientist has a decade of experience to guide them. People spent years trying to figure out the structure of a chemical called Benzene. A chemist named Kekulé had a dream about it, his subconscious gave him the answer. He used the scientific technique and skills as a rationalist to build experiments to verify the answer. But how he got there was no better than a guess. Sometimes you just get lucky, although having a good bag of techniques helps you make your own luck. A real problem usually blends many skills. With experience, you'll recognize patterns and solutions."
+
+Harry paused. "I know that I warn against seeing patterns where none exist. That's a real problem for people. But our minds are amazingly good at spotting patterns, so if you think you've found a pattern its usually a good idea to test it, even if it just popped into your head."
+
+------------------------------------------------------------------------
+
+**Author's Note** - Polya's "*How to Solve it*" has an extensive list of heuristics and examples for pure math problems (not puzzles). I stumbled across the first puzzle (the eight digit number) presented here on kottke dot org , which often has delightful little puzzles like that (some of which I can solve, some of which I cannot). Solving that puzzle inspired this chapter.
+
+</div>
+
+</div>

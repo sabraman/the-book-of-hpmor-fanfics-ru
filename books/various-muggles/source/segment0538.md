@@ -1,0 +1,111 @@
+<span id="seg-0538__seg-0538-d33d11914b"></span>
+
+<div id="seg-0538__s6-bc6df459c2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 6: The Defence Professor Pt 1
+
+<div id="seg-0538__storytext-9c93142583" class="calibre4">
+
+Ginny was sitting in a huge classroom together with the entire first and second year of Hogwarts students. It was more of an auditorium than a usual classroom, with the students sitting in a half circle in ascending rows around a stage with a single desk and a chair on it. Ginny was currently in the middle of a discussion with Harry and Hermione about what exactly Lockhart could have thought he was doing by teaching the first and the second year students together. As far as she knew this had never been done before and she could not imagine how Lockhart planned to teach something that was useful for all of them, considering that most of the second years were already battle hardened by Professor Quirrell's armies and she had not even cast a single spell in her life. Hermione and Harry couldn't think of how this lesson could work out either and expressed some scepticism about Professor Lockhart's ability as a teacher. Harry had also said that if the lesson went as he expected, Professor McGonagall might try an attempt on his life later today, but Ginny hadn't understood what that meant and when she asked Harry about it he told her to just wait and see how the day would unfold. A moment later Professor Lockhart finally entered the room. The instant he entered Harry raised his hand.
+
+"Hello everyone, my name is Professor Lockhart, but you all know that of course. I see that one of you has a question already, can't wait to ask me for an autograph, can you? But that will have to wait until after the lesson. Where was I? Ah yes, most of you will of course know me as the author of …"
+
+"Excuse me, Professor," said Harry Potter, "but could you please explain the rationale behind merging together the lessons for first and second years? My time is too valuable to be wasted with a useless lesson."
+
+Professor Lockhart looked at Harry for a brief moment and then said "You must be Harry Potter. I must say that is no proper way of talking to a professor, but I forgive you. After all, you have some minor fame as well and that probably went to your head. Be assured, Mr. Potter, that there are a lot of things you can learn from me and if you pay attention you might at some point become a real celebrity yourself. You have the potential. But if you must know, I combined the first and the second year class because I have many other duties besides teaching in Hogwarts. I receive more than two hundred letters from fans every week and those have to be answered. For my lesson plan, the minor differences in the skill level between you will not be a problem. And now, let's start the lesson with a little test to see how much you know already.
+
+*A test? What in Merlin's name could he be thinking*? thought Ginny. *I haven't had a single lesson yet, how could I pass a* test*?* She looked at the paper that had landed in front of her and read the first question. It was "What is Gilderoy Lockhart's favourite colour?" The next one was "What is Gilderoy Lockhart secret dream?" She scanned the rest of the test and the questions were all similar. She raised her hand and when Professor Lockhart asked her, what she wanted, she said "No one told us that we were supposed to read all the textbooks in advance. I haven't even looked into any of them yet, since I didn't know which one to start with. And even if I had read them, the things you ask for in these questions don't seem like something worth memorizing"
+
+"Miss Weasley, I expected most of you to have read my books long before you started at Hogwarts. They have been at the top of the Daily Prophet's best seller lists for months, after all. Who in this class has read the books, please raise your hand." Ginny looked around and saw that every girl besides herself and Hermione, and about half of the boys had raised their hand.
+
+"You see, Miss Weasley, you will have to do some catch-up reading to come to the same level as your classmates. That is true for all of you who did not raise their hands."
+
+"No they won't," said Harry. "I *have* read your books, or more precisely the first 50 pages of *Gadding with Ghouls*, which, as I had to find out, is not a textbook designed for teaching purposes, but a mediocre fantasy novel. Do you plan to actually teach us something this lesson or are we supposed to hear about your great adventures for the next hour?"
+
+"Mister Potter you clearly are out of your mind. You cannot talk to a Professor like that. But very well, I had planned this for later in the year, but if you think you do not need to learn from my example how to deal with dangerous magical creatures I will have to teach you how wrong you are."
+
+He stepped out of the room and a few seconds later returned with a huge rectangular object. Ginny could not see what it was, because a black blanket had been placed over it. Lockhart put the object on his desk and waited for a while. Then, with a quick movement, he pulled the blanket away with his left hand and with his right hand he waved his wand and said "Alohomora".
+
+A second later, tiny blue creatures started to fly out of the cage.
+
+Two seconds later all students who had been in an army had drawn their wands and cries of "Somnium" and "Stupefy" were filling the air. Ginny had instinctively drawn her own wand, but since she didn't know any spells she just stood there and watched. A few pixies had dropped on the ground, but the ones hit by Somnium spells continued to fly and started to approach the students in the first row. Ginny saw shields going up from some students, while Harry, Hermione, one guy who from his looks must be a Malfoy and a few other students she did not recognize continued to cast stupefy. About fifteen seconds after the pixies had been released, all of them were lying on the ground unconsciously.
+
+"Oh well, you are a bit further in your education then I expected. Of course I would also have been able to defeat all those pixies on my own in my second year, so I should have expected that you had a chance."
+
+"I have my doubts that you could defeat those pixies right now," said Harry. "Just because you are a terrible teacher, it does not, of course, mean that you cannot be a strong wizard, but you do not seem to be very competent at all. Let me perform a test."
+
+He slowly raised his wand, pointed it at Lockhart and said "Stupefy". Lockhart was hit by the red bolt without trying to evade or casting a counterspell.
+
+Ginny looked at Harry with a shocked expression on her face and said, "Harry, you just stunned a professor."
+
+"I just stunned the defence professor and I should not have been able to do that. I tried to stun Mad-Eye Moody last year and I put a lot of effort in planning an ambush on him and I still could not hit him with a normal stupefy."
+
+"Why on earth would you try to stun Mad-Eye Moody?"
+
+"That doesn't matter now. What matters is that no semi-competent fighting wizard would have been hit by that spell, in fact everyone who was in an army last year could have easily dodged it. If Lockhart was really who he pretends to be, this would not have been a challenge for him."
+
+"So you think he's an impostor? But he is really famous for fighting against the dark arts. Do you think that someone else might have done those things and he just memory-charmed them and acted as if he was the hero?"
+
+"That is one possibility, but it seems unnecessary complex. I have another theory, but I don't want to explain it now. We will find out if I am right shortly. As soon as Mr. Lockhart wakes up, I will pay the Headmistress a visit. Hermione and Ginny, I would like you to accompany me, so that I have a witness from both years who can support my cause against Professor Lockhart."
+
+------------------------------------------------------------------------
+
+Harry, Hermione and Ginny entered the Headmistresses office. Ginny looked around and saw Professor McGonagall sitting in front of a desk which was surrounded by lots of strange looking devices, which made all kinds of strange sounds. Professor McGonagall looked up from the scroll she was reading and said with a confused voice "What is this about, Mr Potter?
+
+"Headmistress I demand that you fire the Defence Professor."
+
+"*What?* Mr Potter, Gilderoy Lockhart is one of the most skilled fighters against the dark arts and the most competent defence professor we could hope to get since Alastor insist that he does not want to teach. Do I have to remind you what I said to you last year about you not getting my defence professors into trouble before the end of the year?"
+
+"Professor, I have strong evidence that Gilderoy Lockhart is not who he pretends to be. I believe that he has not done any of the things he claims he has. In fact I believe that no one has done them and he just made everything up. I mean, nothing of what he did was in Britain, and the ties between the wizarding communities of different countries are not that strong. Has anyone ever checked if the people he claims to have saved even exist? Or do you think someone in magical Britain would have noticed if you made up heroic deeds about what you did somewhere in Europe?"
+
+"Now that you say that, I am not certain that Professor Lockhart ever submitted any proof of his skill... and it is true that he did not seem to be the brightest student when he was in Hogwarts. But that doesn't mean that he is an impostor. And as you should know Mr. Potter, Gilderoy was checked by Alastor and Dumbledore himself last year and they did not report that anything was wrong with him."
+
+"Yes, but I explicitly asked Moody to ignore everything Lockhart might have done which had nothing to do with the thing he checked him for. I suggest we just ask him to come here and tell us, what he found out last year. And in the meantime, Ginny can explain to you how our first defence lesson went."
+
+"Excuse me but I would really like to know what went on with Professor Lockhart last year," said Ginny.
+
+"That is nothing that first year students have to be concerned about", said Professor McGonagall
+
+"Harry was a first year student last year and he was even involved in the whole thing."
+
+"As you might have noticed by now, Miss Weasley, Mr. Potter is not what you would call an ordinary child. But very well. I don't know why we should make a big secret out of it now. When Bellatrix Black escaped from Azkaban last year, we were worried that Voldemort might have been involved in this and that he might possess Mr. Lockhart, who recently was showing significant magical powers that no one expected of him. But our suspicions were wrong. Now could you please explain me what went on during that lesson? And you, Mr. Potter, please fetch Alastor."
+
+Ginny told Professor McGonagall about the lesson and Hermione added a few things, which she seemed to remember in surprising detail. Shortly after they finished, Harry and a man who appeared to be in his late fifties arrived via floo network. The man who had to be Mad-Eye Moody had scars all over his face and a strange blue glowing eye.
+
+"Ah, Alastor," said Professor McGonagall. "There seem to be some questions about the identity of our latest defence professor. Could you tell us what you found out about him last year?"
+
+"I know nothing about him. He is an Occlumens. I don't know if he is a perfect one, because Dumbledore didn't let me try to break him. He said that there was a better way to find out what we wanted to know and just summoned the sorting hat. The hat confirmed that Lockhart was not possessed and so the thing was done for us. But if you really want to know who this guy is, just bring him here. I am sure that I will get it out of him, even if he is a perfect occlumens."
+
+"Then let's fetch him," said Professor McGonagall. "He is probably in his office right now."
+
+"Actually I brought him here and told him to wait outside," said Harry. "Let me just get him."
+
+He left and returned a few seconds later with Professor Lockhart, who immediately flinched when he saw Mad Eye Moody.
+
+"I see that you remember me," said Moody. "You can either tell us the truth about yourself right now or you can try to prove that you are a tough wizard and see if you can withhold the information from me when I want to get it."
+
+"Please don't hurt me. I'll explain everything. I lied. I made all the stories up. I wrote some stories for fun during my Hogwarts years and found out that I was kind of a good writer. But it is so hard to make a living writing books so I figured that way more people would buy my books if they think I had really done all that. It wasn't hard to come up with stories that no one would notice to be false if they didn't try hard to check the facts. The hardest thing was to become an occlumens, but I knew I had to do that or someone would find out about my secrets sooner or later. After all, there are people who routinely try to read the mind of every person they meet."
+
+"But why did you decide to teach at Hogwarts?" asked Ginny. "Wasn't that really stupid? People were bound to find out that you knew nothing about defence against the dark arts."
+
+"I did not take into account that David Monroe was last year's Defence Professor. Frankly I think I would not have done worse than some other defence professors in the last years if half of what the Daily Prophet wrote about Hogwarts defence professor problems is true."
+
+"Well, Mr Lockhart, you are hereby fired from your position as defence professor of Hogwarts and I shall inform the public about you as well," said Professor McGonagall in a resigned tone. "I suggest you pack your things and leave the country as soon as you can. Some people will not be happy when they hear about you, and since you are not even able to defend yourself against a second year student, you might be in trouble."
+
+"But who will teach defence against the dark arts now?" asked Ginny.
+
+"Don't worry about that, Miss Weasley. I do have another person in mind. I hoped I did not have to ask him, but I feared that it would come to this sooner or later . Miss Weasley can you please leave the room? I have something to discuss with Alastor and Mr. Potter. Miss Granger, you can stay as well."
+
+Ginny left the room, feeling a bit jealous that Hermione was allowed to stay while she had to leave, but after all she *was* the Girl who Revived. Apparently as a child you had to do something considered impossible if you wanted adults to take you seriously. She wondered if there was another thing besides dying and reviving and slaying the most feared dark lord of all time a child could do in order to be taken into secret meetings with the headmistress, but she could not think of anything.
+
+------------------------------------------------------------------------
+
+**Authors Notes:** The next chapter will go online on Wednesday July the 15th
+
+</div>
+
+</div>

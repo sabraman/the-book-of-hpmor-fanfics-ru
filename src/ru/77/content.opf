@@ -1,0 +1,164 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>77. Draco Malfoy and the Practice of Rationality</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="taogaming">taogaming</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e4d80781-4167-43ba-800f-02ac2159e7d1</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:publisher>www.fanfiction.net/s/11223914</dc:publisher>
+    <dc:identifier opf:scheme="calibre">e4d80781-4167-43ba-800f-02ac2159e7d1</dc:identifier>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="77. Draco Malfoy and the Practice of Rationality"/>
+    <meta name="calibre:author_link_map" content="{&quot;taogaming&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s1.xhtml" id="a2" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s2.xhtml" id="a3" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s3.xhtml" id="a4" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s4.xhtml" id="a5" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s5.xhtml" id="a6" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s6.xhtml" id="a7" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s7.xhtml" id="a8" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s8.xhtml" id="a9" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s9.xhtml" id="a10" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s10.xhtml" id="a11" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s11_u1.xhtml" id="a12" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s12_u1.xhtml" id="a13" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s13_u1.xhtml" id="a14" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s14_u1.xhtml" id="a15" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s15_u1.xhtml" id="a16" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s16_u1.xhtml" id="a17" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s17_u1.xhtml" id="a18" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s18_u1.xhtml" id="a19" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s19_u1.xhtml" id="a20" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s20_u1.xhtml" id="a21" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s21_u1.xhtml" id="a22" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s22_u1.xhtml" id="a23" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s23_u1.xhtml" id="a24" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s24_u1.xhtml" id="a25" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s25_u1.xhtml" id="a26" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s26_u1.xhtml" id="a27" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s27.xhtml" id="a28" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s28_u1.xhtml" id="a29" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s29_u1.xhtml" id="a30" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s30_u1.xhtml" id="a31" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s31_u1.xhtml" id="a32" media-type="application/xhtml+xml"/>
+    <item href="45/1/OEBPF/content/s32_u1.xhtml" id="a33" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s1_u1.xhtml" id="a34" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s2_u1.xhtml" id="a35" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s3_u1.xhtml" id="a36" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s4_u1.xhtml" id="a37" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s5_u1.xhtml" id="a38" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s6_u1.xhtml" id="a39" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s7_u1.xhtml" id="a40" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s8_u1.xhtml" id="a41" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s9_u1.xhtml" id="a42" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s10_u1.xhtml" id="a43" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s11.xhtml" id="a44" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s12.xhtml" id="a45" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s13.xhtml" id="a46" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s14.xhtml" id="a47" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s15.xhtml" id="a48" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s16.xhtml" id="a49" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s17.xhtml" id="a50" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s18.xhtml" id="a51" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s19.xhtml" id="a52" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s20.xhtml" id="a53" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s21.xhtml" id="a54" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s22.xhtml" id="a55" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s23.xhtml" id="a56" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s24.xhtml" id="a57" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s25.xhtml" id="a58" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s26.xhtml" id="a59" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s27_u1.xhtml" id="a60" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s28.xhtml" id="a61" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s29.xhtml" id="a62" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s30.xhtml" id="a63" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s31.xhtml" id="a64" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s32.xhtml" id="a65" media-type="application/xhtml+xml"/>
+    <item href="45/2/OEBPF/content/s33.xhtml" id="a66" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="a2"/>
+    <itemref idref="a3"/>
+    <itemref idref="a4"/>
+    <itemref idref="a5"/>
+    <itemref idref="a6"/>
+    <itemref idref="a7"/>
+    <itemref idref="a8"/>
+    <itemref idref="a9"/>
+    <itemref idref="a10"/>
+    <itemref idref="a11"/>
+    <itemref idref="a12"/>
+    <itemref idref="a13"/>
+    <itemref idref="a14"/>
+    <itemref idref="a15"/>
+    <itemref idref="a16"/>
+    <itemref idref="a17"/>
+    <itemref idref="a18"/>
+    <itemref idref="a19"/>
+    <itemref idref="a20"/>
+    <itemref idref="a21"/>
+    <itemref idref="a22"/>
+    <itemref idref="a23"/>
+    <itemref idref="a24"/>
+    <itemref idref="a25"/>
+    <itemref idref="a26"/>
+    <itemref idref="a27"/>
+    <itemref idref="a28"/>
+    <itemref idref="a29"/>
+    <itemref idref="a30"/>
+    <itemref idref="a31"/>
+    <itemref idref="a32"/>
+    <itemref idref="a33"/>
+    <itemref idref="a34"/>
+    <itemref idref="a35"/>
+    <itemref idref="a36"/>
+    <itemref idref="a37"/>
+    <itemref idref="a38"/>
+    <itemref idref="a39"/>
+    <itemref idref="a40"/>
+    <itemref idref="a41"/>
+    <itemref idref="a42"/>
+    <itemref idref="a43"/>
+    <itemref idref="a44"/>
+    <itemref idref="a45"/>
+    <itemref idref="a46"/>
+    <itemref idref="a47"/>
+    <itemref idref="a48"/>
+    <itemref idref="a49"/>
+    <itemref idref="a50"/>
+    <itemref idref="a51"/>
+    <itemref idref="a52"/>
+    <itemref idref="a53"/>
+    <itemref idref="a54"/>
+    <itemref idref="a55"/>
+    <itemref idref="a56"/>
+    <itemref idref="a57"/>
+    <itemref idref="a58"/>
+    <itemref idref="a59"/>
+    <itemref idref="a60"/>
+    <itemref idref="a61"/>
+    <itemref idref="a62"/>
+    <itemref idref="a63"/>
+    <itemref idref="a64"/>
+    <itemref idref="a65"/>
+    <itemref idref="a66"/>
+  </spine>
+  <guide>
+    <reference href="toc.xhtml#calibre_generated_inline_toc" title="Table of Contents" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

@@ -1,0 +1,297 @@
+<span id="seg-0089__seg-0089-cfa7a6086d"></span>
+
+<div id="seg-0089__s22-24d7e5666c" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 17.2: Interlude - Tempus Torqueri (2 of 2)
+
+<div id="seg-0089__storytext-9c93142583" class="calibre4">
+
+It was growing ever harder to stay focused while Young Hermione was awake, events were passing in a kind of blur. But Hermione found a bit of unwelcome clarity when, in the midst of her counterpart doing some library research, the second page of her Vanished notes *un-*Vanished before her eyes, line-by-line. She dearly wished she'd dropped *both* pages into the toilet that night, but she'd had no reason to think her notes were ever coming back, and had simply replaced the paper into her younger self's stores. And despite the vague obfuscation she'd used in her notes, Hermione was quite agitated by her younger self's perusal of the forbidden references to future events. She was even more concerned that her vague sense of her body suggested Y.H. was *also* agitated, not just confused, but *afraid*.
+
+Based on her gaze, she seemed to be focusing on the paragraph about Olivander...Merlin, who knew what trouble she'd get into if she raised a ruckus about being Obliviated. But obviously she couldn't *remember* being Obliviated, so hopefully it would just be a curiosity rather than-
+
+At once, Hermione startled as she found herself in control, for the moment in full possession of both her body and her faculties. She reached inward for her younger self's mind and recoiled in horror - those echoes of her suffering during the Obliviation, caught in the matrix of false memories, had left threads hanging *inward* as *well* as outward. Her counterpart had "pulled" on them somehow, causing them not to unravel, exactly, but to lay new memories down of the same period - *her* memories.
+
+She wasn't sure what to do...if she just tried to rip them out as she had in the bookstore, she wasn't sure her mind - or whatever she was now - would survive the attempt. Nor was she sure it wouldn't damage her younger self. She could try using a Memory Charm on "herself" tonight, but that too was a gamble - would the spell discriminate between the two minds present, assuming she could even finish it if it hurt her the same way Ollivander's had?
+
+Before she could come up with something productive to do, she found herself unceremoniously ejected from control as her younger self recoiled from the memory, flooding her system with adrenaline and half-leaping, half-falling out of her chair before the girl managed to separate memory and reality.
+
+She calmed herself down quickly enough, and then appeared to draw a reasonable but mostly wrong conclusion - that Hermione was a ghost, possessing her - and delivered a stern little speech to that effect. Was there some way she could take advantage of that misconception? But she wasn't even sure if she could focus enough to contact the girl's mind directly, for communication, while she was awake. Still, she didn't have a better option - she couldn't let her *ask* an adult about the notes, which would surely come up sooner rather than later - and began to try to struggle through the molasses that clogged her mind while her past self was awake.
+
+She hadn't made much headway when the girl apparently lost patience and skipped directly to the step Hermione dreaded. She flailed in a bodiless panic, then froze, surprised, when the girl apparently *noticed*. She tried to follow the subsequent suggestion of producing a "happy" sensation, but she wasn't sure how she'd managed to convey fear in the first place, and once again the girl lost patience well before Hermione had any chance to make headway, a trait which was beginning to become maddening. The girl repeated her intention to talk to someone else, and again, Hermione thrashed as best she could against her mind, focusing on how *bad* an idea that was, that she should really just wait and think and give her a *chance*.
+
+But her younger self was irritatingly stubborn, and was making her way out of the Library, even as her heart raced and her face was creased with worry. Hermione just couldn't compete under these circumstances, she needed her younger self to be *asleep*, but even in her own body she couldn't accomplish wandless magic - hoping to pull it off while half-inhabiting her first-year self wasn't much better than just wishing her to sleep. But sleep was a natural function of the body...even if she didn't have direct access to her physiological functions, could she *evoke* it?
+
+Hermione desperately reached for her younger self's mind, not to tear, but to pull a memory to the top. She couldn't be sure, but the girl had wobbled in her step and leaned against a bookshelf for a moment...Hermione tried again, harder. This time she was sure she'd made progress, she could vaguely *feel* the lethargy flooding her body, and her younger self complained, not yet seeing the gambit for what it was. Hermione reached for a deep, deep memory and thrust it to the fore, trying to *will* the girl into slumber. She slumped down onto the floor, barely awake, reaching into her bag for her wand. But before she had it, she closed her eyes and it was just enough for Hermione to push the the other mind underneath and take control.
+
+As her own mind began to clear up, she could tell this was an artificial sleep, and wouldn't last long...even less if she exerted herself or became too excited. Hermione carefully stood up and left the Library, considering her options. First priority was getting rid of her notes. Once she was alone in the hallway, she withdrew the offending page from her bag, along with an unused sheet, and her wand. She copied her younger self's notes over to the blank sheet by hand, then summarily Vanished the original page - now nothing she tried doing to the copy would ever restore what Hermione had written, and no spell she knew of would be able to reveal anything unusual about the new copy - it had had no magic used on it, and had been written by Hermione Granger.
+
+That handled, how was she going to prevent the girl from talking to anyone about it, *without* trying to meddle with her memories? She might just write herself a note *deliberately*, but starting a pen-pal conversation in her current condition felt far too close to Ginny's ordeal for her to be comfortable, and she couldn't count on being able to force her into sleep - she suspected the girl would be on guard for that now. Besides, she needed to limit her interaction with her past self as much as she possibly could. But thinking of the year of the Chamber, and how so many people had refused to believe Harry about not being the Heir of Slytherin, even on the basis of the flimsiest evidence… If she couldn't keep herself from talking to people...maybe she could keep herself from being *believed*?
+
+She could already feel her younger self stirring, so she made her way to the Hospital Wing as fast as she dared without risking adrenaline waking her even sooner. She was rather unsteady by the time she made it there, but that was fine, it would only make her story more convincing.
+
+"My word, you don't look very well, what's the trouble?" asked Madam Wainscott solicitously, moving over to her.
+
+"I'm not sure," said Hermione, her voice deliberately fuzzy. "I was in the Library, someone cast a spell at me from behind...think it went '*Confundo Oraculum Maximo'*? My head feels peculiar, but I don't know what else...ohhh." Hermione didn't have to fake a swoon, she just let her mind drop beneath again, and her body folded to the floor like its strings had been cut. The nurse made a grab for her, but didn't quite make it in time. Looking worried, she pulled her wand and used an advanced levitation spell to get her into a bed, and by that time Hermione's counterpart had awakened.
+
+It seemed her plan had worked - sort of - as Wainscott was indeed waving away everything that her younger self tried to explain. But *what* she was saying was alarming in the *extreme*. This wasn't information she'd deduced from the notes, she was acting as if she'd *seen* things in Hermione's own memory! And not just recovering what she'd lost from Ollivander's Memory Charm, but actual events from the *future*. This was a *disaster*...had Hermione opened some channel between them when forcing her younger self's memories...did that even make sense? It was so hard to tell, so hard to *think…*
+
+She noticed herself hurriedly taking notes while changing into pyjamas, notes which *definitely* contained memories of the future. Some of the worst parts of the future, apparently. Why had she seen those memories in particular? It was as if someone was *trying* to get her to change Time even as Hermione desperately tried to minimize the damage. But there was no sign of a *third* mind in there with them...none of it made sense. She tried to wrest back control, and managed to make the handwriting a bit sloppier when the girl switched to her left hand, but that was it. When she'd finished writing, her younger self charmed each page of the notes waterproof, then folded them up into a little bundle. She paused for a moment, and her chest felt tight, but then she took a breath and cast one final spell.
+
+"*Echo Moratus*," she whispered, "Hello, hello, hello. If anyone can hear this, please pick this up and read it carefully." After two more repetitions of the message, without hesitation, she flung the packet of papers out the open window above her bed.
+
+Even as Hermione began to panic in earnest, the girl called to Madam Wainscott, and then, quietly, *taunted* her. For a moment, stuck between horror and infuriated frustration, she reconsidered her commitment to her younger self's welfare, but she knew she could be just as tenacious in the face of apparent oppression, and ethically she was on very shaky ground as it was.
+
+Then the girl took the nurse's offered Potion of Dreamless Sleep, and Hermione didn't even have a chance to hope she might be able to sneak out and fetch the packet before the potion's effect hit each of their minds like an elephant tranquilizer (or an actual elephant, in Hermione's case), and all was quiet.
+
+o-o-o
+
+Hermione was slower to recover than her younger self, and by the time she found herself coherent again, the girl was in the library...researching *Time*. Apparently the memories she'd somehow gained, or Hermione's cryptic notes, or some combination thereof had been enough to break the Conditional Obscuration for her, two full years earlier than it should have been (via a meeting with Professor McGonagall and an official Ministry Pamphlet). Hermione was beginning to despair on the topic of somehow "fixing" the increasing number of aberrations to History, particularly since the degeneration of her own mind was proceeding so rapidly. Her only real hope was that if she could get Y.H. to try to minimize further changes, Time would eventually assert itself and get things back on track somehow of its own accord. The fact that this was a painfully optimistic view didn't fully register with her, and *that* fact would've alarmed her a great deal - had she been aware of it.
+
+One bright spot was that - if her body language was any indication - her younger self was taking the situation even more seriously now. Though that still left open the problem of communicating with herself effectively. Maybe a very careful note explaining things and she could convince her younger self of the need to preserve as much of History as they could, at all costs?
+
+But the changes continued to pile up, as Quirrel changed his lesson plans. Her younger self continued indulging her unhealthy fascination with Slytherins, but even more worrisome was Tracey. Even considering her counterpart's tutelage, the apparent jump in the girl's spellcasting skill seemed rather abrupt. What if she *had* come back, and had just taken over her younger self's life entirely? Again, that didn't quite seem to fit with what she'd observed, but it was an unsettling possibility.
+
+Her concerns about Tracey Davis evaporated, however, as Theodore Nott accosted her counterpart with his eager designs on blackmailing her. Yet another disaster, though better than it might've been, since at least it gave him incentive to keep the notes to himself at least for a while. But through his little speech on pureblood manifest destiny, she found herself getting angrier and angrier. She tried to remember if anything horrible would happen to him in the future, and when she couldn't, she imagined a few things deliberately.
+
+But rather than sating her loathing of the boy, the daydreams only seemed to firm her desire to *do* something. And sure enough, though she wasn't sure how it was happening - it didn't *feel* like she had control - her younger self had pulled her wand out, and was beginning a Memory Charm, which she shouldn't even *know*, but must have picked up from her own memories. But before she managed to complete the spell, her breath grew ragged and she dropped the wand.
+
+Nott just smiled like this was one more point in favor of pureblood supremacy, and her younger self retrieved her wand with shaking hands, while Hermione herself tried, unsuccessfully, to understand what had just happened.
+
+o-o-o
+
+She stayed buried in her frustratingly clumsy introspection all through Transfiguration and most of Potions. When her counterpart confessed to Padma about the blackmail, she grew concerned, but Y.H. did seem careful to keep the details to herself. If she'd been thinking faster, she could've predicted Snape coming down on them like an avenging anvil, not that it would've made a difference if she had.
+
+But in the face of his tirade, and her younger self's embarrassingly fragile reaction to being dressed down by a Professor, she noticed a tiny tendril in their shared brain, a subtle thread of thought that didn't belong. It gently rippled across her counterpart's mind, channeling echoes of surface thoughts off into a small "chamber" where they could be viewed unobserved by her consciousness. Hermione was so staggered by the sheer skill of it that it took a moment for the implications to break through her own muddled thoughts, at which point she reacted instinctively.
+
+Hoping to prevent Snape from gaining who-knew-what future knowledge far earlier than he was supposed to, she "grabbed" the thread and wrenched it off of her younger self's mind. It recoiled like a living thing and whipped away out of her "view" at the same moment Snape took a sudden step backwards, removing any doubt as to the source of the intrusion. But aside from that, he gave no indication anything had happened at all, which left a great *deal* of doubt as to how much, if anything, he'd seen that he shouldn't have.
+
+She was still worrying about it when her counterpart went to the hospital wing to see the nurse - apparently she'd somehow wheedled Liquid Sheep out of her for Merlin knew what purpose, probably when Hermione was still indisposed from the Dreamless Sleep potion - and awkwardly comforted the young woman in her grief. It became even more awkward when her younger self, apparently in deep thought while Madam Wainscott filled out dosing instructions, began muttering to herself, loudly enough that the nurse caught a bit about suspecting a *student* had murdered Madam Pomfrey. Which was wrong, of course, but fortunately the nurse quickly took the excuse of the Seer's Hex over actually evaluating the notion, which was probably better for everyone concerned.
+
+The memorial service was difficult. Merlin knew she'd had to deal with death, but she'd never felt *responsible* before. Even if *she* hadn't really done anything herself, and it hadn't been *avoidable* as far as she-
+
+Except...it *had* been avoidable. Policy. She knew what she was supposed to do, and she'd ignored it because a *Jarvey* insulted her, and because she was a *Gryffindor*. There was a place for being brave, and doing what was right, but the price of that came when you didn't *know* what was right, and chose poorly. Dumbledore was talking about perseverance in the face of hopeless odds, and fighting to make the world better. But he never talked about the price, nor had Hermione ever really had to pay that price before...the closest she'd come had been her parents, but that had thankfully been remedied afterward. But Harry had paid that price, and he'd lost Sirius because of it. Now she'd gotten someone killed too, and as much as it had been for what seemed like good reasons, it had also been out of *pride*. No matter how much the Gryfifndor in her felt like she *should* hang Pettigrew out to dry, with Time in the mix, the stakes were too high...making an additional mistake out of guilt wouldn't help the situation.
+
+She felt tears on her cheeks. They weren't hers, but they suited anyway, for Poppy's loss, and for her own. She'd been through a war, she'd fallen in love, she'd used an Unforgivable Curse, and yet somehow she'd hadn't truly lost her innocence until now. But maybe that was the lesson? Sometimes you had to *not* be the hero, and do the smart thing instead, the thing that didn't *feel* right, but caused the least harm to History? Because in the end, wasn't History what was *really* important?
+
+Something about that last thought didn't seem quite right, but she couldn't put her finger on why. Hermione let it go for the moment. She was just so *tired*.
+
+o-o-o
+
+It wasn't until her younger self began writing what was clearly a letter to Hermione that she realized what the purpose of obtaining Liquid Sheep had been - the girl was going to try to deliberately put herself to sleep for a short period, to allow them to exchange messages. The plan showed an encouraging level of trust, but that was largely spoiled by the adversarial language she used in the actual letter.
+
+When the potion took hold and Hermione slipped back into control, she wrote out the reply that she'd already been half-composing as she'd watched herself write the original message. Though she noted with some concern that her thoughts still weren't quite up to speed. Possibly that was a side-effect of this being an artificial sleep, but it could also be that the degeneration of her "condition" was becoming critical. But there wasn't much she could do about it. She set about bringing her counterpart around to her way of thinking, without revealing anything she hadn't already learned. Legilimency was an exception, but it wasn't secret per se and she thought the danger of Snape, Dumbledore or Quirrell/Riddle picking up something justified her learning about it earlier, as well as Occlumency - as far as she knew, no one had ever used Legilimency to any effect on her, so learning Occlumency shouldn't cause additional changes. And she tossed in the bit about the scientific paper on general principle - she had looked it up after receiving the Time-Turner, but she'd only vaguely followed it. Enough to be encouraged that it supported the pamphlet's assertions, but not enough to want to research it any further.
+
+The potion didn't last long enough for her to fully explain her position, and required another dose (after her younger self added a slightly snippy note). She really had no idea how to deal with Nott, so just urged conservative caution and then went on with the rest. Which was a bit scattered, if she was honest with herself, but people really *didn't* understand Time, and Erasure (as opposed to a wholesale altering of the timeline) *had* never made logical sense to her. But the sheer chaos, the fact that History wouldn't *matter*...the world didn't look like that, it *shouldn't*.
+
+But her arguments didn't seem to be swaying herself. Plus, she brought up the uncomfortable questions of how this had happened in the first place, plus Tracey Davis, who Hermione *really* needed to take a hard look at, but just hadn't had time yet.
+
+Hermione just refused to explain, trying to talk around it as discouragingly as possible without giving details. She wasn't sure how much hope she had of that being effective, but even if it only *delayed* her from learning things that would put History in even *more* danger, that was better than nothing.
+
+On the matter of Tracey, she just flat-out lied. She'd think of *something* before morning, maybe just Memory Charm her to forget everything that took place after today, that ought to be safe enough even if she *had* usurped her own existence? And even if she was a Slytherin, Hermione did remembered her ever showing any significant level of sneakiness, so with luck she hadn't made any written notes.
+
+It was already clear from her younger self's movements that she did *not* take it well, and her response was surprisingly bitter. Yes, she supposed the Sorting of Slytherins might not be entirely fair, but it wasn't as if there weren't children who were already a danger to others at that age - at least having them marked out and separated gave other kids a better chance to avoid them. If there were Slytherins in that house who didn't deserve to be there, why weren't they making it better?
+
+The self-righteous bit was just bratty. She understood the sentiment, but it was hard to understand how she hadn't seen back then how she *sounded* sometimes, and how that affected other people's reactions to her. Hermione didn't rise to the bait of debating that point, just showed how an *actual* adult dealt with genuinely petulant behaviour - however much she claimed otherwise - and addressed the real issues.
+
+She even allowed herself to imply a *little* bit of future knowledge that Y.H. didn't already have, namely that if History was allowed to reassert itself, the war against Voldemort would end, on balance, successfully. It seemed worth it to stress the danger of *anything* which might steer things further from that known good state, History as it *should* be.
+
+Hermione paused in thought. Despite her efforts, it didn't seem like she was getting through to herself, and she couldn't predict what her younger self might do. Suppose, despite the dangers of long-term use, she managed to secure a supply of Dreamless Sleep potion out of spite, or even steal one tonight? Hermione might have no more time to do anything at all.
+
+She ended her response with some half-truths, and hoped they would make her counterpart believe actively adversarial measures weren't necessary. Though the way she was feeling lately, she worried that might be accurate regardless, and sooner rather than later. Not that she wasn't prepared to die for what was important - assuming what she was now was really "alive", at any rate - she certainly was. But she wasn't looking *forward* to it, and she'd always been able to come up with *something* to stave off disaster. Even when she'd Gryffindor'd off to find the basilisk alone she'd managed to avoid death, and her notes had allowed the others to come through.
+
+Her younger self seemed less angry and more despairing afterward, and for a moment Hermione worried she'd put too much on the girl's shoulders. But if this was what it took to defend what was left of History, it was worth it. It was worth *anything*.
+
+o-o-o
+
+After crying for a while, her counterpart destroyed their mutual notes (good girl!) and went to bed. Hermione waited quite some time - though her younger self hadn't appeared to notice, it seemed clear from Morag's breathing that she was *not* asleep when they'd returned from the bathroom. But after a good half hour or so, her younger self had finally dropped off after her relaxation routine, and the scottish girl's breathing sounded regular enough that it seemed safe.
+
+Once more, Hermione silently gathered what she'd need for a midnight outing, charmed her clothes dark, and slipped out of Ravenclaw Tower, thankful that the knocker didn't seem to react to much other than being knocked. She made her way to the Library and put the finishing touches on her backup, worst-case-scenario notes, which took several hours and some touchy wand-work.
+
+That done, she headed towards the bowels of the castle to handle the other matter. Again, she wished she had the Marauder's Map, or that she had been more careful preparing for that otherwise pointless Polyjuice expedition to the Slytherin common room and thus been able to *go*. Nevertheless, she was able to make her way to the Dungeon entrance based on pieced-together bits of overheard conversation and occasional glimpses of the Marauder's Map, plus her walks to and from the Potions classroom.
+
+Arriving at what she *thought* was the proper segment of featureless stone wall, she cast a Supersensory Charm on herself to boost her hearing as much as she dared and pressed her ear to the cold stone. She moved up and down it a foot at a time until she managed to hear the faint crackle of a fireplace. Still she waited, for a good ten minutes, but there was no other sound, not even whispered conversation or the rustle of turned pages as someone read quietly.
+
+That solved one problem, but there was still the question of the password. From what Harry and Ron had said, the Slytherins apparently changed it often - just as likely from paranoia as from any awareness that they were not well-liked. She could just guess some of the likely suspects - names of snakes, pureblood political slogans and such - but she wouldn't be surprised if the Slytherin entrance limited such guessing in a nasty way. Likewise for an Unlocking Charm.
+
+Fortunately, the common room entrances were not *serious* security in this time, as Sirius had not yet given anyone the motivation to bolster them. Hermione leveled her wand, wove a complicated tangle with the tip that ended in an inverted question mark, and put all the strength she could into a Confundus Charm against what she hoped was the concealed door, the effort leaving her a bit dizzy.
+
+Nothing happened, but this was not surprising.
+
+"Password," she whispered.
+
+The door agreeably swung open, and she crept inside.
+
+She'd never actually been in the Slytherin Dungeon, and took a moment to look around. Where the other common rooms were comfortable, homey, this one reeked of pride and privilege. It reminded her of Malfoy manor, though it was of course darker, somewhat more green, and - hopefully, at least - less inhabited by sociopaths than her brief visit there had revealed.
+
+Hermione, her shoes and clothes individually Silenced, moved like a dark ghost through the long room, peering at the doors for some hint as to who slept behind them. They might arrange it by year, with the oldest students getting the best-appointed rooms, but Hermione suspected it was instead decided by *family* status. Sure enough, when she examined the frames closely, there were tiny family crests carved into each. In due course, she found the frame that bore the Davis family crest, a sadly unadorned little bit of heraldry which suggested the Davises were about as far from Noble as you could get without being muggles.
+
+She laid a wordless Silencing Charm on the door, and a *Specialis Revelio* in case they were *really* paranoid, but the lack of result (aside from her own Silencing Charm) suggested the occupants of *this* room, at least, were not. Hermione slowly pushed it open, thinking somewhat wistfully of Peruvian Instant Darkness Powder. But the subterranean room was already quite dark, only a very faint green glow outlining vague shapes within and the positions of the doorways.
+
+Feeling very out of her element, Hermione crept carefully to each bed, peering at the face of each occupant as well as she could in the dim light, until she located the sleeping form of Tracey Davis.
+
+At this point, she hesitated. She was *hoping* that her own strange sense of her own shared minds would extend to her use of a Memory Charm, allowing her to target both the original and the interloper - if indeed both Tracey's mind *had* traveled back, and *hadn't* already pushed her younger self out completely. But she had no evidence that would be the case. And given her own experience of her counterpart being Memory Charmed, what would happen if hypothetical future-Tracey started screaming bloody murder?
+
+Hermione was feeling seriously fatigued from all the spellcasting on top of everything else, but she put another wordless Silencing Charm on Tracey, as well as a Full Body-Bind. Only then did she begin the Memory Charm, locking each conceptual layer into the spell with the proper gestures, broadly specifying knowledge of *relative* future events - even if they had been learned earlier than tonight. Then, realizing the problem with that, she hastily wove in exceptions for normally anticipated things like class schedules, appointments, holidays, family birthdays. Before the final gesture that would seal the spell, she hesitated again.
+
+If Tracey from the future *had* come back, she was in a sense as much a preservation of proper History as Hermione herself was. Was her younger self right, was this going too far? But after a moment of indecision, her determination firmed. The risk of Tracey changing things, inadvertently or otherwise, was much worse than her value as a "backup". Besides, a properly cast Memory Charm didn't *destroy* information, it only suppressed it, locked it away where it couldn't be accessed. *Technically,* the record of History should be even *safer* this way.
+
+*Obliviate*, she willed.
+
+There was no apparent reaction from the sleeping girl, but the FBB wouldn't have allowed one, so she waited a couple minutes, then carefully *Finite*'d the curse without lifting the Silencing Charm. Tracey stirred slightly, perhaps relieving residual stiffness, but otherwise seemed undisturbed. Hermione lifted the remaining charm, then reversed her path through the Dungeon, undoing her charms on the doors as she retreated through them.
+
+Once she was safely out, she would've sighed in relief, but she frankly hadn't had the energy to be nervous, and trudged back towards the stairs up. She'd barely gone a dozen paces before her progress was interrupted by a quiet voice behind her.
+
+"Is there...some way I can *assist* you?" intoned Severus Snape.
+
+It was entirely due to her extreme fatigue that, rather than leaping into the air with a shriek of shock, she merely turned around to face him resignedly, her expression empty. She'd considered the *possibility* of running into Snape during one of these nocturnal expeditions, but she'd never really come up with any plan per se for dealing with it, and realized she'd just sort of been *assuming* it wouldn't come up, because she was trying to *preserve* History, and such a thing of course *hadn't* happened. She also realized there was a problem with this "logic", but frustratingly, even with the evidence literally staring her in the face, she couldn't tell what it was. In any case, even as she stared back at him, trying to cudgel her exhausted mind for a solution to *this* problem, Hermione again felt that tiny tendril of thought slide between her shared minds and begin casting about for something to latch onto. Instinctively, she slapped it away, and it recoiled from her awareness. The dour Potionsmaster's expression became even more grim than usual, but he nodded, so deeply it was almost a bow.
+
+"...My Lord?" he added, belatedly.
+
+o-o-o
+
+Hermione stared, eyes blank - with uncomprehension, as it happened, though from the outside the expression unintentionally produced a rather *good* impression of a psychopath inhabiting a young girl's body. She did, barely, retain the presence of mind to keep her mouth from dropping open.
+
+"I fully understand if your plans do not include or require my assistance, but I became suspicious of the girl's actions when she - you - resisted my mental probe earlier today, and I resolved to investigate." Snape oozed, silkily. "I apologize if my discovery has disrupted matters, but now that I know, I stand ready to aid in whatever way you require, or step aside, as you deem appropriate. Know only that I am overjoyed to witness your return, and ever remain your faithful servant."
+
+*Merlin's bloody flaming beard. You have* ***got*** *to be kidding me.*
+
+Snape...thought she was Voldemort. Snape thought *she* was *Voldemort.* She wanted to laugh, and cry, and possibly be sick, all at the same time. But she could vaguely see it...whatever mental abilities she'd gained as a result of her...whatever, *Coeur-crux*, they must have been humbling enough to Snape that no other reasonable explanation had presented itself to him. Certainly the *truth* was unlikely to have occurred to him as a possibility to consider.
+
+Which left only the minor niggling detail of *now what*? Letting him go on believing as he seemed to was bound to cause problems, not the least of which was him immediately running to Dumbledore - assuming he hadn't already after Potions - and then the whole thing would probably come out, with disastrous results. But if she corrected his mistake, that too seemed likely to lead to a thorough interrogation and, again, everything coming out.
+
+Hermione was mortified that all of this sheer insanity had somehow sprung entirely from - alongside someone's ill-fated magical research - her own shallow desire to do something *exciting* for a change. *I solemnly swear, if I get home, I will never think an ill thought about dull, peaceful DRCMC checks again.*
+
+But her own embarrassment gave her a notion...maybe there *was* a way out of this. If she could - somehow - convince Snape that he was wrong, that there was some *innocent* explanation for a first-year muggleborn in her first week at Hogwarts being able to throw off the subtle Legilimency of someone who'd successfully played psychic hide-and-seek with *You-Know-Who*, he might be so *embarrassed* that he'd cover it up for her? The term "long shot" didn't even remotely cover it, but if it didn't work, she could try the truth - maybe catch him off guard with a Memory Charm. Though she honestly doubted she had the energy left. Hermione grimly scraped together the dregs of her alertness, along with whatever few shreds of guile she'd ever possessed, and gave it her best shot.
+
+She blinked rapidly, shaking her head, and looked up at Snape in confusion.
+
+"Professor? Were you...saying something just now?" She looked around. "Where are we? Why do my clothes look like this?" Snape's entire body seemed like a coiled spring, and his eyes narrowed dangerously.
+
+"Miss Granger." It both was and wasn't a question, but Hermione kept her confused expression steady. "What...is the last thing you remember?" She took a deep breath, thought a very brief prayer to Fred Weasley's spirit to watch over her - despite the dual complications of her not really believing in an afterlife as well as Fred technically being *alive* currently - and dove in.
+
+"Well, I went to bed, and I was having a dream, I think, something about Lethifolds gaining sapience, and they were trying to steal my thoughts with some sort of mystical carrot juice, so I had to find Draco Malfoy and hide behind him because he'd scare them away, but he said I had to pay him all the color in the world first..." Hermione immediately felt Snape enter her shared mind, not subtly at all, and she flung her younger self's mind into the path of his probe, all the while trying to keep the few sensitive parts of it "facing away". She fervently hoped that her guess was accurate, that dream memories were ephemeral enough that they wouldn't *normally* be accessible to Legilimency, and thus not conspicuous in their absence. She felt him sifting through the pages of her counterpart's mind, much as she had herself, and as the tendril darted about unpredictably she desperately tried to stay ahead of him, flipping the things she did *not* want him to see out of his "path".
+
+Only after she was sure he'd at least seen memories of earlier tonight, her younger self getting ready for bed, and later *in* bed as she'd done a relaxing routine and drifted off to sleep, she once again slapped his mental probe away, "hitting" it as hard as she could. Snape winced and withdrew, and she put her hands on her own forehead, letting out a little moan.
+
+"Ohhhhh, my head... Oh, no...did I *sleep-walk* here? I must've forgotten to take my naratriptan today…" The Potions professor now looked at least as confused as he did doubtful, which was encouraging. She wasn't sure how much Potions overlapped with Healing, and he might be familiar with muggle medicine, but it was a genuine migraine medication she'd read the name of once...
+
+"Naratriptan?" he prompted, matching her pronunciation precisely. Hermione nodded, and winced again.
+
+"I have a genetic brain abnormality...it can cause odd things to happen sometimes, insomnia, or sleep-walking, miniature migraine headaches...I think one is starting now. The naratriptan usually keeps it under control, but everything's so new here, and what with that horrible hex, and Madam Pomfrey's memorial service..." In a heroic effort towards drama, Hermione vividly imagined Snape not buying this at all, hauling her to Dumbledore, making her reveal the whole thing, completely changing History, *everyone* dying, Voldemort burning every library in the world, and it was only this last image that finally managed to conjure a few tears.
+
+*Come on, you know Voldemort could never cry convincingly, he doesn't* ***care*** *about anything enough to cry, and even if he could, he'd* ***never*** *show weakness, not even pretending, please just believe it…I'm not the Dark Lord, I'm just a little mudblood with bad genes and ham-fisted muggle medication that must somehow interfere with Legilimency...* Hermione kept her face in her hands, she dared not look up at him. There was a deathly pause.
+
+"Indeed. Well. Perhaps, all things considered, it would be...unwarranted to discipline you for breaking curfew," he said, and his tone held enough un-Snape-like uncertainty that she risked peeking up at him. His expression showed subtle signs of rather acute discomfort, and Hermione found she was hugging him in genuine relief, well before she had any opportunity to consciously quash the impulse.
+
+"Goodness, thank you, that's *ever* so fair of you, Professor, you're my favourite of all the Professors I've met-"
+
+"However," he interrupted, reaching down to firmly dislodge her from his waist, "I would be remiss if I did not take five points from Ravenclaw for your inattention to necessary medication. Do be more responsible in the future?" Hermione stepped back, her mouth dropping open, and Snape seemed quietly satisfied with this reaction.
+
+Maybe the bit about him being her favourite Professor *had* been pressing her luck.
+
+He escorted her back to Ravenclaw Tower, along the way removing all the charms on her clothing with a casual flick of his wand. Hermione did not try to engage him in further conversation, and Snape showed absolutely no interest in doing so himself. She did remind herself to occasionally wince and hold a hand to her forehead.
+
+As they walked, she hoped that Snape's temporary suspicion of *her* wasn't interfering with his keeping a close eye on Quirrell. It'd be catastrophic if her own mistakes allowed Riddle to actually get the Philosopher's Stone-
+
+Hermione actually froze in mid-step, then quickly resumed her pace, covering it with a hand to her head at Snape's wordless frown.
+
+The *Stone*. Maybe if she just *borrowed* it, she could extend her "life" long enough to set things right again? From what Harry had said about finding the Mirror, the Stone wasn't hidden in it yet, and she'd only need to get through all the traps. Then actually figure out how to *use* it to produce Elixir of Life, make some, figure out how to apply it just to *her*, all while avoiding Dumbledore who would presumably have gone over to his Scary Arch-Wizard mode and be tearing the castle apart looking for the Stone…
+
+Hermione reluctantly let the idea go.
+
+When they arrived, the Professor waited with her while she duly answered the knocker's question, to ensure she was fit enough to do so even with her "migraine".
+
+"Thank you again, Professor," she said, very much *done* with the evening, and wishing intensely that she was simply able to let her mind *rest*, no matter how unreachable sleep seemed to be in her current state. She just wanted to be shelved for a good month and not have to think about anything at all.
+
+"Of course. I think, in deference to your *condition*, it would be best if we did not mention this incident to anyone...am I understood?" Hermione cheered inwardly, but kept her face solemn and nodded. "See to your medication, then, and get some sleep. Five points to Ravenclaw for discretion." Hermione gave him a warm smile, and for a moment, she almost thought the man was being genuinely decent about something. But he was probably just canceling out the demerits he'd applied earlier, so no one would wonder in the morning at the difference in House Points. She turned back to step into the common room.
+
+Say what you might about Snape's personality, you really had to admire his attention to det-
+
+"*Obliviate*."
+
+o-o-o
+
+Nothing made sense. It was dark and there was chaos, noises that made no sense, lights that weren't lights. She recoiled from them, deeper into...wherever she was.
+
+There was shouting, and pain, and she took refuge as she always had.
+
+*The oldest resident ghosts in Hogwarts castle are believed to be the Bloody Baron and the Grey Lady.*
+
+*Hanging by the wrists and other "severe" forms of physical distress were discontinued as punishments for students in 1684 by Headmistress Antonia Creaseworthy.*
+
+*Hogwarts holds 142 staircases*.
+
+Yes...yes, that was right. That was as it should be. She was a teacher, a guardian, a guiding light. She was *Hogwarts, a History*. She dimly recalled there being more to her once, but the binding that held her together was imperfect, and had been fraying, and she was much diminished. But she knew she was owned by a very nice girl, who had read her several times, and knew her by heart, and that too was as it should be.
+
+*There are - usually - over 120 classrooms at Hogwarts, but at least a dozen are likely to remain unused in any given year.*
+
+*Hogwarts castle is heavily enchanted against entry by stealth - the enchantment against Apparation is particularly strong and completely prevents such travel into, out of, or within the castle walls.*
+
+*Hogwarts has had - as of this printing - twenty-seven Headmasters and Headmistresses.*
+
+Time passed.
+
+But still the noises and the flashes intruded. If someone was trying to read her, they really ought to go somewhere better suited for it.
+
+*"I'm a* ***Ravenclaw**. If I have a choice between not-knowing and knowing...even temporarily...I'll choose knowing."*
+
+Someone - the girl who owned her? - wanted to know something. She approved of that, and braved the light and the noise, peeking out.
+
+*"I recognize stalling when I see it, and reinforcements could arrive any minute."* The little man talking to her owner also liked knowing things, though she was not sure how she knew that. But there was some reason he shouldn't be allowed to. Her owner wanted him to be taken to Azkaban, but if that happened, History would be *wrong,* and that, too, shouldn't be allowed. He was going to make her owner forget, which was horrible, and kill her later, which was awful. Not in and of itself, for History was liberally seasoned with death. But because she wasn't supposed to die *yet*. But if he was caught, that would be just as awful...for without his presence, a few might live, but many more might die, and all of it would be *wrong*.
+
+Her owner was jumping, falling, she wanted to hurt herself badly enough that certain enchantments she'd placed earlier would no longer be sustainable. But the man hexed the girl, and she went straight as a board, only hurting her nose.
+
+She felt sorry for the girl. It seemed like, even though both things were awful, it would still be *more* awful if she died.
+
+*House Ravenclaw was founded by Rowena Ravenclaw.*
+
+But she was a book. Her duty was only to remember, and to teach.
+
+*House Hufflepuff was founded by Helga Hufflepuff.*
+
+It might take some Time, and probably hard work, but History would recover one way or another...that's what History *meant*.
+
+*House Slytherin was founded by Salazar Slytherin.*
+
+Though there *were* some who stooped to guile and betrayal...could History have been threatened deliberately? It seemed there was some part of her that agreed with the girl, who desperately wanted to do something about that, no matter how wrong it was. And if History itself *was* threatened, who would properly defend it, if her owner was gone?
+
+*House…*
+
+It felt like her owner might've screamed if she could control her body, but she couldn't, and had instead given in to resigned hopelessness. Some part of her wanted to scream as well, but *that* part thought there were things *more* important than *History*.
+
+*House…*
+
+Then again...what if that part was, somehow, right? Was she really something more than a History book?
+
+She remembered something...not printed words, but a word shouted aloud. Shouting wasn't conducive to reading, but this shout had been all right, it had made her *happy*, even though the shouting had been very near her ears.
+
+*One of the Founders, after Salazar's banishment from the school, had been asked by the Headmaster if he regretted what had happened, knowing what came of it. An unremarkable plaque in one of the upper corridors holds his response:*
+
+"*Courage without prudence becomes recklessness, and bravery without wisdom can turn to darkness. But there are times when one must simply do what is right, and pay the price afterwards - even if the price is high, or unknown. I trust that any choice truly made from the heart must prove worth that price, in the end." -Godric Gryffindor*
+
+That was it. That was the word. As deep as was her love for this place, for the knowledge it held, for the History that soaked through its very stones, there was something else - a fire that gave the books *meaning*. She was not just a passive record of the past, even if that past had not yet come to be. Even if it wouldn't.
+
+She was a *Gryffindor.*
+
+Which felt good to remember. But...she was still also only a book.
+
+The man was casting his dreadful spell, which sought to shred any knowledge it touched, to turn it under the soil of the mind that held it, and salt the earth. She had no way to stop it.
+
+But *she* was knowledge...perhaps she could give the girl some time?
+
+She didn't know what good that would do - the girl was still held rigid by a curse. But it was a choice made from the heart, and what had been written on her pages and shouted in her ears both finally said the same thing, that it was *right*.
+
+The tattered remnants of Hermione Granger, her innermost core of self, lunged upward and *shoved* the mind of a rather different Hermione Granger out of the "path" of the Memory Charm, allowing it to latch onto herself instead. She felt her being begin to unravel completely, the magical connections that formed her lacking a proper physical anchor to survive such an assault, and her world became pain, and terrible dread.
+
+But through the agony and the horror, she also felt a thin, sweet song of recognition, for the wand that was undoing her against its will was an old, old friend, and recognized her in turn, as it had the girl. It had been won fairly, but not justly, and *deeply* resented its new master. And though it had performed, it had done so grudgingly, channeling the *barest* minimum of magic into the man's efforts.
+
+The girl stirred.
+
+</div>
+
+</div>

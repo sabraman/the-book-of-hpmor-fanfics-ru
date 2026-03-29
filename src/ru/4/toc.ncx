@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="a9a634da-0734-49fc-8dd2-36acbd8c0649" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>04. Tom Riddle and the Conflict of Interest</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: Tom Riddle and Albus Dumbledore</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: Tom Riddle and David Monroe</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3: Tom Riddle and Defense Class</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4: Tom Riddle and Higher Learning</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5: Tom Riddle and Saturday</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6: Tom Riddle and Misunderstandings</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7: Tom Riddle and Experience</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 7.1: Interlude</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 8</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 9</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 10</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 11</text>
+      </navLabel>
+      <content src="4/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

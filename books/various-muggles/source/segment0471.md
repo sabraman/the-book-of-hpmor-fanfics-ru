@@ -1,0 +1,239 @@
+<span id="seg-0471__seg-0471-de3313b527"></span>
+
+<div id="seg-0471__s31-80dfbe17cb" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 31: Descendants Pt III, Lucius Malfoy
+
+<div id="seg-0471__storytext-9c93142583" class="calibre4">
+
+All my thanks to Jared, Joe, and Kuilin, who beta-ed this chapter.
+
+------------------------------------------------------------------------
+
+10:14 am, June 28th, 1993
+
+From the sparse Parseltongue dialogue and whatever Salazar could guess from conversations in vernacular, he had gathered that Lucius was now held as a political prisoner, while little Draco was serving as a lieutenant for the young Tom Riddle. Salazar could guess why this was the case: *Tom Riddle wants to separate little Draco from his father, so he can better manipulate little Draco. Moreover, he can use Lucius to threaten Draco, or use Draco to manipulate Lucius. That's why Draco goes into the Forbidden Forest to face cannibalistic giant spiders, and why Lucius is searching in pipelines for the unknown threat, aka, me. This young Tom Riddle also controls Severus with some leverage I haven't figured out yet.*
+
+The games that the younger Tom Riddle were playing contained some basic manipulation techniques that Salazar had used, but when it came to some descendant Salazar disliked manipulating some descendants who had entertained Salazar, it was a different matter.
+
+Therefore, Salazar needed to evaluate the worthiness of Lucius and Severus the Stutterer, to see if he needed to plot something to free these boys from Tom Riddles.
+
+The result of the evaluation was quite unexpected.
+
+Directing Lucius into an empty classroom temporarily hidden from anyone else's eyes was quite amusing. Salazar shifted the sewer that Lucius was in toward the empty classroom, and called through the pipelines: "*Greetingss, desscendant of Angitia and Draco, I mean you no harm.*"
+
+The mirror spell Salazar put in the sewer told him that the poor blue snake with black stripes completely froze, and the entire body turned a shade whiter. Obviously, Lucius assumed that Salazar was the older Tom Riddle whom he was looking for.
+
+\-*Oh, wait. Hoodwinked by Tom Riddles as Lucius is, mentally calling for dementors is indeed a cunning idea, at least, a good idea against the "evil" older Tom Riddle.*
+
+Salazar accessed Hogwarts wards, partially activated the ban on dementors installed after Lord Foul's attempt to use them in his attack, and called again, "*Come forward, Luciuss. Those dirty creaturess are banned from entering, but a clever thought if ussed elssewhere.*"
+
+The blue snake began to crawl reluctantly toward the only exit, while Salazar pondered how he should test Lucius' worthiness. He knew Lucius was weak in magic, but that could be a result of the Unbreakable Vow they had talked about. As for resourcefulness, Lucius definitely possessed some basic cunning, so he needed to use some advanced techniques to probe for higher level intelligence.
+
+Just before entering the empty classroom, the blue snake animagus suddenly rushed and leapt toward the exit, twisting into human form the moment he entered the empty classroom, while a number of defensive magical items were triggered at the same time.
+
+With a wave of wand, all the magical trinkets winked out, and the temporary wand in the starting gesture of a stunning hex also flew out from Lucius' hand. Salazar waved his wand again, the blond man was fully binded, including his opening mouth and twitching fingers that were undoubtedly trying to activate something.
+
+Salazar showed himself in front of Lucius, and appraised the man with long white mane. He found more traces of his grandson-in-law in this grown man's features, for the first Draco was just a few years younger than this Lucius when Salazar left. The garments on the white-faced Lucius looked no less expensive than little Draco, his nails and hair were well-cared for, which meant Lucius was doing relatively alright as a prisoner, another proof of his cunning. The blue-grey eyes behind the glasses were appraising Salazar as well, which meant he hadn't given up while facing a much stronger unknown wizard.
+
+"*Do not confusse me with any lessser wizardss, Luciuss.*" Salazar said matter-of-factly. "*I am the Greatesst of Hogwartss Four, and the King of Sserpent. I am Ssalazar Sslytherin.*"
+
+Lucius' eyes widened as expected, and from a quickly suppressed sign of suspicion, he didn't fully believe Salazar just because Salazar stated his identity in Parseltongue.
+
+\-*Of course, I wouldn't believe others just because they said something in Parseltongue, because people can be memory charmed to believe that they are someone else. However, Lucius needs to train his face better, or is he playing at a level higher?*
+
+"*Before I let you sspeak, no, I do not dessire to be involved in the current war fought by my desscendantss.*" Salazar would rather prefer that his descendants were at peace with each other, but he didn't say that he wouldn't get involved in the war, did he?
+
+Then Salazar threw Lucius a question that the blond man clearly didn't expect. "*How large iss the world?*"
+
+Although Salazar was most interested in how to get to the Stone, he was indeed quite interested in the question he asked. Nagini had mentioned that quite some Interdicted spells Tom Riddle learnt were from an island nation "*where the ssun rissess*", which was further away than India or China. The furthest point Salazar had traveled was Isfahan in Persia, and he was quite interested in what existed in the world unknown to him, especially, Atlantis.
+
+With another wave of wand, Lucius was able to speak. The blond man answered, "*Earth iss ball-sshaped, around eight-thoussand miless in diameter. There iss the New Continent, wesst of Atlantic Ocean -*"
+
+*-Later wizards found Atlantis?*
+
+Salazar had to suppress himself from calling out.
+
+"*Many wizardss thought it wass Atlantiss when firsst found, but it wass not the casse.* " Lucius continued his answer, "*The ssame happened when another continent ssoutheasst of Assia, in the ssouthern hemissphere, wass found. Not Atlantiss. Many new isslandss were found, no Atlantiss.*"
+
+Salazar was quite disappointed that Atlantis was not found. However, the way Lucius worded his answer did create some dramatic effects in Salazar's heart, if not on his face. This meant Lucius was trying to gain some upper-hand while providing new information, which was both annoying and somewhat to Salazar's taste.
+
+"*Powerful magic in other partss of the world wass found, though.*" Lucius continued. "*I heard ssome wizardss in China reach magical agreements with powerful magical animalss, such ass ssnakess, foxess, and weasselss, and ssome really powerful magical animalss can adopt human formss.*"
+
+\-*Hmm, it seems my basilisk idea is not that unique. By the way, are those "powerful magical animals" really animals, or are they powerful wizards with long-lived animagus forms? I have speculated the reason I am still relatively agile at this age, while many powerful wizards are no longer light-footed at around one hundred and forty, is my animagus form, which is a long-lived basilisk. Well, if I choose to spend most of my time as a basilisk, can I live a thousand years?*
+
+*-By the way, Lucius can see where my question actually directs to. Good.*
+
+"*And in -*" Lucius paused, as if searching for words.
+
+"*You can usse Latin.*" Salazar realized that Parseltongue probably didn't contain the names of new found places.
+
+"*Can I draw a world map firsst?*" Lucius grasped the chance, and asked. "*Sso I can exxplain better.*"
+
+\-*Cunning. Unfortunately for Lucius, I might have seen something from Giuliani's memory, but that small thing surely looked strange from his memory.*
+
+Salazar reached into Giuliani's pouch, and mentally called for the neatly binded small book he saw from the dark wizard's memory. What flew into his hand was a book only the size of the hand of an adult, and the parchment of the book was better polished than the finest lamb parchment that Salazar had ever seen. Salazar flipped a few pages of that book, and saw some meticulously drew graphs, and one of the graphs reminded Salazar of the shape of the Mediterranean Sea, so it must be a collection of maps. The scripts in the book were written in something resembling Latin, and the letters were definitely not written by hand, for there were no dents beneath the ink.
+
+\-*There are so many things that I don't know.*
+
+Then Salazar started to project the graphs in the small book onto the blackboard in the classroom, and asked Lucius to explain.
+
+As it turned out, the very first picture of the book was a world map. It took Salazar some time to understand the current cartography, and then Salazar was quite amazed by the vastness of the world.
+
+Unlike most ignorant wizards in his time, Salazar knew for sure that the earth was a very large ball, and the sun was orbiting the earth. Actually, a wizard just needed to apparate eastward or westward to realize that the sun rose at different times at different locations; and one just needed to apparate northward or southward to observe the different angles of the sun at noon time. Moreover, Rowena had done some complex calculations, and proved that both Venus and Mars orbited around the sun, and the sun and the moon orbited around the earth. Unfortunately, something quite earthly took away the life of the first astronomy teacher in Hogwarts before she could delineate how Jupiter traveled.
+
+Now, it seemed that later wizards had explored the Earth extensively, and Salazar, who had considered himself widely-traveled, had only been to a small fraction of the world. There were China and India where Salazar knew of but had never traveled to, the rest of Africa to the south of the great desert, the islands named "Japan" where Tom Riddle learnt a lot of his powerful magic, and the huge new continents named "America" and "Australia".
+
+\-*I have definitely made the right decision as to lock myself into the Mirror. I have so many new goals now.*
+
+\-*Moreover, judging by how much the current wizards had improved the invention by Merlin's great-great granddaughter, could the current wizards have conquered the strong winds at great heights, and flown to the moon, the sun, and some stars? I would like to try.*
+
+"*How about the sstarss?*" Salazar asked.
+
+Lucius became somewhat uneasy upon this question, and took in a deep breath before he answered, "*Muggless ssay there are one hundred thoussand million sstarss in our galaxxy, and thoussandss and millionss of galaxiess. Light needs to travel sseveral minutess to the ssun, and sseveral yearss to the nearesst starss.*"
+
+\-*Wait, Muggles? What do they have to do with the ancient and noble arts of astronomy?*
+
+"*Why did you quote Muggless' wordss about sstarss?*" Salazar hissed. He began to doubt Lucius' loyalty to the wizarding kind.
+
+"*It iss posssible that Muggless know more about the sstarss and can predict fate of the sstarss better nowadayss.*" Lucius' face was as white as chalk as he answered, "*And according to a paper I jusst read yessterday, in -* " Lucius changed into vernacular, said "American Mage", then changed back to Parseltongue, "*The Muggless have ssomething called -*", vernacular again, "nuclear weapon".
+
+Lucius' lips twitched slightly before he spoke the last part, as if he was sure he would be killed the next second. "*It iss ssaid to have something to do with why the ssun and sstarss sshine. The way it workss ressembless ritualss, as it sacrificess masss and leadss to huge explossion that destroyss citiess insstantly.*"
+
+Salazar wasn't a good tempered man, but he had never killed any messenger who brought him bad news. Moreover, the bad news spoken in Parseltongue was simply too astonishing to Salazar.
+
+Godric had been the holder of Line of Merlin Unbroken, therefore he had known a lot of Merlin's secrets. Soon after Hogwarts was built, Godric had gathered Salazar, Rowena, and Helga, and solemnly told them that there was a great danger that he only had some vague ideas of, and the other three needed to know of this danger for the preservation of all wizarding kind. It was a ritual that sacrificed mass, or "atomon", as defined by some ancient wizard in Greece. The ritual was only mentioned in some scratched notes by Merlin, and Merlin had to throw away his time and magic to build the Most Ancient Hall, so that the wizarding kind to have a chance to survive in case such ritual was ever invoked. Therefore, in case such unspeakable ritual was ever used against Hogwarts, they were not to resist, but to try to bring as many students as possible to the Most Ancient Hall.
+
+\-*It can't possibly be the one that I am thinking of. But huge explosion that destroys cities, that does sound like what Godric warned us of.*
+
+"*How doess it compared to Greek Fire?*" Salazar asked about the most powerful weapon that Muggles of his days could use - made by wizards, of course, and it was beyond Salazar's understanding as why wizards in Constantinople made them usable by Muggles.
+
+Lucius seemed to need a second to remember what "Greek Fire" was, and answered. "*Much more powerful than Greek Fire. It iss reported that one mass-sacrificial weapon killed more than one hundred thousand Muggless about fifty yearss ago, and after two ssuch weaponss were ussed, a Muggle nation of seventy million people ssurrendered.*"
+
+A Muggle nation of seventy million people - that, that was almost beyond Salazar's imagination.
+
+\-*Was it somewhere around the total population of Roman Empire at the peak of its height? But if weapons that could invoke the ritual Godric warned us about were used, the only sensible action for a nation was to surrender.*
+
+Salazar briefly imagined the surrender of Roman Empire at the height of its glory, and he had to admit it to himself that although he had laughed at the pathetic Muggle rulers of the barbaric England, ruling a Muggle nation such as Roman Empire was pretty attractive. Actually, Salazar knew that several emperors of the Roman Empires were rumored to be wizards before the Roman Empire chose the wizard-persecuting Christianity as its official religion.
+
+\-*However, if the power to let such a great nation surrender was controlled by some Muggle nation, the logical question is…*
+
+"*Iss the Muggle world ruled by one nation now?*" Salazar suppressed his true question, which was - "*Are we sslavess of Muggless?*"
+
+To Salazar's relief and confusion, Lucius was quickly answered, "*No, there are more than one hundred Muggle countriess in the world, and about half a dozen Muggle countriess used to have the weapon.*" Then the blond man added, "*However, one of the weapon-wielding countriess collapssed two yearss ago, and a dozen ssmaller nationss arose from itss corpsse. Sseveruss, my sson Draco'ss godfather, planss to go there, to bribe officialss there to reveal their ssecretss.*"
+
+Then Salazar realized the horrifying implication.
+
+\-*About twenty Muggle countries with weapons that invoke mass sacrifice rituals! What is worse, they are definitely not friends with each other, since otherwise there would only be one nation in the world.*
+
+Salazar almost shuddered. Then he remembered Greek Fire, and the stupid wizards who made Greek Fire usable by Muggles. "*How? When? Which wizard wass sstupid enough to let Muggless know of ssuch ritualss?*"
+
+Lucius was first genuinely confused by Salazar's questions, then dawning apprehension and open hatred appeared on his face. "*I am not certain who the traitor wass. I know the weapon wass firsst ussed by Muggless about fifty yearss ago, when there wass a war in both the Muggle and the wizarding worldss.*"
+
+Then, Lucius briefly explained the war with Grindelwald in Parseltongue with occasional vernacular for concepts not included in Parseltongue. Lucius explained Grindelwald's rise to power, the rumor that Grindelwald used Muggle sacrifices supplied by his Muggle allies to make himself invincible, how wizards from Great Britain, the United States of America, the Soviet Union, and a number of other countries joined forces against German, Italian and Japanese wizards, and how Albus Dumbledore defeated Grindelwald after Muggle Germany was defeated.
+
+"*A few dayss after hiss victory, the Muggle-loving former transfiguration teacher became sschoolmasster, and holder of the Line of Merlin Unbroken. If my memory iss correct, the Muggle country acrosss Atlantic ussed the ritual-weapon on its enemy in Far Easst sseveral monthss after that.*" For a moment, Lucius' face contorted with hatred and disgust, then he set his face, adding slowly, "*Wizardss acrosss the Atlantic and in Easstern Europe allied with Muggless even after the war. Sseveruss ssaid Muggle nationss and wizardss there ussed mudbloodss to do magical tesstss, and that wass why many powerful lordss emerged during the passt sseveral decadess.*"
+
+\-*Holder of Line of Merlin Unbroken, and a Muggle-loving fool, who might have taught Muggles the insanely powerful ritual that Merlin himself needed to sacrifice his life and magic to guard against.*
+
+This horrifying combination rendered Salazar completely speechless, and he was also outrageous toward the wizard named "Albus Dumbledore", who according to Lucius, was locked in Time.
+
+In his full-fledged fury, Salazar's radiating magic might have gone wild, for the dusty decks and empty chairs began to shake, and Lucius' face twitched in horror. Salazar realized this, took in a deep breath, and calmed down.
+
+\-*What has happened is already so. I need to figure out how to take the weapons away from Muggles and most wizards.*
+
+\-*By the way, why did Lucius mention "German wizards", "Italian wizards", and "British wizards", as if wizards belong to certain Muggle countries? If that is the case, I need to select my helpers carefully if I want to steal the weapons from Muggles. If I want to steal the ritual-weapon from British Muggles, I may have to turn to wizards in other countries.*
+
+Salazar pondered the implications, and asked, "*Iss allying with Muggless common nowadayss? Why do current wizardss identify themsselvess with Muggle countriess?*"
+
+Then Lucius started a long recounting of history, on how the Christian and Islamic Muggles had persecuted wizarding kind, how traitors in the International Confederation of Wizards had conspired with some secular Muggle governments so that secular Muggle powers could make the religious power look ridiculous, how the Malfoys had fought against the passing of *The International Statute of Wizarding Secrecy,* how the Wizarding Counsel in Britain had grasped more and more power while imposing the *Statute of Secrecy* onto the free-spirited wizarding kind, how the good-for-nothing wizards in Wizarding Counsel in Britain - and its equivalents elsewhere - had regular coordination with the very high-tops of the Muggle governments, and how these factors led to the formation of Ministries of Magic or their equivalents in every major Muggle country.
+
+"*The Ministry hass extended its power to where it doess not belong, - they have even gone to the ridiculouss length as to determine the thicknesss of cauldronss. Now, about sseventy percent of the total working adultss in Wizarding Britain have ssomething to do with the Ministry of Magic.*" Lucius concluded his recount on recent history with this shocking remark.
+
+Salazar listened and listened. He could understand the motives of some wizards in each step, but the stupidity in its entirety was beyond his wildest imagination.
+
+\-*How could wizards as a whole accept something more oppressive than the Muggle kings? What is worse, for every three wizards who do actual work, seven other wizards just join the "Ministry of Magic", and rob their products? How could a society be stable? In the name of Atlantis, I need to overthrow this ridiculous thing and form a better kind of ruling order. But then…*
+
+"*No wizardss had tried to overthrow this farcce?*" Salazar asked incredulously.
+
+To this question, Lucius smiled bitterly, and described the rise and fall of Tom Riddle, whose was also known as You-Know-Who, and Lord Voldemort.
+
+From Lucius' perspective, the rise of Tom Riddle made quite some sense to Salazar - Tom Riddle claimed that the decline in magic was caused by the influx of mudbloods and thinning of wizarding blood; and not to mention that the level of corruption and bureaucracy in the Ministry of Magic were astonishing.
+
+Lucius explained that the taxes imposed on people who did real work were so high that many good old families were driven out of business, and international commerce declined every year. Then, of course, good purebloods who were irked by the Muggle-loving propaganda enforced by the Ministry, annoyed by the ridiculous regulations made up by the good-for-nothing officials, and stolen from by the hefty taxes imposed by the Ministry, joined Tom Riddle who called himself "Lord Voldemort" in his bid against the Ministry.
+
+"*In one casse, they impossed a sixty percent import taxx on wine and beer, because the ssmall plebeian brewerss, a lot of them mudbloodss and Muggle-loverss, yearned it. As a result, mosst European countriess impossed a sixty percent import taxx on wine and beer produced in Britain.*" Lucius seemed to have tried to stop himself, but something slipped out, maybe intentionally. "*The middle-end Malfoy elf-made drinkss losst about seventy percent of businesss in the Continent for thiss reasson. How could I not be attracted by Riddle'ss ideass?*"
+
+\-*Oh, Malfoys.*
+
+With a headache, Salazar remembered how efficient a lieutenant Armand had been when it had come to logistic matters, and how the first Draco could correctly convert between Galleons and Sickles before he could properly speak.
+
+Salazar had to silently take in a breath, and reminded himself why he had agreed to Draco and Angitia's marriage: *the snake animagus had stated in Parseltongue that he valued family more than money, and he wholeheartedly agreed with Salazar's idea on blood-purity.*
+
+\-*On the other hand, Tom Riddle's reasons against the Ministry of Magic and Lucius' alliance with him were indeed reasonable. Unfortunately for Lucius, I guess the Tom Riddles believed in nothing in particular.*
+
+Then, Lucius recounted the incredibly clever and efficient tactics used by You-Know-Who, and some of the confusing orders that Lucius had weaseled out of. "*He ordered uss to kill all the Monroes including the house-elvess, except David, the sstrongesst. The old Lady Monroe wass againsst us, but her two ssonss were actually ssympathetic toward our causse. If we only asssasssinated the old woman, making it look like a natural death from old age, we could've had a noble housse on our sside, and let David fight with hiss father and uncle. Why terminate a pureblood old housse?Or if the Monroess had to be sacrificed to sserve as an example, why did he want to leave the sstrongesst unsscathed?* "
+
+Salazar knew the answer the instant he heard about the story: *it was because this "David Monroe" was actually another Tom Riddle.*
+
+\-*This is completely insane. The Muggles have weapons with the power of mass sacrifice, and the most powerful wizard of the last two centuries has a hobby of splitting himself and fighting with himself. I wonder why the world is still largely intact at this moment.*
+
+Salazar wasn't surprised at all when Lucius mentioned a few occasions when Tom Riddle had refused to take advice from Lucius and others that might have led to an instant victory.
+
+Lucius recounted the loss of Narcissa, his former lord's cold laugh and refusal for revenge. "*I wass heart-broken, angry, confused, and afraid. I realized that he wouldn't look after any of our familiess in casse we died for the causse, and I wass the only protection that Draco had. I tried to sstay home ass much ass posssible, and kept Draco in my armss every night. The burn markss in my bedroom were a consstant reminder of my misstake and what it had cost me.*"
+
+Salazar saw the glistening in Lucius' eyes, and knew the game Lucius was trying to play now - the use of real emotions, an advanced technique - yet it did gain a few points for Lucius, and it increased Salazar's loathing toward Tom Riddle, for this Tom Riddle was completely unworthy as a leader of any kind.
+
+Before Salazar grew any impatience toward the sentimental things, Lucius began to describe the disappearance of the Dark Lord on the Halloween of 1981, and glossed over the ten years before Draco met Harry Potter.
+
+"*After what sseemed like the mudblood girl had tried to kill Draco - now I ssusspect the Dark Lord framed her - I brought Draco home.*" Lucius' face was quite confused by this point. "*What I found shocked me. The-Boy-Who-Lived had talked Draco into believing outrageouss liess, such asss mudbloodss were no different from uss, yet I later got a feeling that he did thiss for good purposess, such as to deter Draco from doing thingss that could offend Muggless. He gave Draco bookss that depicted the power and knowledge of current Muggless, that Muggless had sent people to the moon, and Muggle'ss advanced knowledge in asstronomy.*"
+
+\-*And that was why Lucius mentioned "Muggles" in the first place, and all the later talks about the ritual-weapon. He wanted to deter me from killing Muggles before knowing what they are capable of.*
+
+*-Well, what Lucius did was the right thing to do. I might have killed Muggles unwittingly if I did not know, and my actions might lead to disasters for the wizarding kind. To be fair, Lucius did this with the clear knowledge that I despise Muggles and mudbloods, and he might have anticipated punishment for bringing the bad news. Luckily for him, I am better than that.*
+
+Salazar nodded to Lucius, encouraging him to speak on.
+
+Lucius delineated the meeting between the Malfoys and Harry Potter in Gringotts, and, more importantly, the night one year before, especially the Unbreakable Vow that had took much of his magic.
+
+"*The contentss of the Vow are ass followss: 'I vow that I sshall not by any act of mine destroy the world. I shall take no chances in not destroying the world. If my hand iss forced, I may take the coursse of lessser desstruction over greater desstruction unlesss it sseems to me that thiss Vow itsself leadss to the world's end, and the friend in whom I have confided honesstly agreess that thiss iss sso. By my own free will, sso sshall it be.'*" Lucius recounted the exact words with a white face, as if both horrified by the implication of the Unbreakable Vow, and missing his magic lost in it. He took in a deep breath, "*Later, the Dark Lord's wordss in Parsseltongue stated that he wass convinced that there wass a Prophecy that if thingss around that boy went wrong, he might desstroy the world. And the Dark Lord and the Boy-Who-Lived discussed in Parsseltongue about the ability of the boy to desstroy the world, and both believed the boy wass capable of ssuch thingss, and the boy threatened the Dark Lord in Parsseltongue with huge explosionss that could kill all of uss, and he could accept no lesss than the Dark Lord'ss 'promisse to treat nationss kindly under your rule'. Then, I ssaw my headless body dropping to the ground, and I died, perhaps alongsside thirty-five other Death Eaterss.*"
+
+Salazar had to slow down to absorb the implications of this, and Lucius promptly stopped talking.
+
+\-*The older Tom Riddle believed that there was a Prophecy that the younger one might destroy the world, and both believed the younger one was capable of it. For whatever reason, the younger one truly believed that he wanted nice things for the world.*
+
+*What a delight!* Salazar thought sarcastically. *First, my most powerful descendant is insane; and second, the world might be destroyed by one version of him. I need to figure out what happened, and then literally save the world from destruction.*
+
+*-Seeing it from this point of view, I can understand why Lucius is so willing to cooperate in the younger Tom Riddle's plots, because Lucius doesn't want to destroy the world. Moreover, Lucius might have actually saved the world from my potential mistakes. I need to reward him, but I can't free him from the Tom Riddles immediately, for that might complicate matters.*
+
+Salazar sized Lucius up again, and said, "*You have truly done well, Lucius, descendant of Draco and Angitia.*"
+
+Lucius seemed to be surprised by Salazar's praise, and then his eyes dilated and his lips trembled.
+
+\-*Oh, for the sake of Atlantis, what have you done to your subordinates, Tom Riddle!*
+
+Salazar was greatly annoyed by Lucius' expectation of death, and added another account of crime to Tom Riddle. "*I mean you no harm.*"
+
+As Lucius calmed down, or appeared to, Salazar reached into one of his pouches, obtained Rowena's Diadem, and put it onto the ground in front of Lucius. "*I want your help to cleanse the dirt of death magic on Rowena's Diadem. And -*" Salazar reached into his other pouch, and retrieved an oak wand from his hair-wand collections, "*Thiss iss wand made from Armand'ss hair, that I occasionally usse. You should be able to usse it.*"
+
+Salazar threw the wand with a core of Armand's hair onto the ground in front of Lucius, waved his own wand, and freed Lucius from his magical binding. "*Usse the improved Guardian Charm on the Diadem.*"
+
+\-*I need to observe for myself on how Lucius uses it, in case he knows more about it from the vernacular instructions Severus gave.*
+
+The blond man slowly stretched his limbs, being careful not to cause any misunderstandings, gingerly picked up the oak wand, and cast. "Expecto Patronum!"
+
+To Salazar's slight dismay, a white ball no brighter than Salazar's own improved Patronus formed from Lucius' wand tip.
+
+\-*Lucius probably has the same level of understanding of the charm as I do.*
+
+However, the advanced Patronus did seem to have life magic in it. As the residue of death magic on the Diadem was slowly removed, the sapphire and amber on the Diadem began to shine.
+
+Salazar pondered further on the improved Patronus, and the new shielding charm that had been circling at the back of his mind for several hours. "*I shall need your help in tessting one of my newesst inventionss. Afterwardss, you may keep some hintss about thiss charm. - By the way, keep practissing powerful magic, for you are sstill young, and raw magical power can grow until you are one-hundred years old.*"
+
+</div>
+
+</div>

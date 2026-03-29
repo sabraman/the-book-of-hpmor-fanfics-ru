@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="9fb64b08-c278-4041-b02c-ebd1abcd74a9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>10. Hermione Granger and the Perfectly Reasonable Explanation</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 0: Prologue</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 1: Statistical Sampling</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 2: A Short Visit</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 2.1: Interlude - Introductio Consectandus</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 3: Needful Things</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 4: Revision</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 5: Partition Problem</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 6: Unexpected</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 6.1: Interlude - Dubius</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 7: Discrepancies</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 8: Interpersonal Development</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 9: Independent Study</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 10: a Poor Sort of Memory</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 11: Perspective</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 12: Leverage</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 13: In Memoriam</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 14: Lavatorial Correspondence</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 15: Responsible</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 16: Building a Better Rat-Trap</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 17: Gang Aft A-gley</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 17.1: Interlude - Tempus Torqueri (1 of 2)</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 17.2: Interlude - Tempus Torqueri (2 of 2)</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter 18: Struggle</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter 18.1: Interlude - Quod Sequitur</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter 19: Disclosure</text>
+      </navLabel>
+      <content src="7/OEBPF/content/s25.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

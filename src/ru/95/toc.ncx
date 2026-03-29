@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="40d3746d-9af1-460c-b21e-167419620477" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>95. Harry Potter and the Save-or-Die</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: Decease and Desist</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: Old Friends</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3: Know Thyself</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4: Dragon in a Half-Shell</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5: City of Light</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6: City of Magic</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7: Magnum Opus</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 8: Boss Room</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 9: The Fourth Mistake</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 10: The Dogs of War</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s26.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 11: No News is Good News</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s27.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 12: Hot Fuzz</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s28.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 13: Passing Notes</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s29.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 14: The Hogwarts Express</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s30.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 15: The Tour Guide</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s31.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 16: Safer Justice Practices</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s32.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 17: Stones and Windows</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s33.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 18: A Better Story</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s34.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 19: The Grim and the Grave</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s35.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 20: Auld Reeky</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s36.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 21: Light Treason</text>
+      </navLabel>
+      <content src="2/44/OEBPF/content/s37.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

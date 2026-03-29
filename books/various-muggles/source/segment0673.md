@@ -1,0 +1,225 @@
+<span id="seg-0673__seg-0673-477bbea120"></span>
+
+<div id="seg-0673__s26-5c4bad0435" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 58: Bluff and Double Bluff, Pt 5
+
+<div id="seg-0673__storytext-9c93142583" class="calibre4">
+
+*"Plotters never violate the Rule of Three, Father?"*
+
+*"They violate it all the time. The vast majority are idiots."*
+
+*"And what are the remainder?"*
+
+*"Desperate. Only the desperate take unreasonable risks."*
+
+*- Lucius and Draco Malfoy*
+
+------------------------------------------------------------------------
+
+*Monday, November 4th, 1991.*
+
+"Who can tell me what Generals Potter and Malfoy did wrong and why it is that General Granger earned ten Quirrell points in yesterday's battle?" Professor Quirrell's voice resonated throughout all of the Defense hall, echoed by the monitors in front of each student. Draco's head tilted almost imperceptibly downward as he felt a stab of shame. The shame of losing, publicly losing.
+
+*Bad enough to have lost at all, but to a Mudblood?* Draco berated himself for a moment, as he'd been doing since losing the first battle to Hermione Granger the day before. But then he heard the voice of Father, who sometimes spoke inside of his head.
+
+*Anyone may lose, my son. I have lost. A dozen Lord Malfoys have lost innumerable times throughout history. There is no shame in losing. Only shame in admitting defeat. Lose in battle, never lose faith.*
+
+Draco raised his chin to compensate for the earlier drop, then raised it more. His hand shot up, joining dozens of others. He noticed that Hermione wore an annoyed look on her face.
+
+Professor Quirrell turned towards Draco and paused in his relentless to-and-fro across the front of the room. "Yes, Mr. Malfoy? Tell the class your mistake."
+
+"General Potter and I underestimated General Granger. She's apparently overcome her lack of fighting spirit," he said with a practiced bemusement, earning chuckles from the class. Vincent let out a snort that Draco now recognized as a measured ironic comment. Mr. Crabbe sported a surprisingly nuanced sense of humour.
+
+*Thank Merlin for the lessons in public speaking,* Draco thought, not for the first time today.
+
+"Correct," said Professor Quirrell, drawling the word out where others would pause, "but not complete. General Potter?"
+
+"General Granger delegated and trusted her troops more, instead of having a rigid command structure," Harry Potter said, with an embarrassed look on his face. *This hurts him, admitting his errors, and he doesn't hide showing it.* It also struck Draco as an odd statement, at least if what he'd heard about the Chaos Legion's fluid command structure was true. Still, he'd noticed Harry's precision about his words. Perhaps General Potter was admitting more (and less) than first appeared. *Perhaps Harry delegated, but didn't really trust them.* Draco filed away the thought for further review.
+
+Professor Quirrell's voice ended Draco's reverie. "Also correct, although delegating and trusting carry their own dangers, One example is the problem of communicating and coordinating in a rapidly changing environment. Ah, I see that *Neville of Chaos,*" at this Professor Quirrell's thin lips turned ever so slightly upward, "has my answer."
+
+Neville Longbottom let out a deep breath, like he'd been holding it. "When General Granger's army was revealed to be alive, they didn't adjust their strategy."
+
+Professor Quirrell's head tilted ever so slightly to the side, like a bird interested in a shiny rock. "They formed an alliance, Mr. Longbottom, whereas just before General Potter had been employing a muggle device to eviscerate General Malfoy's shields. Which reminds me, I disallow muggle devices in the future, Mr. Potter. While I admire the cleverness behind it, it hardly strikes me as sporting to your fellow students for you to reach into your bag of tricks and"
+
+"But General Malfoy was..." Harry started up.
+
+"This is the Hogwarts *School of Magic!*" Professor Quirrell retorted, spinning to face Harry. His volume dropped back to normal, and he resumed his typical soothing lecture voice as he smiled.
+
+"I only mention that in case it had slipped your mind, Mr. Potter. So if General Malfoy spends his time in the library," and with this, Professor Quirrell's smile broadened noticeably, and Draco felt a thrill as the Professor nodded in his direction, "studying supposedly-advanced spells that are clearly within the range of abilities of first year students - no matter what the Ministry says - then you can understand why I consider that a perfectly legitimate advantage. One that any of my apprentices can learn, should they choose to exert themselves. Incidentally, students who *do* so choose will find that particular variant of the *Protego* spell in the standard book of spells, third year. Of which there are multiple copies are in the library. A fact that had surely not escaped General Granger's notice, I imagine. There are nine standard variants, not all of which are within your grasp."
+
+Draco followed Professor Quirrell's view as he swiveled his gaze to Harry Potter, who nodded and seemed satisfied by the answer. Professor Quirrell refocused on Neville. "Apologies, Mr. Longbottom, for my distraction. You say that the Generals did not modify their strategy, and I have responded that they formed an alliance. How do you answer that?"
+
+Neville seemed to be having a problem dealing with suddenly being the focus of attention again, but he blurted out, "That wasn't really new, though was it? They could have done that earlier, but simply choose not to."
+
+"Exactly," said Professor Quirrell, "allying was *required* for either of them to have a hope of winning, but it was not, by itself, up to the task. No doubt if General Potter had been thinking clearly he would have realized that he himself could have fixed the main weakness of General Malfoy's *Protego* spell - immobility - with his remaining troops. But he did not think of that. Apparently his cleverness is a limited resource, and he had run out."
+
+Draco could see the barb had struck Harry, who now appeared deep in thought enumerating ways he could have done better. Draco realized that the statement didn't feel like it applied to him. There were several interpretations. One is that he was subtly courting Draco, but that didn't seem likely.
+
+*Does Professor Quirrell not expect me to be clever, as well?*
+
+"It also strikes me odd that General Malfoy instinctively offered to ally with the apparently weaker of two sides," Professor Quirrell continued, sparing a glance at Draco. *That was my barb,* and Draco realized the truth of it. He'd never considered asking for Hermione's help. *It would never have worked, but Professor Quirrell is right.*
+
+"Perhaps I am wrong. Perhaps Harry Potter thought of several tricks and deliberately decided not to use them. Perhaps Draco Malfoy did consider allying with Hermione Granger and realized his offer would be rejected, and he would look foolish. Did he also consider bribing General Granger's troops? Perhaps with offer of money, or a favor, such as a date?"
+
+*He's truly evil,* Draco thought as Vincent let out another snort, and even Gregory sniggered.
+
+"I would have course applauded that. And then I would ban outside considerations, for the same reason I've banned muggle devices. And, to be clear, I am banning them from this point forward. But," Professor Quirrell paused, and this time there was no drawl, just a brief silence, "it is my suspicion - backed by considerable experience - that by that point both losing Generals were operating as though *Confounded.* The battle had raged on too long. They were in a desperate, unexpected situation. They were *mentally tired*. And at that point, they shut down and just took the path of least *mental* effort, despite the rather valiant magical effort displayed by all parties."
+
+Professor Quirrell seemed to be fading, and he slid into his leather backed chair, but still spoke forcefully. "I hope that you never are on the losing side of a battle, my young apprentices. But I cannot promise you this. I do not blame people for battle fatigue, but it is real, as you've witnessed. I cannot teach you how to overcome it - not in a classroom anyway - but if you recognize it on the battlefield, that alone may inspire you to continue. To persevere. To make one more mental effort. It is a difficult lesson and there is no shame in having to learn it the hard war. Most wizards never learn it at all."
+
+Draco glanced around the room. All the hands had fallen slowly down as Professor Quirrell had continued his lecture over the last few minutes, and many of the students looked thoughtful, at least among those not paying rapturous attention to the words being spoken.
+
+"If it is any consolation to my defeated Generals, I suspect that if they *had* produced such efforts, it would have been for naught. For the bleak truth is: When you find yourself in a losing situation, you often lose. That is personally why I *pretend to lose* for that is a winning situation. But make no mistake, if you are *actually* losing even the most cunning stratagem does not guarantee victory. The soon-to-be victors are well placed to counteract superior cunning with their own lesser efforts, or even brute force. And my lesson to you: *Try anyway!* Any chance of victory is preferable to certain defeat. Do not act as though you were confounded! Maybe you will get lucky. Or perhaps the other forces will fall prey to overconfidence. Do not rely on luck, but do not discount it."
+
+Professor Quirrell's voice was fading but still being repeated by the various monitors placed throughout the lecture hall. "In any case, if you are losing you have little left to lose. So - remain alive to your possibilities and you may yet remain alive."
+
+Professor Quirrell barely got the words "Class dismissed" out of his mouth before he collapsed back into his chair, face lolling off to the side, eyes still open but apparently fast asleep. The monitors flickered out of existence as the class slowly got their feet.
+
+------------------------------------------------------------------------
+
+*March 7th, 1993, early am.*
+
+The battle ranged around Draco, hidden in a small closet, as he hurriedly worked but clumsily, hindered by hands much larger than he was used to. Draco's new hands didn't tremble, but their sheer size distracted him. Draco estimated his new body weighed nearly twenty stones, with height to match. His perspective was all wrong, too.
+
+Earlier, Draco had hurriedly quaffed the second vial of polyjuice from the small spherical flask after adding the man's hair. And then poured Draco-laced polyjuice down the stunned man's throat. Much easier for a fully grown man to drag a small boy instead of the opposite.
+
+*We were insane, Neville,* Draco thought. *We should have just destroyed Harry's base of support and fled.\*
+
+Draco felt the Philosopher's stone give a small twist in his hand. He set it aside and started to strip.
+
+Draco's fingers moved clumsily as he stripped. Draco's robes had adjusted to his new size - as they were enchanted to do, but his handles felt alien as he undressed. He quickly slipped the tiny blond boy who used to be a man out of grossly over-sized robes and donned them, instinctively checking his pockets for any useful items. *A spare wand, good*. Draco slipped his own robes onto the other body. *I seem so small.* Draco's hands placed the silver ring he'd taken off earlier and slipped it onto the child's finger, then placed the Philosopher's stone on the slowly breathing chest and waited. The sounds of the battle grew closer, he could hear shouting and screams.
+
+The stone twisted.
+
+Draco took out his wand and leveled it towards the man now wearing his body.
+
+"Avada Kedavra," Draco said quietly but nothing happened. *How can I not do this? How can I fail now?* Draco tried again but the spell didn't work.
+
+*I should want this man dead*, Draco thought, *he conspired to steal the Philosopher's Stone for himself*. *He no doubt planned on betraying me at the first opportunity.* Draco needed this man dead and cast around for a moment before remembering he now inhabited the body of a monstrous adult and the 'man' he needed to kill was now a small child. Draco reached down and wrapped his arms around the now-tiny neck, gripping the side of the head. Draco saw his victim's eyes open wide, suddenly awake and afraid.
+
+Draco twisted hard and heard the snap.
+
+*I never even knew his name. Father told me that would make it easier.* Tears came to Draco's new eyes; he brushed them away. *I knew this path ... no, that is a distancing thought, I knew my plan required this. A few deaths, to save many.* Draco took the Sigil of House Malfoy and placed it in his doppelganger's hands, willing it to stay.
+
+Draco glanced out of the room and tried to feel the shape of the battle. The experiences of the last two years hadn't prepared him for exactly this, but they mostly applied. Draco could hear another of Neville's arguments in his head, "*We've been fighting three way battles for two years, and the other two sides won't even know there's a third army!*"
+
+Judging from the noise, Hogwart's had launched another assault. Black fog coursed through the hospital, obscuring everyone's vision and providing cover. Draco quickly grabbed the body and dragged it through the door, staying low. *We've already won,* Draco told himself as spells flew overhead. *Even if I die.* That thought calmed him down. His death would somehow make Neville's death fairer.
+
+*That thought is a pleasant falsehood, nothing more,* Lucius said. *A Malfoy cheats death hundreds of times before succumbing.* Draco dragged the corpse to the middle of the room and left it there. He stood up and double checked, making sure the corpse looked like he had. Polyjuice made the body correct, but he inspected all the clothes and jewelry and placed a spare wand down on the ground. *This is as good a place as any*. Draco holstered his other stolen wand and grabbed the one he'd smuggled in his fake cane. He clutched it with both hands, it felt tiny now. Draco made his way toward the wall and - spotting a hole - sprinted the last few steps. Each stride covered a seemingly impossible distance.
+
+Draco jumped through the hole in the wall and was outside in the clear night, falling. For a moment he felt frozen, staring at the moonlight above. Then sensation returned and he spun, rotating from the momentum of his jump and now Draco faced the ground below as it rushed up to meet him and Draco snapped the wand in half and felt the dislocating pull as his portkey dragged him away.
+
+*We did it, Neville. We were insane, but...* Branches scraped Draco's face and he landed with a soft crunch into the dirt and leaves.
+
+Draco rested in the ground for a moment, until finally he could think. *Apparently portkeys do not change your height above ground, or the speed you were going. Or maybe that just costs extra.* Draco blinked twice, tears coming out of his eyes. He rolled over. The canopy overhead blocked out the stars and the moon light. Draco could hear the battle raging, just barely. No portkey could take him outside of Hogwarts, not if aurors had set up anti-portkey enchantments. But those only warded the edges of Hogwarts. He'd only needed to escape from the battle, so a fast jump into the Forbidden Forest worked.
+
+Draco rolled over, casting his eyes around for the small stone cairn he'd built last weekend. *It should be nearby*. As scary as the Forbidden Forest had felt last fall or even last weekend, at least it had been daytime. In the darkness, Draco heard every chitter and screech and distant moan, a small symphony of unexplained sounds hinting at unseen dangers. Draco saw the pile of rocks and pulled himself up to his feet and walked over. He carefully started take apart the mound.
+
+*Did you plan on sacrificing yourself, Neville? I didn't want to admit it, but you more than anyone hated Voldemort.* Draco had emphasized that he didn't think Harry would turn into Voldemort, still Neville had latched onto that fact. Draco knew it had been a risk that Neville would commit suicide instead of risk failure, perhaps because of fear, perhaps because of some nobility towards his parents loss, but Draco had minimized the risk in his mind. *I never should have involved you, Neville. Just trusted my own judgement. I thought I could guide you, but that was just hubris. This is my fault.* Draco tossed each rock aside in a different direction and recited the pertinent rule of the plan to himself. *Do not leave any trace. The plan won't work if you leave a trace.*
+
+Nobody had read Draco's mind during the Battle. That was the real risk. You can't *not think* of a plan while carrying out the steps. If his silver ring had detected any mental intrusion Draco would have had to kill, right away. No hesitation. That had been another real risk, that he'd stumble onto someone paranoid and clever, like Alastor Moody. But that risk had been there every since he recovered his memories. It was one of Neville's more compelling arguments. Draco couldn't plan around Harry for years without involving other people, not unless each and every one were an Occlumens and trustworthy, a rare combination. This plan (*this insane plan)* involved lots of moving parts, but waiting and operating in solitude involved it's own set of risks. Easier to enumerate, but just as dangerous. *My only excuse is that we were truly desperate.*
+
+Leaving the ring behind hurt, it was a valuable tool to a plotter too young to know when someone was reading his mind. Leaving everything behind hurt. But it was necessary.
+
+*Even if I die tomorrow, I'll die anonymously. It will take weeks for them to untangle this. With the Marauder's Map Slughorn will generate months of problems for Harry.* That, combined with Draco's other surprises would drastically curtail Harry Potter's political power over the next few years. In that area, if nothing else, Draco could be sure.
+
+A twig snapped. It was a surprisingly mundane sound in the middle of the forest and Draco turned around. His mind rebelled against looking at the figure in the Armageddon Robe, but he saw the wand pointed at him.
+
+"What are you doing, Letholdus? Trying to escape with the stone by yourself?" The robe made the words sound like the screeching of nails on a chalkboard in Draco's mind. But Draco didn't recognize the speech pattern, or the wand.
+
+*Another attacker, probably watching from outside to delay the aurors.*
+
+"Escaping, but without the stone. The battle is lost, something went wrong and they were all over us from the beginning. All we can do is escape. I stashed some supplies earlier, just in case. Come on, help me."
+
+"I'll take those, step away." Draco stepped away. It was hopeless. He couldn't out-duel any of the attackers or aurors, and this wasn't a duel. His wand was holstered. Draco could summon his cane but that would ruin all he'd worked for. *No, better to die.* *Dying was always the most likely outcome. Anyway, it would be disrespectful to Neville to throw it all away to save myself.*
+
+Given that, it was hopeless. Draco felt so tired of it all. He closed his eyes and took a deep breath, resting.
+
+*And they were mentally tired... if you recognize it on the battlefield, that alone may inspire you to continue. To persevere. To make one more mental effort.*
+
+Draco opened his eyes, the memory of Professor Quirrell's lecture shocking him out of his reverie. *What do I know? What straws can I grasp at?*
+
+Draco considered. His attacker knew his name, at least the name of Draco's body. They clearly weren't friends, not from the gesture - although he dare not read much into the tone of someone wearing Armageddon Robes. But, Draco was still alive and not killed outright. Presumably this attacker was watching to prevent treachery by Lockhart and Draco, a part of the plan not told to him before hand. *And why would they tell him?* Those all struck Draco as reasonable assumptions. Time to decide on a strategy.
+
+*Bribery?* No, anything he offered could simply be taken. *Pleading?* Laughable. Karkaroff had assembled an elite group of murderers (*like me,* a small part of Draco interjected). These people had plotted for a month, fraying each other's nerves. Draco imagined they'd bickered and snapped with barely restrained hostility, vying for dominance. In any case, pleading might betray the fact that he wasn't Letholdus*.\*
+
+For once, Draco lacked a social advantage. What advantage did he have? The robed figure had pulled off the last few rocks and found the waiting pouch, which contained all of the money Draco had dared to smuggle out of his vault without risking discovery or looking like he'd been planning to run, along with some gold and jewels. Neville's supplies were stashed somewhere else, but Draco didn't have time to go out Neville's escape route.
+
+It was still a handsome sum, several years of living expenses. He'd been spending extravagantly before he started this plan, which would help hide the wealth missing from his vault. That pouch represented a grand haul for any would-be thief, Mundungus Fletcher would have fainted if he'd glimpsed it. *But that pouch was paltry compensation if you'd planned to steal immortality itself*. Draco watched, thinking, and suddenly realized his advantage. It was admittedly slim, but if he failed... he had nothing to lose. And if he failed he'd leave no trace.
+
+*A win-win*, Draco chuckled to himself morbidly.
+
+"That's just the money. I'll go get the other stash. We'll need both to escape cleanly." The figure threw back her hood and the look she gave Draco - a look of greed mixed with caution- buoyed his spirits. Not only was she interested, Draco could now read her expressions, no longer shrouded in the hood of her robes. He didn't recognize her, which just confirmed that she wasn't part of the plan. At least the plan Draco knew about.
+
+Draco took several steps to the left. He'd gathered his bearing now, and spoke confidently. "I know what all of you think of me, but there was always a chance of this bubbling over and I made preparations. I'm sorry, but what do you expect? Me to rot in jail with the rest of them?"
+
+Draco (*Letholdus, remember?* Father's voice, said. *You are Letholdus. Don't think of yourself as Draco*) started walking more briskly, simply assuming that he would not get killed. He was judging his words based on watching the witch's reactions and right now instinct told Draco that her greed would keep him alive a bit longer. The witch had cast several spells and poured out the contents of the pouch before quickly returning them.
+
+*Just money, like I said.* "What's in the other pouch?" she asked.
+
+"Things we'll need to escape. Once the battle is done the aurors will search the entire grounds. So I stocked ward breakers and a portkey. Only one, but we can share it." Draco hurried as much as he dared. He needed her greedy *and suspicious*.
+
+"Stop." Draco stopped, obediently. Draco was sweating, but that helped. *Sweating is a natural reaction of being so close to death, and she'll naturally interpret that I'm afraid of her*.
+
+"Show me," she commanded. Draco took another step, but she fired off a spell to stop him. The witch shook her head, her short cropped blond hair reflecting what little moonlight got through the canopy. Draco, shoulders slouched, pointed to a spot a few feet ahead of him.
+
+"Buried at that tree trunk. Look. *Please*. We can share the port key. If we both escape, we can split up, and you have a better chance," Draco's voice took on a pleading tone, an edge of desperation, but the witch's smile kept growing as she slid past Draco, safely out his reach. She continued towards the tree, keeping a careful eye on Draco.
+
+"Please," Draco said as the triffid's vine snatched the witch off the ground.
+
+Draco dove down, dodging the wild spells she fired. The screams intensified and Draco scrambled behind cover and got out his own wand. Well, Letholdus' wand. There was a burst of flame, instantly illuminating the forest with a shockingly bright orange. She was trying to burn the triffid. Draco fired Expelliarmus at the vine, casting over and over again and the witch's frustrated scream let him know he'd scored. A moment later, the sound of rending flesh made Draco's shoulder ache and the screaming continued. The orange glow brightened.
+
+Draco didn't want to look, but he watched. The wet sounds drowned out the rest of the forest. Draco steadied his wand *Accio pouch!* and his money flew over into his hand. The witch had stopped fighting, and was slowly disappearing into the Triffid's grotesque maw. Draco almost took her wand, then realized that would be a mistake. He didn't need it anyway. Draco walked away from the triffid at a brisk pace, but he heard more twigs snapping and two voices talking.
+
+*Aurors.* They'd followed the witch or heard the screams. *Or seen the fire, obviously.* They were flying towards him.
+
+Draco scanned about. He'd used his last advantage dealing with the witch. Even if it was just a single auror, he couldn't very well feed him to the Triffid. ("Once a triffid has eaten, it's safe to walk right up next it for up as long as two days or so," Professor Lockhart had explained to the class, after Draco's near death. Draco probably could have picked up the pouch off the ground, but he hadn't felt like performing that experiment).
+
+"I couldn't finish it, Headmaster." He said, quietly to himself. "Not by myself. Hopefully I've done enough." He took the wand and pointed it at himself. He couldn't afford to be taken alive. They'd read his mind. Ideally he'd feed himself to a Triffid to destroy the evidence but perhaps if he found a small hiding spot... *I think, at this moment, I hate myself enough to do this.*
+
+Draco hadn't given up, but fatigue engulfed him. He couldn't think clearly. Instead of focusing on the problem at hand he instinctively thought about the conversation with Dumbledore that had set his plan in motion, how the Headmaster had told him of the prophecy that Harry Potter would destroy the world, and given Draco the burden of saving the world. Draco turned and started moving away from the incoming sound, but they were in brooms and Draco dare not cast Lumos. It would be a long trek, at night, through the Forbidden Forest. But he had nothing to lose, and he started walking as fast as he dared.
+
+*I still have allies here,* Dumbledore had said, *and help is always available at Hogwarts to those who ask.*
+
+"Please, I need help," Draco whispered.
+
+And disappeared in flash of fire.
+
+"I saw a flash," said Auror Edebus, wand out, as the two brooms came crashing through the brush.
+
+Auror Phaethon looked carefully around. "Yeah, it's called a fire. Probably just some rotting log catching. ... oh. Man." He dismounted slowly and cautiously and moved towards the flailing vines engulfed in flames. He peered into the fire, and heard quiet squishing noises underneath the crackling flames. "Looks like we found our straggler. Stumbled onto a Triffid."
+
+"Saves us the trouble," said Edebus, starting to extinguish the fire.
+
+------------------------------------------------------------------------
+
+Draco Malfoy appeared inside the edge of the forest in a flash of fire, as though he'd been burning in two places at once. Fawkes scream of victory echoed inside his head, for a moment, and then there was another flash and the Phoenix was gone. Draco blinked a few times as the sudden darkness left him blind.
+
+"Fawkes?" Draco asked. But there was no light at all, except the gentle moonlight.
+
+"Thank you, Headmaster." The plan could go on. Draco couldn't very well kill Harry Potter, the Headmaster had told him that. Not that Draco would want to. But now he could disappear and spend the years gathering the resources he'd need to quietly oppose Harry. Not without fear, but with some semblance of order. By then maybe he'd have a better plan to slow down the inevitable.
+
+Draco couldn't save the world forever, but he could prolong it for years. Indefinitely, perhaps.
+
+*Delay is the strongest form of denial, after all.\*
+
+Eyes adjusted, Draco looked out of the forest. He was at the rendezvous, at the edge of the forest by the lake, well away from the castle. Draco wanted to go peer down into the lake and take a good look at his reflection, but that was folly and vanity. In any case, that could wait. Draco looked around. It was just a few dozen steps to the edge of the grounds. He quickly cast a few spells of concealment and *Quietus*, took a few deep breaths, and ran across the small clearing until he was off the Hogwarts ground, confident that the wards would not raise the alarm at his passage. And they did not.
+
+No longer rushed, Draco Malfoy turned and took one last look at Hogwarts, gently holding the delicate spherical flask in his hands, feeling the smooth glass. He placed it inside his pocket.
+
+*We did it. We actually did it.* He savored the moment, letting satisfaction wash over him. He'd have years for remorse and regrets later. Possibly even decades to contemplate all that he'd given up and lost. *Just this once, I get to win.* There were broomsticks moving throughout the air, apparently the battle had ended. Draco's eyes lingered on the main gate, then settled on the castle of Hogwarts School of Magic.
+
+Tomorrow he'd decide where to settle. Randomly. Even Harry Potter couldn't predict randomness.
+
+"Neville of Chaos, Scion of House Longbottom," Draco whispered to nobody, "Goodbye." Only Hogwarts heard his voice and the tinkling cracks when Draco crushed the flask through the cloth, triggering the portkey that whisked him out of Scotland.
+
+</div>
+
+</div>

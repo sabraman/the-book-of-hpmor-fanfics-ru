@@ -1,0 +1,71 @@
+<span id="seg-0032__seg-0032-e972114e36"></span>
+
+<div id="seg-0032__s4-cf02869b10" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 4: Emily
+
+<div id="seg-0032__storytext-9c93142583" class="calibre4">
+
+3 July 2011
+
+Emily stopped twiddling the zinc-coated hex-cap 2 inch 1/4"-20 bolt between her fingers and started unconsciously counting to 31 with her left hand, as her eyes darted across the screen. Her fingers tapped the time-stained writing desk.
+
+Thumb. Index. Thumb+index. Middle. Middle+thumb, middle+index, middle+index+thumb. 0, 1, 10, 11, 100, 101, 110, 111.
+
+Repeating with ring finger held down, she repeated the pattern, still without conscious thought, counting 8-15: 1000, 1001, 1010, 1011, 1100, 1101, 1110, 1111.
+
+Then her pinky came down, touched the portkey, and launched her up the stairs.
+
+Her mother shot bolt upright in bed and shrieked a perfect fifth above Emily's startled yelp. Emily would have found that amusing, except that before the thought had time to form, the heat from the Chai Tea, scalding her forearm and soaking her shirt, preempted it and caused her to swear.
+
+"Aaaaauuuuggghhhhdaaammmmm. . ." she began, but before she finished her oath, and before the cold knives of adrenaline consciously registered in her brain, a thought occurred that compounded the animal panic of falling up the stairs with rational, human, lucid panic. She dove back down the ragged oak stairs, skipping three worn carpet-covered stairs at a time, while her mother, even more bewildered than usual, peered after her.
+
+The dividing wall creaked as she swung around the corner of the kitchen to the writing desk, and her worst fears were confirmed. The tea had soaked not only her backpack, the table and the worn carpet, but had violated the Thinkpad. The brand new X120 that her manager wouldn't let her buy, that she had painstakingly researched for weeks and paid for herself.
+
+She flipped the laptop over and scrabbled at the battery latch, jerking out the power cord as she went. The battery clattered to the floor and cracked like the breaking of limbs. Trembling, Emily set the laptop down teepee-style and allowed herself a face-wall before collapsing into the other, non-tea-laden, hard-backed chair, utterly defeated. The chair creaked as worn old kitchen chairs do, and slid in its joints by at least an inch before finding a tenuous equilibrium.
+
+When the trembling had subsided, and the dull throb of the post-adrenaline headache was starting to set in, she pulled out her phone and dialed a number, anachronistically. "Pradeep, sorry to call your cell. I just spilled tea on my laptop, so I'm going to miss the video conference. . . Yeah. . . Uh-huh. . . Thanks for covering. . . Yeah, the Thinkpad. . . No, warranties suck. I gotta go clean it out. See ya."
+
+She put her head in her hands, but almost immediately sat up again to begin first aid. Find a cloth. Assess the damage. Most of the spill had hit the wrist rests, but the V, B and N keys were wet. Only a little in the vents. Could be a lot worse, but keyboard spills were never good. She viciously wiped the table and set the laptop back on the table harder than she should have, which made her wince. Why, why do we hurt the ones we love?
+
+Her arm was really starting to hurt now, and her mind was returning to single-threaded, ordered thought. A list began to assemble. Change shirt. Fix arm. Head hurts. Wipe up the rest of the spill. Find the Sembl. . . the sonic. . . the tool. Dammit, she hated that thing.
+
+With her mind preoccupied loathing Farnsworth's Sembler while also subconsciously pondering whether she could be said to have No Tea, the cloth in her hand reaching toward the spill on the table, and her shoulder retreating from her soaked and clammy shirt, she segfaulted briefly, stopped, and sighed. One thing at a time. Perfunctorily wipe table. Discard cloth. Find new shirt. Start changing. Wash arm in cold water. Finish installing shirt. Briefly consider aspirin for headache, even more briefly consider magical cures. Decide to tough it out. Fix laptop.
+
+Farnsworth's Sembler. Everything that was wrong with magic. Mom had fancied herself a tinkerer, and Emily had always been fascinated by the Sembler, the one and only tool in the toolbox. At two years old she got ahold of it and thoroughly disassembled most of the appliances in the house. Walnut handle, tacky steampunk brass labels on the two buttons, "DIS" and "ASS". Point and click. With it, she turned a discarded fridge and a bathroom mirror into a sun-tracking heliostat that could ignite cardboard boxes from 10 meters. It had won her the 10th grade muggle science fair and a scholarship to Carnegie-Mellon, and given her hope that she wouldn't always be an outcaste. And at CMU, without the help of the Sembler, and Lamda's Calculator, and the Fully Justified Notepad, she had failed all the classes in her first quarter.
+
+Emily snapped back to the present, and remembered. She opened the outer pocket on her backpack and pulled out the small, dusty multi-tool with Search Tools printed in friendly letters on the side. Someone on her team had decided, quite accurately, that it was better team schwag than a t-shirt, and thus, months ago, at the team off-site, they had each gotten one.
+
+The screwdriver was too big for the tiny black phillips-head screws on the back of the laptop, but the knife blade did the trick. Well, it didn't really: it chewed the paint off the heads and mangled the slots, and probably dulled the knife. But she'd be damned if she'd use the Sembler.
+
+Emily flipped the computer back over and gently pulled the keyboard loose. She moved to the sink and ran water over the infected keys before realizing that she didn't actually remember if that was the right thing to do. Whatever. Already done. Get it outside to dry off.
+
+Then she turned her attention to the battery. This was worse than the keyboard, and she had been avoiding thinking about it. She had a USB keyboard she could use if the built-in unit was beyond repair. But most laptops won't work without a battery. The battery was cracked, internal wires visible. But Emily was pretty sure she could fix it with cyanoacrylate, the finger-sticking, skin-crackling, plastic-melting watery glue that gets everywhere but does not, under any circumstances, break fundamental laws of the universe.
+
+The urge was to surf. She could sit down with her phone and check her email, finish the message she had been reading. But no, typing on the phone was too obnoxious, and untyped replies would just pile up in her head. Fix the computer first. No, go take a walk first, find some glue. Real, non-magical glue.
+
+She walked out of her mom's decrepit 1920's two-story house that would make any Halloween proud, where she had spent all her lonely childhood years. The April sun was slightly warm on the slightly cool breeze of Magical Modesto. Magical Modesto. She cringed inwardly. Magical Modesto. Not exactly cosmopolitan. But beautiful in April, no denying that.
+
+She should never have accepted the portkey. Magic was not a part of her world. It had rejected her, and the billions of people in the real world who couldn't conjure food and water and transport from nothingness.
+
+Stop. Stop piling on. She'd had a bad morning. Morning itself was evil anyway, hung-over, menacing. Even when it didn't break her laptop and stain her shirt. Keep moving. You'll feel better after lunch.
+
+The portkey wasn't her fault, anyway. Somebody had to get Mom up and down the stairs, keep her from wandering away from the house. She had stepped up. The last thing they needed was for Emily to hurt her back, or for both of them to take a tumble. Just think of it as an elevator. Up the stairs, down the stairs. Nothing wrong with that.
+
+Except there was. Walking, now that was honest transportation. It conserved all laws of physics, known and unknown. She hated the stage-hook pull of the portkey, hated not knowing how she got where she was going. And hated that it was forever beyond her grasp to decide where it would go, while Wizards, who didn't have any more inkling, who hadn't worked as hard as she did, who had never had to walk 2 miles to CMU in the rain, could decide that.
+
+Deep breaths. Happy, sunshine, see? Almost to the corner, with the lamppost that connects to Muggle Modesto, and then another 2 blocks to the convenience store.
+
+That damn lamppost. Another stupid violation of all the inviolable rules she had studied at school, real school.
+
+She had almost gotten away from it, almost gotten it all out of her head. She had packed away the magic along with her invisible friend in Magic Kindergarten and the stuffed koala she'd cried on at home after the kids at school called her a Squib and made her backpack invisible only to her, and made her lunch turn into worms inside her mouth.
+
+Stop. Stop piling on. Emily pulled her left hand out of her pocket, paused, then pulled the right one out too. Fingers tapping her legs, she counted to 15 with both hands. Thumbs. Indexes. Thumbs+indexes. 100. 101. 110. 111. 1000. 1001. 1010. 1011. 1100. 1101. 1110. 1111. Then she counted to a thousand.
+
+</div>
+
+</div>

@@ -1,0 +1,65 @@
+<span id="seg-0440__seg-0440-b919cf5c1e"></span>
+
+## Table of Contents
+
+- <a href="#seg-0441" class="pcalibre calibre3">Chapter 1: The Bat Animagus</a>
+- <a href="#seg-0442" class="pcalibre calibre3">Chapter 2: The Unbelievable Night</a>
+- <a href="#seg-0443" class="pcalibre calibre3">Chapter 3: Choice</a>
+- <a href="#seg-0444" class="pcalibre calibre3">Chapter 4: Unexpected Result</a>
+- <a href="#seg-0445" class="pcalibre calibre3">Chapter 5: The First Revival</a>
+- <a href="#seg-0446" class="pcalibre calibre3">Chapter 6: Lucius Malofy</a>
+- <a href="#seg-0447" class="pcalibre calibre3">Chapter 7: The Screw-Ups</a>
+- <a href="#seg-0448" class="pcalibre calibre3">Chapter 8: Friendship of Slytherins</a>
+- <a href="#seg-0449" class="pcalibre calibre3">Chapter 9: Return of Father</a>
+- <a href="#seg-0450" class="pcalibre calibre3">Chapter 10: Secrets</a>
+- <a href="#seg-0451" class="pcalibre calibre3">Chapter 11: Meeting</a>
+- <a href="#seg-0452" class="pcalibre calibre3">Chapter 12: Lucius-Secrets and Knowledge</a>
+- <a href="#seg-0453" class="pcalibre calibre3">Chapter 13: Lucius-Justice</a>
+- <a href="#seg-0454" class="pcalibre calibre3">Chapter 14: Interlude</a>
+- <a href="#seg-0455" class="pcalibre calibre3">Chapter 15: Private Meeting</a>
+- <a href="#seg-0456" class="pcalibre calibre3">Chapter 16: Interlude, Draco</a>
+- <a href="#seg-0457" class="pcalibre calibre3">Chapter 17: Tests</a>
+- <a href="#seg-0458" class="pcalibre calibre3">Chapter 18: Answers</a>
+- <a href="#seg-0459" class="pcalibre calibre3">Chapter 19: The Disappeared Lord</a>
+- <a href="#seg-0460" class="pcalibre calibre3">Chapter 20: The Faithful Servent</a>
+- <a href="#seg-0461" class="pcalibre calibre3">Chapter 21: The New Godfather</a>
+- <a href="#seg-0462" class="pcalibre calibre3">Chapter 22: The Man of Many Names</a>
+- <a href="#seg-0463" class="pcalibre calibre3">Chapter 23: The Search, Pt I</a>
+- <a href="#seg-0464" class="pcalibre calibre3">Chapter 24: The Search, Pt II, Growing Up</a>
+- <a href="#seg-0465" class="pcalibre calibre3">Chapter 25: The Search, Pt III, To Be Nice</a>
+- <a href="#seg-0466" class="pcalibre calibre3">Chapter 26: The Search, Ex-Lord Malfoy</a>
+- <a href="#seg-0467" class="pcalibre calibre3">Chapter 27: The Search, Pt IV, Sacrifices</a>
+- <a href="#seg-0468" class="pcalibre calibre3">Chapter 28: Memory Charms</a>
+- <a href="#seg-0469" class="pcalibre calibre3">Chapter 29: Descendants Pt I, Tom Riddles</a>
+- <a href="#seg-0470" class="pcalibre calibre3">Chapter 30: Descendants Pt II, Little Draco</a>
+- <a href="#seg-0471" class="pcalibre calibre3">Chapter 31: Descendants Pt III, Lucius Malfoy</a>
+- <a href="#seg-0472" class="pcalibre calibre3">Chapter 32: Descendants Pt IV, Severus Snape</a>
+- <a href="#seg-0473" class="pcalibre calibre3">Chapter 33: Classes Pt I, Food Safety</a>
+- <a href="#seg-0474" class="pcalibre calibre3">Chapter 34: Classes Pt II, Artificial Intelligence</a>
+- <a href="#seg-0475" class="pcalibre calibre3">Chapter 35: The True Return of Lord Salazar Slytherin</a>
+- <a href="#seg-0476" class="pcalibre calibre3">Chapter 36: The Bicentennial House-elf</a>
+- <a href="#seg-0477" class="pcalibre calibre3">Chapter 37: Nurmengard Pt I, German Minister of Magic</a>
+- <a href="#seg-0478" class="pcalibre calibre3">Chapter 38: Nurmengard Pt II, Lucius Malfoy</a>
+- <a href="#seg-0479" class="pcalibre calibre3">Chapter 39: Nurmengard Pt III, Gellert Grindelwald</a>
+- <a href="#seg-0480" class="pcalibre calibre3">Chapter 40: Nurmengard, Interlude, Message to Britain</a>
+- <a href="#seg-0481" class="pcalibre calibre3">Chapter 41: Nurmengard, Pt IV, Gellert Grindelwald</a>
+- <a href="#seg-0482" class="pcalibre calibre3">Chapter 42: Nurmengard, Interlude, Ukraine</a>
+- <a href="#seg-0483" class="pcalibre calibre3">Chapter 43: Nurmengard, Part V, Girl-Who-Revived</a>
+- <a href="#seg-0484" class="pcalibre calibre3">Chapter 44: Space Travel Pt I, Cheating</a>
+- <a href="#seg-0485" class="pcalibre calibre3">Chapter 45: Space Travel Pt II, Possibilities</a>
+- <a href="#seg-0486" class="pcalibre calibre3">Chapter 46: Space Travel Pt III, Lord Slytherin's Favorite Morning Radio</a>
+- <a href="#seg-0487" class="pcalibre calibre3">Chapter 47: Space Travel Pt IV, Biases of the Phoenix</a>
+- <a href="#seg-0488" class="pcalibre calibre3">Chapter 48: Space Travel Pt V, Power</a>
+- <a href="#seg-0489" class="pcalibre calibre3">Chapter 49: Space Travel Pt VI, Prisoner's Dilemma</a>
+- <a href="#seg-0490" class="pcalibre calibre3">Chapter 50: Space Travel Pt VII, Domestic Problems</a>
+- <a href="#seg-0491" class="pcalibre calibre3">Chapter 51: Space Travel Pt VIII, Bionics</a>
+- <a href="#seg-0492" class="pcalibre calibre3">Chapter 52: Space Travel Pt IX, PC or NPC?</a>
+- <a href="#seg-0493" class="pcalibre calibre3">Chapter 53: Space Travel Pt X, Expansion</a>
+- <a href="#seg-0494" class="pcalibre calibre3">Chapter 54: Space Travel Pt XI, Loyalty Problem</a>
+- <a href="#seg-0495" class="pcalibre calibre3">Chapter 55: Space Travel Pt XII, Abilities of Phoenixes</a>
+- <a href="#seg-0496" class="pcalibre calibre3">Chapter 56: Space Travel Pt XIII, Draco's Position</a>
+- <a href="#seg-0497" class="pcalibre calibre3">Chapter 57: Space Travel Pt XIV, Time Pressure I</a>
+- <a href="#seg-0498" class="pcalibre calibre3">Chapter 58: SpaceTravel Pt XV, Time Pressure II</a>
+- <a href="#seg-0499" class="pcalibre calibre3">Chapter 59: Space Travel Pt XVI, Emotional Choices</a>
+- <a href="#seg-0500" class="pcalibre calibre3">Chapter 60: Space Travel Pt XVII, Interdicts I</a>
+- <a href="#seg-0501" class="pcalibre calibre3">Chapter 61 Space Travel Pt XVIII, Interdicts II</a>

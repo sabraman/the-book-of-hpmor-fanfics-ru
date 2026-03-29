@@ -1,0 +1,227 @@
+<span id="seg-0630__seg-0630-a4c8be8342"></span>
+
+<div id="seg-0630__s15-fae38f4be9" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 15: Chess
+
+<div id="seg-0630__storytext-9c93142583" class="calibre4">
+
+*"Trust but verify. Distrust and verify. Remain uncertain and verify. Always verify." - Lucius Malfoy*
+
+Imagine you are a future Voldemort, aged twelve.
+
+You are surrounded by lesser wizards, wizards you will mock, torture, and kill with impunity when you are older. They are, all of them, beneath you. You long for that day to come, when you cast off your mask of civility and seize control. But now you are at Hogwarts and while you are considerably advanced for your age, such that you defiantly face down older students, possibly even seventh years, there are teachers that wield far more power than your tiny body can hold.
+
+After all, Magic grows with age, and you are so very young.
+
+Not only magical power, but magical efficiency increases with knowledge, and while you are a diligent future Dark Lord you've only had so many hours of life and some of those around you have a century head start. You gnash your teeth, but railing against the injustice inherent in youth does not (so far as you can see) increase your power. So you control your rage.
+
+Perhaps you bully smaller children or lesser children, but that would be a risk if discovered. A teacher might notice, might decide that you are too unstable to share any secrets with. You dare not bully Muggles outside of school, not with magic, lest you attract the attention of the Ministry of Magic and have your wand snapped. Your rage is great, but so is your intellect because you have no intention of being a *stupid* Dark Wizard.
+
+Imagine your frustration.
+
+In older, less enlightened times, undoubtedly you would let your rage fly off the handle from time to time. You couldn't keep it bottled in for years or decades. You would arrange for 'accidents' and fights that could be labeled as youthful indiscretions - just kids being kids - a heat-of-the-moment duel that got out of hand.
+
+But those were other times and you, you are a Dark Wizard who learned how to lose at the youngest of ages, which meant *how to pretend to lose*. Professor Quirinus Quirrell taught you personally, in your first week of classes. No, you will not make *that* mistake. You will be charming - as charming as you can stand, which isn't much but you'll try - and beloved by teachers who will be happy to reveal their secrets to you, their favorite student. You will then research on your own and reveal your improved, better knowledge to them. They will mark you as important, and seek to curry favor with you, not because you are Dark but you may very well grow up to be the next Albus Dumbledore, and they would like to be able to brag, to say "I taught him that" or "I knew him when he was just a child." Yes, even a Dark Lord needs allies, at this age.
+
+So you make allies.
+
+You channel your rage, mask it with a bewildering array of habits that may sometimes harm those around you but never appear malicious. Even those you hate will be able to consider you as a friend, or if not friend then at least a convenient and useful ally. You cannot bring yourself to act as if you were beneath anyone else your age. But you can pretend you have equals. A few, not many. With them, you are usually friendly but sometimes put them in terrifying situations as a joke, a way to blow off steam. You may even get one of them killed, if you can arrange it. That would be useful, a memory you can treasure. You are a smart Dark Wizard, and if you do murder from time to time, you'll get away with it.
+
+You will grow up to be a Dark Wizard. Your rage won't trip you up.
+
+But you may make *another* mistake that would let an observer unmask you, reveal your intentions to the world. Maybe one you don't even notice.
+
+Draco Malfoy sat as his desk, drumming his fingers, trying to imagine what mistake Harry Potter would make if he were a future Dark Wizard. He'd done this exercise several times already. And he'd always reached the same decision: *Harry Potter would act identically whether he intended to be Voldemort or not, if he were clever.* And Harry Potter was definitely clever.
+
+It was no help, imagining yourself as Harry Potter.
+
+Draco needed evidence that he lived with a future Dark Lord. Luckily this was important, not urgent. Draco had a head start in studying, and Potter couldn't reveal himself anytime soon. If Draco could get proof enough to convince others, he guessed he still had five years. Maybe a bit less.
+
+If it came to that.
+
+------------------------------------------------------------------------
+
+Draco stood in the middle of the Hospital. He'd been thoroughly searched, as he had been every time. He'd gone through the anti-magic zone. The Aurors hadn't found anything, and since they normally didn't do more than keep a watch on this area, the safe area, there was only one Auror on duty staring at him. He looked at the rows of beds on it, most of the patients were unconscious, but some were moaning. Orderlies were fetching water, trying to make them comfortable.
+
+"Could you please turn around, sir" said Draco to the burly Auror watching him.
+
+"Now why would I do that," he asked?
+
+"Because you know I'm trying something," said Draco. "And that's a false advantage. In a real security breach you wouldn't know who to be watching. There are other people here. This is hard enough without you knowing who is the bad guy. So this extra attention is unfair."
+
+"Oh, I was just watching to see what happens," said the Auror. "It gets a mite boring these days, not like the summer when everyone was attacking this place. Right filled up Azkaban's cells. Well, what's left of it, anyway." The Auror paused, thinking, tapping his wand against his cheek in an offhand manner. Draco had noticed that patients who went into the healing area never came out. There was another exit, into a different area. One way doors, probably. "Tell you what, anything funny happens and I'll count to three, which is slower than I'd give. And if it's subtle, I'll count to ten."
+
+Draco sighed. "I suppose that's fair," Draco said, and walked over to the spot he'd arranged.
+
+There was a small *Whamf* and Dobby appeared.
+
+"One …. oh hahahahaha! Oh, that's good!" The Auror had stopped counting, doubled over in laughter.
+
+"Dobby is very sorry, sir. The others ambushed him." Dobby wasn't holding Draco's wand, wasn't holding anything at all. In fact, he rolled slowly around on the spot where he appeared. Several of the patients sat up from their bed to look and see what the commotion was. Dobby rolled, tied up in small ball of what looked like Acromantula webbing, leaving only his face free. "It wasn't Dobby's fault, sir! Oh dear..."
+
+Another House Elf appeared in a small puff and bowed to Draco, and then the Auror.
+
+"Your wand is safe, sir! And we will return it," the elf said, "once you leave the hospital area." The elf bowed again, then disappeared.
+
+Dobby kept spouting apologies but, bundled as he was, couldn't smash his face into anything and just rolled around the floor, as the other patients started laughing.
+
+------------------------------------------------------------------------
+
+"Thank you all for coming to this optional evening session of Muggle Studies," said Professor Asimov.
+
+Draco sat in the Muggle Studies lecture hall, which was packed to capacity with students of all years and houses. Draco could see Luna Lovegood sitting in the front row, wearing bizarre glasses made of paper with one red lens and one green one. Ron Weasley sat chatting with Fred and George, who were ignoring him. The hall was full of students, those who thought Muggles exotic, the teacher's pets, the curious, and a few with nothing better to do. Harry had dropped hints for days that Draco should really attend, that everyone who missed it would be jealous, that he envied Draco the experience and Draco agreed *just to get Harry Potter to shut up*.
+
+Which wasn't rational, except that it achieved Draco's desired goal. In any case, Draco planned to attend because he'd triggered this session during one of his discussions with Professor Asimov. Draco had stopped by to ask a few questions and had been asked "Why do so many of your colleagues resist my class?"
+
+Draco had thought about it, then answered.
+
+"Inertia, mostly. Many believe that Wizarding society is better, as a matter of course. To a certain extent it depends on your viewpoint, but until the last two centuries they were probably correct. Some Muggles lived better than the average Wizard, but very few. But mostly, you are teaching a class that they can't see any benefit from."
+
+"Ah, of course. It's obvious once you say it. Students ignoring professors is the natural order in both worlds. I have to find something interesting."
+
+So, when last class the Professor had announced a special session that "Would not be on your test, but would be 'something interesting.'" Draco resolved to go.
+
+So he sat there, while Professor Asimov walked the stage. "Thank you all for attending opening night. This is a movie, a muggle play. As you may know muggles can make moving pictures like wizards, but require special equipment to do so. We've finally fitted out this hall with that equipment and worked out some of the problems with magic and technology. In consultation with some of your Muggleborn students, I've tried to pick a movie that is educational about muggle society. And we'll see some of those … later. For now we've picked something that is just enjoyable. Rest assured that none of the beasts you see in this film exist, at least not as we know, and that most of the technology is also make believe. In many ways, this is a modern day children's story, but as we all know fairy tales form a large part of any society. And it is undoubtedly popular."
+
+Harry Potter, sitting in the projectionist booth, dimmed the lights and flicked on projector, which had taken him days to set up, but incorporating magic and technology was a long term research goal anyway. He reached over for his popcorn just as the main theme blare of John Williams famous score announced the beginning of the movie and the slow introductory text crawled.
+
+The next day eight students received detention for *Lucius Gladius* fights in the hallway.
+
+Muggle Movie Night became a popular tradition.
+
+------------------------------------------------------------------------
+
+It was late Wednesday night, several days after the last meeting of the Bayesian Conspiracy, when Harry Potter walked into the room he shared with Draco and Gregory.
+
+"Why don't you include us in your *other* conspiracy," Draco asked, "the one you do instead of going to classes all day like a normal student?"
+
+"I don't have to be in," Gregory added, right hand by his ear. "Unlike some people, I like having down time. Of course, if its *interesting*..." They'd been playing exploding snap and Gregory felt that Harry Potter's sudden entrance had robbed him of his glory. Some of it. Gregory flicked his fingers forward and *pop!* felt vindicated.
+
+"I've considered it a lot. I want to. But I just can't, not yet. I need to manage risks." Telling secrets was frequently just one of those things Harry Potter couldn't do. Not without Hermione's blessing. He could tell those who already knew, of course. He could evade. But Hermione's arguments that summer about slowing down had actually bound his tongue even more. He couldn't trust Draco Malfoy completely.
+
+Draco's training wasn't complete.
+
+"And we're a risk," Draco said flatly.
+
+"I don't think so," said Harry. "It's one of those things that's impossible to know, so the only cure is more time. It's like we discussed last year, you can't just barge into a fast friendship, or something like this. And last spring raised the stakes dramatically."
+
+"Do you know why I conceded my duel, Harry?" Gregory gave a start, then went over and closed the door, and started to ward it. His wards weren't as advanced as Harry's own, or even Draco's, but Gregory knew more than the curriculum had covered.
+
+"To avoid upsetting the Jugsons. Which apparently worked, if rumour is true."
+
+Gregory spoke up. "*A great move serves multiple purposes.*"
+
+While Draco nodded, Harry thought. He could see a lot of possible reasons. But reasoning from so little information was difficult...
+
+Draco interrupted "Do you play chess, Harry? I've got two sets."
+
+"I know the rules to Muggle chess," Harry said, "not Wizard Chess."
+
+They set up the board, Draco explaining while Gregory took out the the pieces - green for Draco and silver for Harry - and placed then on the board carefully, so as not to annoy them. After each piece was set down, it marched over to its assigned square. Draco had already covered pawns and knights when Harry interrupted.
+
+"The rook moves horizontally, and the pieces seem to be heading for the right starting locations. I think they are the same rules for Muggle chess, actually."
+
+"How do Muggles make the pieces move, then?" asked Gregory.
+
+"They just pick them up and move them. How do wizards do it? Wands?"
+
+"No, you tell which piece what you want to do and you have to convince it," said Gregory. "That's what makes it interesting."
+
+Draco looked stunned. "So, you just physically move the pieces? That … That's … *awesome*. No backtalk? No second guessing? If you discover a brilliant tactic you can just do it and not to have some knight turn left instead of right because he felt like it? Sounds amazing, although not nearly as useful for teaching how to think. We have to play Muggle chess! Later, though. "
+
+Draco took out his wand, tapped it on the table. The pieces stood up a bit straighter, at attention.
+
+"Silver pieces – Just as Father gave you to me, I now give you to Potter. You follow his instructions. Understood?" The pieces agreed, some grumbling. The queen, apparently, didn't like the look of the new boy. A few pawns whispered conspiratorially. The king's bishop snored, only to be prodded awake by the King himself, who lilted disapprovingly.
+
+"Pawn to King Four," said Harry Potter. The pawn stood there, twisting slightly, as though looking over it's shoulder back to Harry. "Um … Pawn to King Four Please?" The pawn untwisted and marched forward two spaces. The game proceeded quickly. Draco, whenever making a move, would simply point out that it was good move, offered the piece a chance for glory, to help his teammates, or simply promised the piece it would be safe. Harry, by contrast, had to wrangle the pieces considerably. But like many gifted children Harry had been introduced to Chess and spent several weeks studying it deeply before he realized that becoming great at chess meant that he'd become great at chess, and little else. Still, Harry had a decent grasp of tactics and positional strategy. In Muggle chess Harry felt he'd trounce Draco, but Draco's pieces always did what he wanted, while Harry's pieces committed their own follies. It was an even game.
+
+"Castle Queenside please," said Harry Potter. "It will protect the king, and bring the Rook to bear on the upcoming battle in the center. You'd like that, wouldn't you?" The rook nodded enthusiastically. "And everyone will be much safer."
+
+"That's a bad move, Harry," said Draco.
+
+"I think it's a good move, it does exactly what I've told them, and the pieces will do it. I doubt I could convince that Bishop sacrifice itself in an attack, which was my other choice."
+
+Draco shrugged and Harry confirmed the move. His King shifted over two spaces to the queen's side, and then stepped aside to let the rook pass. But as the Rook went by it took out a sword and stabbed the King, shouting "Aha!", shimmering from Silver to Green. The other Silver pieces booed and shouted "Traitor!"
+
+"You lose," said Draco, taking out the box to start storing his pieces.
+
+"You knew that rook was a double agent! That's not …," Harry paused while Draco just looked it him quizzically.
+
+"Fair? What's fair got to do with it?"
+
+"So is that normal, Draco, in wizard chess? Traitors?"
+
+"Of course not. This is the set Father taught me with. A set for teaching." In his mind Harry could hear Draco's words from before the game. *Just as Father gave you to me, I now give you to Potter.* "And my first lesson – Learn who to trust."
+
+Harry remembered that Draco had offered this game to provide an insight into Draco and his earlier Duel. "So you are upset because you aren't trusted?" asked Harry.
+
+"No. We don't play that game, Harry," said Draco, who had taken out the box for the green pieces and ordered them back. "I admit I'm not thrilled with it but I'm a Malfoy, I understand. And we have history. But think about the game, and now consider why I just asked you to play chess right then."
+
+Harry thought. Harry remembered logic puzzles where a question is posed, "How many blue-eyed people exist on this island" where everyone is a perfect logician, or the solution to some obscure math puzzle among expert mathematicians. The islanders don't know. Nobody can see their own eyes, since they don't have mirrors (and only trust what they can see). But then a wise old man says "I see someone with blue eyes." And as they days go by eventually all the islanders, using their perfect logic, know the answer. Because they realize that if only one person had blue eyes, he'd know after a day or two (seeing only brown eyes) that he was the only one. The more people with blue eyes, the longer it takes, but a person who can see one other islander with blue eyes will know that the other islander should figure it out instantly, if his eyes weren't blue.
+
+They'll all figure it out, eventually, no matter how many blue eyes exist, once they recognize the inferences when other people can or can't solve the puzzle.
+
+So, while Harry couldn't narrow it down before, the fact that the Chess game had been meant as a lesson. A lesson with two purposes, a primer on trust and Draco's answer to *Why did I resign*? Still, he couldn't decide between two answers until he heard Gregory's small "Oh." Realizing that Gregory had missed the solution made it easy.
+
+"You resigned to avoid revealing your anger at your Father, not your Mother. Lucius Malfoy trusted Voldemort, no that's not really it, he *distrusted* Dumbledore and you fear making the same mistake with me."
+
+Draco nodded. "He couldn't tell which pieces were on his side and that's the first lesson. The very first lesson." Draco's voice seemed to crack. He'd carefully considered this speech earlier. It might reveal that Draco knew what Parseltongue implied, but he didn't have to admit that. Draco had agonized over this for the summer. "For a while, I thought that maybe Father knew what was going to happen and just sacrificed himself. But if he knew he'd have probably found an excuse to let Gregory and Vincent's fathers not show up. Maybe I'm wrong but *Father didn't know*. You talk about the fundamental rules of rationality, but the fundamental rule of politics is to understand your relationship with those around you and Father failed. It's ... haunting me. You seem like my friend, but we both keep secrets. I'm mad at Father for getting it wrong. I believe you, but … I wonder if I'm making a mistake trusting you. If I won't end up dead because of it, the same way Father did. I'm sorry, Gregory."
+
+"Don't worry. We've all thought it. If we turn up dead at least the others will know," Gregory shrugged, displaying an indifference he didn't feel.
+
+"What," said Harry, even though he knew the answer.
+
+Gregory kept putting the chess pieces away. "You clearly had some connection with Voldemort, through your scar. You could see through it, the night he came back. We discussed it over the summer."
+
+"Like I said, Harry," Draco continued, "I understand. I can't prove a negative, but I have doubts. Maybe you have doubts about me, but you need me in your conspiracy. It will reassure us both. We complement strengths, I'd be useful. I have to keep an eye on you, you are too important, and if you didn't freeze me out we could trust each other faster. Shave years off the process. You must understand this, now."
+
+"I do. But, I'll have to discuss this with others."
+
+Gregory, having put away the pieces, was now back at his desk and working on some Transfiguration homework. He didn't look up. "I hope you investigated *them* more than your borrowed chess set."
+
+------------------------------------------------------------------------
+
+"I could give him Veritaserum..." Harry saw the flaw. "Wait, there's no way to know if someone is an *Occlumens*, is there?" The same informational attack that Harry used to deduce how the Dark Mark worked applied here. If some test existed, nobody's deception could be perfect. The phrase *Perfect Occlumens* implied no such test existed or had yet been discovered, anyway. Headmistress McGonagall started to answer, but got interrupted.
+
+"I would have trusted the serum, before. Never imagined someone so young could even start training. Just goes to show." said Mad-Eye, stomping around the office in a slow circle. He hadn't yet taken the cure, despite providing security for the new hospital. He still had doubts. And while he would never admit it, Moody enjoyed his current appearance and the fear he caused. Made his life easier, too, lots of people surrendered to him. Those he attacked a touch less violently, before arresting. Just in case they were faking.
+
+"Then how do Auror's know who's testimony you can exclude," Harry asked. The Wizarding legal system, despite seeming quaint, clearly had a staggering number of flaws.
+
+Amelia Bones answered "Tradition. Most people can't, so the default is that we accept it, certainly for anyone as young as Draco. Once you've started training or been caught in a lie using it, well, you can never use what you say under Veritaserum to convict someone else, but your memories can be used against you, of course. And as a matter of tradition we tend to *discount* accusations by certain Houses once they reach maturity."
+
+Harry thought about the implications of this, trying to see if they matched his experience. If what he'd heard was accurate, Dumbledore could have raised the issue to save Hermione, if he had any suspicion of Draco. But would Dumbledore actually have objected? Dumbledore had been willing to let Hermione go to Azkaban... he'd played such a complicated game Harry couldn't judge anything from Dumbledore's actions, because he'd been reacting to complex prophecies and who knows what else.
+
+Harry sympathized with Draco. This would be easier if everyone could trust everyone. Harry felt reasonably certain Draco had been turned, but...
+
+With the revelation that Harry couldn't trust Veritaserum to make him fully certain, the other obvious solution required a carefully worded Unbreakable Vow. Harry doubted Draco would accept. In any case, Harry didn't *want* to use a vow on Draco or on anyone he knew personally. It would cause resentment. Letting the Philosopher's Stone fall into the hands of a Dark Wizard? That was an existential threat. Harry couldn't allow that.
+
+And Harry Potter couldn't rationalize away his knowledge that the greatest threat the world faced was Harry Potter.
+
+Harry's Vow automatically stopped him from doing anything rash, like breaking the Statute of Secrecy without preparation. That was the good part. But it only stopped him when he was somehow aware of the problem. Like Veritaserum or Parseltongue, the Vow wasn't an Oracle. It didn't stop him from ending the world accidentally or provide him with knowledge he didn't know at some level. Harry spent the summer considering various ways he could topple that first domino that led to Armageddon, because once he did know something then the Vow would protect the world from himself.
+
+Unfortunately Harry Potter had a *particularly vivid* imagination.
+
+The more he'd thought about the problem, the more restrictive his Vow became. It tightened as summer went on, as Harry became more and more aware of the number of ways he could destroy the world. At first - in the early days - his Vow empowered Harry. Now it restricted him considerably. Decisions he would have made quickly, neglecting a tiny probability of failure, now had to be examined in detail.
+
+The odds of Draco turning Dark? Small, but there. Not quite negligible.
+
+Casting a Vow on Draco might make Draco bitter, might *nudge* Draco out of the light. Eventually. And honestly the Vow didn't guarantee safety.
+
+Harry defeated Voldemort while operating under the Parseltongue curse. He could still end the world accidentally, if he didn't know some crucial piece of information. If he rushed things. Harry could *imagine* Draco, wounded by his Father's death, becoming the next Dark Lord. Probably not an insane Voldemort persona, but a Dark Ruler? Harry couldn't dismiss it outright, couldn't rationalize it away without detailed consideration that frankly he didn't have time for. As Draco himself had pointed out, trust was a complicated issue and not Harry's strong suit. He'd be able to do it, later. Time would let him turn his 95% probability of Draco's redemption into 98% into 99% into some number so certain that to not act on it would be irrational.
+
+But Harry's own rationality, coupled with the Vow, enforced caution. Four months ago Harry would have spilled the secrets of his victory over Voldemort to Draco. Harry would demonstrate trust and not seal the memories. *After* his Vow Harry couldn't confess without pre-committing to seal those memories away. It was just the first of a growing list of things-he-found-he-couldn't do.
+
+Harry could imagine a perfectly safe Vow to make, but now that he lived under that burden he wouldn't inflict it on another.
+
+He'd had to talk with Hermione, convince her.
+
+Harry couldn't do anything now, realized he was wasting time, and went back to the business at hand with the Order of the Phoenix. He had details to attend to, things to do, things he could affect right now that he needed to do, before he could progress to the next phase of his plan.
+
+</div>
+
+</div>

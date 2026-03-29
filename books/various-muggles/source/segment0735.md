@@ -1,0 +1,61 @@
+<span id="seg-0735__seg-0735-c680940cc3"></span>
+
+<div id="seg-0735__s6-bc6df459c2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 5: Arrival
+
+<div id="seg-0735__storytext-9c93142583" class="calibre4">
+
+I hurried back to the compartment where I'd been sitting with the Weasleys to get my robes out of my luggage, and changed as quickly as I could. The train had already stopped by the time I was dressed, and the Weasleys were filing out.
+
+Halfway out the door, George called, "Hey, mate!" passing me a small card, the size of a business card as I scrambled to gathered my things, "I didn't get a chance to give you this before you ran off before."
+
+The card announced the first meeting of Chaos Club. I didn't know what that was, and tried to ask, but George just told me to be there, and handed me a few more cards, suggesting that I pass them on to other first years. Then when I told him I didn't even know where or when the club was going to meet he explained the card was under enchantment and would vibrate when the time and place displayed. Then he hurried off, followed by Ron who paused to roll his eyes and say, "I wouldn't even bother, if I were you," before running off to catch up with one of his classmates, leaving me alone.
+
+I was the last one off the train, and it took me a while to spot the other first years, all gathered around the truly enormous, rather disheveled, and (I remember thinking after I noticed the sword-like knife in his belt) absolutely terrifying man I later learned was Rubeus Hagrid, the Hogwarts groundskeeper. I might have turned and run if I hadn't seen Luna standing near him and smiling at my tranquilly.
+
+When I finally caught up with the group, I was relieved that Mr. Hagrid didn't really pay much attention to me, just turned, beckoned, and repeated, "This way," before silently leading us down to the docks. I was glad to be able to sit next to Luna as we sailed over black choppy water with the giant. Ginny caught up with me later on, as we were getting off of the boats. I introduced her to Luna, who turned out to only really know the Weasleys in a vague sort of way. I was momentarily worried as I recalled Luna saying that most wizards and witches think she's daft, but they shook hands politely, Luna daintily taking Ginny's strong hand.
+
+Ginny jumped straight into conversation, announcing she'd heard that there wouldn't be a Sorting Ceremony for us, and asking what we thought that was about.
+
+I of course had no idea what the Sorting Ceremony even was, but Luna had an answer, "Actually, Professor Trelawney mentioned that when she was at our house to be interviewed. Headmistress McGonnagall hopes it will reduce bullying. The new headmistress wants that to be part of her legacy, less bullying at Hogwarts. And Trelawney said that most of the fighting between Hogwarts students has been between houses."
+
+I remember Ginny nodded in comprehension, "That makes sense. Ron says that last year when Monroe's Armies were most active there was a lot of fighting between armies, but that up until then most of the fighting had been between houses." She paused, frowned thoughtfully for a moment, and then went on, "You know, now that I think about it, I think George said that Harry Potter had an explanation for this. Something about people how people naturally tend to sort themselves into groups, and to defend the group they identify with. I think he called it 'tribal cues' or something like that."
+
+When I interrupted to ask what the Sorting Ceremony was, Ginny obliged, "Traditionally, and all the traditions at Hogwarts are ancient, each entering class of first years would be sorted into one of the four Houses of Hogwarts based on personality and goals."
+
+"So many changes this year," Luna said had said dreamily, "The first year Hogwarts has ever changed its curriculum. The first year with no Sorting. One has to wonder whether McGonnagall has considered the larger implications."
+
+Ginny smirked a little, but simply asked, "Larger implications?"
+
+"Oh yes," said Luna, "Karmically speaking the implications are huge, of course, but also in other ways. You cannot teach an old hippogriff new tricks. Or at least, not without ending up with an angry hippogriff. And Hogwarts is a very old hippogriff indeed."
+
+Ginny giggled, "I like you, Luna. You're odd, but I like you."
+
+------------------------------------------------------------------------
+
+Mr. Hagrid herded us through a small door in the side of the fortress-like structure that was Hogwarts, into a chamber dimly lit by torches on the walls. On the four walls of the room were four massive oil-paintings, each a larger-than-life portrait of a distinguished-looking man or woman, each accompanied by an animal of some sort. Like my magical photographs, the portraits seemed to be alive, and the subjects watched us with a sort of vague interest as we filed in.
+
+When we were all inside and gathered in an awkward cluster, a door next to each painting opened, and a man or woman silently entered to stand next to each painting. I was a little surprised by this since one of the doors was in the same wall through which we'd entered and I'd only seen one door on the outside. Of the people who entered, I recognized Professor Flitwick immediately, as he moved to stand next to the painting of the tall thin woman with the raven perched on the back of her chair. The raven in the painting flapped about as it inspected us with more blatant curiosity and rather less dignity than did the woman in the painting who peered at us over the top of the book she was holding.
+
+The people who entered were the Heads of House, I soon learned: Professor Flitwick for Ravenclaw, Professor Snape for Slytherin, Professor Sprout for Hufflepuff, and Professor Lupin for Gryffindor. With the exception of the raven, the animals in the portraits corresponded to the emblems of the four houses. One time I asked Flitwick why Rowenna Ravenclaw hadn't been painted with an eagle, and he sighed and stated that all the accounts confirm that she'd never had an interest in falconry. He's normally happy to answer questions, but I suppose he gets asked that one quite frequently.
+
+Once the Heads of House were in position, the Headmistress herself entered through a large pair of double doors in one corner of the room. She welcomed us to the school briefly, and explained about the new sorting system:
+
+"Welcome to Hogwarts. As many of you will have inferred, there are a number of changes to Hogwarts policy this year. Among them, the Sorting Hat will not be sorting first years among the four Houses as has occurred in years past. Instead, to promote greater school integrity, your first year house has been determined by the use of a random number spell." As she spoke, I noticed the portrait of Helga Hufflepuff standing up a little taller and nodding in approval, while the other portraits seemed to slump slightly. The man with the snake seemed about to speak, but ducked his head in apology when the Headmistress glared at him.
+
+Headmistress McGonnagall went on, "You will sleep in the dormitories of your assigned house, and will have your meals at the house tables. Do not become too comfortable with your house assignments, however! Houses will be reassigned each year, henceforth, for howsoever long as I serve as Headmistress of Hogwarts. Professors Flitwick, Lupin, Snape, and Sprout each have a list of new student names, which they will read off once I have proceeded to the Great Hall. They will also explain the historical significance of the four houses, so that the traditional values of the houses shall not be lost." The portrait of Godric Gryffindor nodded gruffly at this, though the Ravenclaw and Slytherin portraits continued to look skeptical.
+
+With that, the Headmistress exited through the double doors, which silently closed behind her. The moment the doors closed, everyone seemed to begin speaking at once. The Headmistress's announcement was evidently rather a startling one, and all of the Wizard-born first years seemed to have something to say about it. Eventually the confusion died down, and the four Professors each took a turn reading off names. Ginny and I were both to be housed in Slytherin, we learned, while Luna would be in Gryffindor. Ginny looked up at the portrait of Salazar Slytherin rather warily after we heard we'd be living in his house for the next year, and he glared down at me with utter contempt. "Slytherin never cared for Muggleborns," Ginny explained in a whisper. Our new Head of House didn't seem so welcoming either, but he seemed equally unfriendly toward all of the new residents of Slytherin.
+
+------------------------------------------------------------------------
+
+**Author's notes:** Apologies for slight delay in release of Chapter 5. Chapter 6 should be published on or before March 15, 2014.
+
+</div>
+
+</div>

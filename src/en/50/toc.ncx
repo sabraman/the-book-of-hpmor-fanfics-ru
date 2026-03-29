@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="0152a5c9-a083-44ad-9701-5cc8d4dc4b66" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>50. Alt Chapters 109-110 (Riddles Upon Riddles, Legacy of The Troll)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 109: The Truth, Pt 6 – Riddles Upon Riddles</text>
+      </navLabel>
+      <content src="33/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 110: Legacy of The Troll</text>
+      </navLabel>
+      <content src="33/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

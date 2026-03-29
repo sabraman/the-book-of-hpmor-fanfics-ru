@@ -1,0 +1,16 @@
+[project]
+name = "the-book-of-hpmor-fanfics-ru"
+version = "0.1.0"
+description = "Russian-focused EPUB translation pipeline for The Book of HPMOR Fanfics."
+requires-python = ">=3.9"
+dependencies = [
+  "beautifulsoup4>=4.12.3,<5",
+  "pypandoc>=1.15,<2",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = false

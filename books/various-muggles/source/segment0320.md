@@ -1,0 +1,232 @@
+<span id="seg-0320__seg-0320-1fcfd94ed4"></span>
+
+<div id="seg-0320__s11-e870253ee7" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 11: Endgame
+
+<div id="seg-0320__storytext-9c93142583" class="calibre4">
+
+*The Forbidden Forest
+Earlier the Previous Day*
+
+"My younger students," Professor Quirrell said in a loud, strong voice. "I know this probably seems very fearsome to some of you… Especially those of you that opted not to participate in our extracurricular activities. It is the custom of Hogwarts that grades are given in the second week of June, but in my case… they made an exception."
+
+The Defense Professor smiled his familiar dry smile and continued, "I know you are worried that you are not prepared for this exam, that my lessons have not covered this material, and I quite forgot to mention that it was approaching… though you should have known it would come in time.
+
+"Your full year grade depends on the outcome of this battle. As with life, nothing else matters if you fail the most important test."
+
+Students started murmuring among themselves in hushed, worried whispers. Quirrell remained silent until the whisperers realized they were interrupting him, and hurriedly shut up.
+
+"I understand that we have some visitors from another school, and although their purpose was never made entirely clear, it seems they have taken it upon themselves to become teachers of sorts: offering advice, smoothing over disagreements, mediating disputes, or in some cases…" As he spoke, he looked pointedly at Fluttershy, and then a gaggle of Slytherin first-years. "…Ending them decisively.
+
+"It should be clear from the fact that I had accepted the post of Defense Against the Dark Arts teacher, that I enjoy my life in relative solitude. There are few who will truly mourn me, and none who depend upon me. Of course, I have seen firsthand that there are many who would fight far more valiantly to defend others than themselves. That people are far more willing to gamble with their own lives than with others.
+
+"People shun the cold, dispassionate, utilitarian moral calculus of sacrifice, yet are willing to do so when it is *someone else* that they would protect."
+
+"I confess that it had not occurred to provide instruction on this matter, how to recognize it, how to overcome it, how to manipulate it. However, this final exam allows me to rectify that wrong:
+
+"You will engage in a battle. The remainder of Sunshine Regiment, along with those who had chosen not to participate, will be distributed amongst the Dragon Army and Chaos Legion.
+
+"Both armies will be given *something to protect*, both literally and metaphorically. Your grade and the grade of your classmates will depend not only on your team's performance but on your ability to protect.
+
+"Of our Beauxbatons visitors, only four are healthy enough to participate in such a task, so the four of them have been divided between your two armies."
+
+He gestured towards Rainbow Dash and Applejack, "The Gryffindor with the questionably multi-colored hair, and the Hufflepuff with the out-of-place accent shall be assigned to Chaos Legion."
+
+He then looked towards Fluttershy and Pinkie Pie, "The Ravenclaw with the seemingly boundless enthusiasm for all things trivial, along with the Slytherin with an unusual proclivity for defenseless creatures…" He looked again at Fluttershy, "And from what I understand, she gets *quite* protective of them…"
+
+He turned back to the students. "These are your wards, your charges, your Protectorates. Your goal is simply to find them, and escort them back here to the starting point, the Sanctuary." He gestured to the edges of the clearing, where a translucent, slightly glowing blue circle on the ground surrounded them. "Within the bounds of this Sanctuary, no magic is to be used. If you break this rule, you shall forfeit the game.
+
+"If you survive, and your team wins, you shall earn an Outstanding. Alternately, if you do *not* survive, and your team wins, you shall only earn an Acceptable.
+
+"On the other hand, if you survive but your team simply loses, you shall earn an Exceed Expectations. Given that death is the default assumed outcome for all of you, eventually, that assignation is not entirely inappropriate.
+
+"However, if you survive and your team has failed your Protectorates by allowing them to be eliminated, you shall earn a grade of Poor. And if you should be so unfortunate as to not survive while your team has failed, then you will find yourself with a grade of Troll.
+
+"Finally, and perhaps anticlimactically, should you not survive and your team simply loses without allowing your Protectorates to be eliminated, you shall earn a grade of Dreadful."
+
+The students were looking amongst each other, clearly somewhat confused by the circuitous rules and scoring mechanism. Harry, on the other hand, was frowning while the professor continued, "The game shall end in one of two conditions: when a team's Protectorates crosses the bounds of the Sanctuary, or when the allotted time of two hours has elapsed. Both ending conditions come with certain consequences.
+
+"When the Protectorates enter the Sanctuary, any members of your own team who are not within the bounds of the Sanctuary shall forfeit, so as to prevent the protectorates from simply making a mad dash towards the Sanctuary. Similarly, any members of the opposing team who are within the Sanctuary when their team loses will forfeit, so as to discourage taking advantage of the protection afforded by the Sanctuary. If the two hours elapse without a victor, then all four Protectorates, along with anyone not within the bounds of the Sanctuary, shall forfeit."
+
+The confused looks on the students' faces only deepened, as did Harry's concentration. "The countdown shall begin shortly. But one final note; I have also cast the Incantation of Babel upon both teams to prevent communication between the teams and the Protectorates. Any attempt at communication will result in abject nonsense, so you have been warned."
+
+With a curt nod, he began to walk towards the edge of the dais, then added, almost as an afterthought in response to the countless faces staring blankly up at him. "As you all should know by this point, I do not repeat myself, so if you have any questions about the rules, then I would hope that your teammates have paid more attention than you."
+
+------------------------------------------------------------------------
+
+Draco was pacing, almost manically. "Ok. Nobody expected this, this test. So there's no way Potter could have prepared for things."
+
+"We think," Zabini added, quite unhelpfully.
+
+"Right. We think. Wait, what?" Draco was hardly listening to the input. "No. We don't think, we know. Professor Quirrell wouldn't give an advantage to anyone, much less Saint Potter."
+
+"Unless he came up with a bunch of alternate strategies just in case something like this happened." Zabini chimed in again.
+
+Draco considered this for a moment. "No, any strategy that he came up with, he would have to rehearse and plot in advance with other people. We would have heard something if Harry had started planning for a battle that was never to come. So, no, I think we're on a level playing field in that regard."
+
+He began pacing again, but the manic shakiness had left his voice and he was speaking with more confidence, "There's no shame in admitting that Potter is more clever. So I think he'll likely come up with *something*. But magically, we've got him beat in terms of pure strength. But Harry knows that, so he's not going to engage us on those terms."
+
+Dean Thomas piped up. "I was on Chaos Legion before the teams got redistributed. You're right that he's not going to engage us traditionally. But, I think he isn't going to engage us at all."
+
+"Huh?"
+
+"Well, think about it. Harry always talks about the Batman code of ethics."
+
+"The what?"
+
+"Batman. A Muggle superhero. It means, nobody dies. He doesn't have to save you, but he's not going to kill you. I think that's what it is. Every one of us he takes out, that's hurting us in the real world; we're losing marks off our grade. He's not going to want that. He's going to find a way to do it without having a battle at all."
+
+Draco's eyes widened. "Merlin's beard, you're right. They're going to fan out. Probably break off into squads of two, maybe three. He'll order them not to engage if they see us, and they'll scour the woods until they find the Protectorates, and then they'll run like hell back to the Sanctuary."
+
+Pansy raised her hand meekly, but then quickly put it down when she noticed multiple people staring at her. "But if they do that, then everyone else on their team will end up losing. At least, that's what I think the Professor said."
+
+Draco waved this off. "Yes, that's what he said, but it's easy enough to develop a system of communication. Bubblers, magic mirrors, enchanted coins, even smoke signals. They find their Protectorate, they fire off the signal, then they all fall back to the Sanctuary."
+
+"Small squads are going to be pretty weak, easy to pick off." Zabini offered.
+
+"Right, so we need to play to our strengths. We stay together, sweep the forest as one unit."
+
+"They'll be able to cover a lot more ground than us. They will find their charges before we do," Zabini argued.
+
+"They might. But they don't just need to find them, they need to escort them safely back to the Sanctuary. Their Protectorates and their entire army. His troops will be spread out across the forest. No matter where we are, as long as we converge on the Sanctuary as soon as the endgame begins, we will reach it before the remainder of their army. Potter won't sacrifice the few to save the many. Batman ethics, as you say. He will wait until every last man is safe, and until then, he'll be vulnerable."
+
+Zabini was nodding and didn't offer a rebuttal. Ron Weasley was considering this as well, "But how will we know the endgame has begun?"
+
+"That… That is where I'm hoping someone in this army can help because I don't have any clue how we should do that."
+
+Crickets.
+
+Birds chirping.
+
+Then silence.
+
+Until the soft, vaguely distant voice of Luna Lovegood cast a pebble into the otherwise still pond, "We look for Wrackspurts."
+
+"Wrackspurts?" Ron asked, incredulously. "What next? I suppose we should also look for Nargles in the mistletoe?"
+
+Draco spat, "Can it, Weasley. Unless you have a better idea." Ron said nothing, so Draco pressed the point. "Well, do you?"
+
+Ron looked at his feet. "No, I was just saying… Wait! What if we just wait by the Sanctuary, wait for them to come back, and then ambush them?"
+
+Draco rolled his eyes. "We want to win, not just keep Potter from winning. How do we expect to find our charges if we're sitting here on our thumbs waiting for Potter and his army?"
+
+"I, uh… well…"
+
+Draco cut him off. "Luna, continue."
+
+"Ron is right, you know," she added, not seeming to pay attention.
+
+"He what?"
+
+"Mistletoe. It's full of Nargles," she smiled and started twirling her hair a bit.
+
+More crickets.
+
+More birds chirping.
+
+More silence.
+
+Draco didn't want to interrupt whatever train of thought he assumed, or hoped, was running through Luna's mind, so he waited patiently.
+
+"But, now that I think of it, they only come out when it's Christmas, or when love is in the air. So we don't need to worry about them." She nodded at Ron and then turned back to Draco. "If you want to see someone who's wearing an invisibility cloak, you don't look for them, you look for the Wrackspurts floating around their head. So we fill the forest with Wrackspurts."
+
+"I don't know about you, Luna, but I didn't pack my bag full of Wrackspurts for this battle," Ron groaned, trying to save face by finding a flaw in Luna's plan.
+
+Draco sighed and grit his teeth. "She's speaking metaphorically. Now. Shut. It."
+
+Luna nodded, and then let out a small sound of affirmation. "Come to think of it, I did bring my Wrackspurt jar." She fiddled through her pack and pulled out what appeared to be a thoroughly empty glass jar, sealed with a wax and metal lid. She shook the jar a bit, then cooed at its contents. "But there aren't nearly enough of them. No, this is what I was thinking."
+
+She hooked her wand in the air, making a delicate threading motion, and a thin, luminous stream of iridescent light extruded from the end. She guided it around the trunk of the tree, then continued stretching the silvery thread across a small clearing, and then wrapped it around another tree. She gave it a quick tug to test its strength, and when satisfied, she pointed her wand at the string and then whispered:
+
+"*Xaphod Beeblebrox*."
+
+She turned to Ron. "Walk through it, you'll see."
+
+Ron looked ahead with great apprehension, "It's not going to… it's not gonna hurt me, is it?"
+
+"No, of course not."
+
+Ron started taking a few steps towards the thread, and Luna spoke again, half to herself, "Although my father did say that the famous shapeshifter, Andre the Androgynous, used that spell to change his gender…"
+
+Ron froze, then gaped.
+
+"Don't worry, I think he just made that up to sell Quibblers. He does that a lot, you know?"
+
+"You don't say…" Ron was not entirely comforted by this addendum, but in absence of any other suggestions, he continued to step forward until he reached the silvery thread. Bracing himself, he walked forward, his muscles growing tenser as the line became more taut. Finally, when he could handle the suspense no longer, he took a quick step forward and the line snapped, sending a fantastic shower of glitter and sparks into the air, visible at least ten to fifteen feet above the tree line.
+
+"If we string these up throughout the forest, starting at the Sanctuary and working outward, they might be able to avoid breaking them if they were treading carefully and softly. But if they were making a headlong rush back to the base, they'd be bound to give their position away."
+
+Draco was nodding, deep in thought. "So if we start by making our way to the Sanctuary, then slowly working our way outward… I think that we need to go in a spiral pattern to make sure we cover all side." He did a bit of mental math. "As long as we work quickly, we should be able to cover most of the ground of the battlefield within an hour, maybe an hour and a half. So one of two things will happen, we'll either find our charges before Potter does, or sparks will start shooting out from around the forest, in which case we make a run for it back to the Sanctuary, dispatch Potter's army, and continue our search."
+
+He turned towards the rest of the army. "It seems an easy enough spell to learn. We have 10 minutes until the battle starts, I want you all to practice it. Once you've mastered it, fall into position, and we'll start plotting our course.
+
+------------------------------------------------------------------------
+
+Harry paced, almost manically. "Draco's going to know, at minimum, that we don't plan to engage. So he's going to bunch up, try to leverage his superior firepower and superior numbers. But… thanks to Angela, here," he gave big thumbs up to Angela Ziegler, who blushed, "We have a great combination of spells that can temporarily pause the battle, hopefully for just long enough for them to listen.
+
+"*Malleus Descendum* will knock them off their feet, and then, what was it again? 'The Ultimate Mercy'? It will… well… Angela, why don't you explain it?"
+
+She kicked the dirt self-consciously but addressed the crowd. "It casts in a wide area. Anyone who is laying on the ground, whether they're unconscious, petrified, sleeping, or just laying down… It lifts them up a bit, and it bathes them in a barrier that doesn't let low-level spells either in or out. It's not going to help much against Avada Kedavra, but it would stop a Somnium or even a Stupefy."
+
+Harry nodded with satisfaction. "Right, and in that time, that's when we try to get through to them. Shout, 'Merlin says, the rules are flawed, we all can win.' There are ex-Chaos Legionnaires in there, they'll know what 'Merlin says' means. They won't know what the rest of it means, but it might make them pause long enough to listen to us.
+
+"You're permitted to fight to defend yourself, but under no circumstances are you to shoot to kill. Trip them up, immobilize them, but don't put them to sleep. Our goal is to win, not make the other group lose. If you make contact, send a message to the group. If your partner falls, send up green sparks in the air so we can track your location. When and if you locate the charges, send a message to the group and immediately fall back to the Sanctuary. If you come under attack and have our Protectorates with you, send red sparks into the air, and we will instead converge on your location."
+
+Harry exhaled. "And finally, if you successfully convince Draco and his army of the fact that there's a bloody stupid loophole in these rules and we can all get an Outstanding, then fire blue sparks into the air, and there will be much rejoicing."
+
+Harry's army nodded, solemnly, and began to break into pairs.
+
+------------------------------------------------------------------------
+
+"Come on, get a move on. I hear Draco's army in the distance!" Harry whispered sharply at Applejack and Rainbow Dash. Applejack, in turn, gave a sidelong glance to Rainbow Dash.
+
+Harry waved his hand back and forth. "What are you waiting for?"
+
+Rainbow Dash rolled her eyes, and spoke in a hoarse voice that sounded more like a washed up pop signer than the more feminine rasp of her own voice. "I hope you particularly enjoy the incredible crassness of the moment when we try to squeeze an extra syllable into the fourth line."
+
+Harry shook his head in frustration. "Damnit. Forgot about the Incantation of Babel. I wonder how far its effects extend… Can you understand hand signals?"
+
+Harry's start down the rabbit hole was interrupted by his companion, the wispy blonde little Hufflepuff that Applejack recognized as Angela Ziegler. She spoke in an authoritative voice that seemed to fit her, despite her diminutive frame. "Harry, are you ready?"
+
+Harry looked off in the other direction sharply, listening intently. Rainbow dash leaned in and she could hear the noise as well. Footfall, and lots of it. It was coming from the direction of the clearing opposite them.
+
+With sudden urgency in his movement, Harry charged forward. Angela followed a few meters behind, with a bright golden tether of light emanating from her wand having attached itself to Harry. She was whispering something to herself as she ran… "I'll enjoy the quiet while it lasts…"
+
+There was a sense of strange desperation in Harry's movement. His companion followed swiftly thereafter and the noise of the footfalls grew louder as he closed the distance to the clearing. Just as Harry reached the edge, a large group of students emerged, led by a boy with a pointed face and slick, platinum blonde hair.
+
+With one final effort, Harry charged forward, holding his wand as if it were a hammer and then shouted in his own voice, "*Malleus Descendum!*"
+
+Harry was propelled forward with unnatural speed, and when his wand connected with the ground, a shockwave was sent towards the group of other students. When it hit them, they were all swept off their feet and Angela came charging in afterward, holding her wand high in the air and yelled, *"Helden Sterben Nicht!*"
+
+The battlefield was bathed in a blinding, golden light.
+
+Dragon Army was desperately trying to reorient itself, many of their members trying to fire curses that fizzled unceremoniously in the golden light, but realizing that it was a futile effort, they reserved their magic and prepared for the effects of the barrier to wear off.
+
+In that brief moment of calm, Harry shouted to the crowd. "MERLIN SAYS, THE RULES ARE FLAWED, WE ALL CAN WIN!"
+
+And then both he and Angela tossed down his wands and held their hands up in the air in a clear gesture of surrender.
+
+By that point, the barrier had faded away, and not sensing any immediate threat, the entirety of Dragon Army looked to Draco for direction.
+
+Draco's mind was racing. The Professor's rules seemed to be solid. There was a very good chance this was a trap, a ruse designed to buy time until the rest of his army could arrive. But their tripwires hadn't been sprung; if Chaos Legion was closing in on them, they were doing it slowly and methodically. So he had time.
+
+"Hands in the air. Keep your hands up. Walk away from your wands."
+
+Harry did precisely what he was told, and the moment he felt he wasn't in imminent danger, the words tumbled out of his mouth as fast as he could think them. "Listen to me. The rules are flawed, there's a loophole. The game ends when the Protectorates cross the boundary and if everyone is in the Sanctuary and both teams Protectorates cross at exactly the same time, the game ends, everyone is alive, and we all satisfy the win condition and all we need to do is figure out a way to get the four of them to cross the boundary simultaneously but I don't really know how to do that since simultaneity is really just a macroscopic phenomenon and depends entirely on your reference frame, but Magic really doesn't seem to give a damn about quantum mechanics and-"
+
+"Harry. Harry. HARRY! Shut up, I can't think." Draco was closing his eyes in concentration, then after a brief moment of silence, called out to his army. "Dragon Army, stand down!"
+
+For a brief time, the only sound was the rustle of robes as wands were being put away.
+
+"Now, Harry, please explain what the hell you are on about."
+
+"Gladly. But first, would you mind shooting some blue sparks in the air?"
+
+</div>
+
+</div>

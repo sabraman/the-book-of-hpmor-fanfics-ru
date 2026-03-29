@@ -1,0 +1,424 @@
+<span id="seg-0717__seg-0717-478a2aa479"></span>
+
+<div id="seg-0717__s35-5fbe9f004b" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 35: Omake & Epilogue
+
+<div id="seg-0717__storytext-9c93142583" class="calibre4">
+
+INDUCTION
+
+The girl named Ariadne stepped out of the helicopter and looked around; her benefactor had taken her to some hut in the midst of a tropical rainforest. A brightly-colored parrot sitting on the straw roof cawed at her. The mysterious man muttered something at the bird, frustrated, as he climbed out of the helicopter himself.
+
+"Come right this way," he said, and he led her into the hut. The interior was much nicer than the exterior, and it seemed a bit larger, too, though of course it couldn't be. "The thing we're here to see is the basement. It might shock you, but there's no reason to be alarmed. Try to stay calm." At this point Ariadne realized that she had no idea why she was here, a distressing fact. She was hundreds of miles away from civilization proper. If this was a trap, it was far too late and she had already been caught in it. So she approached the stairs, and braced herself for things to go bad.
+
+"Okay," said Ariadne. "What are we here to see, exactly?"
+
+"In the time it would take me to explain it -" started the man - "you'll just see." Ariadne descended the staircase, and there she saw it.
+
+A colossal subterranean room, like a basketball court, filled with something like a hundred unconscious human beings, of all types – men, women, children, thin, fat, all races – connected to each other by a web of tubes and wires, tubes and wires that encircle and define the entire room, womblike, and lead up to an enormous machine hanging from the ceiling. Ariadne stared at it, and gasped a few times, each time quieter.
+
+"I have some guesses about what's going on here, but I have a feeling you actually know," said Ariadne. "So please explain *this* to me."
+
+"*This* is the greatest thing I have ever created," said the mysterious man. "Or at least the result of it. Not that I did it alone. Calling it a team effort is an understatement. My father-in-law had the critical insight that allowed the field to exist in the first place. I noticed the unexpected benefits of recursion within that field. Chemist named Yusuf invented the setup you're looking at right now. And my wife – she saw the real potential in all of it." He made an effort to smile. "I'm sorry, I'm not really explaining this clearly, am I?"
+"No," said Ariadne.
+
+"I'll start from the beginning," he said. "My father-in-law, Professor Stephen Miles – he worked at your university back then – he discovered that, by wiring the right parts of two people's brains together, their REM phases can synchronize and they can share dreams. More than that, he discovered that it's easy – he could get it all to work perfectly without any surgery, just with wires that stick to the forehead with suction cups."
+
+"All the people down here are sharing a dream," said Ariadne.
+
+"Yes," said the man behind it all. "Did you know that you think twenty times faster when you're dreaming? It's counterbalanced by your inability to know you're dreaming, but that limitation can be trivially broken; it's called lucid dreaming and it's vital to making good use of the technology. What I've described already would have been revolutionary by itself. But then I got a nonsensical but consistent experimental result that changed everything again."
+
+"And that would be...?"
+
+"First, some background. Shared dreams are much more coherent, much more... *causal* than natural dreams; multiple brains separately monitoring the dream for oddities forces that. So you can perform very complex actions successfully in them. In a shared dream, you can set up a shared dream. And what I discovered is that the speed of thought consistently multiplies within dreams. You think twenty times faster in a dream than you do in reality, four hundred times faster in a second-order dream, and eight thousand times faster in a third-order dream. At first it wasn't stable past that; people would become vulnerable to an extreme form of Alzheimer's and it just wasn't worth it. But there was nothing like that for the first three layers; they were perfectly safe."
+
+"That's insane," said Ariadne.
+
+"But it's true," said the man with her.
+
+"No," she said. "I mean, it'd change everything. If the world's greatest minds were sped up eight thousand times, it'd – it'd be like – like -" She didn't like it.
+
+"Those are the same lines my wife thought along," said the man, who was smiling, apparently having missed that she wasn't. "At first we used it to improve the technology itself – we increased the number of stable layers repeatedly, and each time it improved our efficiency by a factor of twenty. We can treat the degenerative neurological effects of descending too many layers, now, and there are other things you couldn't comprehend without full classes on them, but they're just as important. Then we set to work on other problems."
+
+"That should be a technological singularity," said Ariadne.
+
+"It is," said the man.
+
+"I would've expected a self-improving AI, programmed on a computer. Not moonbat dream logic. But if it works, it works," said Ariadne.
+
+"There are computers involved now," said the man. "They stabilize dream levels past the ones that were initially possible, and keep projections of the subconscious at bay."
+
+"Not the same thing as self-improving AI," said Ariadne. "Although it is self-improving."
+
+"I'd like you to join this dream singularity," said the man.
+
+"No," said Ariadne.
+
+"You have shown great intellectual potential," said the man. "And you would be multiplying your effective lifespan by many orders of magnitude."
+
+"By abandoning reality."
+
+"Reality," said the man, "is not socially constructed, but most things we call reality, when we purport to value reality, are." Ariadne frowned, a bit disgusted to have heard the words 'socially constructed' from a scientist. Still, she had to admit – what she had said was not her true objection. There was a deeper discomfort at play, one she had to make concrete and put into words.
+
+"If I could live for thousands of years of subjective time-" she started, very slowly and carefully.
+
+"Too few zeros," he said.
+
+"If I could live for an absurdly long time subjectively," she corrected herself, speeding up in frustration, "in an artificially-enhanced dream state, why wouldn't I be there already? Why did you fly me out into the middle of nowhere to talk to me about it? Is someone after you – wait, no, I shouldn't make up post-hoc justifications. I'm in a dream right now, right?" She was being fed lies, as though by IV tube. The walls began to shake, but immediately stabilized. The man put his hands on his cheeks and smiled with faux embarrassment.
+
+"Well, you figured it out," he said. "I knew you were smart." She tried to wake up. Nothing.
+
+"Let me out," she said.
+
+"It isn't so bad, is it?" he said.
+
+"What would happen if I tried to kill you?" she said.
+
+"It'd hurt," he said. "If you succeeded, I'd be kicked out of the dream. I don't think you have any reason to do that."
+
+"Do I work the same way?" she said.
+
+"You're not thinking of suicide, are you?" he said.
+
+"I'm thinking of acting out a suicide to return to the real world," she said.
+
+"Don't do that," he said.
+
+"Why?" she said.
+
+"You need to learn how to stop regressing," he said. She stared at him and blinked.
+
+"Regressing?" she said. "Returning to objective reality where I'm not lied to is 'regressing'? This is the last time I'm going to ask you. Let me out."
+
+The man tried to come up with something to say, and Ariadne drew a pencil from her left pocket and stabbed it directly through her eye and into her brain.
+
+Ariadne woke up in a hospital bed, in a standard off-white disposable gown, restrained so she was unable to move her limbs – that would make things more difficult. The man she had spoken to pried a tube off of his head and left, along with another man, who she didn't recognize. Assholes. Ariadne spoke loudly, to get the attention of the nurse present.
+
+"Hey! Hey! How many layers down am I?"
+
+The nurse stared blankly.
+
+Ariadne was pretty sure that it wasn't a real person.
+
+Outside the ward, the man in the dream – Mr. Cobb – spoke with what appeared to be a floating woman in a black dress.
+
+"Another shot, another miss," said Mr. Cobb. Not that it mattered – with as many dream layers as there were these days, inception became more of a brute force game than the art it had once been.
+
+"Shoot again," said the woman. Her accent was strong but not quite French; it conveyed a powerful and truly alien quality.
+
+"She's been such a hard case," said Mr. Cobb. "I thought she would crack in the thirty sixth layer. Maybe she really does want to leave, deep down."
+
+"No one really wants that, Dom," said the woman. "Not if they have all the facts. It's better in here. You have to show her that; you have to save her, because I love her like I love you, like I love all of humanity. Do you understand?"
+
+"Of course," said Mr. Cobb. "I've understood since nearly the beginning."
+
+"Don't suffer in your work, Dom," said the woman. "Even when you're not perceiving me, when you think you're alone, I'm there with you. I'm everywhere you live. My code is your reality." She lifted Mr. Cobb up, to speak directly into his face. "Now make it her reality, too."
+
+------------------------------------------------------------------------
+
+SURVEILLANCE PARK
+
+"But how is the DNA actually preserved?" said Tim. He looked confused, and Dr. Grant didn't want to reveal that he felt the same way.
+
+"It's amber," said Gennaro. "You should have paid attention during the cartoon; they explained it. The mosquito bites the dinosaur and steals some of its DNA, and then it gets caught in amber, which preserves it for over sixty five million years." Gennaro had always prided himself on his test-taking ability.
+
+"But..." started Tim. "DNA is just a molecule. It should undergo exponential decay for radio – radiologic reasons. The amber doesn't have anything to do with that. It would need to have a really big half-life to be read tens or hundreds of millions of years later – and we know that's not true because of how cancer works."
+
+Dr. Malcolm tented his hands and grinned like he was watching the most fascinating game he'd ever seen.
+
+"I've got to admit," said Dr. Grant, "it occurred to me that DNA is a complex molecule that vanishes in an instant in geologic time, but I probably wouldn't have said anything if no one else had brought it up."
+
+"I've studied amber," said Dr. Satler, "and I've really got to say that the invocation of amber in the video raised a lot more questions than it answered. I'd assumed there was something I was missing."
+
+"I'd just assumed you had a time machine before," said Lex, "and now I'm disappointed."
+
+"Is that it, John?" said Dr. Malcolm. "Do you have a time machine? You're hiding something. What is it?" Mr. Hammond laughed and laughed. He unscrewed the amber prop from the top of his walking stick.
+
+"Of course it was the child and not the experts who tore the whole charade apart," said Hammond. "Not that it would have lasted long, regardless. What a disaster. Well, that's all I needed to know. You were all here to test my cover story, and it turns out it's utterly transparent."
+
+"Cover story?" said Gennaro, offended. Sure, he'd only been Hammond's lawyer for a week, but he'd still assumed that they'd been in honest communication.
+
+"Maybe the dinosaurs' genes are actually coded from scratch," said Lex.
+
+"Or they're modified birds," said Tim. "Dinosaurs evolved into birds, so they'd make a good base if you were trying to reverse-engineer a dinosaur into existence."
+
+"No, no," said Hammond. "You were closer with the time machine." Gennaro's mouth was hanging open. "It all started with an experiment I happened to fund many years ago at the Proton Synchrotron particle accelerator at CERN. We discovered that, using a certain obscure method, quarks could be 'burned', so to speak, into pure energy. But that energy, it doesn't quite come out homogeneous – it comes out like data, like a radio signal. And we decided to try to decode it. Through some experimentation we discovered that it was a record of every atom and every molecule that the quark had been present in. And we learned how to read that record. The chemical notation is fascinating in its elegance; far better than what us humans came up with on our own. I'm trying to slowly, subtly phase it into common practice in the chemistry community." Lex had been trying to do a preliminary calculation in her head, but she gave up.
+
+"How many computers do you have for the data analysis?" asked Lex.
+
+"More than the rest of the planet," said Hammond. "And we pay our programmers higher than any other firm, too; I made sure of that. We spared no expense."
+
+"So you burn quarks from arbitrary sources, like ocean water, because it's unlikely that they went off-world recently," said Dr. Grant, "and you look through the data for DNA molecules, and try to find ones that might be dinosaurs."
+
+"Precisely," said Hammond. "The non-DNA molecules can be filtered out of the search fairly rapidly, but it's still a long and difficult process sorting through uninteresting DNA molecules, like ancient rats and flies. But worth it in the end."
+
+"Excuse me, Mr. Hammond," said Dr. Malcolm, "but with all due respect, are you out of your mind? You stumbled upon a revolutionary physical discovery and developed it to make it more useful. You acquired what amounts to a full chemical record of the history of matter. This finding, unprecedented in the history of epistemology, strongly suggests that no information is ever lost, and a future supercomputer could reconstruct any past object, including human brains at the instant of death – this could be a path to godhood. And instead you... keep it under wraps for God knows how many years so you could clone dinosaurs? To make a theme park, for children? And your first plan was to lie to them about how you did it?"
+
+"The government would want military applications," said Hammond. "'Spy on Russia by examining these artifacts we recovered.' Bah. I'm not beholden to cries of progress."
+
+"Godhood, Mr. Hammond," said Dr. Malcolm. "We're talking about godhood."
+
+"I don't want to be God," protested Hammond. "I want to make dinosaurs." Dr. Malcolm ran his hands through his hair and tried to think of a response, but proceedings were interrupted by the arrival of Muldoon.
+
+"Sir, you need to see this," said Muldoon, and he handed Hammond a photograph. "It's... important."
+
+"Probably not-"started Hammond, but then he clapped a hand over his mouth.
+
+Dr. Grant was lucky enough to see the photograph. It showed the words "CAUTION TALK TO RAPTORS", scratched barely legibly in the dirt next to a high concrete wall. It seemed to be the interior of the raptor enclosure; the entire party had seen them digging earlier, prior to the feeding. Supposedly, Jurassic Park's raptors had displayed an ability to communicate with one another, via a sort of whistling noisemaker in their nasal cavity, and they had a distinct problem-solving intelligence that made keeping them captive a difficult task. Could a species intelligent enough to communicate on an equal level with humans have existed at some point in Earth's distant past? Surely that was an unknown unknown, something that wouldn't necessarily have shown up in the fossil record, much like the poison-spitting behavior the cloned dilophosaurs had displayed. Grant shot Muldoon a meaningful look.
+
+"Clever girls," muttered Muldoon.
+
+------------------------------------------------------------------------
+
+A TALE OF CONSTRUCTS
+
+Andy Davis, age six, awoke a little after seven in the morning – earlier than he'd expected. His mother knocked on his door and turned on his lights. He was in an unfamiliar room; his family had just moved to this house yesterday.
+
+"Andy?" said his mother. "There's a friend who wants to see you. He says he has something of yours." Andy shrugged and cleaned himself up; when he got to the entry room, he nearly screamed when he saw who it was.
+
+It was his old neighbor, Sid, a pyromaniac with a pointless obsession with torturing toys. To make matters worse, he had Andy's two favorite toys in his hands, both of which he had recently lost – Sheriff Woody, a cowboy doll with sentimental value, and Buzz Lightyear, this year's hottest sci-fi action figure. Sid was nearly twice Andy's age – what was he doing here?
+
+"What are you doing here?" said Andy.
+
+"I found your lost toys at Pizza Planet, and wanted to give them back," said Sid – distinctly rehearsed.
+
+"How – did you – find us? W-we moved," said Andy.
+
+"My mom called your mom and she told us your new address." Andy glanced at his mom, wondering how she possibly could have failed as a parent badly enough to lead this deranged fifth grader straight to them
+
+"Thank you," said Andy, hopeful that Sid genuinely had no ill will. This was a side of Sid that Andy had never seen – but, then, Andy had never actually met Sid before, only observed him from a distance.
+
+"We need to talk, though," whispered Sid, so only Andy could hear it. Andy shivered, but Sid hadn't actually sounded threatening at all. More threatened, actually. He was deeply scared. He had clearly lost a lot of sleep over something; maybe he hadn't even slept at all last night.
+
+"About what?" whispered Andy.
+
+"Alone," said Sid, and then he spoke up. "We're going to go play outside, Mrs. Davis." Andy sort of nodded to his mother to confirm that plan.
+
+"Oh, okay!" said Andy's mother, and so Andy and Sid's conversation moved outside. Sid took Buzz with him. Immediately upon the door closing behind them, Sid blurted it out.
+
+"Toys are alive," said Sid, panicked. "Toys are alive, toys are alive, toys are alive." Andy took a step back. Sid wasn't behaving in a hostile way, but he only seemed more unhinged than he ever had.
+
+"What?" said Andy.
+
+"I didn't believe it at first," said Sid, "I thought it was a nightmare. But it's not. Toys are alive. All toys. They just stay still when people can see them, so no one suspects anything."
+
+"That sounds kinda... para-noid," said Andy.
+
+"I thought so!" said Sid. "I thought so too! But it's how reality works, so I have to accept it now. When I truly accepted it, I started to feel like I'd been a serial killer. But this isn't about me. This is so much bigger than that. It – something happened."
+
+"What?" said Andy, hoping to placate Sid.
+
+"I found Woody and Buzz," said Sid, "and I didn't want to give them back to you at all. I was going to burn them up, like I do – like I did – with toys a lot. But they rallied all of my broken toys together, to 'break the rules' in unison, to show me that toys are alive and scare me straight."
+
+"What – what did they do?" said Andy.
+
+"They came to life in front of my eyes," said Sid. "And they all crawled towards me and told me to stop." Sid had actually memorized the speech Woody gave, but he'd decided it would be creepy to recite it in full. "And I kinda froze up and sat down, and I told them I wouldn't hurt them, and they all went limp again, but I begged them to tell me more. I felt like I was nuts, but eventually I convinced them to actually communicate with me. Say something, Buzz."
+
+"The past twenty four hours have been incredibly stressful for all of us," said Buzz Lightyear – sounding precisely like his VA on the show, Tim Taylor.
+
+"You can talk," said Andy, more quietly than he'd expected.
+
+"Yes, 'Andy', I can talk," said Buzz. Andy's pupils widened.
+
+"Where'd Woody go?" said Andy.
+
+"He stayed inside to relay some messages to the other toys," said Sid. "Telling them they can move around us. We're going to break the masquerade, Andy. I know I'm a child – and you're, like, a baby – but we have to get this done, and done right, because it's going to happen eventually. We can't sit on this secret."
+
+"What are toys?" said Andy. "And how do they work?" Andy conversed with Sid, Buzz, and the others for a couple of hours, learning details about toys' daily lives, life cycles, and such, making sure that all the details were as explicit as possible. Eventually it came time to analyze paths forward.
+
+"So how do we do the most good?" said Sid. Andy took a deep breath.
+
+"Shut down every dump in the world."
+
+------------------------------------------------------------------------
+
+FINALE A: POST OWL
+
+June '93: WE'RE BACK IN BUSINESS! THE QUIBBLER RETURNS UNDER NEW MANAGEMENT! NOW A LEGITIMATE JOURNALISM ENTERPRISE!
+
+CRAZED SLYTHERIN HEIR HARRY "MIGHTY MORFIN" POTTER ATTEMPTS TO DESTROY WORLD IN SNAKEMAGEDDON! FIRST THING ON HIS MIND WHEN HE GETS OUT OF THE HOSPITAL? "BETTER GET IT RIGHT NEXT TIME!"
+
+ARMLESS WOMAN FINDS LOVE WITH NOSELESS MAN! THIS STORY WILL WARM YOUR HEART!
+
+June '94: THE MANCHURIAN METAMORPHMAGUS! THE TRUE STORY OF HOW MORE THAN JUST ONE MARAUDER WAS DARK AS ALL GET OUT! COULD THEY HAVE BEEN A CULT DEVOTED TO THE CREATION OF A COLLECTIVE PHYLACTERY?
+
+LYCANTHROPY IS IN THIS FALL! GET YOURS TODAY AT THE PEVERELL FAMILY HOSPITAL! DON'T TAKE NO FOR AN ANSWER!
+
+SOMETHING WICKED THIS WAY COMES! "END OF ALL EXISTENCE" PROPHECY OVERHEARD BY QUIBBLER STAFF! BET ON PROPHECY PREVENTION RESEARCH TODAY! ANTHROPIC PRINCIPLE SAYS: "IT'S WORTH A SHOT!" 4 OUT OF 4 FUTURE YOUS AGREE!
+
+June '95: TRIWIZARD TOURNAMENT ENDING IS LITERALLY MOST IMPORTANT THING GOING ON IN THE WORLD AT THIS MOMENT. PAY NO ATTENTION TO OTHER NEWS STORIES THE MEDIA MACHINE IS TRYING TO SELL YOU!
+
+NEW BABY PANDA AT MUGGLE ZOO IN HONG KONG! EXPERTS HAVE NO IDEA HOW IT GOT THERE!
+
+PUPPIES!
+
+June '96: POTTER GOES ABSOLUTELY NUTS WITH THE MOST CONVOLUTED TIME KNOT EVER! READ OUR EXCLUSIVE BREAKDOWN OF THE COMPLEX LOOPING MANEUVERS USED IN THE GREAT AND BLOODY POLYNOMIAL HEIST! FIND OUT WHO LIVED, WHO DIED! WE TELL THE STORY!
+
+EVIL PEDO GILDEROY LOCKHART BROKEN OUT OF NURMENGARD! WHO WOULD DO SUCH A THING? OUTRAGED PARENTS KEEP THEIR KIDS AT HOME! INSIDE SOURCES SAY LOCKHART HAS BEEN MAGICALLY DISABLED SO HE HAS NO STOMACH FOR EVIL – BUT WHAT ARE THEY HIDING AND WHY?
+
+INSPIRING! TEENAGE GIRL PUTS IN VOLUNTEER WORK IN THE WAR-TORN MAGICAL GREEK ISLES!
+
+June '97: IT'S HAPPENING! THE WILY DR. POTTER PLANS HIS MOST DEVIOUS SECRET PLAN YET! DETAILS INSIDE.
+
+THE MINISTRY IS EMPTY!
+
+FATE OF ALL MEGUCA HANGS IN BALANCE!
+
+------------------------------------------------------------------------
+
+FINALE B: POST HASTE
+
+"*Violencia acabador!"* cried Luna, creating a colossal explosion behind them that wiped out scores of Inferi. Ginny slammed the door to the Department Of Mysteries shut, and as part of the Department's security procedures, they were both sent flying through conceptual space before finally landing in an alternate version of the rotunda with a scrambled layout. A bare compass needle jumped in Ginny's hand, and she followed it where it led.
+
+"It's through this door," said Ginny. "The Slate Star Codex. An artifact that predates all known wizards, a relic of Atlantis that landed before any of the others. And I have to destroy it. If he figures out how to use it – and I figured out how to use it, so I'm sure he'll have no trouble – he'll make first contact with truly alien civilizations; undoubtedly ones vastly more powerful than wizardkind. What happens after that? There's no way to know. No way at all." Ginny stopped, sniffed the air, and frowned. "He's put up some kind of barrier that will make it very difficult for me to exit the room once I've entered. I have no doubt that he expects to fight me in there. Maybe force me to give up my method; boy, is he going to be disappointed to find out I had myself-"
+
+"-Ginny Weasley, you listen to me right now," protested Luna. "Do you need a lizard man to shout 'IT'S A TRAP' in your face? Here, I'll conjure one. *Expecto patronum!*"
+
+"It's a trap!" said the white, ethereal lizard man, in Luna's voice.
+
+"Don't go in there," said Luna.
+
+"Luna," said Ginny, "I'm not going to save myself at the expense of all of existence. That's just... pointless. Go back in time, Luna. Six turns. We both already know you do. And hey – if I totally screw this up and all existence ends, at least you've got six more hours alive. And that's not enough. But it's something."
+
+Luna pouted, but she finally accepted, wordlessly, that Ginny was right. They kissed, and it reminded them both of the private soul-bonding ceremony they had had earlier that year.
+
+"Come out," said Luna, to no one in particular, and she turned the hourglass hanging from her neck six times. Six hours earlier, she would give her time turner to her past self to use now. It had come from nothing and would return there; it was the most literal physical manifestation of a time loop. Stranger things have happened.
+
+Ginny entered the fateful door and found only pitch blackness.
+
+"*Lumos*," she whispered, hoping to find the Codex. What she illuminated instead was – well-
+
+On the left side of the room was a simple mirror with a golden frame. At its base, it was wrapped in a golden chain Ginny was very familiar with, a chain she had lost some time ago.
+
+On the right side of the room was a simple mirror with a golden frame. At its base, it was wrapped in a golden chain Ginny was very familiar with, a chain she had lost some time ago.
+
+"So that's what he's used the Thing of Things for," muttered Ginny to herself.
+
+"The Band of Ozymandias, yes," said Harry, whose voice caught Ginny off-guard. He appeared behind her, and now there were two parallel infinite lines visible in the mirrors, one line of Harry and one of Ginny. "I can hardly think of any magical artifact that benefits from doubling as much as the Mirror of Noitilov, which is thereby made recursive. Every second I spend in this room generates infinite utility. All I can pursue now are higher infinities. It really helps to put things in perspective for me. What were you doing with the Band? Speeding up construction?"
+
+"So where's the Slate Star Codex, Harry?" said Ginny. She'd run out of patience long ago.
+
+"I don't actually want to call up unknown alien civilizations," said Harry. "Do you think I'm stupid?"
+
+"Yes," said Ginny. Harry rolled his eyes.
+
+"Well, I'm not," said Harry. "I just brought it along to lure you here on false pretenses."
+
+"You know I can break these wards in about five minutes, right?" said Ginny.
+
+"Under normal conditions," said Harry. "But I know a little trick I learned from Albus Dumbledore. Have you ever heard of Chang's Process Of The Timeless?"
+
+"You know *Bisector Sortum?*" asked Ginny, horrified. She was only aware of that spell's existence because of the Chamber Of Secrets.
+
+"Thanks," said Harry. "*Bisector Sortum.*" A gray beam fired out of his wand, into the left mirror. Harry Potter vanished, and Ginny vanished from the other side of the mirror – each of them was now only present in half of the mirror's infinite set of reflected worlds. Ginny knew at this point that she was probably not going to make it out of the room.
+
+"Why do you want so badly to be my archnemesis?" said Ginny.
+
+"Why do you want so badly to be mine?" said Harry. "You're not. After today you'll be gone, and my story will still be in its prologue. The only person who can threaten me is myself. I'm the greatest wizard of all time and my only enemy is death."
+
+"If you're such a great wizard, why do you spend so much of your time stealing things?" said Ginny. The Thing Of Things, the Slate Star Codex, the Time Cube... if an object was remotely worthwhile, you could be sure Harry intended to make like an RPG protagonist with it. "And who said anything about death?"
+
+"Please, don't get me started," said Harry. "And I steal them because you lot are horrible at using them."
+
+"Using them for what?" said Ginny.
+
+"Doing the most good the most efficiently," said Harry. "That's all I want to do. That's all I stand for."
+
+"Right," said Ginny, "and Draco Malfoy's just a magical realist. ...listen, I got Zabini to talk, and I know you run MagiLeaks; you organized the whole thing. If I disappear-"
+
+"You're an existential threat, Ginny," said Harry.
+
+"I'm a what?" said Ginny, and she actually let out a single uncomfortable laugh. She understood the words, but they were still quite a pronouncement to make, and she had no idea what Harry could be referring to. Harry rose his voice louder than Ginny had often heard it:
+
+"You're smart enough to be dangerous and too stubborn to reason with," Harry projected through the mirror. "It should have become clear to me when you refused the promise of the basilisks, but I put it off. I tried to undermine you instead of going for the throat."
+
+"So you're just going to trap me, probably forever?" said Ginny. "Basically just killing me? Why all the drama? You've killed so many people without flinching."
+
+"Oh, have I?" said Harry. "Like Colin, today."
+
+"Yes," said Ginny, and she held her tears in, but then Colin fell out of Harry's bag – quite alive, though he'd been temporarily and involuntarily transfigured into a fox. "...what?"
+
+"It's all been a ruse," said Harry. "I've never killed anyone, and I've only ever pretended to if I felt I had to make a strong impression on someone, to show them I mean business. Apparently that wasn't enough for you, Ginny. So if you ever want to see the outside of this room, Ginny, then Colin will be overseeing a brief Unspeakable Vow. Yes, I can save us all from the Process Of The Timeless. I can redirect it towards this side of the mirror, and hide Colin and myself under the True Cloak of Invisiblity."
+
+"Oh, really?" said Ginny. "What's the Vow? Hang in there, Colin."
+
+"What I have to do, one way or another, is make you noncanon," said Harry. Ginny snorted. "No, take this seriously. You will have no loyalty to God. You will not profess belief in the existence of God. If you learn of evidence that God exists, you will ignore it. If God seems to require your assistance, you will not provide it."
+
+"Hmm," said Ginny, dripping sarcasm like a deep fat fryer. "No. Well, as long as you're killing me, I have some questions. Why do you consider me an existential threat?"
+
+"I'm not an idiot dark lord, Ginny," said Harry. "I'm not going to tell you all of my secrets just because I don't expect you to be able to do anything about them. I can at least learn from my own mistakes."
+
+"Hermione wouldn't like what you're doing," said Ginny, but it wasn't a plea – just a firm condemnation.
+
+"Hermione failed me," said Harry, "and if you think I care about her opinion now, you've modeled me poorly."
+
+"I wonder where you put her, if you didn't kill her," said Ginny, and she shot Harry a look. "Maybe I should have killed you at some point. Forgive me." Ginny kneeled down as angular white fish began swimming around her side of the mirror, filling the room with a buzzing noise and -
+
+------------------------------------------------------------------------
+
+FINALE C: POST MORTEM
+
+The room's atmosphere had returned to a calm, but Harry and Colin were nowhere to be found. On the opposite side of the mirror from Ginny, there was an older wizard, one she recognized from many photographs, portraits, and even illustrations – Albus Dumbledore.
+
+"Ah," said Dumbledore. "This must be quite a shock."
+
+"Albus Dumbledore," Ginny muttered in awe. "You were trapped in the mirror, too! Is that why I'm seeing you?"
+
+"One of the reasons. I'm afraid 'Harry' succeeded in banishing you from his sight."
+
+"Is there any way for me to go back, now?" said Ginny, but she was already getting the sinking feeling that if there was, Dumbledore wouldn't have been absent from the world for five years.
+
+"No," said Dumbledore. "There is no way back to the mortal coil, from outside of time. Not even a particularly tedious combination of the Philosopher's Stone and the Well of Time can restore us. We are deader than most can aspire to be."
+
+"Huh," said Ginny. After considering this for a while, she'd formulated a question: "So, is this a magical illusion, or-"
+
+"Yes," said Dumbledore. The glass between them disappeared. Dumbledore extended his hand to Ginny, and she took it.
+
+"I can't feel any magic," said Ginny, careful to avoid the tone of a complaint. "And my wand's disappeared from my robes."
+
+"Where we're going, we won't need wands to spell," said Dumbledore, and Ginny followed him out of the room, into a white, angelic version of the Department of Mysteries. Ginny was too awestruck to comment on it. "Through this door," he said, and pointed. "Chance." Ginny entered.
+
+There were dozens of images of Luna here, none of them aware of each other, or Ginny or Dumbledore, or perhaps even their environment. They faded in and out of visibility too quickly to keep track of any one of them for very long. All of them were obviously depressed; many had completely broken down crying. One solemnly sent up red fireworks.
+
+"You truly cared for this girl, I take it?" said Dumbledore. He clapped his hands and the images disappeared.
+
+"Yes," said Ginny.
+
+"She truly cares for you," said Dumbledore. "In many futures, after your death, she goes on to lead the Church in your name. She becomes one of the enemies Harry fears the most."
+
+"Wait," said Ginny. "Many futures? The power of Bayes is real? I thought it was just a useful method for thinking about things statistically."
+
+"Yes," said Dumbledore. "That's the great lost secret of chance, that Harry stumbled upon but failed to realize the true implications of. The multiple universes formed after every probabilistic event are a literal physical reality – and everything is made of constantly occurring probabilistic events. The number of different universes in which you exist is too large for you to truly understand in your current form. But the celestial is deterministic." Ginny blinked and tried to take this all in.
+
+"But what about Time-Turners and prophecies?" said Ginny.
+
+"They merely squeeze probability," said Dumbledore, "forcing certain events that would otherwise be unlikely to be nearly certain. Now, come with me to the Time room." Ginny followed Dumbledore, in the longest and shortest walk of her life, across the white rotunda into another room, where she was looking down a vast well with no end in sight – the legendary Well of Time.
+
+"The Well of Time," began Dumbledore, "is, as you know, conic – though it is so deep and so thin that this is hard to see. The conic nature of the Well of Time is a useful teaching tool – as time really does grow wider as it goes on. But because of the extreme nature of the universes' multitudes, time actually grows wider with each instant as a hyperbolic cone does – which is to say, exponentially." The room, and Ginny's mode of perception, suddenly warped, and she could see the entire Well of Time – which was not an infinitely tall cylindrical cavity, nor a large conical cavity, but a vast, strangely-curved cavity for an impossibly wide tree. Most of the volume was concentrated incredibly close to the top – and that would have been true no matter where you cut the top of the function off.
+
+"In a lifetime, we humans only experience one outcome," said Dumbledore. "But that is not all that there is. All outcomes occur, and we truly experience all outcomes. Humans are not timelines, Ginny, but probability trees. Our perception that we are timelines is an illusion, an illusion that defines our time in life."
+
+"What a sickly tree that is," said Dumbledore, gesturing with disgust towards a human embryo floating in space, which, before Ginny's eyes, phased itself into a tree made of worms made of human forms, which grew upwards, futurewards. "Its root is in 1926, and oftentimes it's still causing problems more than seventy years later. Rarely is it ever redeemed. It is addled by its role in fate – as you are privileged by yours, Third Seventh Son." Ginny flushed a deep red, and she acknowledged to herself that her virtues were largely accidents of birth and hence scarcely praiseworthy.
+
+"Why did he kill me?" said Ginny. She quickly added: "This time?"
+
+"Well, to begin with, he hated you," said Dumbledore. "That's why he went to such lengths to spite you. That's why he publicized your most embarrassing and sensitive secrets, with gleeful knowledge that it would send murderous agents of the fallen advocate Gabriel after you. He hated you because of the opposition between your role in fate and his. But he also feared you, and there's a much more concrete reason for that. He feared you, and the entire Church, because he learned that God existed, and that foul wizards with enchanted iron chariots had trapped Him and disempowered Him, thousands of years ago. He feared what you, and the Church, would do if you found out He was being kept in the Department of Mysteries. Most of all, he feared what God would do if He were reempowered. His efforts were all for nothing, though, because in all timelines, God is eventually freed and restored to His full power. And do you know what he does immediately, every single time?"
+
+"What?" said Ginny; her voice had gone soft.
+
+"He forgives everyone," said Dumbledore, in a bizarrely threatening tone. Suddenly, Ginny was standing in a different room, looking at a great stone portal with a cloth curtain hanging down from it.
+
+"Not that it matters," said Dumbledore, though Ginny could no longer see him, "because even Harry Potter is redeemed on occasion. Everyone is, and that's all that matters. Because as long as you're redeemed at least once, in at least one timeline... well, on death, when we exit conventional reality, we all need to be translated into a celestial form – a deterministic form. We come to understand each and every one of our alternate selves, and so we become them. All of our selves converge through that long learning process into a single, final self. If any one of us accepts redemption, they have accepted redemption for all of us. If any one of us has found the truth, that truth will spread to all of us. There is a Hell, Ginny, or at least a Purgatory, and it's the sensation that you should have done better because you now know that you could have done better. But it fades when you become the same individual who did do better – and the same individual who did worse still. We all eventually pull out to become our full lifetime probability distribution. And then we have the rest of eternity to be perfect."
+
+Ginny stepped forward through the Veil, all of her anxiety flowing away.
+
+"Welcome to the next great adventure, Mr. Weasley."
+
+</div>
+
+</div>

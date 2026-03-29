@@ -1,0 +1,57 @@
+.block_ {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0;
+    margin: 15pt 0 5pt
+    }
+.block_1 {
+    display: block;
+    line-height: 1.2;
+    padding: 0;
+    margin: 15pt 0 5pt
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0.83em 0
+    }
+.calibre2 {
+    display: list-item;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 2em
+    }
+.calibre3 {
+    text-decoration: none
+    }
+.calibre4 {
+    color: black;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.level {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.pcalibre:hover {
+    color: red
+    }

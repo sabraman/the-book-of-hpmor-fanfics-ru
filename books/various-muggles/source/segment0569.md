@@ -1,0 +1,72 @@
+<span id="seg-0569__seg-0569-365c2781d1"></span>
+
+<div class="calibre4">
+
+<div id="seg-0569__chapter-7-c329eadcdc" class="calibre4">
+
+"So, Miss Lovegood. Word has reached me that you have been implicated in a most unfortunate incident." Professor McGonagall's crisp Scottish accent harbored tones of reproach. "Some of my students told me that you had hexed them in the corridors."
+Luna kept her face expressionless. That came easy to her, since it was emoting that really required work.
+"Miss Lovegood," Professor McGonagall's voice had changed, though Luna couldn't really concentrate on deciphering the emotion behind it. "You have to talk to me. If I don't get your side of the story, it can only end up worse for you."
+Luna still didn't answer. To pass the time, she began to study McGonagall's face. The witch seemed older today, somehow. The lines in her face had gotten deeper, and her eyebrows were drawn together in a way that emphasized them further. Just then, one of her eyebrows twitched in a most interesting way that reminded Luna of something, but she just didn't know what.
+McGonagall spoke again. "I try to go above and beyond my duties in teaching here. I try to notice what my students do, when they're in my class, what they're talking about and who they're talking to. Once I know them better, I can teach better, or at least, that's what I hope. I've noticed that you don't talk to anyone, Luna. They're all ignoring you, barely two weeks into the school year. Once you all get older, there will be a phase when they grow bored of ignoring you. Bullying is a terrible thing."
+Luna cocked her head. "Is it, really?"
+McGonagall was speechless for a second. "Are you implying that you don't think so?"
+"Oh, no. If I thought that, I would have said so. Rather, I wanted to ask, since you seemed so certain. Have you ever been bullied?" Luna's voice was still conversational, neither apprehensive nor taunting. Nonetheless, McGonagall's eyebrows drew together in what Luna had learned to recognize as an indignant glare.
+"Young lady, I don't like your attitude, and it would be wise not to talk that way to a teacher!"
+Luna frowned. She remembered those words from somewhere, but where had it been?
+When she didn't answer, McGonagall went on. "I expect courtesy and obedience from any student, and from you, I expect an apology right now."
+"I'm sorry," Luna said, with some relief. It was always nice when people communicated their expectations clearly. "I should have shown courtesy and obedience."
+Though Luna hadn't thought it possible, Professor McGonagall's eyebrows narrowed even further. Then, she sighed.
+"I suppose that is good enough, for now. Let us get back to the matter at hand. What, exactly, happened in the corridors this afternoon?"
+Luna almost smiled. Another clear question that she could easily answer. Professor McGonagall might become her favourite teacher at this rate. "Oh, classes had already finished, so I was wandering around -"
+"Just wandering around?"
+An interruption. Professor McGonagall should care more about her possible status as Luna's favourite teacher, Luna thought. "Yes, I was taking a walk, it helps me think," she said with great dignity. "That day, my thinking began with what we had learned in potions class the day before. Professor Snape had told us about the uses of animals' brains in Potions, and I had asked if it was possible to substitute Aquavirius Maggots, since they look so similar. He had seemed somewhat taken aback and deducted five points from Ravenclaw, which was an unexpected reaction and therefore ripe in potential epiphanies. See, if he had known the answer, he could have just told me. I suppose he might not have been willing to admit ignorance, but -"
+"I am sorry," Professor McGonagall interrupted again, "but is this going anywhere?"
+Now, Luna was becoming slightly indignant herself. "Well I don't know! I didn't manage to finish that train of thought yet, and you shouldn't count your Crumple-Horned Snorkacks before you've found them. And with the way this day's been going, I won't get to make a theory out of this hypothesis today."
+"No, I meant if you thought it was relevant to the situation. The topic at hand."
+When Luna didn't change her dazed expression, Professor McGonagall sighed again. Luna was getting the hang of this one, as well. Most of the time it was exasperation, though sometimes it happened when Professor McGonagall was really surprised at the incompetency of a kid in class, and sometimes when she wasn't surprised at all, by her own admission. Maybe there were some slight differences between those versions of the sigh, and if she trained enough, she could even distinguish between them, and know if Professor McGonagall was surprised or not before she said it. That might be really useful.
+"Miss Lovegood, are you even listening to me?"
+"Now I am."
+Professor McGonagall sighed again, and this time it was probably the unsurprised one. "I will make this short and clear, then, for the sake of my sanity. Do you remember coming upon Derrick Boyle and Timothy Harris in the corridors today?"
+"Yes, I bumped into one of them just when I had been so close to a proof for Professor Snape's implication in the Rotfang conspiracy."
+"Thank you, Miss Lovegood, but could you please leave out any details about what was going on in your head? Now," she continued, without leaving Luna an opportunity to answer, "did you cast a hex on any of them?"
+"No, I didn't."
+Professor McGonagall raised an eyebrow. "Are you sure? They report seeing something rather strange and frightening which you were using to threaten them."
+"Well, I can't really talk about whether I'm sure or not if I'm not allowed to talk about what's going on in my head, aren't I? Actually, I couldn't even talk about what happened, since I would really be only talking about my perceptions of -" Luna abruptly fell silent as she realised the implications. If she couldn't talk about anything in her head, she really shouldn't vocalize her thoughts, which meant not talking at all.
+Professor McGonagall looked puzzled for a moment, which was an expression Luna always liked, since it reflected how she felt in most conversations. Then, a flicker of understanding lit up her features. Luna liked that one as well, though more on principle than anything, since she could never adequately share other people's epiphanies.
+"Miss Lovegood, you can talk about things in your head, but please try to keep your answers reasonably short. Now, let's try again. If you didn't cast a hex, how would you explain what Mr. Boyle and Mr. Harris saw?"
+"I don't know. It might have been a distortion in the air, or someone else's spell, or a trick of the light. Maybe swamp gas."
+"Swamp gas? I didn't know that we had a swamp in any of the corridors."
+Luna wanted to tell her that there would be one, some day, but she didn't think she should.
+"Nevermind, this clearly isn't working." Professor McGonagall folded her hands together and closed her eyes. After a minute, she spoke again. "I will give you one last chance, Miss Lovegood. Tell me what happened between you, Derrick Boyle and Timothy Harris today, while leaving out any facts, theories or hypotheses which aren't directly relevant to the aforementioned events."
+Luna thought about it for a second, then she told her story. It wasn't such a big deal, anyway. She had bumped into the other two first-years, and they had had a problem with that, which had somehow escalated into them pushing her around until they had turned around and ran away. She didn't tell anything about the scratching noises she had heard, or that she had heard them before. She also didn't mention anything at all about her mother, since that didn't seem directly relevant.
+When she had finished, Professor McGonagall nodded once, and sent her off to dinner. Luna was happy enough with the course of the conversation; she had learned interesting things about the conversational signals Professor McGonagall used, and she was pretty sure that Professor McGonagall wasn't part of the Rotfang Conspiracy, since she had reacted to her theories with the telltale indifference of the uninitiated. When Luna took the steps down to the great hall, she was humming happily.
+
+Minerva McGonagall sat at her desk, more than ready for the day to end. If someone had asked her which students caused the most trouble, she wouldn't have said Gryffindors, or even Slytherins. No, it was Ravenclaws. They were so convinced of their own cleverness that a week didn't pass without a Ravenclaw thinking he had found a loophole in the school rules, or contradicting her in class because he had theories about transfiguration.
+And that was the amount of frustration they caused when they were just insufferably smart-alecky. Once or twice a decade, however, some Ravenclaw turned up who was just too odd for the normal rules to apply to them. It was always a hassle trying to work with them, since no amount of punishment or reward could discipline them; they just stayed as they were.
+Luna Lovegood, however, was extraordinary even among those students. In fact, she was extraordinary enough that it might be prudent to check...
+Minerva McGonagall coughed. "Albus?" For a moment she hoped that the name would just echo around her empty office, but then, a candle began to swell, growing in length and width until it resolved into the wisest and least dignified wizard alive. Albus hopped down from the candlestick and dusted off his robes.
+"Why, my transfiguration skills must be growing rusty if you could detect me."
+Minerva sighed, and Luna would have recognized it as the unsurprised sort. "I just assumed that a first-year that peculiar would stimulate your interest. I was right, it seems."
+"Yes, yes indeed! Most capable, Minerva. So, what do you think about the Lovegood girl?"
+"She hasn't hexed Boyle and Harris, that much is clear. She must have done something else, though, if they really were pushing her around, they weren't likely to just stop. Also, they were scared witless when they came to me. It's clear that they have seen something."
+Albus smiled. "Ah, I'm not interested in the scuffle in the corridor. What did do you think of the girl herself?"
+"She certainly is unique. I had to use a level of semantic precision I usually reserve for Ravenclaws of year three and above, but her methods of evasion were unlike those of her housemates." She hesitated, then spoke a bit softer. "I had heard of her mother's death, but with that sort of trauma, I had expected someone sullen and moody, or even a completely withdrawn girl, not this sort of ... quirkyness."
+"Exactly, Minerva! Luna is most interesting. She could be the most talented natural Occlumens in the history of wizardkind. Mind you, it wasn't hard to get into her mind at all, but I was hopelessly lost the entire time I was in there. A fascinating maze, filled with all manners of curios and distractions, which is only fitting for someone so curious and easily distracted."
+Minerva sat bolt upright, and her voice was quiet and measured. "Are you serious, Albus? You violated a traumatized child's mental privacy over a scuffle between students?"
+Albus turned toward her, and shook his head gravely. "Do you really believe me to be so frivolous? I know that a mind should not be breached at a moment's notice. The situation was truly dangerous, however, and I needed to find out what I could."
+Minerva frowned. "You know I trust you, Albus," though it was hard, sometimes. "What happened today that was truly dangerous?"
+"If Luna didn't cast a spell, what exactly happened in that corridor? Derrick and Timothy have never been susceptible to hallucinations. It can't have been accidental magic, since it's almost unheard of in the halls of Hogwarts. There's two options: The first is that some other entity cast an illusion, most likely another student who was sympathetic to the plight of an ostracized first-year girl. If we consider the nature of the image that was conjured, that other student must have had access to the very wrong kind of books." Albus shot Minerva a significant glance, which she completely failed to understand.
+"The dark arts? What Boyle and Harris described sounded like the ravings of a madman!"
+"And if there's one thing worse than a dark wizard, it's a thoroughly insane one, or at least that's what everyone tells me. Yet the second option is far worse. If the thing in that corridor wasn't an illusion, it was real."
+Minerva wasn't always sure if Albus was serious or joking. In some cases, she hadn't known until years later. This time, however, the joke was too bad to be anything else. "Be serious, Albus."
+"Oh, I am entirely serious. There are still magical beasts we don't know anything of, and you know Xenophilius' taste for the unusual. What if he has acquired something truly strange, and it has followed his daughter to school?"
+"The wards should have - "
+"The wards are a thousand years old, and all that talk of 'magics most ancient' barely serves to distract from the fact that they are horribly outdated. If a creature we don't know anything about is loose in Hogwarts, it falls to us to contain it, not to convince ourselves that it isn't there."
+"I agree." Minerva's voice hadn't been this calm and professional at any point of the evening. "What do we do?"
+"You should probably give Derrick and Timothy a stern warning for their behaviour towards Luna, and keep an eye out for her well-being. I'll take care of everything else." With that, Fawkes landed on Albus' shoulder, they both went up in flame and were gone from her office.
+Minerva allowed herself one last sigh for the evening. It couldn't be healthy for her to be sighing this much.
+
+</div>
+
+</div>

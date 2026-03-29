@@ -1,0 +1,201 @@
+<span id="seg-0100__seg-0100-7dc372bd36"></span>
+
+<div id="seg-0100__s3-dd33a084ba" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 3: Comparing Reality To Its Alternatives
+
+<div id="seg-0100__storytext-9c93142583" class="calibre4">
+
+------------------------------------------------------------------------
+
+*"But then the question is - who?"*
+
+------------------------------------------------------------------------
+
+"Now remember Harry, you're not under any obligation to be here."
+
+"I know, Mum."
+
+"If you want to come home, just give me a call and I'll pick you right up."
+
+"Yes, Mum." *As if I'd turn back now.*
+
+Petunia Evans-Verres looked at Harry in the rear-view mirror of the car as if she could easily guess his thoughts, and seemed troubled by them. He'd spent the past few weeks in a mild frenzy, first interrogating her for what little direct experience she had about magic ("No Mum, tell me what you've *seen,* not what you've guessed or read about.") then doing independent research, which had quickly proven fruitless. Any books on magic he found involved complicated rituals to bring about some minor, vague misfortune, or wishing yourself riches and happiness through "positive attraction," or some other such unfalsifiable feel-good fluff. Nothing *remotely* close to lifting a man off the ground with a couple words and the wave of a stick, let alone turning into a cat, and no mention of a "Hogwarts" anywhere.
+
+Clearly all the *real* magic was kept out of bookstores or libraries by some organized effort, a notion he found both troubling and thrilling. On the one hand, he was about to be part of a massive, worldwide conspiracy the likes of which he'd only read about in fiction. On the other hand, the reality of a group of people capable of secretly enforcing such a conspiracy was mildly terrifying. He wondered how omnipotent they really were, and whether non-magic authorities were involved in the cover up. Mrs. Figg absolutely refused to answer any questions about magic he had. Harry suspected McGonagall had warned her not to, but she insisted it was for "safety reasons."
+
+Finally, the day before yesterday, another message had arrived at their house. Professor McGonagall had supplied them with a time and an address where Harry could meet her to obtain his school supplies. So this morning Harry's mum had driven him to London, uncharacteristically quiet and nervous. Harry assumed she was worried he would make a bad impression, but he was determined not to get into any trouble that might jeopardize his acceptance into the magical world. If the past few weeks had confirmed anything about his nature to himself, it was that he couldn't stand being aware of a mystery and not having the means to solve it. Just imagining going on with his life without learning more about magic... any scientific field he went into would drive him mad as he considered the true nature of reality that he'd caught a glimpse of.
+
+Once they arrived at the appropriate address, Harry's mother parked beside a row of shops. Harry stepped out of the car and looked around, and his mother rolled down her window.
+
+"Well," Petunia said after a pause, looking up and down the sidewalk. "I don't see Professor McGonagall... though we are a bit early. Where do you suppose the place is? 'The Leaky Cauldron,' wasn't it?"
+
+Harry turned in a slow circle, scanning the shops along the street. Nothing *looked* like a place that would sell magic wands, even as a joke. There was a fashionable clothing store, a hair boutique, an ice cream parlor, some fast food restaurants, a book shop (which he quickly jogged into, looked around a bit, then left), a pub - "There," he said, and pointed to The Leaky Cauldron, a quaint brick building tucked between the book shop and a record store. "Maybe she's already inside."
+
+"Hm?" Harry's mother looked vaguely in the direction he'd pointed. "Did you say you saw her?"
+
+Harry began to point again, then stopped and looked at his Mum, then back at the pub. She was looking right at it. "What do you see between that bookshop and the record store?"
+
+"What do you mean, dear? In the alley?"
+
+*Alley?* From Harry's perspective, the walls of The Leaky Cauldron were pressed up against its neighbors. "You don't see the pub right there?" he asked, pointing straight at it again.
+
+"No," Petunia said. "You mean to tell me there is one?"
+
+Harry felt an electric thrill go up his spine, and simply couldn't help himself. He approached a nearby couple as they walked by the car. "Excuse me, I'm afraid I brought the wrong prescription with me this morning and can't quite make out the store signs. Could you read them to me please, from right to left?" He gestured.
+
+The man gave him a curious look, but the woman began listing names. Harry watched her eyes as she named the bookshop, then the record store, without mentioning the Leaky Cauldron. It looked as though her gaze simply passed over where it was without registering it.
+
+"Thank you." He returned to his mother, shifting his weight from foot to foot with nervous energy as he stood beside the car and examined the pub. "It's not just you. They couldn't see it either." Here it was. Proof, however subtle, that he wasn't like other people. The now-familiar sense of disorientation came over him, and his mind raced with possibilities for how the cloaking worked. Harry wondered what would happen if he threw a rock out of the pub's window. Would the glass suddenly become visible to the people on the street? It was all he could do to not rush to the pub and begin experimenting with his mother's perception.
+
+If wizard folk could do things like this, it was no wonder Harry couldn't find any books about them. He wondered now if a massive conspiracy was really needed to hide records of the magical world. What if non-magic folk couldn't even see the books? What else had he seen in his life without realizing no one else could? Maybe some other safety mechanism was in place, like he needed to know the name of the pub as well-
+
+"Good morning, Mr. Potter."
+
+Harry spun around and beheld Professor McGonagall in all her witchy glory, seeming utterly unconcerned with the odd looks she was getting from passersby.
+
+"Good morning, Professor," Harry said. "Why can't Mum see The Leaky Cauldron?"
+
+"It's enchanted against muggle notice." The professor turned to his mother. "Good morning Mrs. Evans-Verres. I'm sorry to have kept you waiting."
+
+"Not at all, we'd just arrived." Petunia looked back at Harry, still with that same nervousness she'd had all day. "Well, I'll be back this evening to pick you up. Be good, Harry."
+
+She kissed him goodbye and drove away. He watched her go, then turned to Professor McGonagall. "What's a 'muggle?'"
+
+Professor McGonagall's lips twitched. "It's good to see you again too, Mr. Potter. Muggles are what we call those without a drop of magic in them. Shall we?"
+
+Harry followed her toward the pub. "Ok, so Dad's a muggle, but Mum too? Her sister was a witch, doesn't that mean she had some magic in her family?"
+
+"Oh, no, if her parents were both muggles then she was a muggle too," Professor McGonagall explained in her prim, scottish voice. "What you're thinking of is what we call a 'squib.' Though children of a witch and wizard, they cannot do magic themselves, poor things, but they can perceive many magical things and use enchanted items."
+
+Harry was trying to filter this information through his understanding of genetics, but was distracted partway as they entered The Leaky Cauldron. Harry whipped his head around to see if anything of note happened as they did, but couldn't detect any invisibility field descending on him, and no one in the street seemed to notice two people suddenly disappear.
+
+The inside of the pub was a bit dark and shabby, with wooden tables scattered about the shadows and a grubby bar that dominated the far wall. About a dozen people were inside, most dressed in various colored robes.
+
+"Good morning Professor McGonagall," said the barman with a smile.
+
+"Good morning Tom."
+
+"Is there anything I could get for - Good Lord." He peered at Harry, gaze drawn to his forehead. "Is this... can this be...?"
+
+Harry leaned towards the bar of the Leaky Cauldron as best he could, though it came up to somewhere around the tips of his eyebrows. A question like that deserved his very best.
+
+"Am I - could I be - maybe - you never know - if I'm not - but then the question is - who?"
+
+"Bless my soul," whispered the old barman. "Harry Potter... what an honour."
+
+Harry blinked, then rallied. "Well, yes, you're quite perceptive; most people don't realise that so quickly-"
+
+"That's enough," Professor McGonagall said. Her hand tightened on Harry's shoulder and began to steer him toward the back door. "Don't pester the boy, Tom, he's new to all this."
+
+"But it is him?" quavered an old woman sitting at the bar. "It's Harry Potter?" With a scraping sound, she got up from her chair.
+
+"Doris -" McGonagall said warningly. The glare she gave the room was enough to stop most others from doing more than muttering amongst themselves and staring, some paused halfway out of their seats.
+
+"I only want to shake his hand," the woman whispered. She bent low and stuck out a soft, wrinkled palm, which Harry, feeling confused and more uncomfortable than he ever had in his life, carefully shook. Tears fell from the woman's eyes onto their clasped hands. "My grandson was an Auror," she whispered to him. "Died in seventy-nine. Thank you, Harry Potter. Thank heavens for you."
+
+"You're welcome," Harry said automatically, and then shot Professor McGonagall a frightened, pleading look.
+
+Others began to approach them again, and Professor McGonagall slammed her foot down. It made a noise that gave Harry a new referent for the phrase "Crack of Doom", and the other bar patrons once again froze in place just as the general rush was about to start.
+
+"We're in a hurry," Professor McGonagall said in a calm voice.
+
+They left the bar without any trouble.
+
+"Professor?" Harry said, once they left. They were in a grassy courtyard surrounded on all sides by high brick walls. He had meant to ask what was going on, but oddly found himself asking an entirely different question instead. "Who was that pale man, by the corner? The man with the twitching eye, slumped in his seat?"
+
+"Hm?" said Professor McGonagall, sounding a bit surprised; perhaps she hadn't expected that question either. "That was Professor Quirinus Quirrell. He'll be teaching Defence Against the Dark Arts this year at Hogwarts."
+
+"I had the strangest feeling that I knew him..." Harry rubbed his forehead. "And that I shouldn't ought to shake his hand." Like meeting someone who had been a friend, once, before something went drastically wrong... that wasn't really it at all, but Harry couldn't find words. "And what was... all of that?"
+
+Professor McGonagall was giving him an odd glance. "Mr. Potter... do you know... how much have you been told, about how your parents died?"
+
+Harry returned a steady look. "My parents are alive and well, thank you. They've told me that my *genetic* parents were killed in a car accident when I was one year old."
+
+"An admirable loyalty," said Professor McGonagall. Her voice went low. "Though it hurts a little to hear you say it like that. Lily and James were friends of mine."
+
+Harry looked away, suddenly ashamed. "I'm sorry," he said in a small voice. "But I have a Mum and Dad. And I know that I'd just make myself unhappy by comparing that reality to... something perfect that I built up in my imagination."
+
+"That is quite wise of you," Professor McGonagall said quietly. "But your genetic parents died very well indeed, protecting you."
+
+*Protecting me?*
+
+Something strange clutched at Harry's heart. "So it... wasn't a car crash? What *did* happen?"
+
+Professor McGonagall sighed. Her wand tapped Harry's forehead, and his vision blurred for a moment. "Something of a disguise," she said, "so that this doesn't happen again, not until you're ready." Then her wand flicked out again, and tapped three times on a brick wall...
+
+...which hollowed into a hole that dilated and expanded and shivered into a huge archway, revealing a pedestrian street on the other side. A long row of shops advertising everything from actual cauldrons to "dragon liver" were clearly visible, and wizards and witches bustled about from store to store, some even trailing children dressed in small, brightly colored robes.
+
+Harry didn't blink. It wasn't like anyone was turning into a cat.
+
+"Welcome, Mr. Potter, to Diagon Alley."
+
+And they walked forwards, together, into the wizarding world.
+
+Here, Harry was sure, was the true testament to the effectiveness of magical secrecy. A whole long, winding street of London City completely unknown by its inhabitants. Only powerful magic or political agreements of the highest order could keep airplanes or satellites from taking note of such a place. Here were merchants hawking Bounce Boots ("Made with real Flubber!"). There were goggles that would turn anything you looked at green, and a lineup of comfy armchairs with ejection seats for emergencies. Some of the buildings were merely a story or two high, while others had multiple floors and were oddly structured, as though relying on magic to keep them upright.
+
+Harry's head kept rotating like it was trying to wind itself off his neck. It was like walking through the magical items section of an Advanced Dungeons and Dragons rulebook (he had no one to play the games with, but he did enjoy reading the rulebooks). Harry desperately didn't want to miss a single item for sale, in case it was one of the three you needed to complete the cycle of infinite wish spells.
+
+Then Harry spotted something that made him, entirely without thinking, veer off from the Deputy Headmistress and start heading straight into the shop, a front of blue bricks with bronze-metal trim. He was brought back to reality only at Professor McGonagall's voice.
+
+"Mr. Potter?" she said.
+
+Harry blinked, then realised what he'd just done. "I'm sorry! I forgot for a moment that I was with you instead of my family." Harry gestured at the shop window, which displayed fiery letters that shone piercingly bright and yet remote, spelling out Bigbam's Brilliant Books. "When you walk past a bookshop you haven't visited before, you have to go in and look around. That's the family rule."
+
+"That is the most Ravenclaw thing I have ever heard."
+
+"What?"
+
+"Nothing. Mr. Potter, our first step is to visit Gringotts, the bank of the wizarding world. Your genetic family vault is there, with the inheritance your genetic parents left you, and you'll need money for school supplies." She sighed. "And, I suppose, a certain amount of spending money for books could be excused as well. Though you might want to hold off for a time. Hogwarts has quite a large library on magical subjects. And the tower in which, I strongly suspect, you will be living, has a more broad-ranging library of its own. Any book you bought now would probably be a duplicate."
+
+Harry nodded, and they walked on.
+
+"Don't get me wrong, it's a great distraction," Harry said as his head kept swivelling, "probably the best distraction anyone has ever tried on me, but don't think I've forgotten about our pending discussion."
+
+Professor McGonagall was silent for a time. "Your parents - or your mother at any rate - may have been very wise not to tell you."
+
+"So you wish that I could continue in blissful ignorance? There is a certain flaw in that plan, Professor McGonagall."
+
+"I suppose it would be rather pointless," the witch said tightly, "when anyone on the street could tell you the story. Very well."
+
+And she told him of He-Who-Must-Not-Be-Named, the Dark Lord, Voldemort.
+
+"Voldemort?" Harry whispered. It should have been funny, but it wasn't. The name burned with a cold feeling, ruthlessness, diamond clarity, a hammer of pure titanium descending upon an anvil of yielding flesh. A chill swept over Harry even as he pronounced the word, and he resolved then and there to use safer terms like You-Know-Who.
+
+The Dark Lord had raged upon wizarding Britain like a wilding wolf, tearing and rending at the fabric of their everyday lives. Other countries had wrung their hands but hesitated to intervene, whether out of apathetic selfishness or simple fear, for whichever was first among them to oppose the Dark Lord, their peace would be the next target of his terror.
+
+(The bystander effect, thought Harry, thinking of the Latane and Darley experiment which had shown that you were more likely to get help if you had an epileptic fit in front of one person than in front of three. Diffusion of responsibility, everyone hoping that someone else would go first.)
+
+The Death Eaters had followed in the Dark Lord's wake and in his vanguard, carrion vultures to pick at wounds, or snakes to bite and weaken. The Death Eaters were not as terrible as the Dark Lord, but they were terrible, and they were many. And the Death Eaters wielded more than wands; there was wealth within those masked ranks, and political power, and secrets held in blackmail, to paralyse a society trying to protect itself.
+
+An old and respected journalist, Yermy Wibble, called for increased taxes and conscription. He shouted that it was absurd for the many to cower in fear of the few. His skin, only his skin, had been found nailed to the newsroom wall that next morning, next to the skins of his wife and two daughters. Everyone wished for something more to be done, and no one dared take the lead to propose it. Whoever stood out the most became the next example.
+
+Until the names of James and Lily Potter rose to the top of that list.
+
+And those two might have died with their wands in their hands and not regretted their choices, for they were heroes; but they had an infant child, their son, Harry Potter.
+
+Tears were coming into Harry's eyes. He wiped them away in anger or maybe desperation. *I didn't know those people, not really, they aren't my parents now, it would be pointless to feel so sad for them -*
+
+When Harry was done sobbing into the witch's robes, he looked up, and felt a little bit better to see tears in Professor McGonagall's eyes as well.
+
+"So what happened?" Harry said, voice trembling.
+
+"The Dark Lord came to Godric's Hollow," Professor McGonagall said in a whisper. "You should have been hidden, but you were betrayed. The Dark Lord killed James, and he killed Lily, and he came in the end to you, to your cot. He cast the Killing Curse at you, and that was where it ended. The Killing Curse is formed of pure hate, and strikes directly at the soul, severing it from the body. It cannot be blocked, and whomever it strikes, they die. But you survived. You are the only person ever to survive. The Killing Curse rebounded and struck the Dark Lord, leaving only the burnt hulk of his body and a scar upon your forehead. That was the end of the terror, and we were free. That, Harry Potter, is why you are often called 'The Boy Who Lived,' and why people want to see the scar on your forehead, and shake your hand."
+
+The storm of weeping that had washed through Harry had used up all his tears; he would not cry again.
+
+(And somewhere in the back of his mind was a small, small note of confusion, a sense of something wrong about that story; and it should have been a part of Harry's art to notice that tiny note, but he was distracted. For it is a sad rule that whenever you are most in need of your art as a rationalist, that is when you are most likely to forget it.)
+
+Harry detached himself from Professor McGonagall's side. "I'll - have to think about this," he said, trying to keep his voice under control. He stared at his shoes. "Um. You can go ahead and call them my parents, if you want, you don't have to say 'genetic parents' or anything. I guess there's no reason I can't have two mothers and two fathers."
+
+There was no sound from Professor McGonagall.
+
+And they walked together in silence, making their way through the streets of wizards, witches, and their children.
+
+</div>
+
+</div>

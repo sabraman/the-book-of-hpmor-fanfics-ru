@@ -1,0 +1,376 @@
+<span id="seg-0863__seg-0863-cc70985e2b"></span>
+
+<div id="seg-0863__s14-7d488dbee1" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 14: A Conversation with the Weasleys
+
+<div id="seg-0863__storytext-9c93142583" class="calibre4">
+
+Updated 6/2/2012
+
+**=ooo=**
+
+James Monroe felt himself awaken, though it seemed he had barely settled into bed for the night. He didn't open his eyes; doing so would only confirm he was awake, and if none of his wards or trip spells were going off, he wanted to be able to drift back to sleep with a minimum of trouble.
+
+On the other hand, something didn't feel right about the room.
+
+Eyes still closed, Monroe began concentrating on his wards one by one, checking if they were still in place. All of them were secure — nothing had tripped any of them, including the wards he'd placed around his bed after he'd climbed in. The wards on the hallway and staircase were secure as well, which made the malaise he felt all the more incomprehensible. Why did it *feel* like someone was in the room if none of his wards had tripped?
+
+"Wakey, wakey."
+
+Monroe's eyes snapped open. Sitting on a chair beside the bed was a scowling Ron Weasley, dressed in black jeans and T-shirt. Monroe and Ron stared at each other for several seconds before Ron said, with a smirk, "Can we talk?"
+
+Monroe glanced at the bedside table, where his wand had been. It was gone. Not surprising, he thought. "You might have given me a little more notice," Monroe replied, dryly. "We could have met over breakfast."
+
+"I didn't want you ducking out," Ron told him. He held up the wand from the bedside table. "We're going to be talking about you and You-Know-Who."
+
+Monroe pushed himself up onto one elbow, leaning toward Ron. "You're under the same misapprehension the Ministry is, that I know anything at all about Voldemort." He watched as Ron winced slightly at the mention of that name. "He's been dead for decades now."
+
+"*Is* he?" Even in the dim light of the window Monroe could see that Ron was staring closely at him. "How would *you* know that?"
+
+"It's common knowledge, that's what everyone thinks," Monroe said, sitting up all the way now. His eyes, still accustomed to darkness, could make out two more figures sitting in the shadows of his room. "Ah, I see this is a real family meeting, so to speak."
+
+"Right," said Fred or George, from the shadows.
+
+"How did you three get in here anyway?" Monroe wondered.
+
+"We made an arrangement with Hannah," one of the twins replied. "She let us know which room you were staying in."
+
+"Hmm," Monroe made a mental note not to stay at the Leaky Cauldron again. "So what are you doing here?"
+
+"Ickle Ronnie here convinced us we should have a little conversation with you, to see what your intentions concerning Harry are."
+
+Ron looked back at them. "Don't call me 'ickle Ronnie'!" he said, irritably.
+
+"Okay, Ronnikins," one of the twins said. Ron shook his head, frustrated, as the chairs Fred and George occupied slid forward toward the bed, stopping on either side of Ron.
+
+"You know, I'm a bit surprised you don't have me hog-tied, muzzled, and on the way to your shop," Monroe commented. "Seeing as how you managed to get past my wards so easily."
+
+"We couldn't —" Ron began.
+
+"You wound us, Mr. Monroe," Fred said, speaking over Ron. "We couldn't be that rude." Ron shot his brother a look but said nothing. "We thought we'd give you the opportunity to respond in a more — oh, neutral, shall we say — environment."
+
+"Thanks," Monroe said, dryly. "So what are your concerns?"
+
+"Harry's our friend," Fred began. "You haven't been here a week yet and he's already had more dealings with you than we've have with him in a year. We've had Ministry people snooping around our shops, looking for evidence against *you*, they said, though they haven't found anything we didn't want them to find."
+
+"And those things they didn't find," Monroe interrupted. "Are they things you have concerns about?"
+
+"Maybe," George said, neutrally. "The real question is, *why* are they so interested in you?"
+
+"Maybe because he's a wizard who's been pretending to be a Muggle for years," Ron suggested, in a sarcastic tone.
+
+"That's probably a good reason," Monroe admitted.
+
+"It's a *very* good reason," Fred agreed.
+
+"I'm almost surprised we haven't yet sorted out why you did that," George added.
+
+"Because he's hiding something, obviously," Ron growled.
+
+"I'm not hiding anything," Monroe declared. "I don't even know *why* I was pretending to be Muggle."
+
+Ron snorted derision, and Monroe saw the twins glance at one another. "Are you willing to prove that?" Fred or George asked.
+
+"How?" Monroe asked. "Shall we go ask the Ministry for three drops of Veritaserum?"
+
+"Well, not exactly, but close," Fred allowed. "We've been working on something — similar, shall we say, to Veritaserum. Something that's not Ministry controlled or regulated."
+
+"At least, so far," George also allowed. "We're still working out how to keep it a secret once we begin marketing it."
+
+Monroe sat up straighter. "Are you saying you have a truth serum as good as Veritaserum?"
+
+"Better, actually," Fred said, a bit affronted. "Why duplicate something when you can improve on it?"
+
+"About the only real improvement to Veritaserum would be an effectiveness against perfect Occlumens," Monroe suggested. "Does your purported serum have that?"
+
+"That would be telling, wouldn't it?" Ron sneered. "Are you saying you're a perfect Occlumens? Are you afraid to take the chance?"
+
+"Not without knowing what other side effects there may be," Monroe replied, ignoring Ron's first question.
+
+"Afraid?" Ron suggested.
+
+"Cautious," Monroe corrected.
+
+"Fair enough," George said. "How about this, then? You can take it after we try it out on Ron."
+
+"*What*?" Ron sputtered, outraged. "Me? What're you picking on *me* for?"
+
+"Well, you *are* the one who came to us with these claims about Mr. Monroe, Ronnie dear," Fred pointed out. "It seems only fair that we make sure what your intentions are in leveling these charges against the man, don't you think."
+
+Monroe nodded. "It's fair. I agree to those conditions. And that you have to tell me how you made it past my protection spells."
+
+Fred and George looked at one another. "Done."
+
+"Bloody hell," Ron muttered. "Remind me not to bring you two along to my next interrogation."
+
+**=ooo=**
+
+"How do you want to do this?" Monroe asked. He was sitting on the side of his bed, still in his nightclothes. "Will I get to ask questions too during Ron's turn?"
+
+"No," Ron said, flatly.
+
+"Sure," Fred and George said, smiling. Ron shot them a dark look.
+
+"You're going to get to ask *him* questions when it's your turn, little brother," Fred said, reasonably. "It's only fair. Now hand over Mr. Monroe's wand, and yours too. We might as well make this as even as we can." Ron did not look happy at this, but surrendered the wands without a word.
+
+Monroe watched interestedly as Fred took out a small potion vial and George conjured a small glass filled with water. Ron was watching, too, but his expression was a bit more…worried than Monroe's. As George held the glass out in front of Ron, Fred tipped three drops from the vial into it, and George handed it to Ron.
+
+"Down the hatch," George said.
+
+"Bottoms up," Fred added.
+
+"Drop dead," Ron snapped, but took the glass and slowly drained it. He stared into the bottom of the glass for a moment, then said, "I can taste it."
+
+"You always say that," Fred scoffed. "It's as tasteless as water."
+
+"What do you mean?" Ron looked puzzled. "This is the first time I've ever tried it!"
+
+Monroe caught a quick smile that passed between the twins. "What next?" he asked, watching Ron carefully now. "How long before it goes into effect?"
+
+"He's ready," George said. "Ron, tell us what we're doing here in Mr. Monroe's room."
+
+Ron, who'd been fidgeting and looking back and forth at his brothers, had settled down and was looking straight ahead, seemingly calm and relaxed. "We're here to question Monroe on what he knows about You-Know-Who."
+
+"Why do you think I know anything about him?" Monroe asked.
+
+"You and Harry Potter have been acting strangely since you showed up a few days ago," Ron said, quietly. "And when we had lunch with Harry a few days ago he suggested that You-Know-Who might not be dead."
+
+Fred frowned. "I don't remember it that way," he said, looking from Ron to George. "I thought Harry said that there was no way to test whether Quirrell was dead short of using the Resurrection Stone, and nobody knows where that is, so it's moot anyway."
+
+"Well, it's how *I* remember it," Ron insisted.
+
+"So what other evidence do you have that You-Know-Who might be alive?" George asked Ron.
+
+"Um," Ron said, then appeared to be thinking for several seconds. "Malfoy thinks he might be, too."
+
+"And how do you know what *Malfoy* thinks?" Fred wanted to know.
+
+"I went to see him the other day, after I left the shop," Ron replied.
+
+"What?" Fred and George both said, looking at their brother in shock. "Why would you do that?" Monroe was now listening with intense interest.
+
+"Because I was mad at Harry and wanted to teach him a lesson," Ron said.
+
+"Teach him a lesson for what?" Monroe asked.
+
+"Because he's got these two Confunded or something," Ron said, pointing to the twins. "They think he can do no wrong. But Ginny's told me about a lot of his business dealings and if he's screwing the Muggles out of money, he's probably screwing us, too!"
+
+"You don't know how Muggle business works, Ron," Monroe said. "Harry's job as CEO is to make sure his business *makes money*. He's a shrewd businessman, but Muggle business doesn't work like it does here in Diagon Alley. Well, it's similar, but the goblins at Gringotts only instituted seigniorage a number of years ago."
+
+Ron looked at him blankly. Both Fred and George were shaking their heads. "What's *that*?" Fred asked. "I've heard Harry use the word, but he didn't explain it to us."
+
+"What the goblins are doing is altering the amount of gold and silver in their coins, decreasing the ratio of the precious metals," Monroe explained. "Until they started doing this Galleons and Sickles were pure silver and gold, respectively. Harry's told me a little about the goblins and their money. I think Harry has said the ratio is something like 90 percent, and they continue to lower the ratio over time. They are using the gold and silver that doesn't go into coins to speculate in precious metals commodities in the Muggle markets."
+
+George's eyes narrowed. "That sounds like the goblins are using metal that should be in our coins to make themselves richer."
+
+"Technically," Monroe agreed. "But they are also increasing the wealth of the Ministry of Magic compared to other Wizarding communities, the ones that don't use goblins to manage their gold and silver. In the Muggle market the value of one Galleon is worth about fifty to fifty-five British pounds, not five, which is the normal exchange rate at Gringotts.
+
+"Wizarding Britain becoming more solvent is also good for Muggle Britain as well, as long as they speculate wisely with their own gold and silver."
+
+Fred and George looked at each other again. "Could this 'seigniorage' help us increase our profits?" Fred asked, shrewdly.
+
+"No," Monroe said. "You can't mint coins." The twins' expressions fell. "But you can still spin money by providing better product than your competitors. I assume no one else is in the Muggle electronics business yet."
+
+"There are a few new shops trying to copy us," George shrugged. "But they're just trying to reverse-engineer our products and we're careful to put on spellbreakers that activate if anyone tries to fiddle with them. We provide warranty work for up to a year on most of our products, but the warranty is void if you try to figure out how it works."
+
+Monroe nodded; it seems the twins *did* understand something about Muggle business practices. He looked back at Ron. "Let's get back to business here. Ron, do you *really* think Harry has your brothers under some kind of spell?"
+
+After a moment Ron shook his head slowly. "No, I don't. But it pisses me off that they think he can do no wrong. He's done a lot of things in his life that he can't be proud of."
+
+"Such as?" Monroe prompted.
+
+"Like…" Ron seemed to grope for something to say. "Well, the stuff he did at school — like trying to get Quidditch changed. Everybody *hated* that. And our fifth year when he incited everyone to disobey the DADA teacher that year."
+
+"You mean Umbridge?" Fred scowled. "Nobody like her, Ron. She was trying to shut down our magical education system!"
+
+"She was trying to revamp it!" Ron insisted. "We wouldn't have had nearly as much homework once she got things changed around!"
+
+"Because we wouldn't have been *learning* anything!" Fred snapped. "Thank Merlin that was our last year at Hogwarts, and we could pull out when we did!"
+
+"And what did your General Granger think of what Umbridge was doing?" George wanted to know, throwing a look at his twin as he asked.
+
+"Well, she wasn't happy, either," Ron admitted, a sullen tone creeping into his voice. "But she would've kept on learning on her own, anyway. That's what she *did*."
+
+Monroe opened his mouth to ask a question but Fred held up a hand. "What did you think of Hermione back then?"
+
+Ron blinked several times. "Um, well, I really liked her, o' course. She was very nice for a Ravenclaw — she'd help anyone who would ask her."
+
+"And you asked her for help quite a lot, didn't you?" George asked, smiling.
+
+"Homework was hard!" Ron insisted. "I could barely keep up, even *with* her help!"
+
+"But that wasn't the only reason you wanted to spend time with her, was it?" Monroe asked, seeing where the twins' questioning was going.
+
+"No," Ron said, in a small voice. "I — I — l-l-l — *liked* her."
+
+Monroe sat back, intrigued. What was Ron going to think after the potion wore off and he realized he'd spilled his guts to them? "Do you like her now?" Fred and George both stared at their younger brother, keen to hear his answer.
+
+"I — uh — well, yes," Ron said, nodding slightly. "But I married Luna!"
+
+"Do you still love Luna?" George asked.
+
+"Yes," Ron insisted, nodding.
+
+"So how do you feel about Hermione?" Fred pressed.
+
+"I — well, I — guess I…" Ron's eyes fluttered and he slumped forward, asleep.
+
+"Oh drat," Fred said. He looked at George. "Did that happen faster than last time?" he asked.
+
+"I think so," George answered. He looked at Monroe. "Each time we use our serum on someone, they come out from under it faster and faster. We don't know if there's a lower limit to the duration of the potion or not. A larger dose just builds up immunity faster."
+
+Monroe looked at Ron, now slumped forward in his chair. "How mad do you think he'll be when he wakes and remembers you quizzed him about Hermione?"
+
+Fred and George both beamed. "Well, that's another improvement we made over Veritaserum," George said. "Once the serum takes effect you don't remember anything you've said while under its influence."
+
+"Well, that sounds useful," Monroe agreed. "Especially when questioning close family members."
+
+"Yes." Fred glanced at his sleeping younger brother. "He'll wake up in a few seconds and we'll begin the second round of questioning."
+
+Monroe sat quietly, but his mind was working furiously on how to deal with this situation. There were some things that he and Harry didn't want the Weasleys to know. But if this serum was as good as Fred and George claimed (and it probably was — the Weasley twins were pretty sharp) then even *Harry* might have difficulty beating it. But there might be things he could do, barring Occlumency, that could keep him from spilling the beans.
+
+Ron suddenly sat up, then looked around blearily. "Did I fall asleep?"
+he asked, rubbing his eyes. "What did I miss?"
+
+"Nothing," Fred said smoothly. "We're about to give Mr. Monroe the serum." George was holding out another glass of water, and Fred tipped three drops of the serum into it and handed it to Monroe.
+
+"Cheers," Monroe said, and drank it down. Ron lost his bleary look and began smiling in anticipation of grilling him.
+
+The change that came over him was very subtle, Monroe discovered. He was beginning to feel the urge to *be honest*. It was almost as if someone had cast an Imperius Curse on him and commanded him to tell the truth. If the Weasleys had found a way to incorporate that curse into a potion…
+
+But you could *resist* an Imperius if you knew how, if you had the will to do so. And if that was what made the Weasleys' serum so effective, it could be resisted as well. Monroe relaxed, becoming calm and quiet, and waited for the questioning to begin.
+
+"He looks ready," Fred was saying. "Let's jump right in, then. Mr. Monroe, tell us everything you know about You-Know-Who?"
+
+"Not a lot to tell," Monroe answered. "His real name was Tom Marvolo Riddle. He attended Hogwarts from September 1938 to June 1945. He was made a prefect in 1942 and Head Boy in 1944. He won a medal for Magical Merit and for Special Services to Hogwarts in 1943. He worked at Borgin and Burkes for a while after leaving Hogwarts, then disappeared for about a decade, reappearing at Hogwarts in 1956 to ask the new Headmaster, Albus Dumbledore, for the Defense Against the Dark Arts position. Dumbledore did not give him the job, and Riddle cursed the position so that no one teaching it would hold the position for more than a year."
+
+"All of that is pretty boilerplate," George remarked.
+
+"What we want to know," Ron jumped in, "is what you know about You-Know-Who *now*, today!"
+
+"I've just told what I know about Riddle today," Monroe replied, tonelessly.
+
+"That's not what I meant!" Ron snapped. He looked at Fred and George. "Are you sure this stuff works?"
+
+"It has so far," George replied. "Mr. Monroe, do you know anything about You-Know-Who's whereabouts today?"
+
+Monroe shook his head. "He's supposed to be dead, killed in 1992 during a battle with Harry Potter."
+
+"Is it possible he wasn't killed then?" Fred asked.
+
+Monroe stared at him a moment. "Of course it is," he said at last. "But Harry would know more about that than I would."
+
+"Has he said anything about it to you?" George probed.
+
+"We've talked about Voldemort," Monroe admitted, making Ron flinch again slightly. "But only because he accused me of being him, or being possessed by him, due to my time pretending to be a Muggle."
+
+"How did you convince him otherwise?" Ron demanded.
+
+"He poured goblin anti-concealment water on me," Monroe answered. "Nothing happened — Voldemort didn't pop out of me, and I didn't regain my memories of why I was pretending to be a Muggle."
+
+"Do you know what Malfoy suspects about you?" Fred asked.
+
+"The same thing you do," Monroe answered. "That I have some connection with Voldemort."
+
+"You seem to have a lot of people thinking that about you," Ron pointed out. "So why shouldn't we be taking it seriously?"
+
+"I don't know," Monroe shrugged. "Maybe you should, but I can only tell you what I know."
+
+"Right, then," Fred muttered. "So tell us what you remember of your time at Hogwarts. How long did you attend school there?"
+
+"I attended until the end of my second year," Monroe said. "After that my parents and I decided we weren't going to deal with the craziness going on there — Dumbledore's strangeness, the problem with the Defense professor — the person that taught in my second year was a complete idiot, and Harry himself was causing quite a bit of trouble there with school activities like Quidditch."
+
+Fred and George both smiled, remembering The Year Without the Snitch. "Yes, that was a rather unusual year," George recalled. "Were you a Quidditch fan like Ronnie here?"
+
+"That was the worst year for Quidditch *ever*," Ron declared, scowling. "Potter made the game unplayable *and* unwatchable!"
+
+"I didn't care that much for Quidditch," Monroe said. "But a lot of class time was wasted in discussions of the games — even the teachers would start talking about them! Our learning experience was being eroded. And we never learned anything in Lockheart's classes anyway — the man spent most of the time talking about himself instead of teaching Defense Against the Dark Arts!"
+
+"Sounds like Monroe and Hermione would have made a good couple," Fred muttered to George, across Ron, who glared at him.
+
+"That might be a good question," George smiled. To Monroe he said, "What did you think of Hermione Granger back then? Did you like her?"
+
+"She was okay," Monroe replied. "She was a fellow Ravenclaw, and she was very helpful to other students who weren't as advanced as her."
+
+"But did you *like* her?" Fred pressed. Ron had a taut expression on his face.
+
+"I was not at Hogwarts to meet girls," Monroe said. "I wasn't even in my teens when I left. Hermione was nice, but she was still a *girl*. At Salem things were different — I was older and the girls were — well, beginning to fill out." Unconsciously Ron exhaled.
+
+"Did you ever get married, then?" George asked.
+
+"I don't think so," Monroe said. "I don't remember much after leaving Salem."
+
+"What *do* you remember after that?" Fred asked.
+
+"I remember getting the job at *Singularity Today* magazine," Monroe replied. "But by then I thought I had moved back to Britain from America."
+
+"And you don't remember *anything* between Salem and then?" Ron asked, skeptically.
+
+Monroe shook his head. "No."
+
+Ron looked at his brothers. "He's lying, somehow."
+
+"No," Fred declared. "The more he tries to avoid telling the truth, the more the potion compels him to do so."
+
+Monroe nodded. "So I'm probably right — you incorporated an Imperius Curse into your truth serum."
+
+Fred and George both raised an eyebrow. "Bravo," Fred said. "Brilliant deduction, Sherlock."
+
+Ron looked horrified. "Why did you tell him *that*? He's going to turn us in!"
+
+"Because he won't remember," George replied. "We also incorporated a Memory Charm into the potion. Mr. Monroe won't remember a thing after the serum wears off."
+
+"What?" Ron's expression had gone horrified again. "And you were going to try that out on me? When were you going to tell me about *that*?"
+
+"We told you every time we gave it to you, little brother."
+
+"*What*?"
+
+"I probably won't remember," Monroe agreed. "But I *do* have a pretty good track record theses days beating Memory Charms."
+
+"Even if you do remember," Fred mused. "Going to the Ministry won't do you much good, if Malfoy suspects that you're connected with You-Know-Who."
+
+"He might want you more now, especially if he thinks you have a better truth potion than Veritaserum," Monroe pointed out, blinking. He was beginning to feel sleepy — the last stage before the potion wore off. The question was, how much *would* he remember?
+
+"Oh, we've had rumors circulating around Diagon Alley for years about a 'super-Veritaserum'," George answered cheerfully. "Malfoy will think it's just another one of those. And even if he does send Ministry folk to search our shops again, he won't find anything."
+
+"Too bad we can't chat longer, Mr. Monroe," Fred said, a bit regretfully. "I'd really like to know what Harry sees in you."
+
+"Maybe a kindred soul," Monroe answered, then yawned hugely. "I'm interested in a lot of the same things he is."
+
+"Could be it," Fred muttered. "But I'm not convinced. We may have to do this again sometime."
+
+"Sorry, I won't…*yaaaaaaaaaawn*…agree to this again," Monroe murmured. "Er, before I fall asleep, tell me how you got past my wards."
+
+Fred and George smiled. "We didn't. We used a spell to hide ourselves in your room before you came up to bed," one of them said.
+
+"What spell?" Monroe wanted to know.
+
+"We didn't agree to tell you that," the other said. "And now, good night."
+
+Monroe opened his mouth, but no words came out. His head slumped forward, and he began to snore softly.
+
+"Well, that was a bust," Ron said, chagrinned, as Monroe snored. "We didn't learn anything from him." He put out a hand and pushed Monroe so he fell back on his bed.
+
+"We learned he doesn't know anything," George said. "Even though you insisted he did."
+
+"I was certain he had to!" Ron said, defensively.
+
+"Sure you were." Fred turned to George. "Do you think we can find a way past his wards before he wakes up?"
+
+"Doubt it," George said. "They are rock solid. We may have to wait until he checks out in the morning."
+
+"Bother," Fred said. He shot Ron a dark look for the inconvenience he'd caused them. "Well, let's get hidden and wait it out."
+
+**=ooo=**
+
+James Monroe felt himself awaken, though it seemed he had barely settled into sleep for the night. He didn't open his eyes; doing so would only confirm he was awake, and none of his wards or trip spells were going off; after a few moments he drifted back to sleep.
+
+</div>
+
+</div>

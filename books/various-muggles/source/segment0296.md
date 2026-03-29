@@ -1,0 +1,107 @@
+<span id="seg-0296__seg-0296-eadf62cb89"></span>
+
+<div id="seg-0296__s2-4205714cdf" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 2: Questions
+
+<div id="seg-0296__storytext-9c93142583" class="calibre4">
+
+3AM, October 7th, 1992
+
+"Harry, What have you done?!" Albus Dumbledore shouted.
+
+Harry partially awoke, slowly opened his eyes, and replied "I expected you to be more shocked and upset, actually." He picked up his watch. "So can we have this meeting in your office maybe an hour before breakfast? I had a long day yesterday, even by yours or my standards. Oh, you brought Professors McGonagall and Snape."
+
+"Harry," began McGonagall, "this is quite serious. By scaring the Dementors away from Azkaban, you may have given the prisoners a brief rest, but you've potentially exposed many more people, innocent people, to danger. Eventually, the Dementors will all be caught and returned to Azkaban, so this was all for nothing. Why would you do it?"
+
+Harry sat up, not quite fully awake. "Oh, this is about Azkaban." Snape's and Dumbledore's faces quickly returned to neutral expressions, while McGonagall made no attempt to hide her shock, as all of them wondered what else he could have done that night. Harry paused, turned back to Dumbledore, and began "So you don't trust her? Interesting." He turned back to McGonagall. "I understand Dementors on a level few, if any, others do. My Patronus can totally block their ability to see people or cause fear and can even destroy them. I did not chase the Dementors away from Azkaban. They no longer exist. And Dumbledore has known for months that I had that ability and planned to do this eventually."
+
+"Why now, Harry?", asked Dumbledore. "Why not wait to influence the government, to do it legally, rather than imposing your will on everyone? This time, there was no urgency."
+
+"You remember the night after Hermione's trial, when the phoenix came to me? The rules you told me about phoenixes may be the way most of them choose to behave but are not unbreakable rules governing their behavior. Most are looking for a stereotypical Gryffindor who's willing to fight to the death against dark lords or other immediate threats. Those phoenixes interpret any answer other than an immediate 'yes' as a 'no'; they don't want someone who hesitates or thinks very much. But I'm not a stereotypical Gryffindor. My quest was not against that kind of immediate threat, but against the kinds of systemic evil that most people are blind to, and would never even think of fighting. The phoenix that chose me knew that, and wanted to do things a different way, to go on missions typical wizards would not attempt, and interpreted my 'come back in 6 months' as a 'yes, delayed by six months' because she was willing to wait. I was on the roof last night when she returned. I named her Rogue, because of her tolerance for, let's say chaos. And after the X-men character. Even though her powers were more reminiscent of Dementors, taking memories and life force and abilities. This story would be less rambley at not-3-AM by the way." The phoenix had appeared above his head at the mention of her name. The professors were staring at the phoenix and dropped most of what Harry had said from their short-term memory.
+
+"There was no way I was going to ask her to wait a second time. Making mistakes is normal, but there's no excuse for making the same mistake twice. We went immediately to the lowest level of Azkaban. I cut a hole overlooking the central pit and sent my Patronus down. I brightened it for 30 seconds or so, destroyed as many Dementors as I could, then took a break for a few minutes before repeating the process. I didn't want Rogue to expend any more magic healing me than necessary. The guards must have known something was wrong, because they started patrolling the hallways after a while, but we weren't in the hallways, and they didn't check the cells. Presumably because the Dementors told them no prisoners were missing, and they weren't aware of anything unusual going on. After about an hour I destroyed them all, and put a hole in the outer wall between patrols. I'm sure you can guess how we got out of the perimeter where the Azkaban wards are in effect."
+
+Dumbledore, "That phoenix is a baby, Harry. It's regenerated in the past few hours. What were you saving her magic for? What was your real-"
+
+"There is someone else here. With an invisibility cloak." Snape said suddenly. "Reveal yourself immediately."
+
+Hermione pulled off the cloak and stood up. She looked scared, but no one noticed her expression. They were too distracted by her robes, which were torn and caked in dried blood.
+
+"HARRY, WHAT HAVE YOU DONE?!" Dumbledore, McGonagall, and Snape shouted.
+
+Now Hermione looked very scared and very confused. "Harry, did you do something you should have asked me about first? We just talked about that two weeks ago."
+
+Harry just smiled broadly. Rogue made eye contact with each of them, then let out a triumphant cry \*we won\*.
+
+Fawkes appeared, and just as quickly disappeared along with Dumbledore and Hermione. Harry lied back down. "I'm either going to follow them or go back to sleep. Either way, there's no reason for you two to stay here." McGonagall and Snape, without saying a word or even exchanging a glance, turned and walked out of the trunk.
+
+"Hey Rogue, this is totally my fault and not yours, but next time, assume that I meant to include stuff people are wearing and carrying unless I say otherwise." Harry fell back asleep.
+
+7AM, October 7th, 1992
+
+Harry awoke and went through his morning routine. Afterwards, he called out "Rogue... is Hermione still in the Headmaster's office?" She appeared at her name, flickered briefly, then nodded. "Okay, let's get this over with."
+
+Dumbledore looked over at Harry. "Ouch" he said, putting a hand to his forehead. Everyone else turned away from Harry to look at him.
+
+"What?" several people inquired.
+
+"I had a flash of self-awareness. It was unpleasant. Is it really, really annoying to people when Fawkes and I show up?" No one answered.
+
+Hermione turned to Harry. She was still wearing the blood-soaked robes, and it was clear she had been crying. "Harry, what is going on?"
+
+"What have they told you so far?"
+
+"Nothing. They won't even say a single word to me."
+
+"It is kind of hard to talk to you while... Scourgify. That's much better. What have they been doing for the past four hours?"
+
+"Casting charms and spells at me and talking to each other so I can't hear them. I recognized some of the spells, but can't tell what they're trying to do."
+
+"Hold on a second. Rogue, stay with Hermione." The phoenix perched on her shoulder and she started to feel a bit better. Harry jogged to the side of the office, calling out "Phoenix's Price". He ran up the staircase that appeared, calling "Phoenix's Fate".
+
+"Albus, why would you show him that room? No child should see that." McGonagall addressed Dumbledore.
+
+"I wanted him to see the consequences of fighting. He is much too eager to fight every battle. Clearly it was too little too late."
+
+Harry ran back down the stairs carrying a wand. He handed it to Hermione saying "here, pick whichever of those noisy things is annoying you the most, cast wingardium, and throw it into a wall. Don't ask, just trust me."
+
+She paused, with a visible effort not to ask, then lifted her wand. Harry, with exaggerated movements, had put away his own wand, and was holding his palms open. "Wingardium Leviosa". She lifted a small object making an intermittent high pitched whine, and slung it across the room. "That felt good", Hermione commented.
+
+Harry turned to the professors. "How many of the hypotheses you've been testing for the past four hours does that falsify?"
+
+"Harry, you should not have given her a wand. You have no idea-" McGonagall stepped toward Hermione, and Rogue flew up to her, at eye level and screamed loudly. McGonagall involuntarily gasped and backed up into the wall.
+
+Harry smirked and said "Enough, Rogue. Do come back here, you're terrifying that poor professor."
+
+McGonagall was confused for a moment, but then remembered and got Harry's point. "I'm so sorry...", she said, stepping forward and hugging Hermione. Another part of her mind wondered whether Harry had used that same type of righteous anger to scare the Dementor. She had been unable to talk to anyone about her own fear, that Harry could somehow be darker and more terrible than a Dementor.
+
+Snape spoke, "To answer your question, Mr. Potter, nearly all of them. Clearly she is a living witch, other than that, we checked for polyjuice and metamorphism. The only possibility that remains is that this is Ms. Granger. Somehow."
+
+"Harry, will you please tell me what's going on now?"
+
+"Okay..." Harry closed his eyes. " The short version is that Fred, George, and I were trying to find Hermione when the troll was in Hogwarts. We arrived too late and she died." Harry could barely get the sentences out.
+
+"Harry," she interrupted, "I'M Hermione."
+
+"Yes, I know."
+
+"And I didn't die."
+
+"No, you didn't. But that doesn't change the fact that we saw and felt it happen. But that's fixed now, and things can go back to the way they're supposed to be. They'll take you home to tell your parents you're alive and it was all a mistake, and then you'll bring your stuff back here and start classes again."
+
+"You said the troll was charmed, and my stuff was sabotaged. It wasn't an accident. Someone was trying to kill me!"
+
+"Yes. Draco and I swore vengeance together. You should have seen it; it was almost beautiful."
+
+"Draco swore... It wasn't Lucius, then? Professor Quirrell?"
+
+"Yeah. You did warn me about him."
+
+</div>
+
+</div>

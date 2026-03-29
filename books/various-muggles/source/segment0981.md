@@ -1,0 +1,323 @@
+<span id="seg-0981__seg-0981-cf0e76fddb"></span>
+
+<div id="seg-0981__s19-44a6f2249a" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 22: The Chessmaster
+
+<div id="seg-0981__storytext-9c93142583" class="calibre4">
+
+Author's Notes: Thank everyone for the increasingly positive flood of reviews! Hope you enjoy reading this next chapter as much as I enjoyed writing it.
+
+Also, I'm going to experiment with chapterly-updated character sheets now that I can copy-paste them. Here's this one (replace the asterisks with periods): myth-weavers\*com/sheetview\*php?sheetid=444154
+
+EDIT: Wow, there were about a million embarrassingly obvious typos, grammatical errors, and repeated sentences in the first version. Sorry, guys! I think I caught most of them. Yikes.
+
+o—o—o—o—o—o—o
+
+The remainder of the week was, for Milo, blissfully uneventful. Classes resumed, and with them the hustle and bustle of several hundred Hogwarts students returning from their vacation. Pleading illness (and who was qualified to disagree with him?), Milo, true to his word, sequestered himself in the hospital wing with Neville (Hannah, after a few days of rest and dozens of different healing Charms and potions, was deemed fit to return to school) frantically crafting Amulets of Protection From Evil and researching *Kelgore's Fire Bolt*.
+
+It was here that Milo ran into a small problem of mathematics: it took two days, hundreds of Galleons of owl-ordered supplies (Milo found he could affray these costs somewhat by supplies nicked from Potions), and eighty Experience Points to make each amulet. Milo really didn't know much about the demographics of this plane (all he'd seen was a bit of Hogsmeade, Platform Nine and Three-Quarters, and, of course, Hogwarts) but there were probably several *thousand* wizards and witches out there. Even ruling out protecting the entire population and focussing on those who posed an imminent threat to Milo — anyone nearby who possessed a wand, had a drop of magical blood, could see lightning and hear thunder — the number of Amulets required was insanely unrealistic.
+
+"This is just so *backwards*," Milo muttered after, upon reaching the end of the week, completing only his third Amulet of Protection From Evil. The problem was that an Imperius'd wizard or witch was more of a threat to those *around* them than to themselves, so Milo, in order to protect *himself*, had to equip anyone and everyone *around him* with expensive amulets. The problem, however, was that Magic Item crafting benefited from *no* economy of scale whatsoever: if it took two thousand gold pieces and two days to make one Amulet of Protection From Evil, it would take two hundred thousand gold pieces and two hundred days to make a hundred of them. While Harry was rich, Milo doubted he was quite *that* rich. At some point, Milo was going to have to start paying him back for the (rather enormous) loan.
+
+"What's backwards?" a familiar voice said. Milo turned to the door to see Hermione standing there, a tray of steaming hot soup in her hands.
+
+"Hey!" Milo said. "I was wondering when you'd drop by."
+
+"Sorry," Hermione said apologetically. "I was going to come earlier, but, well, it's the first week back and I didn't want to get behind — I mean, I only had time over the break to reread *A History of Magic*, *Magical Drafts and Potions*, *One Thousand Magical Herbs and Fungi*, and *Magical Theory*! I'm dangerously behind in *The Standard Book of Spells* and *A Beginner's Guide to Transfiguration*!" Hermione pulled herself together with visible effort. "But, my responsibility as a friend outweighs even academic concerns," she said officiously. "Well, at least, in an emergency. And except in exam period."
+
+"Well, thanks," Milo said. "Just set the soup down on the bedside table."
+
+"So," Hermione said after doing just that, "just how badly were you injured, anyway? I remember after the Troll you were on your feet in no time, and, well, you were in pretty bad shape that time, so... I mean, are you all right?"
+
+"Yeah, totally fine," Milo shrugged. "But if Pomfrey asks, I need another day of complete bed rest to, and make sure you get this right, 'regenerate my recuperative and restorative healing abilities and realign my *ki* power pool or die.'"
+
+"You could *die?*"
+
+"Nope," Milo said. "I made all that stuff up."
+
+"You're... you're *skiving!*" Hermione accused, aghast.
+
+"Well, *duh*. But it's for a good cause — which reminds me..." Milo fished out the three Amulets of Protection From Evil from his magic belt. "*Arcane Mark*, *Arcane Mark*, *Arcane Mark*, *Arcane Mark*, *Arcane Mark*, *Arcane Mark*," he cast repeatedly, placing a pair of unique symbols on each amulet for later identification. One symbol on each amulet was a faintly glowing rune which was, using Milo's magic anyways, virtually impossible for anyone else to duplicate. The local magic was largely one giant unknown, however, so Milo also put an invisible version of the mark on each amulet as a backup — one that *only* Milo could see, and even then, only when he cast *See Invisibility* first. If someone out there (*\*cough\** Snape *\*cough\**) tried to switch the amulets for forgeries, *and* they somehow managed to duplicate the decoy mark, they wouldn't even *know* about the invisible one.
+
+"What was that all about?" Hermione asked.
+
+"For later identification," Milo said. "I mark all my stuff that way, comes in handy more than you'd think. Here, put this on," Milo handed her one of the amulets.
+
+"Er, it's, um, pretty?" Hermione tried, desperately, to sound delighted, but the fact was that the amulets were little more than small silver discs on a thin, but sturdy, steel chain.
+
+"Is it?" Milo asked. "Aesthetics were never my strong suit, to be honest. Appearances aside, that right there's what we in the business call a Magic Item."
+
+"What's magic about it?" Hermione asked, examining it curiously.
+
+"Makes you immune to the Imperius Curse," Milo said nonchalantly.
+
+"Sorry," Hermione said. "Could you say that again? See, here I thought you said that this little necklace is supposed to protect you against one of the darkest, most powerful Curses in existence."
+
+"Yeah," Milo said. "And any other mind-affecting magic, also. Just make sure you keep it on at *all* times, and give this other one to Harry. I'll have Ron's done sometime tomorrow."
+
+Hermione stared at Milo, evidently trying to decide if he was joking or not.
+
+"You're serious, aren't you?" she asked. "I mean, I'd heard from Ron that you had a spell that did something like that *temporarily*, but this... This is *big*, do you understand? Really big."
+
+"Well, I guess? I mean, it's pretty trivial magic where I'm from."
+
+"*Blocking the Imperius Curse is trivial?*" Hermione exclaimed. "From what I've read, during the last war, the other side managed to infiltrate the Ministry at *every* level, and we're *still* not sure who was bewitched and who was a volunteer. It was utter *chaos*, and You-Know-Who nearly toppled the entire government that way. It takes *exceptional* willpower — as in, one person in *hundreds* — or *years* of training to resist. How could preventing something like that *possibly* be trivial?"
+
+"I figure it's something like Transfiguration. Using Arcane magic — my magic, that is — turning a matchstick into a pin requires an *extremely* powerful spell. And healing injuries like Pomfrey can do with a wave and a word is nigh impossible. On the other hand, I can see right through Harry's super-rare and expensive Invisibility Cloak without much difficulty because, well, for us, mere Invisibility is an everyday sort of thing. Ironically, it's the inferior Disillusionment Charm that I can't beat. Which actually reminds me of something, Hermione, that I was going to ask you," Milo said.
+
+"Oh?"
+
+"Do you know of any spells that can change someone's heart's desire, if only temporarily?"
+
+"What does *that* have to do with the Disillusionment Charm?" Hermione asked, perplexed.
+
+"Long story. But can it be done?"
+
+"Let's see..." Hermione scratched her chin, deep in thought. "I presume you're talking about the Mirror? It really depends on what, exactly, 'heart's desire' means. With a decent Confundus Charm — or maybe even after being Obliviated, which leaves the target in a highly suggestive state — you can definitely force someone to want something. Whether that counts as your new 'heart's desire,' however, I think is a matter of interpretation."
+
+"Ah," Milo was crushed by disappointment. He'd hoped to trick the Mirror of Erised into showing him whatever he needed to see, but he was pretty sure that he'd destroyed his chances of getting a favourable outcome in any 'matter of interpretation' when he tried to use Spontaneous Divination to mimic a Cleric spell.
+
+"However," Hermione said, looking thoughtful. "It's possible — *unlikely*, mind, but *possible* — that a sufficiently powerful Love potion might have the desired effect."
+
+"A Love potion." Milo said flatly.
+
+"It basically comes down to how, well, *fluffy* one interprets the meaning of 'heart's desire' to be. Will someone who is madly in love, but drugged by a potion into loving someone else see their 'one true love,' or the person who is pressing on their minds at that very moment? The answer to that, I really couldn't tell you. Seems more up Professor Dumbledore's alley, to be honest. It's all academic, in any case. Harry said he was going to move the Mirror, I doubt we'll ever see it again."
+
+"Of course we will!" Milo said. "It's on the List. If it wasn't going to pop up again later for something important, why would we have seen it after Christmas? It would have been a complete waste of everyone's time."
+
+"You have a *very* unusual view of the world," Hermione said, her tone making it perfectly clear how she felt about that.
+
+"It's never led me astray yet," Milo said defensively.
+
+"Now *that* is a matter of some debate," she said. "Oh, also, McGonagall told us that Dumbledore officially pardoned the Gryffindor house for assaulting the Slytherins in Potions. Apparently we've fallen precipitously behind even Hufflepuff, not that there's anything wrong with them, in our courses because of all the detentions."
+
+"Well, *that's* a relief," Milo said. "I *badly* need that time for spell research. There just aren't enough hours in the day."
+
+"Tell me about it," Hermione said sympathetically. "I don't see *how* I'm going to fit all the courses I want onto my schedule in third year," she said. "Which reminds me — I *really* need to get back to studying."
+
+After she left, Milo returned to work on Ron's Amulet. He'd have to spend most of the rest of today and tomorrow on it, but Sunday...
+
+...Sunday was saved for Quirrell's Duelling Club.
+
+o—o—o—o
+
+"S-s-some of you are p-p-probably wondering w-why the D-D-Defence P-Professor would start a D-Duelling Club," Quirrell stammered to the assembled students. Roughly one-third of the entire student body had signed up for his Club, from first-years to seventh-years, and stood assembled in the Great Hall. "B-because whatever you c-could learn in this c-club, surely, I c-could teach you in y-your regular c-c-course?" Milo blinked. He hadn't been wondering that at all; he'd mostly been wondering how much longer he had to wait before magically curbstomping some local 'wizards.' "Well, the d-d-difference between D-Defence Against the D-Dark Arts and D-D-Duelling lies in y-your opponent. C-can anyone t-tell me what a Red C-Cap, a Werewolf, a Dementor, a D-Doxie, a B-Boggart, and even a V-V-V-Vampire have in c-common?"
+
+Students shuffled their feet, glancing at one another, trying to determine any similarity between these extremely disparate creatures.
+
+"What's the answer to this one?" Ron whispered hopefully to Hermione.
+
+"I don't know!" she whispered back, her eyes looking somewhat wild. "It's not in any of our textbooks, and most of those creatures aren't covered until third year or higher!"
+
+Somewhere near the front, an NPC raised his hand.
+
+"Yes, C-C-Cedric?" Quirrell asked the boy.
+
+"They're not human," he said simply. "And they all have some sort of weakness to memorize, or a vulnerability to a particular Charm or Curse."
+
+"C-correct," Quirrell stammered, "and ten p-points for Hufflepuff." There was some astonished murmuring from the ranks — a *Hufflepuff* (not that there's anything wrong with them, great people, by the way) answered a question about *Defence* and got it *right?* Who *was* this boy? "In short," Quirrell continued, "as l-l-long as you're prepared and r-r-reasonably alert, most m-magical creatures pose l-little threat to a q-qualified wizard or w-witch. Now, who c-can tell me how fighting another w-wizard or w-w-witch is different?"
+
+Again, it was Cedric who raised his hand first.
+
+"Because, in theory, a wizard fighting another wizard is a fair fight," the handsome Hufflepuff explained. "They both have access to the same spells, and since every spell — Unforgivables aside, of course — can be countered in some fashion, it comes down to the differences between the individual witches or wizards in question."
+
+"C-correct again," Quirrell said. "A-and another t-ten points for Hufflepuff. N-now, to the c-c-crux of the m-matter, what is the f-factor that will d-determine which w-wizard will prevail?"
+
+This time, nearly every student in the hall raised their hand.
+
+"Yes, Mister M-Malfoy?" Quirrell asked Draco, who was standing near the front, surrounded by a gaggle of Slytherins, as always.
+
+"Blood purity and raw magical power," Draco said simply.
+
+"I-interesting," Quirrell said. "And what s-say you, Miss G-Granger?"
+
+"Practicing the most advanced spells," Hermione answered, "so that they can be cast reliably and effectively even under stressful circumstances."
+
+"And y-you again, M-Mister D-Diggory?"
+
+"Having friends and allies you can trust," Cedric said. "Something that Dark Wizards always lack, which is why they are *always* defeated."
+
+"A t-true H-Hufflepuff answer," Quirrell said. "I'm s-sure H-Helga h-herself w-would agree w-with you wholeheartedly."
+
+Milo realized that, while Quirrell *seemed* to be choosing people from the crowd completely at random, a suspiciously large number of them — that is to say, *all* of them — seemed to be PCs or major NPCs.
+
+"Put Cedric on the List," Milo whispered to Harry. "We'll be seeing more of him, count on it."
+
+"M-Mister P-P-Potter," Quirrell said, "the only w-wizard here to s-survive an encounter w-with Y-Y-You-Know-Who. W-what w-would you say is the s-s-secret to your s-success?"
+
+Harry, almost alone among the Hogwarts students, *hadn't* raised his hand.
+
+"Um," he said. "Well, I mean, I don't really know. So... I would have to say luck. A million factors that neither wizard really knows about come into play, and could result in, well, like you said. Me surviving against You-Know-Who."
+
+"A-and what about you, M-Mister M-Milo of the lengthy last name?" Quirrell asked. "What determines the victor?" *Hmm,* Milo thought. *Good question. Most people would say the highest level wizard wins, but that's not always true, now is it? A high-level Wizard optimized for basketweaving and lute-playing would be crushed by a properly-optimized lower-level Wizard.*
+
+"The wizard who memorizes and casts the most appropriate spells wins," Milo said. "Unless, like Harry said, the other one rolls a well-timed twenty. Er, that is, gets in an exceptionally lucky shot. But you can't count on that."
+
+"Indeed you c-cannot," Quirrell said, "which b-brings me to the m-most important f-factor in a d-d-duel," he paused dramatically, letting everyone wonder what he was going to was going to say. "*Strategy*. As any spell — w-with the obvious exceptions, of c-c-course — c-can be c-countered, the d-duel goes t-to whichever wizard that *d-doesn't* m-make the f-first mistake. C-Curses, H-Hexes, Charms, and their c-counters can all be t-taught, learned, and p-p-practised in a straightforward m-manner — which we w-will g-get to, in g-g-good t-time — but g-good strategy, and thinking q-quickly on your f-f-feet cannot be w-without m-much difficulty. S-so th-that is where we w-will start." Quirrell gave his wand a complicated little wave and the Great Hall tables rolled into the centre of the room from their resting places at the edges. "And there is no better way to develop strategy than with chess." Sitting on the tables were hundreds of neatly-placed wizard chess sets with a pair of small red tags sitting next to each. "Everyone g-grab a p-partner and a tag," Quirrell said. "The w-winner of the m-match t-t-takes the loser's t-tag and challenges s-someone with a l-like number of t-tags. The l-losers will k-keep playing a-against other l-losers until they r-realize their m-mistake. W-we w-will continue until w-we find the b-best strategist, and therefore d-duellist, a-among you."
+
+The Hogwarts students stared up at Quirrell in a stunned silence.
+
+"Chess," Malfoy said flatly. "We're going to play *chess*. Why are we listening to this stuttering idiot, anyways? He's afraid of his own *shadow*."
+
+"H-have you ever entered a n-nest of v-vampires, M-Mister M-M-Malfoy," Quirrell asked, "and s-survived w-with only a st-st-stutter to show f-for it?"
+
+"Well —"
+
+"N-no," Quirrell interrupted. "You h-have not. Y-you will either p-pick a p-partner, Mister M-Malfoy, or y-you will l-leave and w-w-wonder for the n-next t-twenty years why you are the w-w-worst d-duellist of your g-generation."
+
+"Why twenty years?" Draco asked despite himself.
+
+"An optimistic estimate of your l-lifespan should you ch-choose to f-forgo these l-lessons."
+
+Malfoy paled and sat down across from Goyle, clipping a red tag to his lapel.
+
+"This is ridiculous," Milo muttered to Hermione, his chess partner. "Skill Ranks in Profession (Chessmaster) have *no* bearing on one's ability to stomp squishy wizards."
+
+"See, the thing is," Hermione said, "I know what all of those words mean in and of themselves, but the way you string them together... it's like someone handed a book of Mad Libs to a Confunded Troll."
+
+"I'm a Confunded Troll, am I?" Milo asked with a slight edge in his voice. "Well *you're* blind to the story unfolding before your very eyes."
+
+"Blind?" Hermione asked, a dangerous glint entering her eyes. "No, *you're* just convinced this is some storybook fairytale land where everything happens for a *reason*. And not a good reason, mind, but a *stupid*, trite, clichéd reason."
+
+"Not a story," Milo said, placing his pieces on the board, "an *adventure*. Completely different school of magic."
+
+"Real life does *not* have adventures!" Hermione said, her voice growing louder. "It has rules, responsible adults, homework, and grades!"
+
+"I think we've more or less exhausted the possibilities of this conversation," Milo said coolly. "Roll for Initiative, *bookworm*."
+
+Hermione, playing white, naturally won Initiative. She sent one of her Commoners forwards, breaking their naturally defensive spear-wall and leaving her Aristocrats vulnerable to a cavalry charge from Milo's flanking Knights.
+
+"My left and right Clerics cast *Wall of Stone* and *Flame Strike*, respectively," Milo declared, "while the Commoners garrison these towers and ready an action to provide covering fire should any white soldiers enter range of their crossbows. The Knights run up to *this* position," he placed the two horses near Hermione's Clerics to Attack of Opportunity them should they try to cast anything, "and my Aristocrats take a full defence action."
+
+"Er," Hermione said. "You can only move one piece on your turn."
+
+"Oh, we're tracking individual Initiatives? Okay. In that case, *Flame Strike*. Let's see some Reflex Saves, now, shall we?"
+
+"Why me?" Hermione asked the air dramatically. "Why? What did I ever do to deserve this? You know what? *Here*. Just take my tag, I forfeit. It's just not worth it. I'll go play with Neville in the corner." Hermione stalked off as Milo clipped Hermione's tag to his robes under his own.
+
+"One down," he smirked. "Four hundred to go."
+
+"Blimey," said one of Milo's Clerics. "I don't think you quite understand how this works, do you?"
+
+"*Holy Crap!* You can *talk?*"
+
+o—o—o—o
+
+It didn't take long for Ron to win a small hoard of victory tags (crushing Milo mercilessly in the process), leaving him with only one opponent in his level: Cedric Diggory, the Uber-Hufflepuff.
+
+The hundreds of defeated students gathered around, causing such a disturbance that Milo conjured up a massive illusory chess set in the air that mimicked Ron's and Cedric's moves. The game progressed largely in silence, save for the occasional "check" from either player, as the two masters stared at the board in deep concentration.
+
+The game had already lasted longer than the rest of the tournament put together, with the two of them sometimes taking up to fifteen minutes to make a single move. It was Cedric's turn, and, after what seemed like years of careful consideration, he moved his remaining bishop forwards.
+
+"Check," he said, finally.
+
+Ron moved like lightening, slamming his rook into place.
+
+"Check *mate*, mate," Ron exclaimed exuberantly.
+
+"Ah, shame," Cedric said, but it was with a smile that he passed over his original tag. "Good game though, eh?"
+
+"Best I've ever played," Ron said sincerely.
+
+"And th-th-there you have it," Quirrell stammered to the crowd. "The most b-b-brilliant master st-strategist, and, I'm s-sure, a-accomplished d-d-duellist, of the st-student b-b-body is none other than M-M-Mister R-R-Ronald Weasley."
+
+"*Weasley?*" Malfoy scoffed. "*Brilliant?* Hufflepuff will win the House Cup before *Weasley* learns to tie his *shoes* properly."
+
+"C-c-class dismissed," Quirrell said with a wave. "W-W-Weasley, can I t-t-talk to you f-for a m-moment?"
+
+"Uh," Ron said, looking somewhat panicked. "Sure, I guess."
+
+"N-n-next time," Quirrell said to everyone, "w-we're learning E-Expelliarmus."
+
+o—o—o—o
+
+Milo followed Harry and Hermione back to the Common Room, where he sat in the corner working on Hannah's Amulet. *I need to find a faster way of making these*, he thought impatiently, etching a minute arcane rune onto a Sickle destined for melting into the final medallion.
+
+"Well," Harry said, putting aside his History of Magic textbook, "that was sort of unexpected, don't you think?"
+
+"What, Quirrell's club?" Hermione asked.
+
+"Yeah," Harry said. "That man's off his rocker, I swear. Still... if it helps me learn to fight, well, I suppose it'll be worth it."
+
+"I agree," Milo said. "Whatever happened to him over the summer's definitely unhinged him. And this '*chess*' is hardly an adequate simulation of realistic battlefield conditions — I mean, why in the Hells can the heavy cavalry only move in right angles? It makes no *sense!*"
+
+"You're just sore because the rules can't be gamed," Hermione smirked. "Which, incidentally, is why it's so popular. You have to use actual strategy and tactics."
+
+"Strategy *is* gaming the rules," Milo responded. "It's analyzing the situation and seizing any and every possible advantage, even if it's completely ridiculous on the surface. Why, I once met this Half-Ogre who managed to defeat an entire Legion of the Tharllian Empire's best troops with a Spiked Chain because —"
+
+"I'm sorry," Hermione said, looking sick. "Did you say Half-*Ogre*?"
+
+Before Milo could answer, Ron entered the Common Room through the portal with a chess set in his hands.
+
+"Oi!" Harry said. "What did Quirrell want?"
+
+"To play chess," Ron answered happily. "Weird, eh? He said he wants to test his skills against a worthy opponent, so every other day I make a move against him and every *other* other day he makes one against me. He gave me this chess set," Ron held up his new set, "which is linked to the one in his office. If I make a move here, he sees it there, and vice-versa. Cool, eh?"
+
+"Why so slow?" Hermione asked. "If he wanted to test your duelling aptitude, shouldn't you be playing speed chess?"
+
+"Or using actual *magic?*" Milo added.
+
+"He said that this way, I'll have as much time as I need to think out my move and make sure I make the right one," Ron shrugged. "He says it's more interesting that way. He implied that he hadn't had a decent sparring partner in years."
+
+"Seems a bit late in the plot for him to suddenly develop such a major character trait as 'chess grand-master,'" Milo mused. "I wonder what he's up to?"
+
+Hermione glanced at Ron and rotated her finger slowly around her ear in the universally-accepted sign for 'crazy.'
+
+"Maybe he just really likes chess?" Harry suggested. "I mean, it's not like we would have had a chance to see it in action before, right?"
+
+"I suppose... but, even so. Harry: add 'chess' to the List, and Ron: *win* that game against Quirrell."
+
+"Why?" Ron asked. "Well, I mean, I was planning to anyway, but why is it important?"
+
+"I don't know exactly," Milo said. "I just have a gut feeling that something important is riding on that match," he said, "and, as a rule of thumb, winning *always* leads to the more desirable outcome — and with it, the best swag."
+
+"Okay, well, I'll do my best," Ron said.
+
+"And I'd best get to Quidditch practice," Harry said, rising from his armchair. "We're playing Hufflepuff on Saturday, and Wood's gone into mad slavemaster mode again."
+
+"This was nice," Hermione said, relaxing in her chair.
+
+"What was?" Milo asked.
+
+"A whole weekend went by and nobody was hospitalized," she said.
+
+"Except Neville, of course," Milo said.
+
+"Right, except Neville. Sad business, that. I had *no idea* a bishop could do that to a person. Still, be nice if every weekend was like this, but, I suppose that'd just be wishful thinking."
+
+Despite Hermione's complacent attitude, Milo still felt something was wrong. This whole Duelling Club business smelled somewhat off to him, and he *still* didn't know who the Dark Wizard who Imperius'd him and Hannah was, or what he wanted. Was it Snape, trying to kill Milo to remove an obstacle between him and the Stone? Or Lucius, stepping out from the shadows and getting his hands dirty personally? And *why* had Milo been Imperius'd in the hallways — whoever had done it didn't seem to get much out of it. The whole attack seemed, in hindsight, remarkably poorly-planned... it was almost like they didn't *want* to succeed — or, alternatively, their goals were so obscure that Milo simply couldn't figure them out.
+
+*Unless...*
+
+Milo frowned. Once he'd been possessed, it didn't seem like his controller knew quite what to do with him. His orders had been vague and, seemingly, without purpose. Had it been one of the servants of the Dark Lord, surely, he'd be ordered to kill Harry or steal the Stone? If it was Lucius — or Snape for that matter — you'd think he'd be ordered to do something incriminating and be expelled (or, failing that, simply walk out of the school grounds to be captured). And what of those other eleven minds he'd detected?
+
+On the whole, if that were some sort of strike against Milo or his allies, it had been a rather clumsy attempt. The more Milo thought about it, the more he was certain that he was looking at things backwards.
+
+Suddenly, Milo felt as if a Wight had an icy hand around his heart.
+
+"Hermione," Milo said slowly. "What were the methods you suggested for changing someone's heart's desire?"
+
+"Are you still on that?" she asked, racking her memory. "Love potions, the Confundus Charm, or a Memory Charm. Why?"
+
+"What, *exactly*, is a Memory Charm?" Milo asked, but he was sure he knew the answer already. Back on Hallowe'en, when Milo touched the Remembrall...
+
+"It's an advanced spell that wipes someone's memory of a duration of time," she explained. "A skilled user can replace them with false memories altogether. I wouldn't worry about it, though," she said reassuringly.
+
+"Why not?" Milo asked, feeling somewhat mollified.
+
+"We don't have to learn them until Seventh Year," she said happily.
+
+Milo cursed sulfurously and nearly ran for the exit.
+
+"Wait!" Hermione called. "Where are you going?"
+
+"To see Neville," Milo said.
+
+</div>
+
+</div>

@@ -1,0 +1,103 @@
+<span id="seg-0517__seg-0517-11b08c4b26"></span>
+
+<div id="seg-0517__s1-640d87e741" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 1
+
+<div id="seg-0517__storytext-9c93142583" class="calibre4">
+
+He couldn't let it happen
+
+It had been a long time since he had thought of anything else. Wake up, look longingly at wand, head downstairs, get food.
+
+(Visualize the particles, the charge, the space. Fill it up.)
+
+He hadn't picked up his wand in a long time. It had started off when he'd found himself wanting to go through with that attempt, and he'd put it down. And then he found he had to put it down. And then found himself thinking of it all the time, so he spent more time with his wand down than up. And the more he put it down, the harder it was to pick it up without thinking of why he'd put it down in the first place.
+
+It was starting to become a real problem
+
+It wasn't clear whether Harry Potter had said it, or one of his friends, or where exactly his mind had wrapped itself around the Concept that was messing with his life. It wasn't even a bad thing, really - not a fundamental transfiguration issue, nothing that McGonagall would have warned against.
+
+It was a bit like transfiguring a gas, which would be bad, but he'd started out thinking of it as a simple, solid cube. That's where the problem was. If he could make himself not think of it that way – if he could think of the problem as a non-solid cube…well, you weren't supposed to transfigure gases, or liquids. He was almost to the point of overlooking that, since the problem wasn't one as long as the density was really low.
+
+(Cube. Lattice. Grid. Line. Electron. Electron.)
+
+But the density was going to be low anyway, in an absolute sense. Getting over the prohibition against gas and liquid wasn't enough. It was still terribly, horribly dangerous, and *he couldn't stop thinking about it.*
+
+(Electron, electron, electron.)
+
+The idea hadn't exactly come from Harry Potter – maybe it wouldn't have been as much of a problem if it had. He had found himself trying to think in that way, though, and when he – or was it Hermione, could be, she was Muggleborn too, after all, had been through a couple of years of science in school, knew about subatomic particles – anyway, someone had mentioned quarks and electrons and the idea had come into his head. And it was stuck there, and it meant that every day for a month he had left his wand where it was, afraid even to pick it up.
+
+There was good reason to be afraid of the idea. He had had those same lessons on science, and watched a few programs on the telly, and knew enough to check when the idea came to mind. If he had been wizardborn, perhaps there would have been a more solid block in his mind against trying novel forms of transfiguration, even ones not technically forbidden. Like this was not. A little knowledge is a dangerous thing, he knew that now too, too well. This little bit of knowledge wouldn't get out of his head, wouldn't let him pick up his wand, barely let him sleep. It had been bad enough when he was worried that it might manifest as accidental magic – he still was frightened of that, sometimes – but now he had trouble sleeping because of the other Muggleborns who might think of this same thing, any moment.
+
+(Electron, electron, electronelectronelectronelectron…)
+
+It was like this huge, supernova-sized nuclear weapon that you could bring into existence with your mind. The only barrier between it existing and non-existing was the limited interaction between the wizard and muggle world. Only muggles knew about sub-atomic particles, only wizards knew about transfiguration, only someone who knew about both could do anything dangerous with that knowledge.
+
+Which list of someones, unfortunately, at this instant, included himself .
+
+As he often did at this point in the day, he considered the possibility of being obliviated. Forget about the nova bomb, forget about the sleepless nights, forget about forgetting about it. The problem there was trying to tell the obliviator what memory to remove. If he said it to someone else, at best he would have spread the infection, probably to someone who was less equipped to handle it. At worst, he'd just doubled the number of people who could obliterate an important section of the Milky Way galaxy. It wasn't an option, it clearly wasn't an option. There had to be another way to deal with this.
+
+(He was starting to need pills to get to sleep.)
+
+He was just glad he'd checked into it a bit before trying anything, a thought that made him more scared every day than it should have, because it just meant that there might be someone out there who had had the Thought and could follow it to its…conclusion…any second. Maybe it wasn't as dangerous if you didn't really know what it meant. Not everyone has a death wish, but everyone knows what it is like to be attracted to destruction, to flames, to a long drop below your feet. If you didn't know how dangerous it was to attempt this transfiguration, well, it was pretty boring when it came down to it.
+
+A cubic centimeter of electrons, big deal. Who would want to see that when you could make a brick of gold, or turn a beetle into a bird, or a house into an elephant?
+
+It was good that he had checked into it, first. That had required some obsessive behavior of its own, since it was a nonsensical question unless you knew what the goal was. "You can't jam that many electrons together," would be one answer. "How would you get as many as you are talking about into one place?" might be another. It became a matter of finding the right description, then finding the right person to understand the description, then finding the right person to investigate the question, and the right person who could do the hefty math involved. Which made it another reason why it wasn't going to be a big problem for people to watch out for, since the sequence of knowledgeable people stretched well out of the wizarding world. To be this dangerous, you had to be a problem who could imagine the concept, work with people on the correct way to assess it, understand it deeply enough to contemplate the method – and sociopathic enough to go through with it.
+
+(The wand is the closest thing, dragged in first, gone.)
+
+When he'd started, he was sure that it wouldn't be a big problem, that it wasn't dangerous at all, that the concept was easy to grasp and what if he did? He knew the answer to that too, now. It was outlandish, even, what the final expert in his chain of experts had said. A friend of a relative of a friend, a physicist turned physics teacher, had been able to help with the obscure parts. Although the initial response, once the concept had been explained, was unexpected.
+
+"You're worried about the Ell Aitch See."
+
+The what?
+
+"The LHC – the Large Hadron Collider. It's perfectly safe, nothing to worry about, can't possibly cause a strangelet."
+
+A what?
+
+A strangelet, the physicist had said, that's what you're talking about, a particle that couldn't exist, shouldn't exist. Put together subatomic particles in non-standard ways, you could end up with one.
+
+"But the LHC can't do that. We're really very certain."
+
+That this was delivered with a very uncertain look hadn't been a concern, at least not by now. Even if it was theoretical, still, it was clear that there were known limits on what the Collider could do. Nobody really knew, though, the limits of magic.
+
+(The wizard is next, although it's so fast that at any human scale it's simultaneous.)
+
+For a transfiguration problem, like this, it came down to visualization, which made this whole ugly mess a problem of definition. The concept of "A cubic centimeter of electrons" had to be precisely defined, first, a bit beyond "as many as would fit in that space" He'd had to really imagine it, describe what he'd been thinking when the image was in his head – what would come pouring out of the end of his wand if he went into his transfiguration trance with this object in mind. It had started out as "tightly packed electrons" but even his basic knowledge wouldn't quite visualize that. He knew they resisted each other, that they couldn't get too close one to another. They were small, though, and the effective range of the charge – it wasn't that big, was it? Surely an electron on one end of the cube wouldn't affect one on the other end? Or even one right next to it, if you had them, say, an electron's width apart, or two, or ten – that's pretty big, right? That's a good space?
+
+(Eight minutes later, the sun is gone.)
+
+No, evidently it wasn't. That mental image of an array of electrons, not tightly packed but not too far away from each other, was actually incredibly lethal. In a-nobody-really-knows-how-lethal kind of way. Because the magic folks didn't know the physics well enough to understand it, and the physics folks didn't understand the magic part well enough to predict it. So either it would destroy the wand (and stop) or kill the caster (and stop) or destroy the nearest square kilometer/county/continent, or only destroy the world, or only collapse the solar system.
+
+But it might, possibly, nobody could tell, but the former theoretical physicist with the poster of Aleister Crowley on the wall said, it *could* strip away every electron from every atom in the nearest four hundred light years. Turning that four-hundred-light-year sphere momentarily into a fizz of protons and neutrons, without the electrons to hold them together. Just to balance the universe out.
+
+Just from picking up his wand and wanting to see a cubic centimeter of electrons.
+
+(Wanting it. There was little enough else keeping such a transfiguration from happening, then. It would be a person who wanted, just for a moment, to see it. And that was it for England, and possibly Earth, and possibly more.)
+
+Now, magic was part of the physical universe, and even if life was rare, and even if magic users were rare, there had to be something keeping such an event from happening, because that sort of event was going to be noticeable in any galaxy in which it happened. That nobody had noticed it meant it was likely it hadn't happened, and if it hadn't happened then it was possible it couldn't happen, and if it couldn't happen he could probably pick up his wand right now without having to worry about a thing.
+
+One could shrink the point of view down a bit, for that matter, and realize that magic -users were rare enough on Earth to make the same assessment. That is, there are no indications of people who suddenly blew themselves up with nothing but a wand, who weren't – no, it was no use, there WERE people who disappeared, blew themselves up, self-immolated – he'd checked on spontaneous human combustion stories at one point but it did nothing to settle his mind in any way – maybe they had tried it and only killed themselves, but maybe they hadn't thought of it as much as HE had, maybe he was going to be the first one lucky enough to get it all exactly right.
+
+(Jupiter, soon after, pulled into the inconceivably dense object where the wand, the wizard, the earth used to be.)
+
+So only one choice, he'd realized, was keep the wand down. And now he couldn't bring himself to pick it up. And he had some thought that his mind would continue to go downhill, and at some point he would start thinking that the only way to ensure it wouldn't happen was to do it, to think through it, to show that it wasn't a problem. Because if he didn't, at some point he WOULD go mad, and then he'd try it without going through the sort of safety checks that he knew he had to do, just to have any hope in hell of surviving. If the logic of that didn't make a lot of sense, well, that thought, too, had plowed its way through his head while getting there.
+
+(Was he already going mad? Had he already gone mad?)
+
+At one point, finding out everything that might possibly go wrong had seemed like the safest idea. That wasn't clear any more, either. The idea that this was like a cliff or a tall building and that you were looking down not quite believing that the drop would kill you. Perhaps that desire to jump is the desire to bring your body and mind in balance, so that both of them believe that the drop is dangerous as it looks, or as safe as it seems.
+
+(Soon enough, he knew, Proxima Centauri would be gone. Soon enough.)
+
+He had to stop thinking about it. Had to. And soon.
+
+</div>
+
+</div>

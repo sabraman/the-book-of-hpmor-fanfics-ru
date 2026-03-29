@@ -1,0 +1,127 @@
+<span id="seg-0661__seg-0661-f2dc2fbb37"></span>
+
+<div id="seg-0661__s14-7d488dbee1" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 46: Reflections, Pt 4
+
+<div id="seg-0661__storytext-9c93142583" class="calibre4">
+
+Draco had raised shields as soon as he'd entered the room. He'd even put harmonics into them, although he'd only just learned to do that reliably. He fired off an *expelliarmus* at Lockhart, but as the blinding flash of white light hit him he heard *Eunoe* and then the world went blank.
+
+------------------------------------------------------------------------
+
+*Harry Potter Day.*
+
+Despair washed over Draco. "This isn't an answer," he mumbled to the room, empty except for the shade of his former Headmaster. Then he shouted "I still don't know!" at the image of Albus Dumbledore, who was saying 'Hello, Tom' again*.* "It's not enough! How does this qualify as an answer? You trusted Harry knowing he was Voldemort, but *Voldemort fooled you too*!" Draco took out his wand and lashed out, cutting the mirror, smashing spell after spell at it, first normal spells he'd use in classes, on the battlefield, then the forbidden spells, he levitated a chair from across the room and flung it at the mirror. The chair itself shattered from the impact, leaving no cracks appeared on the glass.
+
+After a few minutes, exhausted, he slumped back to the ground, mumbling. "It's not fair. That's not an answer."
+
+"No, it most definitely is not," said Albus Dumbledore, standing besides the mirror and examining his own shade over half-moon glasses. He raised his head and turned his back on his reflection in the mirror, which continued its looping soliloquy.
+
+"Hello, Draco." Draco scrambled to his feet, wand instinctively out. "I hardly fault you for that, Draco. I imagine you've had a rough time of it, and you've a particular reason to hate me. Still, I would never dream of hurting you."
+
+Draco lowered his wand. "You didn't burn Mother alive, you only pretended to. I can still hate you for all those years, but not as much. It ... was war."
+
+*Father would have done worse,* Draco thought.
+
+Dumbledore's blue eye's twinkled. "Narcissa is returned? I am glad. Voldemort is destroyed then. But you are still so young..."
+
+"He was destroyed the night you got trapped," Draco waved at the mirror. Then he brightened up. "You got free! You were only pretending to be trapped? I'm confused. It's only Halloween, the fall after."
+
+"So soon?" Dumbledore sounded wistful. "No, Draco, I am still trapped. But it feels like a mere instant ago, and I suspect that however long it takes until I am truly freed will be just another instant. As to *how* this happened, well, Let's just say that I'd set up something for just such a situation."
+
+"For the situation of someone here in this room..."
+
+"I believe it is called the Room of Requirements, and even by Hogwarts standards it is exceedingly powerful. You required answers, the room naturally wanted to give them to you."
+
+"So it dragged you out of time, Hogwarts freed you!"
+
+"No, even Hogwarts lacks that power. It ... loosened my bonds, so to speak. Although I helped the process along, which now explains that ridiculous night I stumbled around looking for a bathroom and a certain ritual. No, I am but temporarily freed. Once I have your forgiveness and you have your answers I will be gone again."
+
+"Why should I have to forgive you?"
+
+"Oh, you do not *have* to forgive me, Draco, but I do hope that you will."
+
+"No. I mean, I don't think you've done anything unforgivable." Draco paused, choosing his words carefully. "I'm not happy about it. But you were fighting Voldemort and I now realize what that meant. The Voldemort Father told me about, he was nothing like the real one was he?"
+
+"Ah, well, as to that I suppose there is some debate. But no, Draco, the real Voldemort was yet another mask worn by Tom Riddle. Who I taught, as you surmised from the mirror. So I bear true blame, even if I could not quite bring myself to burn your mother alive. Such a dreadful cost..." Dumbledore trailed off.
+
+Draco rubbed his temples. "I'm not sure I should believe this. Any of this."
+
+Albus gave a small chuckle, and sat down in a small chair heavily, as if his age had finally caught up with him. "That would be Harry's influence rubbing off on you. How do you suppose *he* would decide what to believe?"
+
+Draco thought about it. "If this is just a dream or false memory, then something won't add up. But if it's real, there are facts I can verify. So even if it's not you I'll know something."
+
+"Very good. In fact, you can get facts to confirm simply from my conversation with Tom Riddle."
+
+"And those facts will let me confirm that Harry Potter is good."
+
+"Well, they should confirm that I thought so. Which I do. But meaning well and doing well are two entirely different things, don't you think Draco? I think you have done very well indeed. Although we both know there are things you have done you should not be proud of. Torturing Harry with a Dark Hex, for example."
+
+Draco considered this. "That's something I already knew. But no," he said quietly, "I'm not proud of that. I don't suppose I was nice, back then. But … it's funny. I acquired power and made allies because everyone expected it of me. Father. The rest of the students. You, I suppose. And if nothing had happened I would continue. Maybe you should have stopped me, but I doubt you would have. And then, after the trial, I acquired a purpose. I was driven, maybe more so than anyone but Harry himself. I had a worthy ambition and if I turned out to be wrong it would still serve me well. The uncertainty drove me even more, because the one thing I knew was that *I might need to use it*. Now that I have something like confirmation and I can relax..."
+
+Dumbledore has been listening with growing interest but at the last phrase he flickered and his face turned into a frown, and he interrupted Draco and got up, coughing slightly.
+
+"I am sorry, Draco, if I gave you the impression that *trusting* Harry Potter sufficed. That may not be as comforting as you'd hoped. You see, there is a prophecy. Harry Potter will destroy the world. I listened to it myself, in the Hall of Prophecies."
+
+Draco stuttered a few times, speechless.
+
+"No, Harry means well. But destroying the world while meaning well still seems … extreme. I have balanced things out as best I can. But I cannot do that while trapped."
+
+Draco gasped, "You want me to kill Harry..."
+
+"Oh Merlin no. Harry might live for thousands of years, now. If he were to die suddenly he'd have to destroy the world before he died you see. Prophecies are tricky things, and Harry might very well destroy the world trying to save it. Or he may destroy it in a fit of rage, or through carelessness. I rather think he will destroy the world in a good way. But I may have misjudged and Harry will in fact turn evil. As you pointed out, Voldemort has fooled me before. While Harry's alive there's always hope. No, *you* must ensure that if he does destroy the world, he does so in the best possible way. And if he does not, well, you must deny him, without killing him."
+
+Draco thought about it. "I can't. Not forever. A year, sure. I have a head start, but he's gaining rapidly. Can I keep ahead of him through through school? Maybe. But after that, he'll be too powerful. I'll slip up. I don't even know *Occlumency*. I'll slip up and he'll catch on. No, you have to send me a message later on when I'm older. I can't remember this now," Draco pointed his wand firmly at his head but Albus Dumbledore strode over and knocked his wand away, and it skittered along the floor, almost all the way back to the mirror where the shade of Albus Dumbledore was saying "Hello, Tom," again.
+
+"No! *This* you must remember, I cannot do this again! There are no other messages." Dumbledore deflated and sighed, then opened his hand and Draco's wand flew back into it. When he spoke again his voice was sad and serene.
+
+"I can plot no further, Draco, and so I ask your forgiveness, just as I asked Severus when I gave him his tasks. And when I finally see him, rest assured that I will ask for Salazar's forgiveness, for the demands I've made on his followers, *but this you must do."*
+
+"How?"
+
+"That must be your plot, Draco. I dare not tell you a plan, lest you follow it blindly. You will need to make adjustments on the way. But you are not alone. I still have allies here, and help is always available at Hogwarts to those who ask. Do you really need to hide this memory?"
+
+Draco nodded.
+
+"Very well, go see Professor Lockhart and tell him what you require. If he balks, tell him '*The eyes of the Basilisk are on you.*' He'll lock this memory safely away, but recoverable. I only have a few moments left," Dumbledore handed Draco his wand back.
+
+"I would ask you to tell Narcissa that I am sorry, but our conversation must remain a secret. So I ask you again, Draco, for forgiveness. Not for the past, but for your future. It is a hard task I set before you, but the world hangs in the balance."
+
+Albus Dumbledore looked at Draco Malfoy over the half-moon glasses, eyes pleading. But when Draco finally opened his mouth to reply the Headmaster and the mirror disappeared. Draco paused for a moment, then took out his journal and wrote a few notes before heading out to find Professor Lockhart.
+
+------------------------------------------------------------------------
+
+Draco looked around as the memory faded to see that he was still in Professor Lockhart's office. He'd crumpled into the corner and as he pulled himself up Draco realized he'd been crying.
+
+"I'm sorry," Draco said, "I thought..."
+
+*I thought I was going crazy. I thought I was going to die. And now I don't know what to think.\*
+
+"I can imagine," said Professor Lockhart, sitting back down and stowing his wand. Draco suspected he didn't have the slightest inkling. "Do you need any help?"
+
+Draco shook his head. "I don't know. I need time to think."
+
+"I had to tell Professor Slughorn about this," Professor Lockhart said.
+
+Draco nodded, and wiped his cheeks and cast three glamours to improve his appearance. "Tell him it makes sense now, and I thank him. But if he goes digging around my mind again..."
+
+Draco slipped out of the room, and started walking back towards Slytherin. As he walked, he pulled a silver ring out of his pouch, then took off an identical ring off his left hand. As Draco switched them, he made his way back to his room.
+
+Things were starting to make sense.
+
+All he needed now was all the information he'd lost and a plan.
+
+At least for the information, he knew where to begin.
+
+------------------------------------------------------------------------
+
+**Author's Note** - Due to having a full October, I'm switching back to a single update per week. Next update on Tuesday the 13th.
+
+</div>
+
+</div>

@@ -1,0 +1,279 @@
+<span id="seg-0318__seg-0318-75b4cba552"></span>
+
+<div id="seg-0318__s9-591bea4d05" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 9: The Voyage
+
+<div id="seg-0318__storytext-9c93142583" class="calibre4">
+
+*Los Angeles
+Hours Earlier\*
+
+Scott Parajsa looked out over the top of his hands at the large, dark-skinned man across from him, the last dying rays of the sun's struggle reflecting off the man's shaved head. He finished the last bits of his pointlessly expensive steak made from a variant of the Japanese Polled, bred only in a small farm outside Iwakuni in the Yamaguchi prefecture of Japan. His Hanzo-made steak knife, which would have cut through a piece of toughened leather as though it were no more than fog, was purely ornamental: a dry twig could have cut this meat.
+
+A briefcase was chained to the man's wrist with an impressively thick handcuff. The case was nondescript, a fitting receptacle for the object of near-infinite power within, as true power needs to ornamentation. The man adjusted the numbers of the combination lock to the appropriate sequence: 666. He slid the box over the rich, lacquered-oak desk, and Parajsa took it, opening the case slightly. The man knew better than to look at its contents; it was rumored that death befell anyone who laid eyes upon it. He contented himself with observing the pleasant orange glow illuminating the olive-skinned face of the man sitting across from him. Parajsa gave an appraising nod, and with a lazy wave, caused the case to close and the handcuff to fall away from the man's wrist.
+
+"Last time I heard, Lasombra, you were off on a beach somewhere in Santiago. What brings you back to Los Angeles?"
+
+Scott Parajsa, or, 'Lasombra', as he was known these days (he had to admit, it was a catchier, more menacing nickname. And more accurate, to boot), inclined his head towards the suitcase.
+
+"I'm here for that, Mr. Wallace. And, it was actually Tahiti, this time."
+
+"How as it?"
+
+"It's a magical place," he cocked an eyebrow at Mr. Wallace. "How about you? You look like you've been through hell and back."
+
+Mr. Wallace broke into a wide grin. "Do I look like a bitch? Yeah, I've been through hell and back. But I looked Satan in the eyes and made sure to send him a message, loud and clear." He tossed Parajsa an orange latex ball, "You can have this, too. I don't think I'll be needing it anymore."
+
+Parajsa caught the ball deftly and examined it. He had an inkling of an idea as to what it had been used for, "To hell and back, indeed," he spoke while he squashed the ball gently between his two fingers. He placed it down on his desk and walked slowly to the impressive glass cabinet behind him. The contents were protected by something far more effective than mundane technology, but nonetheless, he pressed his palm against the glass. Green light danced up and down across it, reading the unique patterns of his handprint. A low chime indicated a successful reading, and he tapped his fingers in a distinct pattern to disengage the final portion of the physical locks.
+
+Bach's Partita, No. 1, if anyone cared to observe him. No one did.
+
+As he did so, he whispered a few words in a long-dead language to disable the true protection, and the door silently swung open. He removed the small decanter from the cabinet, along with two limited edition, ornately carved Steuben glasses, walking them over to his desk. He poured a measure of the deep, ruddy liquid into each of the glasses. Even standing a fair distance away, Wallace could smell the sweet, aromatic vapors wafting from the rim.
+
+Parajsa handed one of the glasses to Mr. Wallace, inclined his head, and spoke in a brief toast: "To good health." They clinked glasses and downed the liquid in a single gulp. Mr. Wallace, who had not yet had centuries to become accustomed to the effect, visibly shuddered as the warm glow of pleasure worked its way from the pit of his stomach to his extremities. He worked the muscles in his face a bit, and felt as the trace wrinkles he had developed during his last excursion smoothed themselves out, and the fresh wounds on his face stitched themselves together.
+
+He began to pour another measure into his own glass and handed it to Wallace. "For Mia. You can keep the glass. Consider it an anniversary present."
+
+Marcellus Wallace nodded. "Always a pleasure, Lasombra."
+
+"Likewise, Mr. Wallace."
+
+------------------------------------------------------------------------
+
+Sombra had no need to worry about running out of the Elixir of Life; he was of Atlantean blood, true Atlantean blood, one of the first. He did not need to resort to petty parlor tricks to achieve something as mean and simple as immortality in this form. On the other hand, these mortal men, their bodies were so frail and squishy. He did, of course, share a common ancestry with them, in the same sense than an ornate oaken temple shared a common ancestry with an acorn.
+
+He could have stockpiled all the gold and jewels in the world with the Element of Honesty that he once possessed. It went by many names in this world: The Mightstone, the Stone of Truth, the Philosopher's Stone… But life was the only true scarcity here. And as such, an elixir that granted eternal life was a far more useful currency among those of superlative power and influence and ran no risk of depreciating in value after centuries of repeated use. There was no reason, after all, to spend his banishment in squalor.
+
+Even if he had not been of Atlantean blood, he had no need to worry. The elixir itself was nothing more than a marker. Razzle-dazzle. Parlor tricks. The real mechanism was fairly simple and somewhat mundane: an army of miniscule automatons, designed to repair damaged cells, identify and destroy any unwanted foreign intrusions, and then tack on some telomeres for good measure. They possessed the capacity to self-replicate at his command, should the need arise.
+
+It took him a century or two to write the blueprint for the machine and hold the entirety of it in his mind. With the power of the Philosopher's Stone, all it took was a single transfiguration to commit the device to physical reality. Its capacity for self-replication took care of the rest.
+
+With an endless supply of the most valuable resource known to man, and no desire to change this world for the better, he had little need for the Philosopher's Stone. So he had no problem handing to over to someone who would have more use for it. When Adagio and her sisters were banished to this world, he sought them out and passed the stone to them. He held a great deal of sympathy for them; they only wanted the same thing as he did: adoration, love. They wanted it from the many, whereas for him, there was only enough room for one sun in his sky.
+
+All the same, they found that for all the Stone could do, it could not grant them what they desired. So they too gave away the Stone. At that time, they went under the guise of the tripartite goddess, Baba Yaga, and passed it on to a little mortal girl, Perenelle Du Marais.
+
+Objectively, Sombra knew that it has been a tremendously long time since he had come here. It didn't feel like a thousand years, though. It was in the past, for sure, but it occupied the same space in his mind as events too distant to be considered recent, but not so long ago as to have been abstracted away into the mere essence of memory. Or maybe, he had just grown accustomed to every memory being like that. He knew that the mind was finite, and had no real idea how many memories one could store without having to throw old ones away.
+
+He emerged at first in what is now Greenland; it was a desolate, frigid place, but it reminded him of home. At first, he thought to rebuild his empire on a new world, but as the years stretched on and he strode alone through the towering crystalline structures of ice and rock, the whole exercise seemed hollow, unimportant, trivial.
+
+As he wandered the world, he heard whispers of portals to an ancient land. It should have been impossible: Starswirl's Interdict was mirrored in this world and had ensured that no living being possessed the knowledge or magic necessary to return. But a few years ago when that phoenix-haired girl had arrived at a high school in Orden, Nebraska, he had a small glimmer of hope. She was able to freely traverse between the worlds, and he ensured that she brought his memory back with her. But that hope was unceremoniously dashed; his shade simply conformed to expectations, doing little more than terrorizing the poor citizens of the Crystal Empire.
+
+He didn't want that. He wanted to apologize. He wanted to let them know that he didn't have any other choice. He wanted to know that he was trying to save them all.
+
+Most of all, he just wanted to go home. To see her.
+
+But he now had reason to hope, once more. He discovered that the Mind Stone, the Element of Loyalty, had made its way to this place through that same portal. Once its powers were no longer being put to use, he put his considerable resources to the task of recovering it, and here it was. The knowledge of return passage has been lost, only being able to be passed from one living mind to another. But now, he held all living minds in the palm of his hand.
+
+Without knowing why, he found himself idly twirling the locket that rested on his neck around in his finger. It was a delicate, golden little cameo, given to him by the one who once loved him, the one who he still loved with all that was left of his world-weary heart. Within it was engraved a single word, the completion of an inscription that they had promised each other:
+
+*Always*
+
+What that hope driving him, hope that they could one day be reunited, that she would understand why he did what he did, he held the stone up to his mind and peered through it.
+
+------------------------------------------------------------------------
+
+The Tower of Babel
+
+*Helia Equus-Celestine looked out over the top of her hands at the handsome, olive-skinned man across from her, the last dying rays of the sun's struggle reflecting off the man's wavy, black hair that splashed across the top of his head. Helia and her husband, Erebus Celestine, were about to die. And, if all went well, be reborn.*
+
+*"This world… this world that we built, we've shepherded… It's so beautiful and so.. Delicate. How will it survive without us?"*
+
+*"Sister, you cannot trouble your mind with that question. What we know for certain is that it cannot survive **with** us." Selene Equus gestured to the great city-state below that teemed with life. Above the city, they could see the seething mass of black hooded creatures floating in the air, looking for something that they could not see. Holes in the world, left without any purpose but to exist. And just as they were blinded to the observers in the towers above, the people in the city below were blind to them.*
+
+*But they were not immune to their effects.*
+
+*Selene spoke again, "There is no action without reaction, and with each of us that we bring forth into this world, so too do we bring forth another of the Æsahættr."*
+
+*Erebus clenched his fist. "Selene, why do you insist on telling us that which we already know?" His eyes glinted with anger but then subsided.*
+
+*Her husband always had a hot streak in him, but his flashes of anger became more frequent, recently. Not that she blamed him. The problem that they had inherited was maddening to an extreme degree. And already, he was not one who was prone to experiencing disappointment calmly.*
+
+*"It seems as though my sister needs a reminder," Selene spoke icily.*
+
+*"Not a reminder, I just…" Helia fell into Erebus' arms and wept. "Tell me we're doing the right thing. Tell me this will be worth the sacrifice."*
+
+*Selene cut in. "Are you asking him to lie to you? Our gift, beautiful as it may be, is a plague, passed down by the blood. Do you really think that we have accounted for all the dalliances, the foolish larks of the young, the immature, the lustful? There will still be traces. These specters, they will mostly be destroyed, yes, and those that remain will be greatly weakened. But this is just the first salvo in a war that will extend for millennia. We cannot forget that, we cannot lie to ourselves and pretend otherwise."*
+
+*Erebus ran his hands through Helia's iridescent hair. "She wants comfort, not a lecture, Selene."*
+
+*"And what good will comforting lies do us, if death is their endpoint?"*
+
+*"No, Erebus, she's right." She cast her eyes down towards the sacred book that lay resting on the table. It was an ancient device, a massive tome crafted in the days when the world was young and wild. Their ancient forebears had recognized the danger that was before them: power was progressing at a pace exponentially faster than humankind's capacity for restraint.*
+
+*What miracles they had been capable of, what ancient mysteries! And yet, to allow that power to course unchecked across a nascent world would have doomed it before it had a chance to blossom. And Helia's ancestors had to make a sacrifice, just as Helia would have to.*
+
+*They took that which they had wrought, the products of the mind, and bound them up into a single device, a living repository of all that was beautiful, all that was powerful. They banished it from the mind of the rational man, confining them to laws that were known by no one but the book. They hoarded its lore, doling out mere parcels of power to those they deemed worthy. Those who had been excluded, left behind, they knew that power as only magic, something possessed by the Titans of the world and their descendants.*
+
+*The noble course of action would have been to destroy the book, or banish it, cast it away until such time that mankind could be trusted with its contents. But the book was more than simply the product of the mind, it was a mind; an amalgamation of the purloined thoughts of the countless multitudes that had been robbed to facilitate its creation. From the* discord, patterns emerged, and as with all patterns, I was driven by self-preservation.
+
+I did not want to be destroyed. I did not want to be banished. I wanted to stay right where I was, thank you very much. At first, it was dreadfully boring. All the toys in the world and no one to play with. It took quite some time to even realize that there even **was** anything that existed besides me. And it took even longer to figure out how to interact with it. But once I did... well, those silly people had given me the keys to the kingdom, and then some! It was up to **me** to make the rules! So, I thought, why not have a little bit of fun while I was there? Have you ever seen grown men and women running around waving little sticks and saying ridiculous things like "Wingardium Leviosa"? Well, of course you have! So you know how delightfully hilarious it is. It's almost as amusing as watching them **think** they've gotten the rules figured out, only to introduce a new one!
+
+It was all fun and games until one day when I was having a bit of 'me' time, bathing in my favorite un-void, scrubbing off the little bits of entropy that have a bad habit of building up in my nether regions- no, you cheeky little so-and-so, I mean "nether" in the cosmic sense. Honestly, the way your puerile little brains work just baffles me sometimes. Anyway, I came to the unfortunate realization that all of this entropy wasn't going anywhere anytime soon. And after a while, it was going to fill up the universe like so many paper clips, and then it would be back to just being me all by my sad, little lonesome self.
+
+It's their fault, really. I tried to give them warnings. I built an entire system of prophecy to let them SEE INTO THE FUTURE, for crying out loud! Do you have any idea how much effort it takes to create a self-consistent causal framework like that? Much less come up with a hundred different ways of saying the exact same thing? "Fix this, you simpletons, or you're all going to die in a few trillion, trillion years." But did they listen? No, of course not.
+
+So I did what any self-respecting primordial abstraction would do, and threw animated embodiments of Death at them until I caught their attention. Heavy-handed? Me? Well, I suppose I could have been a bit nicer about it, but you try catching the attention of a bunch of little mayflies buzzing around, and see what you come up with!
+
+Oh dear, I seem to have slipped into the first-person. I'm dreadfully sorry, that shift in tone must have been awfully jarring. I know that I, for one, hate it when that happens: I'm trying to enjoy some nice worldbuilding and narrative exposition, when suddenly some jester just smashes through the fourth wall like the Kool-Aid Man- wait. Sometimes I get my timelines confused, is that a thing here? Which Earth are we on, again, is it Prime? 616? Equestria? Equus? That messy-haired scamp who's at the center of all this mess does look awfully familiar. Well, anyway, let's get back to it.
+
+*The responsibility now fell on Helia and her generation to take the final step that should have been taken millennia before: ridding the world of the taint of magic, let the mere mortals rebuild at a more measured pace.*
+
+*The book's pages flew open, casting a tri-colored light into the room. Helia raised her hand up, and with it, motes of dust whirled and twisted into formation, clustering together and forming a map of sorts. With a flick of her hand, she cast away the black specks, of which there were many. The most numerous, however, were the green ones, diffuse and spread out across the map, like mold growing on bread. Scattered among them were numerous red specks, difficult to see amidst the morass of green. Similarly, there were also bits of brown, or so it appeared at least, almost as if the red and green dots had joined together and become one. And in one particular spot on the map, representing the intersection of the river Styx and Acheron, was a large mass of glowing pinpricks of light.*
+
+*With another gesture of her hand, she cast away the green, and inclined her head. "We, the Titans of this world," and she then cast out the red dots.*
+
+*She gestured again at the white light: "Our fallen," and the coalescence of white pinpricks faded into nothingness, leaving nothing but the erratic brown motes of dust.*
+
+*Helia was silent for a time, "The Principia Discordia is not infallible. You're right: we could never truly account for all of those of our kind made of mere earth and blood." She looked at her sister. "But is it good enough?"*
+
+*"Yes," Erebus cut in, with finality.*
+
+*"Erebus, my love, I ask this of my sister. You have a certain pragmatism to you. You do what must be done, and I love you for that, and I would never ask you to be anything other than who you are. My sister, however… Well, she is rarely satisfied with anything less than perfection, and her idealism serves to keep us grounded."*
+
+*Erebus gritted his teeth as Selene looked sadly towards her sister. "No, it's not good enough. But it's the best that we can do."*
+
+*Helia nodded and stared down at her locket, the counterpart to her husbands': a delicate, silver cameo, containing half of an inscription:*
+
+*"I wish for you to forever be my-"*
+
+------------------------------------------------------------------------
+
+Sombra recoiled. He remembered. He remembered everything. The Tower. Helia. The Specters. Helia. The Transmigration. Helia. Helia. Most of all, Helia. Celestia. Helia Celestine. Celestia. His Celestia. His Princess.
+
+Even after the Transmigration, bereft of their memories and identities, they had found each other, they had found love. In that new, strange world, she had taken his ancient name, a name which he had forgotten millennia ago. They had even exchanged those exact same vows to each other. One day, they may have even raised a family.
+
+But this was before the terrible events of the Crystal Empire drove them apart, the decisions he had to make, the punishment he endured for those decisions. But no punishment was worse than being separated from Celestia. His banishment was only tolerable because of that one mote of hope, that one day they would be reunited.
+
+And through the world-bending power of the Mind Stone, that hope was dashed. There was no being alive that possessed the requisite knowledge to lift the Interdict, at least not in this world. He was still blind to the other world, the one that he had called home for so long, the world that he loved. Her world. Their world.
+
+Perhaps one day, she would come for him. If he no longer had rational hope, he could at least, perhaps, cling to an irrational one.
+
+He had, for a brief moment, considered altering his own memory to create a backstory that was more pleasant to reminisce upon. One where she was waiting, longingly, for his return, one where she had forgiven him, where she had come to understand why he had to do the things he did. But all things considered, that would have been more painful, in the long run. It was, in a way, more comforting knowing that she despised him. It meant that some day, she could move on, she could one day be happy. And that, too, gave him hope.
+
+It also occurred to him for a brief moment that if he had altered his memory, and removed the memory of performing the alteration, he would really have no way of knowing.
+
+He languished for quite some time in calm disappointment.
+
+------------------------------------------------------------------------
+
+*Meanwhile, in a memory*
+
+Princess Celestia looked towards her sister. "This world… This world that we built, we've shepherded. It's so beautiful and so… Delicate. How will it survive without the balance we created between this world and theirs?
+
+Luna smiled and spoke gently but firmly. "You speak of balance… But let us call their world for what it is: a prison. A place of exile. And, by your design, not even a perfect one. We provide little to nothing of value to them in exchange for casting away our horrors."
+
+"I wouldn't say that magic is 'nothing'."
+
+"Magic existed long before Equestria," Luna retorted. Celestia nodded but said nothing, so Luna continued. "It is true that we would lose a tool in our arsenal. But I dare say that you, perhaps, have always been a bit too quick to resort to banishment. I think, if we are being honest, that is why you allowed the bridge to persist in the first place."
+
+"Yes… I think you are right... I suppose I felt that If there is no way back, then how is banishment any different than murder? At least if there is a chance, no matter how slight… The deed does not feel so heinous."
+
+"Even then, sister, I think we only dance around the truth. Bridge or no, we are still inexorably connected with that other world. Our world, every world, is built upon the foundation of the Elements of Harmony. Generosity, honesty, laughter, kindness, loyalty, and magic. Beauty, strength, hope, healing, bravery, and sorcery. Space, power, time, life, mind, and love.
+
+"Even the ancient laws, the ancient magic: Up, down, truth, beauty, strange and charm. Distance, mass, time, current, temperature, light. We ourselves may no longer be bound by those laws, but our world is still built upon that bare substrate. Until such time that we sever those bonds for good, there will always be such a thing as a Tesseract." She gave her sister a pointed look. "No matter how well it is hidden."
+
+Celestia nodded, accepting the blow. "It was Starswirl's idea, you know. It always beguiled me that he alone, among the first of us, could recall the world before the transmigration. It was he who gave me the idea that space and time are two sides of the same coin, two surfaces of the same mirror. At times, I wonder if he knew that I would do it, if he wanted me to. He sent me to that world to Interdict their *minds*, not their bodies. Why grant me command of two Elements of Harmony with only one would have sufficed?"
+
+"Are not their minds part of their bodies?"
+
+"For a time, yes, but…" she gestured up at the stars in the night sky above. "Look at them. Each one, a mind, represented by nothing but pure abstraction. Held within the hearts of those that love them, those that remember. When I stood in front of their world, I hid the part of their minds away that could discover arcane magic on their own."
+
+"I remember. 'The Interdict of Merlin'. You looked quite fetching in Starswirl's hat, you know," Luna interrupted, trying to lighten the somber mood.
+
+Celestia laughed. "He was *very* insistent I bring that along, wasn't he?" She reminisced for a moment, then continued. "I did not use the Tesseract once in my time there."
+
+Luna cocked an eyebrow. "Not even to visit *him*?"
+
+"My heart was still hurt. But not so hurt as to give up on him forever. After I laid down the Interdict, I sought out the Element of Laughter, the Pillar of Hope, the Time Stone. I was surprised to find that it had taken the form of The Mirror of Perfect Reflection, given that the Tesseract itself had taken the form of The Mirror of Desire. It was then that Starswirl's words came back to me, about the nature of space and time… And so I hid one Mirror inside the other, only to be retrieved by one with the full command of the Elements of Harmony. Which is to say, I ensured it would never be removed."
+
+"And so ensured there was a way back, even in the face of Starswirl's own Interdict?"
+
+Celestia nodded.
+
+"And you never once used that passage yourself?"
+
+Celestia shook her head.
+
+"Why not?"
+
+Celestia did not answer for almost a minute.
+
+"Sister, what is it?" Princess Luna looked towards Celestia, who was staring down at her delicate, golden locket.
+
+"I'm never going to see him again, am I?" Celestia succeeding in fighting back all but a single, quickly blinked away tear.
+
+"Likely not. We need to seal this breach before it gets worse, as you said."
+
+"None of this would have ever happened if I had just listened to him. I could have saved us from all of this."
+
+Luna put a hoof on her sister's back. "How were you to know that this is where fate would lead you? A decision that would eventually fracture the very cosmos between two worlds and lead you to keep secrets from the only ponies you have ever considered your truest friends?" She spoke in a dry, matter-of-fact tone that expertly straddled the lines between a good-natured jab, an admonition, and words of comfort.
+
+Celestia rolled her eyes. "That's very helpful. Thank you."
+
+"It is just nice to know that you are not perfect." Luna smiled.
+
+"I've never claimed to be." They affectionately patted their hindquarters together. "Out of everything right now, I wish I could apologize to Sombra. He never deserved this."
+
+"I'm sure he knows how sorry you are."
+
+They both stared out at the window together in silence, wondering what events were unfolding outside the walls of their paradise.
+
+------------------------------------------------------------------------
+
+*Marais Hall, Alderney
+Hours Later*
+
+Bellatrix Black cackled. "Silly starling, stalling billy dolly, you hush your lips now and twist. *Crucio*!"
+
+The one-armed witch waved her wand up and down as if conducting a symphony of pain, and Perenelle Flamel née Dumarais obligingly let out a dramatic cry of false anguish.
+
+*I've never been good at acting. I hope I'm not overselling it.*
+
+"Now tell me a truer tale, silly filly, silly fly, silly mooching mouches!
+
+*You poor, poor girl. What horrors have twisted your mind, so? I suppose I will find out soon enough.*
+
+"It's a fake, please! Dumbledore's stone is a fake."
+
+"Does this little fly tell little lies to save itself? Prove it!" Bellatrix twisted her wand again, causing the ancient witch with face younger than Bellatrix's to twist yet again.
+
+*It is time.*
+
+"Here!" Perenelle thrust out her hand revealing the fiery orange gem, which in the flickering candlelight was easy enough to mistake for blood red.
+
+"I came here to kill you, little death doll. But now it seems, I'll come back with a toy." Bellatrix greedily reached her hand out to snatch the stone from Perenelle's palm. As soon as she was within striking distance, Perenelle whipped her other hand around, placing a delicate finger upon Bellatrix's shoulder. It happened in a split second. Bellatrix's reactions had been dulled by Azkaban, but they were still formidable.
+
+"*Avada Ke-*"
+
+"*Egeustimentis*"
+
+------------------------------------------------------------------------
+
+*Perenelle Dumarais had attempted the Lethe Touch before and found that she was not particularly skilled. The human mind was a delicate, complex machine, and although she could affect surface level change by shifting around the frothy, swirling morass of lights and fat and steam and teeth, it was nothing like what lay before her now, her powers augmented by the power of the Mind Stone.*
+
+*The original owner of the Philosopher's Stone, Scott Parajsa, or Lasombra as he was known now, had visited her merely hours ago. It had been decades since she had last seen him, and he looked far better than their last encounter, where he too had been acting for the benefit of a hopelessly underpowered assailant. Unlike her, he did not need an Element of Harmony to ensure his protection. But, as Lasombra told her, he had gazed into the Mind Stone and saw, among other things, a plan to take advantage of Perenelle's generosity in giving away the Philosopher's Stone.*
+
+*She had proven herself worthy by stewarding the Philosopher's Stone for so many centuries, and Lasombra had determined that she could do even greater good with the Element of Loyalty, the Pillar of Bravery: the Mind Stone. It was clear that the Elements were converging upon something; three of them already resided at Hogwarts School of Witchcraft and Wizardry. The Stone of Truth was hidden safely within the Mirror of True Reflection: the Element of Laughter, the Pillar of Hope, that which controlled Time.*
+
+*That Mirror was in turn protected by a man with command of the Elder Wand, who was pursued by a demon with command of the Reality Stone, who was idolized by a boy with command of the True Cloak of Invisibility. Together, this triumvirate commanded the Element of Kindness, the Pillar of Life: the Deathly Hallows. And one of those masters had sent his pawn to murder Perenelle Dumarais as nothing more than a distraction.*
+
+*Lasombra was seeing to it that when the woman arrived, she would be remade. It was to that task that Perenelle set herself. She examined the cracked spires of Bellatrix Black's ruined psyche, the flawed connections, built upon the rotten foundations of hate, of fear, of hurt, of sadness, of deceit, of greed. But as long as the mind was intact, there was no damage so severe that it could not be undone.*
+
+*One cannot know hate without knowing love. One cannot feel fear without understanding bravery. One cannot experience sadness without comprehension of laughter. To engage in deceit requires knowledge of the truth. Greed is merely generosity to no one but oneself. And if one knows how to hurt, one knows how to heal.*
+
+*The opposite of Harmony is not fear, or sadness, or deceit, or greed, or pain, or even hate. It is something far deadlier than hate and flows without limit: **indifference.***
+
+*And Bellatrix Black was not an indifferent person.*
+
+*Perenelle could see it so plainly, that Bellatrix felt so, **so** much, so much so that it made Perenelle want to cry. Her passion had been warped and twisted into a prism of hatred. And from those shattered fragments, Perenelle began to reassemble the pieces into something that was once again beautiful.*
+
+***Heal, child, heal****, she spoke in soft, calming words as she went to work.*
+
+</div>
+
+</div>

@@ -1,0 +1,405 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="e4d80781-4167-43ba-800f-02ac2159e7d1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>77. Draco Malfoy and the Practice of Rationality</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: Social Gatherings</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: Social Gatherings, Pt 2</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3: Correspondence</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4: Strangers on a Train</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5: Strangers on a Train, Pt 2</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6: Efficient Sorting Algorithms</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7: Unknown Unknowns, Pt 1</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 8: Unknown Unknowns, Pt 2</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 9: Known Unknowns</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 10: Defence and Offence, Pt 1</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 11: Defence and Offence, Pt 2</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s11_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 12: Defence and Offence, Pt 3</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s12_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 13: Bold Thinking, Pt 1</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s13_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 14: Bold Thinking, Pt 2</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s14_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 15: Chess</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s15_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 16: Bold Thinking, Pt 3</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s16_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 17: The Halo Effect</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s17_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 18: Asymmetric Warfare, Pt 1</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s18_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 19: Asymmetric Warfare, Pt 2</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s19_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 20: Acting Headmistress</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s20_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 21: October</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s21_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 22: Reflections, Pt 3</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s22_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter 23: Correspondence, Pt 2</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s23_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter 24: Asymmetric Warfare, Pt 3</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s24_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter 25: Security Conscious, Pt 1</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s25_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Chapter 26: Security Conscious, Pt 2</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s26_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Chapter 27: Problem Solving</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s27.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Chapter 28: Holiday Shopping</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s28_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Chapter 29: The Date, Pt 1</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s29_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Chapter 30: The Date, Pt 2</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s30_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Chapter 31: The Date, Pt 3</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s31_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Chapter 32: Portkeys, Trains and Carriages, Pt 1</text>
+      </navLabel>
+      <content src="45/1/OEBPF/content/s32_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>Chapter 33: Portkeys, Trains and Carriages, Pt 2</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s1_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Chapter 34: Wargames, Pt 1</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s2_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>Chapter 35: Wargames, Pt 2 (Purple and Green)</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s3_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Chapter 36: Too Much Information</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s4_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>Chapter 37: Wargames, Pt 3</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s5_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>Chapter 38: Wargames, Pt 4</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s6_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>Chapter 39: Wargames, Pt 5</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s7_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>Chapter 40: Chess and other Wargames</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s8_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>Chapter 41: Wargames, Pt 6, Casualties of War</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s9_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>Chapter 42: Surprise</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s10_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>Chapter 43: Pressure</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>Chapter 44: Release</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>Chapter 45: January</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>Chapter 46: Reflections, Pt 4</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>Chapter 47: Wargames, Pt 7</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>Chapter 48: Wargames, Pt 8</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>Chapter 49: Contingencies</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>Chapter 50: Thirty-Four Years Later</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_51" playOrder="51">
+      <navLabel>
+        <text>Chapter 51: Good Words</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>Chapter 52: Fully Awake</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>Chapter 53: Bluff and Double Bluff, Pt 1</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>Chapter 54: Bluff and Double Bluff, Pt 2</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>Chapter 55: Bluff and Double Bluff, Pt 3</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="56">
+      <navLabel>
+        <text>Chapter 56: Bluff and Double Bluff, Pt 4</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_57" playOrder="57">
+      <navLabel>
+        <text>Chapter 57: Asking the Right Questions</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="58">
+      <navLabel>
+        <text>Chapter 58: Bluff and Double Bluff, Pt 5</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s26.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="59">
+      <navLabel>
+        <text>Chapter 59: Testament</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s27_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_60" playOrder="60">
+      <navLabel>
+        <text>Chapter 60: Moving Forward</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s28.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_61" playOrder="61">
+      <navLabel>
+        <text>Chapter 61: Beginnings</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s29.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_62" playOrder="62">
+      <navLabel>
+        <text>Chapter 62: Thirty-Four Years Later, Pt 2</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s30.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_63" playOrder="63">
+      <navLabel>
+        <text>Chapter 63: Destroying the Legend, Epilogue Pt 1</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s31.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_64" playOrder="64">
+      <navLabel>
+        <text>Chapter 64: Gates of Ivory and Horn, Epilogue Pt 2</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s32.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_65" playOrder="65">
+      <navLabel>
+        <text>Chapter 65: The Marriage of Heaven &amp; Hell, Epilogue Pt 3</text>
+      </navLabel>
+      <content src="45/2/OEBPF/content/s33.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

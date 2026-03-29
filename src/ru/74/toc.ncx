@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="e1e0a71e-ab92-4af0-ab75-689f36760d67" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>74. On the Continuity of Consciousness</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s1_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s2_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s3_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s4_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s5_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s6_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s7_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 8</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s8_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 9</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s9_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 10</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s10_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 11</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s11_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 12</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s12_split_000.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 13</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s13_split_000.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

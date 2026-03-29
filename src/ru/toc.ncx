@@ -1,0 +1,5553 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="epubmerge-uid-1593090960" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Book of HPMOR Fanfics</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Оглавление</text>
+      </navLabel>
+      <content src="toc.xhtml#toc_1"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>00. Предисловие</text>
+      </navLabel>
+      <content src="preface.xhtml#toc_1"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>01. Seventh Horcrux</text>
+      </navLabel>
+      <content src="1/titlepage.xhtml"/>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>Chapter 1: HP vs Childhood</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Chapter 2: HP vs Quirinus Quirrel</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Chapter 3: HP vs Gilderoy Lockhart</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Chapter 4: HP vs Remus Lupin (Pt 1)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>Chapter 5: HP vs Remus Lupin (Pt 2)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Chapter 6: HP vs Alastor Moody (Pt 1)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Chapter 7: HP vs Alastor Moody (Pt 2)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Chapter 8: HP vs Alastor Moody (Pt 3)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>Chapter 9: HP vs Alastor Moody (Pt 4)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>Chapter 10: HP vs DoM</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>Chapter 11: HP vs Dolores Umbridge (Pt 1)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>Chapter 12: HP vs Dolores Umbridge (Pt 2)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>Chapter 13: HP vs Dolores Umbridge (Pt 3)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>Chapter 14: HP vs Love (Pt 1)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>Chapter 15: HP vs Love (Pt 2)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>Chapter 16: HP vs Love (Pt 3)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>Chapter 17: HP vs Himself (Pt 1)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>Chapter 18: HP vs Himself (Pt 2)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>Chapter 19: HP vs Himself (Pt 3)</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>Chapter 20: Epilogue: Thirteen Years Later</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>Chapter 21: Omakes!</text>
+        </navLabel>
+        <content src="1/1/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_25" playOrder="25">
+      <navLabel>
+        <text>02. Squibgineering</text>
+      </navLabel>
+      <content src="2/titlepage.xhtml"/>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>Chapter 1: Blue Tigers</text>
+        </navLabel>
+        <content src="2/1/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>Chapter 2: Myrddin</text>
+        </navLabel>
+        <content src="2/1/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>Chapter 3: Antenna</text>
+        </navLabel>
+        <content src="2/1/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>Chapter 4: Emily</text>
+        </navLabel>
+        <content src="2/1/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_30" playOrder="30">
+      <navLabel>
+        <text>03. Tom Riddle – Origins of a Dark Lord</text>
+      </navLabel>
+      <content src="3/titlepage.xhtml"/>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="3/2/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="3/2/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>04. Tom Riddle and the Conflict of Interest</text>
+      </navLabel>
+      <content src="4/titlepage.xhtml"/>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>Chapter 1: Tom Riddle and Albus Dumbledore</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>Chapter 2: Tom Riddle and David Monroe</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>Chapter 3: Tom Riddle and Defense Class</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>Chapter 4: Tom Riddle and Higher Learning</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>Chapter 5: Tom Riddle and Saturday</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>Chapter 6: Tom Riddle and Misunderstandings</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>Chapter 7: Tom Riddle and Experience</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>Chapter 7.1: Interlude</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="4/4/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_46" playOrder="46">
+      <navLabel>
+        <text>05. Tom Riddle and Battle Magic 2</text>
+      </navLabel>
+      <content src="5/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_47" playOrder="47">
+      <navLabel>
+        <text>06. Tom Riddle and Conflicts of Christmas</text>
+      </navLabel>
+      <content src="6/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_48" playOrder="48">
+      <navLabel>
+        <text>07. Firenze's Tale</text>
+      </navLabel>
+      <content src="7/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_49" playOrder="49">
+      <navLabel>
+        <text>08. Lord Voldemort's First Speech</text>
+      </navLabel>
+      <content src="8/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_50" playOrder="50">
+      <navLabel>
+        <text>09. Professors Aren't Idiots</text>
+      </navLabel>
+      <content src="9/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>10. Hermione Granger and the Perfectly Reasonable Explanation</text>
+      </navLabel>
+      <content src="10/titlepage.xhtml"/>
+      <navPoint id="num_52" playOrder="52">
+        <navLabel>
+          <text>Chapter 0: Prologue</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53">
+        <navLabel>
+          <text>Chapter 1: Statistical Sampling</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_54" playOrder="54">
+        <navLabel>
+          <text>Chapter 2: A Short Visit</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>Chapter 2.1: Interlude - Introductio Consectandus</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56">
+        <navLabel>
+          <text>Chapter 3: Needful Things</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57">
+        <navLabel>
+          <text>Chapter 4: Revision</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_58" playOrder="58">
+        <navLabel>
+          <text>Chapter 5: Partition Problem</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>Chapter 6: Unexpected</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60">
+        <navLabel>
+          <text>Chapter 6.1: Interlude - Dubius</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61">
+        <navLabel>
+          <text>Chapter 7: Discrepancies</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_62" playOrder="62">
+        <navLabel>
+          <text>Chapter 8: Interpersonal Development</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_63" playOrder="63">
+        <navLabel>
+          <text>Chapter 9: Independent Study</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="64">
+        <navLabel>
+          <text>Chapter 10: a Poor Sort of Memory</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_65" playOrder="65">
+        <navLabel>
+          <text>Chapter 11: Perspective</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="66">
+        <navLabel>
+          <text>Chapter 12: Leverage</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_67" playOrder="67">
+        <navLabel>
+          <text>Chapter 13: In Memoriam</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>Chapter 14: Lavatorial Correspondence</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69">
+        <navLabel>
+          <text>Chapter 15: Responsible</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="70">
+        <navLabel>
+          <text>Chapter 16: Building a Better Rat-Trap</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_71" playOrder="71">
+        <navLabel>
+          <text>Chapter 17: Gang Aft A-gley</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_72" playOrder="72">
+        <navLabel>
+          <text>Chapter 17.1: Interlude - Tempus Torqueri (1 of 2)</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_73" playOrder="73">
+        <navLabel>
+          <text>Chapter 17.2: Interlude - Tempus Torqueri (2 of 2)</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_74" playOrder="74">
+        <navLabel>
+          <text>Chapter 18: Struggle</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="75">
+        <navLabel>
+          <text>Chapter 18.1: Interlude - Quod Sequitur</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_76" playOrder="76">
+        <navLabel>
+          <text>Chapter 19: Disclosure</text>
+        </navLabel>
+        <content src="10/7/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>11. Mary Poppins Begins the End</text>
+      </navLabel>
+      <content src="11/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_78" playOrder="78">
+      <navLabel>
+        <text>12. Daystar's Remix of HPMOR</text>
+      </navLabel>
+      <content src="12/titlepage.xhtml"/>
+      <navPoint id="num_79" playOrder="79">
+        <navLabel>
+          <text>Chapter 1: A Day of Very Low Probability</text>
+        </navLabel>
+        <content src="12/4/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_80" playOrder="80">
+        <navLabel>
+          <text>Chapter 2: Everything I Believe Is False</text>
+        </navLabel>
+        <content src="12/4/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_81" playOrder="81">
+        <navLabel>
+          <text>Chapter 3: Comparing Reality To Its Alternatives</text>
+        </navLabel>
+        <content src="12/4/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_82" playOrder="82">
+        <navLabel>
+          <text>Chapter 4: The Efficient Market Hypothesis</text>
+        </navLabel>
+        <content src="12/4/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_83" playOrder="83">
+      <navLabel>
+        <text>13. HPMOR Crack: A Questionable Harry Potter</text>
+      </navLabel>
+      <content src="13/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_84" playOrder="84">
+      <navLabel>
+        <text>14. Chapter 10a Hufflepuff Harry Potter</text>
+      </navLabel>
+      <content src="14/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_85" playOrder="85">
+      <navLabel>
+        <text>15. Headmaster Potter-Evans-Verres</text>
+      </navLabel>
+      <content src="15/titlepage.xhtml"/>
+      <navPoint id="num_86" playOrder="86">
+        <navLabel>
+          <text>Chapter 1: A Choice of Very Low Probability</text>
+        </navLabel>
+        <content src="15/5/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87">
+        <navLabel>
+          <text>Chapter 2: A Surprising Response</text>
+        </navLabel>
+        <content src="15/5/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="88">
+        <navLabel>
+          <text>Chapter 3: Deliberations</text>
+        </navLabel>
+        <content src="15/5/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_89" playOrder="89">
+      <navLabel>
+        <text>16. Minerva McGonagal and the Sensible Course of Action</text>
+      </navLabel>
+      <content src="16/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_90" playOrder="90">
+      <navLabel>
+        <text>17. HPMoR: The Missing (but Necessary) Chapters</text>
+      </navLabel>
+      <content src="17/titlepage.xhtml"/>
+      <navPoint id="num_91" playOrder="91">
+        <navLabel>
+          <text>Chapter 1: Playing with Fire</text>
+        </navLabel>
+        <content src="17/7/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_92" playOrder="92">
+        <navLabel>
+          <text>Chapter 2: Falling or Flying</text>
+        </navLabel>
+        <content src="17/7/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_93" playOrder="93">
+        <navLabel>
+          <text>Chapter 3: Swept Up, Pt 1</text>
+        </navLabel>
+        <content src="17/7/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_94" playOrder="94">
+        <navLabel>
+          <text>Chapter 4: Swept Up, Pt 2</text>
+        </navLabel>
+        <content src="17/7/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_95" playOrder="95">
+      <navLabel>
+        <text>18. Hysteresis</text>
+      </navLabel>
+      <content src="18/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_96" playOrder="96">
+      <navLabel>
+        <text>19. One Level Deeper</text>
+      </navLabel>
+      <content src="19/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_97" playOrder="97">
+      <navLabel>
+        <text>20. Harry Potter and the Technique of Quidditch</text>
+      </navLabel>
+      <content src="20/titlepage.xhtml"/>
+      <navPoint id="num_98" playOrder="98">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="20/12/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_99" playOrder="99">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="20/12/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_100" playOrder="100">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="20/12/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_101" playOrder="101">
+      <navLabel>
+        <text>21. Memories are Golden and Death is Cheap</text>
+      </navLabel>
+      <content src="21/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_102" playOrder="102">
+      <navLabel>
+        <text>22. Nightmares of Azkaban</text>
+      </navLabel>
+      <content src="22/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_103" playOrder="103">
+      <navLabel>
+        <text>23. The Fallacy of Division By Zero</text>
+      </navLabel>
+      <content src="23/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_104" playOrder="104">
+      <navLabel>
+        <text>24. Harry's Game</text>
+      </navLabel>
+      <content src="24/titlepage.xhtml"/>
+      <navPoint id="num_105" playOrder="105">
+        <navLabel>
+          <text>Chapter 1: Consequences</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_106" playOrder="106">
+        <navLabel>
+          <text>Chapter 2: Life Eater</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_107" playOrder="107">
+        <navLabel>
+          <text>Chapter 3: Combat Commentators Part I</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_108" playOrder="108">
+        <navLabel>
+          <text>Chapter 4: Combat Commentators Part II</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_109" playOrder="109">
+        <navLabel>
+          <text>Chapter 5: Divination Part I</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_110" playOrder="110">
+        <navLabel>
+          <text>Chapter 6: Divination Part II</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_111" playOrder="111">
+        <navLabel>
+          <text>Chapter 7: Divination Part III</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_112" playOrder="112">
+        <navLabel>
+          <text>Chapter 8: Friendly Fire</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_113" playOrder="113">
+        <navLabel>
+          <text>Chapter 9: The First Years</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_114" playOrder="114">
+        <navLabel>
+          <text>Chapter 10: Practices</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_115" playOrder="115">
+        <navLabel>
+          <text>Chapter 11: Asimov's One and Half Laws Part I</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_116" playOrder="116">
+        <navLabel>
+          <text>Chapter 12: Asimov's One and Half Laws Part II</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_117" playOrder="117">
+        <navLabel>
+          <text>Chapter 13: Harry's Game</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_118" playOrder="118">
+        <navLabel>
+          <text>Chapter 14: Fosbury Flop</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_119" playOrder="119">
+        <navLabel>
+          <text>Chapter 15: The Bludger Defence</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_120" playOrder="120">
+        <navLabel>
+          <text>Chapter 16: Weasleys' War</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_121" playOrder="121">
+        <navLabel>
+          <text>Chapter 17: Game's Changer</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_122" playOrder="122">
+        <navLabel>
+          <text>Chapter 18: Game's Ender Part I</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_123" playOrder="123">
+        <navLabel>
+          <text>Chapter 19: Game's Ender Part II</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_124" playOrder="124">
+        <navLabel>
+          <text>Chapter 20: Disobedience</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_125" playOrder="125">
+        <navLabel>
+          <text>Chapter 21: Disobedience Part II</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_126" playOrder="126">
+        <navLabel>
+          <text>Chapter 22: Harry's Game Part II</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_127" playOrder="127">
+        <navLabel>
+          <text>Chapter 23: Epilogue</text>
+        </navLabel>
+        <content src="24/12/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_128" playOrder="128">
+      <navLabel>
+        <text>25. Educational</text>
+      </navLabel>
+      <content src="25/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_129" playOrder="129">
+      <navLabel>
+        <text>26. Dark Lord Material</text>
+      </navLabel>
+      <content src="26/titlepage.xhtml"/>
+      <navPoint id="num_130" playOrder="130">
+        <navLabel>
+          <text>Chapter 1: Avada Kedavra</text>
+        </navLabel>
+        <content src="26/14/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_131" playOrder="131">
+        <navLabel>
+          <text>Chapter 2: Intent to Kill</text>
+        </navLabel>
+        <content src="26/14/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_132" playOrder="132">
+        <navLabel>
+          <text>Chapter 3: Poking the fire</text>
+        </navLabel>
+        <content src="26/14/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_133" playOrder="133">
+        <navLabel>
+          <text>Chapter 4: Questions</text>
+        </navLabel>
+        <content src="26/14/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_134" playOrder="134">
+        <navLabel>
+          <text>Chapter 5: Speculating</text>
+        </navLabel>
+        <content src="26/14/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_135" playOrder="135">
+        <navLabel>
+          <text>Chapter 6: Detention</text>
+        </navLabel>
+        <content src="26/14/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_136" playOrder="136">
+        <navLabel>
+          <text>Chapter 7: Kicking up Dust</text>
+        </navLabel>
+        <content src="26/14/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_137" playOrder="137">
+        <navLabel>
+          <text>Chapter 8: The Pact</text>
+        </navLabel>
+        <content src="26/14/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_138" playOrder="138">
+        <navLabel>
+          <text>Chapter 9: Repercussions</text>
+        </navLabel>
+        <content src="26/14/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_139" playOrder="139">
+      <navLabel>
+        <text>27. Following the Phoenix</text>
+      </navLabel>
+      <content src="27/titlepage.xhtml"/>
+      <navPoint id="num_140" playOrder="140">
+        <navLabel>
+          <text>Chapter 81: Taboo Tradeoffs, Pt 3</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_141" playOrder="141">
+        <navLabel>
+          <text>Chapter 82: Taboo Tradeoffs, Final</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_142" playOrder="142">
+        <navLabel>
+          <text>Chapter 83: Following the Phoenix, Pt 1</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_143" playOrder="143">
+        <navLabel>
+          <text>Chapter 84: Following the Phoenix, Pt 2</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_144" playOrder="144">
+        <navLabel>
+          <text>Chapter 85: Following the Phoenix, Pt 3</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_145" playOrder="145">
+        <navLabel>
+          <text>Chapter 86: Following the Phoenix, Pt 4</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_146" playOrder="146">
+        <navLabel>
+          <text>Chapter 87: Perspective, Pt 1 - Distance</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_147" playOrder="147">
+        <navLabel>
+          <text>Chapter 88: Perspective, Pt 2 - Planning</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_148" playOrder="148">
+        <navLabel>
+          <text>Chapter 89: Updating Beliefs, Pt 1</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_149" playOrder="149">
+        <navLabel>
+          <text>Chapter 90: Updating Beliefs, Pt 2</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_150" playOrder="150">
+        <navLabel>
+          <text>Chapter 91: Updating Beliefs, Pt 3 – Aftermath</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_151" playOrder="151">
+        <navLabel>
+          <text>Chapter 92: Little Children Grow Up, Pt 1</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_152" playOrder="152">
+        <navLabel>
+          <text>Chapter 93: Little Children Grow Up, Pt2</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_153" playOrder="153">
+        <navLabel>
+          <text>Chapter 94: Nihil Supernum, Pt 1</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_154" playOrder="154">
+        <navLabel>
+          <text>Chapter 95: Nihil Supernum, Pt 2</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_155" playOrder="155">
+        <navLabel>
+          <text>Chapter 96: Nihil Supernum, Pt 3</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_156" playOrder="156">
+        <navLabel>
+          <text>Chapter 97: Nihil Supernum, Pt 4</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_157" playOrder="157">
+        <navLabel>
+          <text>Chapter 98: Nihil Supernum, Pt 5 – Aftermaths</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_158" playOrder="158">
+        <navLabel>
+          <text>Chapter 99: Day of the Dementors</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_159" playOrder="159">
+        <navLabel>
+          <text>Chapter 100: Lost Innocence</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_160" playOrder="160">
+        <navLabel>
+          <text>Chapter 101: Knowing the Enemy</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_161" playOrder="161">
+        <navLabel>
+          <text>Chapter 102: The Muggle War, Pt 1</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_162" playOrder="162">
+        <navLabel>
+          <text>Chapter 103: The Muggle War, Pt 2</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_163" playOrder="163">
+        <navLabel>
+          <text>Chapter 104: The Muggle War, Pt 3</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_164" playOrder="164">
+        <navLabel>
+          <text>Chapter 105: The Philosopher's Stone</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_165" playOrder="165">
+        <navLabel>
+          <text>Chapter 106: The Muggle War, Pt 4</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_166" playOrder="166">
+        <navLabel>
+          <text>Chapter 107: The Muggle War, Pt 5</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_167" playOrder="167">
+        <navLabel>
+          <text>Chapter 108: The Muggle War, Pt 6</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_168" playOrder="168">
+        <navLabel>
+          <text>Chapter 109: Negotiations, Pt 1</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_169" playOrder="169">
+        <navLabel>
+          <text>Chapter 110: Negotiations, Pt 2</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+      <navPoint id="num_170" playOrder="170">
+        <navLabel>
+          <text>Chapter 111: Negotiations, Pt 3</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s31.xhtml"/>
+      </navPoint>
+      <navPoint id="num_171" playOrder="171">
+        <navLabel>
+          <text>Chapter 112: Negotiations, Pt 4 – Aftermaths</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s32.xhtml"/>
+      </navPoint>
+      <navPoint id="num_172" playOrder="172">
+        <navLabel>
+          <text>Chapter 113: Endings and Beginnings</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s33.xhtml"/>
+      </navPoint>
+      <navPoint id="num_173" playOrder="173">
+        <navLabel>
+          <text>Chapter 114: The Deathly Hallows, Pt 1</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s34.xhtml"/>
+      </navPoint>
+      <navPoint id="num_174" playOrder="174">
+        <navLabel>
+          <text>Chapter 115: The Deathly Hallows, Pt 2</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s35.xhtml"/>
+      </navPoint>
+      <navPoint id="num_175" playOrder="175">
+        <navLabel>
+          <text>Chapter 116: The Man Who Lived</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s36.xhtml"/>
+      </navPoint>
+      <navPoint id="num_176" playOrder="176">
+        <navLabel>
+          <text>Chapter 117: Epilogue</text>
+        </navLabel>
+        <content src="27/19/OEBPF/content/s37.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_177" playOrder="177">
+      <navLabel>
+        <text>28. Following the Phoenix - Flashes</text>
+      </navLabel>
+      <content src="28/titlepage.xhtml"/>
+      <navPoint id="num_178" playOrder="178">
+        <navLabel>
+          <text>Chapter 1: Summer Job</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_179" playOrder="179">
+        <navLabel>
+          <text>Chapter 2: Rebuilding</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_180" playOrder="180">
+        <navLabel>
+          <text>Chapter 3: Potions Seminar</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_181" playOrder="181">
+        <navLabel>
+          <text>Chapter 4: A Black Trial</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_182" playOrder="182">
+        <navLabel>
+          <text>Chapter 5: Transfiguring Energy</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_183" playOrder="183">
+        <navLabel>
+          <text>Chapter 6: First Witch on the Moon</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_184" playOrder="184">
+        <navLabel>
+          <text>Chapter 7: The Defense Professor</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_185" playOrder="185">
+        <navLabel>
+          <text>Chapter 8: Wise Old Wizard</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_186" playOrder="186">
+        <navLabel>
+          <text>Chapter 9: September 1</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_187" playOrder="187">
+        <navLabel>
+          <text>Chapter 10: A Free Elf</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_188" playOrder="188">
+        <navLabel>
+          <text>Chapter 11: Moon Phoenix</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_189" playOrder="189">
+        <navLabel>
+          <text>Chapter 12: The Good</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_190" playOrder="190">
+        <navLabel>
+          <text>Chapter 13: And the Bad</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_191" playOrder="191">
+        <navLabel>
+          <text>Chapter 14: Spellcrafting</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_192" playOrder="192">
+        <navLabel>
+          <text>Chapter 15: Lord Black</text>
+        </navLabel>
+        <content src="28/13/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_193" playOrder="193">
+      <navLabel>
+        <text>29. Squiring the Phoenix</text>
+      </navLabel>
+      <content src="29/titlepage.xhtml"/>
+      <navPoint id="num_194" playOrder="194">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="29/20/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_195" playOrder="195">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="29/20/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_196" playOrder="196">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="29/20/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_197" playOrder="197">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="29/20/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_198" playOrder="198">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="29/20/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_199" playOrder="199">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="29/20/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_200" playOrder="200">
+      <navLabel>
+        <text>30. Once Upon A Tower</text>
+      </navLabel>
+      <content src="30/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_201" playOrder="201">
+      <navLabel>
+        <text>31. Hermione Granger and the Burden of Responsibility</text>
+      </navLabel>
+      <content src="31/titlepage.xhtml"/>
+      <navPoint id="num_202" playOrder="202">
+        <navLabel>
+          <text>Chapter 1: Prologue</text>
+        </navLabel>
+        <content src="31/17/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_203" playOrder="203">
+        <navLabel>
+          <text>Chapter 2: Azkaban</text>
+        </navLabel>
+        <content src="31/17/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_204" playOrder="204">
+        <navLabel>
+          <text>Chapter 3: The Art of Negotiation</text>
+        </navLabel>
+        <content src="31/17/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_205" playOrder="205">
+        <navLabel>
+          <text>Chapter 4: Truth, Consequence, and Creative Fiction</text>
+        </navLabel>
+        <content src="31/17/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_206" playOrder="206">
+        <navLabel>
+          <text>Chapter 5: The Dust Settles</text>
+        </navLabel>
+        <content src="31/17/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_207" playOrder="207">
+        <navLabel>
+          <text>Chapter 6: Bechdel Fail</text>
+        </navLabel>
+        <content src="31/17/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_208" playOrder="208">
+        <navLabel>
+          <text>Chapter 7: Awkward Overtures</text>
+        </navLabel>
+        <content src="31/17/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_209" playOrder="209">
+      <navLabel>
+        <text>32. Depart Azkaban</text>
+      </navLabel>
+      <content src="32/titlepage.xhtml"/>
+      <navPoint id="num_210" playOrder="210">
+        <navLabel>
+          <text>Chapter 1: A Different Choice</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_211" playOrder="211">
+        <navLabel>
+          <text>Chapter 2: A Worried Wizengamot</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_212" playOrder="212">
+        <navLabel>
+          <text>Chapter 3: A New Adult</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_213" playOrder="213">
+        <navLabel>
+          <text>Chapter 4: Dumbledore</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_214" playOrder="214">
+        <navLabel>
+          <text>Chapter 5: Transfiguration</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_215" playOrder="215">
+        <navLabel>
+          <text>Chapter 6: Rethink</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_216" playOrder="216">
+        <navLabel>
+          <text>Chapter 7: Confidences</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_217" playOrder="217">
+        <navLabel>
+          <text>Chapter 8: Questions</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_218" playOrder="218">
+        <navLabel>
+          <text>Chapter 9: Morality, Pt 1</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_219" playOrder="219">
+        <navLabel>
+          <text>Chapter 10: Morality, Pt 2</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_220" playOrder="220">
+        <navLabel>
+          <text>Chapter 11: Reacquaintance</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_221" playOrder="221">
+        <navLabel>
+          <text>Chapter 12: Aftermath</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_222" playOrder="222">
+        <navLabel>
+          <text>Chapter 13: Also Allowed to be Smart</text>
+        </navLabel>
+        <content src="32/16/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_223" playOrder="223">
+      <navLabel>
+        <text>33. A Strip of Cloth</text>
+      </navLabel>
+      <content src="33/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_224" playOrder="224">
+      <navLabel>
+        <text>34. Proximity</text>
+      </navLabel>
+      <content src="34/titlepage.xhtml"/>
+      <navPoint id="num_225" playOrder="225">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="34/22/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_226" playOrder="226">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="34/22/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_227" playOrder="227">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="34/22/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_228" playOrder="228">
+      <navLabel>
+        <text>35. Innocence</text>
+      </navLabel>
+      <content src="35/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_229" playOrder="229">
+      <navLabel>
+        <text>36. For Summer</text>
+      </navLabel>
+      <content src="36/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_230" playOrder="230">
+      <navLabel>
+        <text>37. Asking for Help</text>
+      </navLabel>
+      <content src="37/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_231" playOrder="231">
+      <navLabel>
+        <text>38. Hermione Granger and the Tesseract of Merlin [missing]</text>
+      </navLabel>
+      <content src="38/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_232" playOrder="232">
+      <navLabel>
+        <text>39. HPMoRCh 89 AU</text>
+      </navLabel>
+      <content src="39/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_233" playOrder="233">
+      <navLabel>
+        <text>40. Reductionism for the Win</text>
+      </navLabel>
+      <content src="40/titlepage.xhtml"/>
+      <navPoint id="num_234" playOrder="234">
+        <navLabel>
+          <text>Chapter 1: Time</text>
+        </navLabel>
+        <content src="40/28/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_235" playOrder="235">
+        <navLabel>
+          <text>Chapter 2: Questions</text>
+        </navLabel>
+        <content src="40/28/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_236" playOrder="236">
+        <navLabel>
+          <text>Chapter 3: Stars</text>
+        </navLabel>
+        <content src="40/28/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_237" playOrder="237">
+        <navLabel>
+          <text>Chapter 4: Consequences</text>
+        </navLabel>
+        <content src="40/28/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_238" playOrder="238">
+        <navLabel>
+          <text>Chapter 5: Forward</text>
+        </navLabel>
+        <content src="40/28/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_239" playOrder="239">
+        <navLabel>
+          <text>Chapter 6: Extra</text>
+        </navLabel>
+        <content src="40/28/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_240" playOrder="240">
+      <navLabel>
+        <text>41. Repairing Ignorance</text>
+      </navLabel>
+      <content src="41/titlepage.xhtml"/>
+      <navPoint id="num_241" playOrder="241">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="41/26/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_242" playOrder="242">
+        <navLabel>
+          <text>Chapter 2: Addendum</text>
+        </navLabel>
+        <content src="41/26/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_243" playOrder="243">
+      <navLabel>
+        <text>42. Harry Potter and the Philosopher's Zombie</text>
+      </navLabel>
+      <content src="42/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_244" playOrder="244">
+      <navLabel>
+        <text>43. The Longest Day</text>
+      </navLabel>
+      <content src="43/titlepage.xhtml"/>
+      <navPoint id="num_245" playOrder="245">
+        <navLabel>
+          <text>Chapter 1: One Small Thing</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_246" playOrder="246">
+        <navLabel>
+          <text>Chapter 2: Reflections</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_247" playOrder="247">
+        <navLabel>
+          <text>Chapter 3: I'll Be Your Mirror</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_248" playOrder="248">
+        <navLabel>
+          <text>Chapter 4: The One Where Twilight Sparkle Dies</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_249" playOrder="249">
+        <navLabel>
+          <text>Chapter 5: Rhapsody in Blue</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_250" playOrder="250">
+        <navLabel>
+          <text>Chapter 6: My Past Is Not Today</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_251" playOrder="251">
+        <navLabel>
+          <text>Chapter 7: Dr Swann's Proposal</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_252" playOrder="252">
+        <navLabel>
+          <text>Chapter 8: Have You Heard, Pt 1</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_253" playOrder="253">
+        <navLabel>
+          <text>Chapter 9: The Voyage</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_254" playOrder="254">
+        <navLabel>
+          <text>Chapter 10: Have You Heard, Pt 2</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_255" playOrder="255">
+        <navLabel>
+          <text>Chapter 11: Endgame</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_256" playOrder="256">
+        <navLabel>
+          <text>Chapter 12: Both Sides Now</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_257" playOrder="257">
+        <navLabel>
+          <text>Chapter 13: Who Lives Who Dies Who Tells Your Story</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_258" playOrder="258">
+        <navLabel>
+          <text>Chapter 14: Notes of Confusion</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_259" playOrder="259">
+        <navLabel>
+          <text>Chapter 15: Liberate Tutemet Ex Inferis</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_260" playOrder="260">
+        <navLabel>
+          <text>Chapter 16: Follow My Heart Into The Fire</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_261" playOrder="261">
+        <navLabel>
+          <text>Chapter 17: Everybody Wants to Rule the World</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_262" playOrder="262">
+        <navLabel>
+          <text>Chapter 18: Father and Son</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_263" playOrder="263">
+        <navLabel>
+          <text>Chapter 19: Spike, the Brave and Glorious</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_264" playOrder="264">
+        <navLabel>
+          <text>Chapter 20: Ragnarok</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_265" playOrder="265">
+        <navLabel>
+          <text>Chapter 21: Lampshading in Blue</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_266" playOrder="266">
+        <navLabel>
+          <text>Chapter 22: Friendship is Magic</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_267" playOrder="267">
+        <navLabel>
+          <text>Chapter 23: Rule 34</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_268" playOrder="268">
+        <navLabel>
+          <text>Chapter 24: A Funny Thing Happened</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_269" playOrder="269">
+        <navLabel>
+          <text>Chapter 25: The Decimation</text>
+        </navLabel>
+        <content src="43/15/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_270" playOrder="270">
+      <navLabel>
+        <text>44. Griphook and the Strong Form EMH</text>
+      </navLabel>
+      <content src="44/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_271" playOrder="271">
+      <navLabel>
+        <text>45. Hacking the Source of Magic</text>
+      </navLabel>
+      <content src="45/titlepage.xhtml"/>
+      <navPoint id="num_272" playOrder="272">
+        <navLabel>
+          <text>Chapter 1: Searching</text>
+        </navLabel>
+        <content src="45/29/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_273" playOrder="273">
+        <navLabel>
+          <text>Chapter 2: Finding</text>
+        </navLabel>
+        <content src="45/29/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_274" playOrder="274">
+        <navLabel>
+          <text>Chapter 3: Cheating Death</text>
+        </navLabel>
+        <content src="45/29/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_275" playOrder="275">
+        <navLabel>
+          <text>Chapter 4: Missing</text>
+        </navLabel>
+        <content src="45/29/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_276" playOrder="276">
+        <navLabel>
+          <text>Chapter 5: Going Backwards</text>
+        </navLabel>
+        <content src="45/29/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_277" playOrder="277">
+        <navLabel>
+          <text>Chapter 6: Why?</text>
+        </navLabel>
+        <content src="45/29/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_278" playOrder="278">
+        <navLabel>
+          <text>Chapter 7: After</text>
+        </navLabel>
+        <content src="45/29/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_279" playOrder="279">
+        <navLabel>
+          <text>Chapter 8: After (orig)</text>
+        </navLabel>
+        <content src="45/29/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_280" playOrder="280">
+      <navLabel>
+        <text>46. Harry Potter and the cryptographic key</text>
+      </navLabel>
+      <content src="46/titlepage.xhtml"/>
+      <navPoint id="num_281" playOrder="281">
+        <navLabel>
+          <text>Chapter 1: I feel a need for books</text>
+        </navLabel>
+        <content src="46/30/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_282" playOrder="282">
+        <navLabel>
+          <text>Chapter 2: Lord Voldemort for a better tomorrow</text>
+        </navLabel>
+        <content src="46/30/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_283" playOrder="283">
+        <navLabel>
+          <text>Chapter 3: My Precious</text>
+        </navLabel>
+        <content src="46/30/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_284" playOrder="284">
+        <navLabel>
+          <text>Chapter 4: A little experiment</text>
+        </navLabel>
+        <content src="46/30/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_285" playOrder="285">
+        <navLabel>
+          <text>Chapter 5: I want to become a better person</text>
+        </navLabel>
+        <content src="46/30/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_286" playOrder="286">
+        <navLabel>
+          <text>Chapter 6: Lack of experience</text>
+        </navLabel>
+        <content src="46/30/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_287" playOrder="287">
+        <navLabel>
+          <text>Chapter 7: I am not the heir to Ravenclaw</text>
+        </navLabel>
+        <content src="46/30/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_288" playOrder="288">
+        <navLabel>
+          <text>Chapter 8: The end of the world</text>
+        </navLabel>
+        <content src="46/30/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_289" playOrder="289">
+        <navLabel>
+          <text>Chapter 9: Bonus extra</text>
+        </navLabel>
+        <content src="46/30/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_290" playOrder="290">
+      <navLabel>
+        <text>47. Of Fakes Phoenixes and Friendship [missing]</text>
+      </navLabel>
+      <content src="47/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_291" playOrder="291">
+      <navLabel>
+        <text>48. Minds Names and Faces</text>
+      </navLabel>
+      <content src="48/titlepage.xhtml"/>
+      <navPoint id="num_292" playOrder="292">
+        <navLabel>
+          <text>Chapter 1: Something of a Riddle</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_293" playOrder="293">
+        <navLabel>
+          <text>Chapter 2: Playing Chess, Pt 1</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_294" playOrder="294">
+        <navLabel>
+          <text>Chapter 3: Playing Chess, Pt 2 — Pawn Takes Queen</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_295" playOrder="295">
+        <navLabel>
+          <text>Chapter 4: Playing Chess, Pt 3 — Cheating</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_296" playOrder="296">
+        <navLabel>
+          <text>Chapter 5: Smoke and Mirrors</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_297" playOrder="297">
+        <navLabel>
+          <text>Chapter 6: Interlude — Conspiracy Theories</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_298" playOrder="298">
+        <navLabel>
+          <text>Chapter 7: The Snake and the Dog</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_299" playOrder="299">
+        <navLabel>
+          <text>Chapter 8: Shut Up And Multiply, Pt 1</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_300" playOrder="300">
+        <navLabel>
+          <text>Chapter 9: Shut Up And Multiply, Pt 2</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_301" playOrder="301">
+        <navLabel>
+          <text>Chapter 10: Shut Up And Multiply, Pt 3</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_302" playOrder="302">
+        <navLabel>
+          <text>Chapter 11: Shut Up And Multiply — Aftermaths</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_303" playOrder="303">
+        <navLabel>
+          <text>Chapter 12: Endings and Beginnings</text>
+        </navLabel>
+        <content src="48/32/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_304" playOrder="304">
+      <navLabel>
+        <text>49. Nothing Left but Fire</text>
+      </navLabel>
+      <content src="49/titlepage.xhtml"/>
+      <navPoint id="num_305" playOrder="305">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="49/31/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_306" playOrder="306">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="49/31/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_307" playOrder="307">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="49/31/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_308" playOrder="308">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="49/31/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_309" playOrder="309">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="49/31/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_310" playOrder="310">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="49/31/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_311" playOrder="311">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="49/31/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_312" playOrder="312">
+        <navLabel>
+          <text>Chapter 8: Omake – Till Death Shall Fall</text>
+        </navLabel>
+        <content src="49/31/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_313" playOrder="313">
+      <navLabel>
+        <text>50. Alt Chapters 109-110 (Riddles Upon Riddles, Legacy of The Troll)</text>
+      </navLabel>
+      <content src="50/titlepage.xhtml"/>
+      <navPoint id="num_314" playOrder="314">
+        <navLabel>
+          <text>Chapter 109: The Truth, Pt 6 – Riddles Upon Riddles</text>
+        </navLabel>
+        <content src="50/33/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_315" playOrder="315">
+        <navLabel>
+          <text>Chapter 110: Legacy of The Troll</text>
+        </navLabel>
+        <content src="50/33/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_316" playOrder="316">
+      <navLabel>
+        <text>51. Still In(,) The Mirror</text>
+      </navLabel>
+      <content src="51/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_317" playOrder="317">
+      <navLabel>
+        <text>52. The Last Enemy</text>
+      </navLabel>
+      <content src="52/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_318" playOrder="318">
+      <navLabel>
+        <text>53. HPMoR the final exam</text>
+      </navLabel>
+      <content src="53/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_319" playOrder="319">
+      <navLabel>
+        <text>54. Exam Answer</text>
+      </navLabel>
+      <content src="54/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_320" playOrder="320">
+      <navLabel>
+        <text>55. Near Mode Far Mode</text>
+      </navLabel>
+      <content src="55/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_321" playOrder="321">
+      <navLabel>
+        <text>56. Harry Potter and the Nuclear Bomb</text>
+      </navLabel>
+      <content src="56/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_322" playOrder="322">
+      <navLabel>
+        <text>57. A Rational Response</text>
+      </navLabel>
+      <content src="57/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_323" playOrder="323">
+      <navLabel>
+        <text>58. Final Revision</text>
+      </navLabel>
+      <content src="58/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_324" playOrder="324">
+      <navLabel>
+        <text>59. Methods of Fictionality [missing]</text>
+      </navLabel>
+      <content src="59/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_325" playOrder="325">
+      <navLabel>
+        <text>60. Nonlinear Regression</text>
+      </navLabel>
+      <content src="60/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_326" playOrder="326">
+      <navLabel>
+        <text>61. Chapter 113 Exam Answers</text>
+      </navLabel>
+      <content src="61/titlepage.xhtml"/>
+      <navPoint id="num_327" playOrder="327">
+        <navLabel>
+          <text>Part 1</text>
+        </navLabel>
+        <content src="61/34/index_split_000.html"/>
+      </navPoint>
+      <navPoint id="num_328" playOrder="328">
+        <navLabel>
+          <text>Part 2</text>
+        </navLabel>
+        <content src="61/34/index_split_001.html"/>
+      </navPoint>
+      <navPoint id="num_329" playOrder="329">
+        <navLabel>
+          <text>Part 3</text>
+        </navLabel>
+        <content src="61/34/index_split_002.html"/>
+      </navPoint>
+      <navPoint id="num_330" playOrder="330">
+        <navLabel>
+          <text>Part 4</text>
+        </navLabel>
+        <content src="61/34/index_split_003.html"/>
+      </navPoint>
+      <navPoint id="num_331" playOrder="331">
+        <navLabel>
+          <text>Part 5</text>
+        </navLabel>
+        <content src="61/34/index_split_004.html"/>
+      </navPoint>
+      <navPoint id="num_332" playOrder="332">
+        <navLabel>
+          <text>Part 6</text>
+        </navLabel>
+        <content src="61/34/index_split_005.html"/>
+      </navPoint>
+      <navPoint id="num_333" playOrder="333">
+        <navLabel>
+          <text>Part 7</text>
+        </navLabel>
+        <content src="61/34/index_split_006.html"/>
+      </navPoint>
+      <navPoint id="num_334" playOrder="334">
+        <navLabel>
+          <text>Part 8</text>
+        </navLabel>
+        <content src="61/34/index_split_007.html"/>
+      </navPoint>
+      <navPoint id="num_335" playOrder="335">
+        <navLabel>
+          <text>Part 9</text>
+        </navLabel>
+        <content src="61/34/index_split_008.html"/>
+      </navPoint>
+      <navPoint id="num_336" playOrder="336">
+        <navLabel>
+          <text>Part 10</text>
+        </navLabel>
+        <content src="61/34/index_split_009.html"/>
+      </navPoint>
+      <navPoint id="num_337" playOrder="337">
+        <navLabel>
+          <text>Part 11</text>
+        </navLabel>
+        <content src="61/34/index_split_010.html"/>
+      </navPoint>
+      <navPoint id="num_338" playOrder="338">
+        <navLabel>
+          <text>Part 12</text>
+        </navLabel>
+        <content src="61/34/index_split_011.html"/>
+      </navPoint>
+      <navPoint id="num_339" playOrder="339">
+        <navLabel>
+          <text>Part 13</text>
+        </navLabel>
+        <content src="61/34/index_split_012.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_340" playOrder="340">
+      <navLabel>
+        <text>62. How HPMoR Should Have Ended</text>
+      </navLabel>
+      <content src="62/titlepage.xhtml"/>
+      <navPoint id="num_341" playOrder="341">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="62/35/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_342" playOrder="342">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="62/35/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_343" playOrder="343">
+      <navLabel>
+        <text>63. The Philosopher's Red Herring</text>
+      </navLabel>
+      <content src="63/titlepage.xhtml"/>
+      <navPoint id="num_344" playOrder="344">
+        <navLabel>
+          <text>Chapter 1: Prologue</text>
+        </navLabel>
+        <content src="63/24/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_345" playOrder="345">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="63/24/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_346" playOrder="346">
+      <navLabel>
+        <text>64. Revival</text>
+      </navLabel>
+      <content src="64/titlepage.xhtml"/>
+      <navPoint id="num_347" playOrder="347">
+        <navLabel>
+          <text>Chapter 1: The Bat Animagus</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_348" playOrder="348">
+        <navLabel>
+          <text>Chapter 2: The Unbelievable Night</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s2_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_349" playOrder="349">
+        <navLabel>
+          <text>Chapter 3: Choice</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_350" playOrder="350">
+        <navLabel>
+          <text>Chapter 4: Unexpected Result</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s4_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_351" playOrder="351">
+        <navLabel>
+          <text>Chapter 5: The First Revival</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_352" playOrder="352">
+        <navLabel>
+          <text>Chapter 6: Lucius Malofy</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s6_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_353" playOrder="353">
+        <navLabel>
+          <text>Chapter 7: The Screw-Ups</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_354" playOrder="354">
+        <navLabel>
+          <text>Chapter 8: Friendship of Slytherins</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s8_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_355" playOrder="355">
+        <navLabel>
+          <text>Chapter 9: Return of Father</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_356" playOrder="356">
+        <navLabel>
+          <text>Chapter 10: Secrets</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_357" playOrder="357">
+        <navLabel>
+          <text>Chapter 11: Meeting</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_358" playOrder="358">
+        <navLabel>
+          <text>Chapter 12: Lucius-Secrets and Knowledge</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_359" playOrder="359">
+        <navLabel>
+          <text>Chapter 13: Lucius-Justice</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_360" playOrder="360">
+        <navLabel>
+          <text>Chapter 14: Interlude</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s14_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_361" playOrder="361">
+        <navLabel>
+          <text>Chapter 15: Private Meeting</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_362" playOrder="362">
+        <navLabel>
+          <text>Chapter 16: Interlude, Draco</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_363" playOrder="363">
+        <navLabel>
+          <text>Chapter 17: Tests</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_364" playOrder="364">
+        <navLabel>
+          <text>Chapter 18: Answers</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s18_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_365" playOrder="365">
+        <navLabel>
+          <text>Chapter 19: The Disappeared Lord</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_366" playOrder="366">
+        <navLabel>
+          <text>Chapter 20: The Faithful Servent</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s20_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_367" playOrder="367">
+        <navLabel>
+          <text>Chapter 21: The New Godfather</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_368" playOrder="368">
+        <navLabel>
+          <text>Chapter 22: The Man of Many Names</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s22_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_369" playOrder="369">
+        <navLabel>
+          <text>Chapter 23: The Search, Pt I</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_370" playOrder="370">
+        <navLabel>
+          <text>Chapter 24: The Search, Pt II, Growing Up</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s24_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_371" playOrder="371">
+        <navLabel>
+          <text>Chapter 25: The Search, Pt III, To Be Nice</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_372" playOrder="372">
+        <navLabel>
+          <text>Chapter 26: The Search, Ex-Lord Malfoy</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s26_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_373" playOrder="373">
+        <navLabel>
+          <text>Chapter 27: The Search, Pt IV, Sacrifices</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_374" playOrder="374">
+        <navLabel>
+          <text>Chapter 28: Memory Charms</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s28_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_375" playOrder="375">
+        <navLabel>
+          <text>Chapter 29: Descendants Pt I, Tom Riddles</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_376" playOrder="376">
+        <navLabel>
+          <text>Chapter 30: Descendants Pt II, Little Draco</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+      <navPoint id="num_377" playOrder="377">
+        <navLabel>
+          <text>Chapter 31: Descendants Pt III, Lucius Malfoy</text>
+        </navLabel>
+        <content src="64/41/1/OEBPF/content/s31.xhtml"/>
+      </navPoint>
+      <navPoint id="num_378" playOrder="378">
+        <navLabel>
+          <text>Chapter 32: Descendants Pt IV, Severus Snape</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s1_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_379" playOrder="379">
+        <navLabel>
+          <text>Chapter 33: Classes Pt I, Food Safety</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_380" playOrder="380">
+        <navLabel>
+          <text>Chapter 34: Classes Pt II, Artificial Intelligence</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s3_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_381" playOrder="381">
+        <navLabel>
+          <text>Chapter 35: The True Return of Lord Salazar Slytherin</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_382" playOrder="382">
+        <navLabel>
+          <text>Chapter 36: The Bicentennial House-elf</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s5_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_383" playOrder="383">
+        <navLabel>
+          <text>Chapter 37: Nurmengard Pt I, German Minister of Magic</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_384" playOrder="384">
+        <navLabel>
+          <text>Chapter 38: Nurmengard Pt II, Lucius Malfoy</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s7_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_385" playOrder="385">
+        <navLabel>
+          <text>Chapter 39: Nurmengard Pt III, Gellert Grindelwald</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_386" playOrder="386">
+        <navLabel>
+          <text>Chapter 40: Nurmengard, Interlude, Message to Britain</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s9_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_387" playOrder="387">
+        <navLabel>
+          <text>Chapter 41: Nurmengard, Pt IV, Gellert Grindelwald</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s10_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_388" playOrder="388">
+        <navLabel>
+          <text>Chapter 42: Nurmengard, Interlude, Ukraine</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s11_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_389" playOrder="389">
+        <navLabel>
+          <text>Chapter 43: Nurmengard, Part V, Girl-Who-Revived</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s12_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_390" playOrder="390">
+        <navLabel>
+          <text>Chapter 44: Space Travel Pt I, Cheating</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s13_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_391" playOrder="391">
+        <navLabel>
+          <text>Chapter 45: Space Travel Pt II, Possibilities</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_392" playOrder="392">
+        <navLabel>
+          <text>Chapter 46: Space Travel Pt III, Lord Slytherin's Favorite Morning Radio</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s15_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_393" playOrder="393">
+        <navLabel>
+          <text>Chapter 47: Space Travel Pt IV, Biases of the Phoenix</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s16_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_394" playOrder="394">
+        <navLabel>
+          <text>Chapter 48: Space Travel Pt V, Power</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s17_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_395" playOrder="395">
+        <navLabel>
+          <text>Chapter 49: Space Travel Pt VI, Prisoner's Dilemma</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_396" playOrder="396">
+        <navLabel>
+          <text>Chapter 50: Space Travel Pt VII, Domestic Problems</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s19_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_397" playOrder="397">
+        <navLabel>
+          <text>Chapter 51: Space Travel Pt VIII, Bionics</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_398" playOrder="398">
+        <navLabel>
+          <text>Chapter 52: Space Travel Pt IX, PC or NPC?</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s21_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_399" playOrder="399">
+        <navLabel>
+          <text>Chapter 53: Space Travel Pt X, Expansion</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_400" playOrder="400">
+        <navLabel>
+          <text>Chapter 54: Space Travel Pt XI, Loyalty Problem</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s23_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_401" playOrder="401">
+        <navLabel>
+          <text>Chapter 55: Space Travel Pt XII, Abilities of Phoenixes</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_402" playOrder="402">
+        <navLabel>
+          <text>Chapter 56: Space Travel Pt XIII, Draco's Position</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s25_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_403" playOrder="403">
+        <navLabel>
+          <text>Chapter 57: Space Travel Pt XIV, Time Pressure I</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_404" playOrder="404">
+        <navLabel>
+          <text>Chapter 58: SpaceTravel Pt XV, Time Pressure II</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s27_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_405" playOrder="405">
+        <navLabel>
+          <text>Chapter 59: Space Travel Pt XVI, Emotional Choices</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_406" playOrder="406">
+        <navLabel>
+          <text>Chapter 60: Space Travel Pt XVII, Interdicts I</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s29_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_407" playOrder="407">
+        <navLabel>
+          <text>Chapter 61 Space Travel Pt XVIII, Interdicts II</text>
+        </navLabel>
+        <content src="64/41/2/OEBPF/content/s30_u1.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_408" playOrder="408">
+      <navLabel>
+        <text>65. Harry Potter and the Irrational Odyssey</text>
+      </navLabel>
+      <content src="65/titlepage.xhtml"/>
+      <navPoint id="num_409" playOrder="409">
+        <navLabel>
+          <text>Chapter 1: A Vertical Velocity of Zero</text>
+        </navLabel>
+        <content src="65/25/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_410" playOrder="410">
+        <navLabel>
+          <text>Chapter 2: The Truth, Part 6, A Riddle Reiterated</text>
+        </navLabel>
+        <content src="65/25/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_411" playOrder="411">
+      <navLabel>
+        <text>66. Stephen and the Plans of Harry James Potter-Evans-Verres</text>
+      </navLabel>
+      <content src="66/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_412" playOrder="412">
+      <navLabel>
+        <text>67. Harry Potter and the Methods of Self-Modification</text>
+      </navLabel>
+      <content src="67/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_413" playOrder="413">
+      <navLabel>
+        <text>68. You Said No Kissing</text>
+      </navLabel>
+      <content src="68/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_414" playOrder="414">
+      <navLabel>
+        <text>69. Don't Think of a Strangelet</text>
+      </navLabel>
+      <content src="69/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_415" playOrder="415">
+      <navLabel>
+        <text>70. The Universe is an Optimisation Problem</text>
+      </navLabel>
+      <content src="70/titlepage.xhtml"/>
+      <navPoint id="num_416" playOrder="416">
+        <navLabel>
+          <text>Chapter 1: The Cup</text>
+        </navLabel>
+        <content src="70/29/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_417" playOrder="417">
+        <navLabel>
+          <text>Chapter 2: A Floating Priest And An Owl</text>
+        </navLabel>
+        <content src="70/29/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_418" playOrder="418">
+        <navLabel>
+          <text>Chapter 3: Puddlejumping</text>
+        </navLabel>
+        <content src="70/29/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_419" playOrder="419">
+        <navLabel>
+          <text>Chapter 4: A Really Big Supermarket</text>
+        </navLabel>
+        <content src="70/29/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_420" playOrder="420">
+        <navLabel>
+          <text>Chapter 5: A Cassette</text>
+        </navLabel>
+        <content src="70/29/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_421" playOrder="421">
+        <navLabel>
+          <text>Chapter 6: A Painting Inside A Painting</text>
+        </navLabel>
+        <content src="70/29/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_422" playOrder="422">
+        <navLabel>
+          <text>Chapter 7: The Secret Society Secret Society</text>
+        </navLabel>
+        <content src="70/29/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_423" playOrder="423">
+      <navLabel>
+        <text>71. Hermione Granger and the Other Side-Effect</text>
+      </navLabel>
+      <content src="71/titlepage.xhtml"/>
+      <navPoint id="num_424" playOrder="424">
+        <navLabel>
+          <text>Chapter 1: Side Effects May Include Swelling</text>
+        </navLabel>
+        <content src="71/43/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_425" playOrder="425">
+        <navLabel>
+          <text>Chapter 2: A Curious Proposal</text>
+        </navLabel>
+        <content src="71/43/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_426" playOrder="426">
+      <navLabel>
+        <text>72. Ginny Weasley and the Methods of Rationality</text>
+      </navLabel>
+      <content src="72/titlepage.xhtml"/>
+      <navPoint id="num_427" playOrder="427">
+        <navLabel>
+          <text>Chapter 1: A Day of Rather High Probability</text>
+        </navLabel>
+        <content src="72/30/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_428" playOrder="428">
+        <navLabel>
+          <text>Chapter 2: Nerve Issues</text>
+        </navLabel>
+        <content src="72/30/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_429" playOrder="429">
+        <navLabel>
+          <text>Chapter 3: Shock Therapy</text>
+        </navLabel>
+        <content src="72/30/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_430" playOrder="430">
+        <navLabel>
+          <text>Chapter 4: Mirroring</text>
+        </navLabel>
+        <content src="72/30/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_431" playOrder="431">
+        <navLabel>
+          <text>Chapter 5: Opportunity Costs</text>
+        </navLabel>
+        <content src="72/30/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_432" playOrder="432">
+        <navLabel>
+          <text>Chapter 6: The Defence Professor Pt 1</text>
+        </navLabel>
+        <content src="72/30/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_433" playOrder="433">
+        <navLabel>
+          <text>Chapter 7: The Defence Professor Pt 2</text>
+        </navLabel>
+        <content src="72/30/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_434" playOrder="434">
+      <navLabel>
+        <text>73. Harry Potter and the European Empire</text>
+      </navLabel>
+      <content src="73/titlepage.xhtml"/>
+      <navPoint id="num_435" playOrder="435">
+        <navLabel>
+          <text>Chapter 1: Not One Minute More</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_436" playOrder="436">
+        <navLabel>
+          <text>Chapter 2: Merlin Hospital</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_437" playOrder="437">
+        <navLabel>
+          <text>Chapter 3: Platform 9 3/4</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_438" playOrder="438">
+        <navLabel>
+          <text>Chapter 4: Hogwarts, Pt 1</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_439" playOrder="439">
+        <navLabel>
+          <text>Chapter 5: Regents</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_440" playOrder="440">
+        <navLabel>
+          <text>Chapter 6: Backdoor Deals</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_441" playOrder="441">
+        <navLabel>
+          <text>Chapter 7: Hogwarts Pt 2</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_442" playOrder="442">
+        <navLabel>
+          <text>Chapter 8: The First Battle</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_443" playOrder="443">
+        <navLabel>
+          <text>Chapter 9: PMC</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_444" playOrder="444">
+        <navLabel>
+          <text>Chapter 10: Vienna, Pt 1</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_445" playOrder="445">
+        <navLabel>
+          <text>Chapter 11: Vienna, Pt 2</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_446" playOrder="446">
+        <navLabel>
+          <text>Chapter 12: The ICW</text>
+        </navLabel>
+        <content src="73/31/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_447" playOrder="447">
+      <navLabel>
+        <text>74. On the Continuity of Consciousness</text>
+      </navLabel>
+      <content src="74/titlepage.xhtml"/>
+      <navPoint id="num_448" playOrder="448">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s1_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_449" playOrder="449">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s2_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_450" playOrder="450">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s3_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_451" playOrder="451">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s4_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_452" playOrder="452">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s5_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_453" playOrder="453">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s6_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_454" playOrder="454">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s7_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_455" playOrder="455">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s8_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_456" playOrder="456">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s9_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_457" playOrder="457">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s10_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_458" playOrder="458">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s11_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_459" playOrder="459">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s12_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_460" playOrder="460">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="74/32/OEBPF/content/s13_split_000.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_461" playOrder="461">
+      <navLabel>
+        <text>75. Hermione Granger and the Price of the Phoenix</text>
+      </navLabel>
+      <content src="75/titlepage.xhtml"/>
+      <navPoint id="num_462" playOrder="462">
+        <navLabel>
+          <text>Chapter 1: Thread Level: Unknown</text>
+        </navLabel>
+        <content src="75/33/OEBPF/content/s1_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_463" playOrder="463">
+        <navLabel>
+          <text>Chapter 2: Slytherins and Slytherins</text>
+        </navLabel>
+        <content src="75/33/OEBPF/content/s2_split_000.xhtml"/>
+      </navPoint>
+      <navPoint id="num_464" playOrder="464">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="75/33/OEBPF/content/s3_split_000.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_465" playOrder="465">
+      <navLabel>
+        <text>76. Harry Potter and the Memories of a Sociopath</text>
+      </navLabel>
+      <content src="76/titlepage.xhtml"/>
+      <navPoint id="num_466" playOrder="466">
+        <navLabel>
+          <text>Chapter 1: Secrets</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_467" playOrder="467">
+        <navLabel>
+          <text>Chapter 2: Zimbardo's Methodology Was Flawed, Pt 1</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_468" playOrder="468">
+        <navLabel>
+          <text>Chapter 3: Zimbardo's Methodology Was Flawed, Pt 2</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_469" playOrder="469">
+        <navLabel>
+          <text>Chapter 4: Zimbardo's Methodology Was Flawed, Pt 3</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_470" playOrder="470">
+        <navLabel>
+          <text>Chapter 5: Azkaban 2.0</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_471" playOrder="471">
+        <navLabel>
+          <text>Chapter 6: The Philosophy of Science of Magic</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_472" playOrder="472">
+        <navLabel>
+          <text>Chapter 7: Disregard for Social Norms</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_473" playOrder="473">
+        <navLabel>
+          <text>Chapter 8: Planning Ahead</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_474" playOrder="474">
+        <navLabel>
+          <text>Chapter 9: Philosophy (Omake)</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_475" playOrder="475">
+        <navLabel>
+          <text>Chapter 10: Defense and Offense</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_476" playOrder="476">
+        <navLabel>
+          <text>Chapter 11: Winning and Losing</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_477" playOrder="477">
+        <navLabel>
+          <text>Chapter 12: One Level Higher</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_478" playOrder="478">
+        <navLabel>
+          <text>Chapter 13: Shell Game</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_479" playOrder="479">
+        <navLabel>
+          <text>Chapter 14: More Questions Than Answers</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_480" playOrder="480">
+        <navLabel>
+          <text>Chapter 15: When Bellatrix Attack</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_481" playOrder="481">
+        <navLabel>
+          <text>Chapter 16: HPMoR Origins: Reflections on Atlantis (Omake)</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_482" playOrder="482">
+        <navLabel>
+          <text>Chapter 17: Bonus (Omake)</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_483" playOrder="483">
+        <navLabel>
+          <text>Chapter 18: Recklessness, Pt 1</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_484" playOrder="484">
+        <navLabel>
+          <text>Chapter 19: Recklessness, Pt 2</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_485" playOrder="485">
+        <navLabel>
+          <text>Chapter 20: Investigation</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_486" playOrder="486">
+        <navLabel>
+          <text>Chapter 21: Hunting Dark Lords</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_487" playOrder="487">
+        <navLabel>
+          <text>Chapter 22: Conclusion</text>
+        </navLabel>
+        <content src="76/34/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_488" playOrder="488">
+      <navLabel>
+        <text>77. Draco Malfoy and the Practice of Rationality</text>
+      </navLabel>
+      <content src="77/titlepage.xhtml"/>
+      <navPoint id="num_489" playOrder="489">
+        <navLabel>
+          <text>Chapter 1: Social Gatherings</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_490" playOrder="490">
+        <navLabel>
+          <text>Chapter 2: Social Gatherings, Pt 2</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_491" playOrder="491">
+        <navLabel>
+          <text>Chapter 3: Correspondence</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_492" playOrder="492">
+        <navLabel>
+          <text>Chapter 4: Strangers on a Train</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_493" playOrder="493">
+        <navLabel>
+          <text>Chapter 5: Strangers on a Train, Pt 2</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_494" playOrder="494">
+        <navLabel>
+          <text>Chapter 6: Efficient Sorting Algorithms</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_495" playOrder="495">
+        <navLabel>
+          <text>Chapter 7: Unknown Unknowns, Pt 1</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_496" playOrder="496">
+        <navLabel>
+          <text>Chapter 8: Unknown Unknowns, Pt 2</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_497" playOrder="497">
+        <navLabel>
+          <text>Chapter 9: Known Unknowns</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_498" playOrder="498">
+        <navLabel>
+          <text>Chapter 10: Defence and Offence, Pt 1</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_499" playOrder="499">
+        <navLabel>
+          <text>Chapter 11: Defence and Offence, Pt 2</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s11_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_500" playOrder="500">
+        <navLabel>
+          <text>Chapter 12: Defence and Offence, Pt 3</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s12_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_501" playOrder="501">
+        <navLabel>
+          <text>Chapter 13: Bold Thinking, Pt 1</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s13_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_502" playOrder="502">
+        <navLabel>
+          <text>Chapter 14: Bold Thinking, Pt 2</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s14_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_503" playOrder="503">
+        <navLabel>
+          <text>Chapter 15: Chess</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s15_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_504" playOrder="504">
+        <navLabel>
+          <text>Chapter 16: Bold Thinking, Pt 3</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s16_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_505" playOrder="505">
+        <navLabel>
+          <text>Chapter 17: The Halo Effect</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s17_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_506" playOrder="506">
+        <navLabel>
+          <text>Chapter 18: Asymmetric Warfare, Pt 1</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s18_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_507" playOrder="507">
+        <navLabel>
+          <text>Chapter 19: Asymmetric Warfare, Pt 2</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s19_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_508" playOrder="508">
+        <navLabel>
+          <text>Chapter 20: Acting Headmistress</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s20_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_509" playOrder="509">
+        <navLabel>
+          <text>Chapter 21: October</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s21_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_510" playOrder="510">
+        <navLabel>
+          <text>Chapter 22: Reflections, Pt 3</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s22_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_511" playOrder="511">
+        <navLabel>
+          <text>Chapter 23: Correspondence, Pt 2</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s23_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_512" playOrder="512">
+        <navLabel>
+          <text>Chapter 24: Asymmetric Warfare, Pt 3</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s24_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_513" playOrder="513">
+        <navLabel>
+          <text>Chapter 25: Security Conscious, Pt 1</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s25_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_514" playOrder="514">
+        <navLabel>
+          <text>Chapter 26: Security Conscious, Pt 2</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s26_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_515" playOrder="515">
+        <navLabel>
+          <text>Chapter 27: Problem Solving</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_516" playOrder="516">
+        <navLabel>
+          <text>Chapter 28: Holiday Shopping</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s28_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_517" playOrder="517">
+        <navLabel>
+          <text>Chapter 29: The Date, Pt 1</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s29_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_518" playOrder="518">
+        <navLabel>
+          <text>Chapter 30: The Date, Pt 2</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s30_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_519" playOrder="519">
+        <navLabel>
+          <text>Chapter 31: The Date, Pt 3</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s31_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_520" playOrder="520">
+        <navLabel>
+          <text>Chapter 32: Portkeys, Trains and Carriages, Pt 1</text>
+        </navLabel>
+        <content src="77/45/1/OEBPF/content/s32_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_521" playOrder="521">
+        <navLabel>
+          <text>Chapter 33: Portkeys, Trains and Carriages, Pt 2</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s1_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_522" playOrder="522">
+        <navLabel>
+          <text>Chapter 34: Wargames, Pt 1</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s2_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_523" playOrder="523">
+        <navLabel>
+          <text>Chapter 35: Wargames, Pt 2 (Purple and Green)</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s3_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_524" playOrder="524">
+        <navLabel>
+          <text>Chapter 36: Too Much Information</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s4_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_525" playOrder="525">
+        <navLabel>
+          <text>Chapter 37: Wargames, Pt 3</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s5_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_526" playOrder="526">
+        <navLabel>
+          <text>Chapter 38: Wargames, Pt 4</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s6_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_527" playOrder="527">
+        <navLabel>
+          <text>Chapter 39: Wargames, Pt 5</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s7_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_528" playOrder="528">
+        <navLabel>
+          <text>Chapter 40: Chess and other Wargames</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s8_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_529" playOrder="529">
+        <navLabel>
+          <text>Chapter 41: Wargames, Pt 6, Casualties of War</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s9_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_530" playOrder="530">
+        <navLabel>
+          <text>Chapter 42: Surprise</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s10_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_531" playOrder="531">
+        <navLabel>
+          <text>Chapter 43: Pressure</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_532" playOrder="532">
+        <navLabel>
+          <text>Chapter 44: Release</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_533" playOrder="533">
+        <navLabel>
+          <text>Chapter 45: January</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_534" playOrder="534">
+        <navLabel>
+          <text>Chapter 46: Reflections, Pt 4</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_535" playOrder="535">
+        <navLabel>
+          <text>Chapter 47: Wargames, Pt 7</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_536" playOrder="536">
+        <navLabel>
+          <text>Chapter 48: Wargames, Pt 8</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_537" playOrder="537">
+        <navLabel>
+          <text>Chapter 49: Contingencies</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_538" playOrder="538">
+        <navLabel>
+          <text>Chapter 50: Thirty-Four Years Later</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_539" playOrder="539">
+        <navLabel>
+          <text>Chapter 51: Good Words</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_540" playOrder="540">
+        <navLabel>
+          <text>Chapter 52: Fully Awake</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_541" playOrder="541">
+        <navLabel>
+          <text>Chapter 53: Bluff and Double Bluff, Pt 1</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_542" playOrder="542">
+        <navLabel>
+          <text>Chapter 54: Bluff and Double Bluff, Pt 2</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_543" playOrder="543">
+        <navLabel>
+          <text>Chapter 55: Bluff and Double Bluff, Pt 3</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_544" playOrder="544">
+        <navLabel>
+          <text>Chapter 56: Bluff and Double Bluff, Pt 4</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_545" playOrder="545">
+        <navLabel>
+          <text>Chapter 57: Asking the Right Questions</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_546" playOrder="546">
+        <navLabel>
+          <text>Chapter 58: Bluff and Double Bluff, Pt 5</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_547" playOrder="547">
+        <navLabel>
+          <text>Chapter 59: Testament</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s27_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_548" playOrder="548">
+        <navLabel>
+          <text>Chapter 60: Moving Forward</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_549" playOrder="549">
+        <navLabel>
+          <text>Chapter 61: Beginnings</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_550" playOrder="550">
+        <navLabel>
+          <text>Chapter 62: Thirty-Four Years Later, Pt 2</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+      <navPoint id="num_551" playOrder="551">
+        <navLabel>
+          <text>Chapter 63: Destroying the Legend, Epilogue Pt 1</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s31.xhtml"/>
+      </navPoint>
+      <navPoint id="num_552" playOrder="552">
+        <navLabel>
+          <text>Chapter 64: Gates of Ivory and Horn, Epilogue Pt 2</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s32.xhtml"/>
+      </navPoint>
+      <navPoint id="num_553" playOrder="553">
+        <navLabel>
+          <text>Chapter 65: The Marriage of Heaven &amp; Hell, Epilogue Pt 3</text>
+        </navLabel>
+        <content src="77/45/2/OEBPF/content/s33.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_554" playOrder="554">
+      <navLabel>
+        <text>78. Ginny Weasley and the Sealed Intelligence</text>
+      </navLabel>
+      <content src="78/titlepage.xhtml"/>
+      <navPoint id="num_555" playOrder="555">
+        <navLabel>
+          <text>Chapter 1: Different Priors</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_556" playOrder="556">
+        <navLabel>
+          <text>Chapter 2: Pareidolia</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_557" playOrder="557">
+        <navLabel>
+          <text>Chapter 3: The Halo Effect</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_558" playOrder="558">
+        <navLabel>
+          <text>Chapter 4: Untested Solutions</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_559" playOrder="559">
+        <navLabel>
+          <text>Chapter 5: Dis-</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_560" playOrder="560">
+        <navLabel>
+          <text>Chapter 6: Garbage In, Garbage Out</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_561" playOrder="561">
+        <navLabel>
+          <text>Chapter 7: Tool Use</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_562" playOrder="562">
+        <navLabel>
+          <text>Chapter 8: Cult-Like Behavior</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_563" playOrder="563">
+        <navLabel>
+          <text>Chapter 9: Radiocarbon Dating</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_564" playOrder="564">
+        <navLabel>
+          <text>Chapter 10: Escape Sequence</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_565" playOrder="565">
+        <navLabel>
+          <text>Chapter 11: Master-Slave Configuration</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_566" playOrder="566">
+        <navLabel>
+          <text>Chapter 12: Blackmail in Game Theory, Pt 1</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_567" playOrder="567">
+        <navLabel>
+          <text>Chapter 13: Blackmail in Game Theory, Pt 2</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_568" playOrder="568">
+        <navLabel>
+          <text>Chapter 14: Blackmail in Game Theory, Pt 3</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_569" playOrder="569">
+        <navLabel>
+          <text>Chapter 15: Blackmail in Game Theory, Aftermath</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_570" playOrder="570">
+        <navLabel>
+          <text>Chapter 16: Programming</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_571" playOrder="571">
+        <navLabel>
+          <text>Chapter 17: Dark Triad</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_572" playOrder="572">
+        <navLabel>
+          <text>Chapter 18: Mysteries, Pt 1</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_573" playOrder="573">
+        <navLabel>
+          <text>Chapter 19: Mysteries, Pt 2</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_574" playOrder="574">
+        <navLabel>
+          <text>Chapter 20: Involuntary Cryopreservation</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_575" playOrder="575">
+        <navLabel>
+          <text>Chapter 21: Utilitarian Priorities Again</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_576" playOrder="576">
+        <navLabel>
+          <text>Chapter 22: The Problem Of Suicide</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_577" playOrder="577">
+        <navLabel>
+          <text>Chapter 23: Amorphous Confusion</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_578" playOrder="578">
+        <navLabel>
+          <text>Chapter 24: Pax Romana</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_579" playOrder="579">
+        <navLabel>
+          <text>Chapter 25: Occam's Razor, Pt 1</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_580" playOrder="580">
+        <navLabel>
+          <text>Chapter 26: Occam's Razor, Pt 2</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_581" playOrder="581">
+        <navLabel>
+          <text>Chapter 27: Occam's Razor, Pt 3</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_582" playOrder="582">
+        <navLabel>
+          <text>Chapter 28: Occam's Razor, Pt 4</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_583" playOrder="583">
+        <navLabel>
+          <text>Chapter 29: Autonomy</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_584" playOrder="584">
+        <navLabel>
+          <text>Chapter 30: Standing on the Shoulders of Giants, Pt 1</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+      <navPoint id="num_585" playOrder="585">
+        <navLabel>
+          <text>Chapter 31: Standing on the Shoulders of Giants, Pt 2</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s31.xhtml"/>
+      </navPoint>
+      <navPoint id="num_586" playOrder="586">
+        <navLabel>
+          <text>Chapter 32: FOOM</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s32.xhtml"/>
+      </navPoint>
+      <navPoint id="num_587" playOrder="587">
+        <navLabel>
+          <text>Chapter 33: Dangerous Knowledge</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s33.xhtml"/>
+      </navPoint>
+      <navPoint id="num_588" playOrder="588">
+        <navLabel>
+          <text>Chapter 34: Philip Zimbardo</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s34.xhtml"/>
+      </navPoint>
+      <navPoint id="num_589" playOrder="589">
+        <navLabel>
+          <text>Chapter 35: Omake &amp; Epilogue</text>
+        </navLabel>
+        <content src="78/39/OEBPF/content/s35.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_590" playOrder="590">
+      <navLabel>
+        <text>79. Ginny Weasley and the Sealed Intelligence, Chapter 7: HiSHE</text>
+      </navLabel>
+      <content src="79/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_591" playOrder="591">
+      <navLabel>
+        <text>80. Sirius Black and the Prisoner's Dilemma</text>
+      </navLabel>
+      <content src="80/titlepage.xhtml"/>
+      <navPoint id="num_592" playOrder="592">
+        <navLabel>
+          <text>Chapter 1: Prologue, The Butterfly Effect</text>
+        </navLabel>
+        <content src="80/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_593" playOrder="593">
+        <navLabel>
+          <text>Chapter 2: Dissimulation, Pt 1</text>
+        </navLabel>
+        <content src="80/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_594" playOrder="594">
+        <navLabel>
+          <text>Chapter 3: Dissimulation, Pt II, Sufficiently Accurate Simulations</text>
+        </navLabel>
+        <content src="80/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_595" playOrder="595">
+        <navLabel>
+          <text>Chapter 4: Foreground and Background</text>
+        </navLabel>
+        <content src="80/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_596" playOrder="596">
+        <navLabel>
+          <text>Chapter 5: Re-entry</text>
+        </navLabel>
+        <content src="80/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_597" playOrder="597">
+      <navLabel>
+        <text>81. Dennis and the Academy</text>
+      </navLabel>
+      <content src="81/titlepage.xhtml"/>
+      <navPoint id="num_598" playOrder="598">
+        <navLabel>
+          <text>Chapter 0: Introduction</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_599" playOrder="599">
+        <navLabel>
+          <text>Chapter 1: Photography</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_600" playOrder="600">
+        <navLabel>
+          <text>Chapter 2: The Letter</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_601" playOrder="601">
+        <navLabel>
+          <text>Chapter 3: Fixus Everythingus</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_602" playOrder="602">
+        <navLabel>
+          <text>Chapter 4: Luna</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_603" playOrder="603">
+        <navLabel>
+          <text>Chapter 5: Arrival</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_604" playOrder="604">
+        <navLabel>
+          <text>Chapter 6: Welcoming Feast</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_605" playOrder="605">
+        <navLabel>
+          <text>Chapter 7: Life at Hogwarts</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_606" playOrder="606">
+        <navLabel>
+          <text>Chapter 8: Chaos Club</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_607" playOrder="607">
+        <navLabel>
+          <text>Chapter 9: When Luna Left</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_608" playOrder="608">
+        <navLabel>
+          <text>Chapter 10: The Proliferation of Clubs</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_609" playOrder="609">
+        <navLabel>
+          <text>Chapter 11: Homecomings</text>
+        </navLabel>
+        <content src="81/38/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_610" playOrder="610">
+      <navLabel>
+        <text>82. Harry Potter and the Order of Chaos</text>
+      </navLabel>
+      <content src="82/titlepage.xhtml"/>
+      <navPoint id="num_611" playOrder="611">
+        <navLabel>
+          <text>Chapter 1: Quietude</text>
+        </navLabel>
+        <content src="82/37/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_612" playOrder="612">
+        <navLabel>
+          <text>Chapter 2: Error Propagation</text>
+        </navLabel>
+        <content src="82/37/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_613" playOrder="613">
+        <navLabel>
+          <text>Chapter 3: Reasonable Doubt</text>
+        </navLabel>
+        <content src="82/37/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_614" playOrder="614">
+      <navLabel>
+        <text>83. Orders of Magnitude</text>
+      </navLabel>
+      <content src="83/titlepage.xhtml"/>
+      <navPoint id="num_615" playOrder="615">
+        <navLabel>
+          <text>Chapter -1: Prologue, Strange Loops</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_616" playOrder="616">
+        <navLabel>
+          <text>Chapter 0: Minor Fall, Major Lift</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_617" playOrder="617">
+        <navLabel>
+          <text>Chapter 1: Put Your Little Hand in Mine</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_618" playOrder="618">
+        <navLabel>
+          <text>Chapter 2: The Goat and the Ram</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_619" playOrder="619">
+        <navLabel>
+          <text>Chapter 3: The Fall</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_620" playOrder="620">
+        <navLabel>
+          <text>Chapter 4: Pure Imagination</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_621" playOrder="621">
+        <navLabel>
+          <text>Chapter 5: Rosencrantz and Guildenstern</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_622" playOrder="622">
+        <navLabel>
+          <text>Chapter 6: Cups and Wands</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_623" playOrder="623">
+        <navLabel>
+          <text>Chapter 7: Egeusly Stare</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_624" playOrder="624">
+        <navLabel>
+          <text>Chapter 8: The Sudden Stop</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_625" playOrder="625">
+        <navLabel>
+          <text>Chapter 9: The Transmigration</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_626" playOrder="626">
+        <navLabel>
+          <text>Chapter 10: I Love The Way You Lie Pt 2</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_627" playOrder="627">
+        <navLabel>
+          <text>Chapter 10 3/4: Omake, Trump Card</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_628" playOrder="628">
+        <navLabel>
+          <text>Chapter 11: Things Fall Apart, The Center Cannot Hold</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_629" playOrder="629">
+        <navLabel>
+          <text>Chapter 12: Prelude, The Battle of Hogwarts</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_630" playOrder="630">
+        <navLabel>
+          <text>Chapter 13: The Battle of Hogwarts</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_631" playOrder="631">
+        <navLabel>
+          <text>Chapter 14: Beautiful Lost Nebula</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_632" playOrder="632">
+        <navLabel>
+          <text>Chapter 15: The Walrus Was Paul</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_633" playOrder="633">
+        <navLabel>
+          <text>Chapter 16: Huis Clos</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_634" playOrder="634">
+        <navLabel>
+          <text>Chapter 17: Mad World</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_635" playOrder="635">
+        <navLabel>
+          <text>Chapter 18: Ordinary World</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_636" playOrder="636">
+        <navLabel>
+          <text>Chapter 19: A Song For You</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_637" playOrder="637">
+        <navLabel>
+          <text>Chapter 20: Ms. Phaethon</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_638" playOrder="638">
+        <navLabel>
+          <text>Chapter 21: A Million Same</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_639" playOrder="639">
+        <navLabel>
+          <text>Chapter 22: The Tragedy of Light</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_640" playOrder="640">
+        <navLabel>
+          <text>Chapter 23: Saturn Ascends</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_641" playOrder="641">
+        <navLabel>
+          <text>Chapter 24: The Fault in Our Stars</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_642" playOrder="642">
+        <navLabel>
+          <text>Chapter 25: Something to Protect: Bellatrix Black</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_643" playOrder="643">
+        <navLabel>
+          <text>Chapter 26: Will We Die, Just a Little?</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_644" playOrder="644">
+        <navLabel>
+          <text>Chapter 27: Infernal Galop</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+      <navPoint id="num_645" playOrder="645">
+        <navLabel>
+          <text>Chapter 28: If Only In My Dreams</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s31.xhtml"/>
+      </navPoint>
+      <navPoint id="num_646" playOrder="646">
+        <navLabel>
+          <text>Chapter 29: Crab Canon</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s32.xhtml"/>
+      </navPoint>
+      <navPoint id="num_647" playOrder="647">
+        <navLabel>
+          <text>Chapter 30: The Day After Tomorrow</text>
+        </navLabel>
+        <content src="83/37/OEBPF/content/s33.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_648" playOrder="648">
+      <navLabel>
+        <text>84. Significant Digits</text>
+      </navLabel>
+      <content src="84/titlepage.xhtml"/>
+      <navPoint id="num_649" playOrder="649">
+        <navLabel>
+          <text>Chapter 1: Frontloading Mysteries</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_650" playOrder="650">
+        <navLabel>
+          <text>Chapter 2: Buffering Conflicts</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s2_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_651" playOrder="651">
+        <navLabel>
+          <text>Chapter 3: Resolving Differences</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_652" playOrder="652">
+        <navLabel>
+          <text>Chapter 4: Established Patterns' Predictive Value</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_653" playOrder="653">
+        <navLabel>
+          <text>Chapter 5: A Matter of Perspective</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s5_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_654" playOrder="654">
+        <navLabel>
+          <text>Chapter 6: George Jaxon</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_655" playOrder="655">
+        <navLabel>
+          <text>Chapter 7: Aitiai, Diaphorai, and Prophasis</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_656" playOrder="656">
+        <navLabel>
+          <text>Chapter 8: Morse Four</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_657" playOrder="657">
+        <navLabel>
+          <text>Chapter 9: Boxes</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s9_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_658" playOrder="658">
+        <navLabel>
+          <text>Chapter 10: What Is Beautiful Is Good</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_659" playOrder="659">
+        <navLabel>
+          <text>Chapter 11: Bonus: Goblins</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s11_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_660" playOrder="660">
+        <navLabel>
+          <text>Chapter 12: Any Advantage</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_661" playOrder="661">
+        <navLabel>
+          <text>Chapter 13: Bonus: War</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s13_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_662" playOrder="662">
+        <navLabel>
+          <text>Chapter 14: Opposition</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_663" playOrder="663">
+        <navLabel>
+          <text>Chapter 15: Pip's Day Out</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s15_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_664" playOrder="664">
+        <navLabel>
+          <text>Chapter 16: Azkaban</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_665" playOrder="665">
+        <navLabel>
+          <text>Chapter 17: Brute Existent</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_666" playOrder="666">
+        <navLabel>
+          <text>Chapter 18: Protagonists</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_667" playOrder="667">
+        <navLabel>
+          <text>Chapter 19: Taking Flight</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s19_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_668" playOrder="668">
+        <navLabel>
+          <text>Chapter 20: Contra</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_669" playOrder="669">
+        <navLabel>
+          <text>Chapter 21: Bonus: Shichinin</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_670" playOrder="670">
+        <navLabel>
+          <text>Chapter 22: Gholas</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_671" playOrder="671">
+        <navLabel>
+          <text>Chapter 23: Reproduction in Miniature</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_672" playOrder="672">
+        <navLabel>
+          <text>Chapter 24: Opfer Müssen Gebracht Werden</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_673" playOrder="673">
+        <navLabel>
+          <text>Chapter 25: Press Pass</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_674" playOrder="674">
+        <navLabel>
+          <text>Chapter 26: Watchers</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_675" playOrder="675">
+        <navLabel>
+          <text>Chapter 27: Bonus, Digitzations</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_676" playOrder="676">
+        <navLabel>
+          <text>Chapter 28: Parabolas</text>
+        </navLabel>
+        <content src="84/44/1/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_677" playOrder="677">
+        <navLabel>
+          <text>Chapter 29: Purchasing Power</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s1_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_678" playOrder="678">
+        <navLabel>
+          <text>Chapter 30: Delta V Over Delta T</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_679" playOrder="679">
+        <navLabel>
+          <text>Chapter 31: Harry and the Centaurs Argue Philosophy</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s3_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_680" playOrder="680">
+        <navLabel>
+          <text>Chapter 32: Zero Sum</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s4_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_681" playOrder="681">
+        <navLabel>
+          <text>Chapter 33: Sudden But Inevitable Betrayal</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_682" playOrder="682">
+        <navLabel>
+          <text>Chapter 34: Intent</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s6_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_683" playOrder="683">
+        <navLabel>
+          <text>Chapter 35: Ekkyklema</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s7_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_684" playOrder="684">
+        <navLabel>
+          <text>Chapter 36: Esse Quam Videri</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s8_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_685" playOrder="685">
+        <navLabel>
+          <text>Chapter 37: Levels</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_686" playOrder="686">
+        <navLabel>
+          <text>Chapter 38: Walpurgisnacht</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s10_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_687" playOrder="687">
+        <navLabel>
+          <text>Chapter 39: Directoire Exécutif</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_688" playOrder="688">
+        <navLabel>
+          <text>Chapter 40: Science</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s12_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_689" playOrder="689">
+        <navLabel>
+          <text>Chapter 41: Mascon</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_690" playOrder="690">
+        <navLabel>
+          <text>Chapter 42: Jagannātha</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s14_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_691" playOrder="691">
+        <navLabel>
+          <text>Chapter 43: Pip Around the World</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_692" playOrder="692">
+        <navLabel>
+          <text>Chapter 44: The Ineluctable Modality of the Visible</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s16_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_693" playOrder="693">
+        <navLabel>
+          <text>Chapter 45: Bonus, Draco</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s17_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_694" playOrder="694">
+        <navLabel>
+          <text>Chapter 46: The Compresence of Opposites</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s18_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_695" playOrder="695">
+        <navLabel>
+          <text>Chapter 47: The Thing with Wings</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_696" playOrder="696">
+        <navLabel>
+          <text>Chapter 48: Pithos</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s20_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_697" playOrder="697">
+        <navLabel>
+          <text>Chapter 49: Commentarii de Bello</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s21_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_698" playOrder="698">
+        <navLabel>
+          <text>Chapter 50: Melpomene</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s22_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_699" playOrder="699">
+        <navLabel>
+          <text>Chapter 51: Batter My Heart</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s23_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_700" playOrder="700">
+        <navLabel>
+          <text>Chapter 52: Homophone</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s24_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_701" playOrder="701">
+        <navLabel>
+          <text>Chapter 53: Levee</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s25_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_702" playOrder="702">
+        <navLabel>
+          <text>Chapter 54: Hell</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s26_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_703" playOrder="703">
+        <navLabel>
+          <text>Chapter 55: Antepenultimate</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s27_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_704" playOrder="704">
+        <navLabel>
+          <text>Chapter 56: Penultimate</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s28_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_705" playOrder="705">
+        <navLabel>
+          <text>Chapter 57: Ultimate</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_706" playOrder="706">
+        <navLabel>
+          <text>Chapter 58: Epilogue</text>
+        </navLabel>
+        <content src="84/44/2/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_707" playOrder="707">
+      <navLabel>
+        <text>85. To Boldly Go</text>
+      </navLabel>
+      <content src="85/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_708" playOrder="708">
+      <navLabel>
+        <text>86. A Crack/Slash Epilogue</text>
+      </navLabel>
+      <content src="86/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_709" playOrder="709">
+      <navLabel>
+        <text>87. Harry Potter and the Methods of Chaos</text>
+      </navLabel>
+      <content src="87/titlepage.xhtml"/>
+      <navPoint id="num_710" playOrder="710">
+        <navLabel>
+          <text>Chapter 1: The Journalist</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_711" playOrder="711">
+        <navLabel>
+          <text>Chapter 2: The Interview Pt 1</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_712" playOrder="712">
+        <navLabel>
+          <text>Chapter 3: The Interview Pt 2</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_713" playOrder="713">
+        <navLabel>
+          <text>Chapter 4: Interrogation 101</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_714" playOrder="714">
+        <navLabel>
+          <text>Chapter 5: The Lords of Chaos Ride Again</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_715" playOrder="715">
+        <navLabel>
+          <text>Chapter 6: The Cat Came Back</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_716" playOrder="716">
+        <navLabel>
+          <text>Chapter 7: The Return of Lord Voldemort?</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_717" playOrder="717">
+        <navLabel>
+          <text>Chapter 8: The Magical Singularity</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_718" playOrder="718">
+        <navLabel>
+          <text>Chapter 9: Another One Rides the Bus</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_719" playOrder="719">
+        <navLabel>
+          <text>Chapter 10: The Source of Magic</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_720" playOrder="720">
+        <navLabel>
+          <text>Chapter 11: The Source of Magic Pt 2</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_721" playOrder="721">
+        <navLabel>
+          <text>Chapter 12: Busted!</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_722" playOrder="722">
+        <navLabel>
+          <text>Chapter 13: Do Souls Exist?</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_723" playOrder="723">
+        <navLabel>
+          <text>Chapter 14: A Conversation with the Weasleys</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_724" playOrder="724">
+        <navLabel>
+          <text>Chapter 15: The Interdict Deciphered</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_725" playOrder="725">
+        <navLabel>
+          <text>Chapter 16: Back to Hogwarts</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_726" playOrder="726">
+        <navLabel>
+          <text>Chapter 17: Harry's Head</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_727" playOrder="727">
+        <navLabel>
+          <text>Chapter 18: Monroe's Head</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_728" playOrder="728">
+        <navLabel>
+          <text>Chapter 19: A Conversation with the Founders</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_729" playOrder="729">
+        <navLabel>
+          <text>Chapter 20: A Conversation with the Founders Pt 2</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_730" playOrder="730">
+        <navLabel>
+          <text>Chapter 21: The Ginny Factor</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_731" playOrder="731">
+        <navLabel>
+          <text>Chapter 22: The Final Death</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_732" playOrder="732">
+        <navLabel>
+          <text>Chapter 23: Interview with the Dark Lord</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_733" playOrder="733">
+        <navLabel>
+          <text>Chapter 24: The Monroe Connection</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_734" playOrder="734">
+        <navLabel>
+          <text>Chapter 25: A Serious Situation</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_735" playOrder="735">
+        <navLabel>
+          <text>Chapter 26: Escape from Azkaban</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_736" playOrder="736">
+        <navLabel>
+          <text>Chapter 27: A Horcrux Too Far</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_737" playOrder="737">
+        <navLabel>
+          <text>Chapter 28: The Return</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_738" playOrder="738">
+        <navLabel>
+          <text>Chapter 29: Finding Hermione</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_739" playOrder="739">
+        <navLabel>
+          <text>Chapter 30: For All the Marbles Pt 1</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+      <navPoint id="num_740" playOrder="740">
+        <navLabel>
+          <text>Chapter 31: For All the Marbles Pt 2</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s31.xhtml"/>
+      </navPoint>
+      <navPoint id="num_741" playOrder="741">
+        <navLabel>
+          <text>Chapter 32: For All the Marbles Pt 3</text>
+        </navLabel>
+        <content src="87/36/OEBPF/content/s32.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_742" playOrder="742">
+      <navLabel>
+        <text>88. How Wizards Do Money</text>
+      </navLabel>
+      <content src="88/titlepage.xhtml"/>
+      <navPoint id="num_743" playOrder="743">
+        <navLabel>
+          <text>Chapter 1: Harry Potter</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_744" playOrder="744">
+        <navLabel>
+          <text>Chapter 2: Arabella Figg</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_745" playOrder="745">
+        <navLabel>
+          <text>Chapter 3: Anthony Goldstein</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_746" playOrder="746">
+        <navLabel>
+          <text>Chapter 4: Minerva McGonagall</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_747" playOrder="747">
+        <navLabel>
+          <text>Chapter 5: Susan Bones</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_748" playOrder="748">
+        <navLabel>
+          <text>Chapter 6: Lee Jordan</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_749" playOrder="749">
+        <navLabel>
+          <text>Chapter 7: Pansy Parkinson</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_750" playOrder="750">
+        <navLabel>
+          <text>Chapter 8: Ginny Potter</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_751" playOrder="751">
+        <navLabel>
+          <text>Chapter 9: Gregory Goyle</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_752" playOrder="752">
+        <navLabel>
+          <text>Chapter 10: Stan Shunpike</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_753" playOrder="753">
+        <navLabel>
+          <text>Chapter 11: Parvati Patil</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_754" playOrder="754">
+        <navLabel>
+          <text>Chapter 12: Sybill Trelawney</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_755" playOrder="755">
+        <navLabel>
+          <text>Chapter 13: Ron Weasley</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_756" playOrder="756">
+        <navLabel>
+          <text>Chapter 14: Luna Lovegood</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_757" playOrder="757">
+        <navLabel>
+          <text>Chapter 15: Bill and Fleur Weasley</text>
+        </navLabel>
+        <content src="88/39/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_758" playOrder="758">
+      <navLabel>
+        <text>89. Oh God Not Again!</text>
+      </navLabel>
+      <content src="89/titlepage.xhtml"/>
+      <navPoint id="num_759" playOrder="759">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_760" playOrder="760">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_761" playOrder="761">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_762" playOrder="762">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_763" playOrder="763">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s5_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_764" playOrder="764">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_765" playOrder="765">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s7_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_766" playOrder="766">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_767" playOrder="767">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_768" playOrder="768">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_769" playOrder="769">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_770" playOrder="770">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_771" playOrder="771">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_772" playOrder="772">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_773" playOrder="773">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_774" playOrder="774">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_775" playOrder="775">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_776" playOrder="776">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s18_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_777" playOrder="777">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_778" playOrder="778">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s20_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_779" playOrder="779">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_780" playOrder="780">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s22_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_781" playOrder="781">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_782" playOrder="782">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s24_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_783" playOrder="783">
+        <navLabel>
+          <text>Chapter 25</text>
+        </navLabel>
+        <content src="89/40/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_784" playOrder="784">
+        <navLabel>
+          <text>Chapter 26</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s1_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_785" playOrder="785">
+        <navLabel>
+          <text>Chapter 27</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s2_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_786" playOrder="786">
+        <navLabel>
+          <text>Chapter 28</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s3_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_787" playOrder="787">
+        <navLabel>
+          <text>Chapter 29</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s4_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_788" playOrder="788">
+        <navLabel>
+          <text>Chapter 30</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_789" playOrder="789">
+        <navLabel>
+          <text>Chapter 31</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s6_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_790" playOrder="790">
+        <navLabel>
+          <text>Chapter 32</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_791" playOrder="791">
+        <navLabel>
+          <text>Chapter 33</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s8_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_792" playOrder="792">
+        <navLabel>
+          <text>Chapter 34</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s9_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_793" playOrder="793">
+        <navLabel>
+          <text>Chapter 35</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s10_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_794" playOrder="794">
+        <navLabel>
+          <text>Chapter 36</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s11_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_795" playOrder="795">
+        <navLabel>
+          <text>Chapter 37</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s12_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_796" playOrder="796">
+        <navLabel>
+          <text>Chapter 38</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s13_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_797" playOrder="797">
+        <navLabel>
+          <text>Chapter 39</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s14_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_798" playOrder="798">
+        <navLabel>
+          <text>Chapter 40</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s15_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_799" playOrder="799">
+        <navLabel>
+          <text>Chapter 41</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s16_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_800" playOrder="800">
+        <navLabel>
+          <text>Chapter 42</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s17_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_801" playOrder="801">
+        <navLabel>
+          <text>Chapter 43</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_802" playOrder="802">
+        <navLabel>
+          <text>Chapter 44</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s19_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_803" playOrder="803">
+        <navLabel>
+          <text>Chapter 45</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_804" playOrder="804">
+        <navLabel>
+          <text>Chapter 46</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s21_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_805" playOrder="805">
+        <navLabel>
+          <text>Chapter 47</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_806" playOrder="806">
+        <navLabel>
+          <text>Chapter 48</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s23_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_807" playOrder="807">
+        <navLabel>
+          <text>Chapter 49</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_808" playOrder="808">
+        <navLabel>
+          <text>Chapter 50</text>
+        </navLabel>
+        <content src="89/41/OEBPF/content/s25_u1.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_809" playOrder="809">
+      <navLabel>
+        <text>90. Not a victim MrVoldemort [missing]</text>
+      </navLabel>
+      <content src="90/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_810" playOrder="810">
+      <navLabel>
+        <text>91. Harry Potter and Selective Perception [missing]</text>
+      </navLabel>
+      <content src="91/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="num_811" playOrder="811">
+      <navLabel>
+        <text>92. Moore &amp; Boole</text>
+      </navLabel>
+      <content src="92/titlepage.xhtml"/>
+      <navPoint id="num_812" playOrder="812">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="92/42/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_813" playOrder="813">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="92/42/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_814" playOrder="814">
+        <navLabel>
+          <text>Chapter 3: A Conference on the Killing Curse</text>
+        </navLabel>
+        <content src="92/42/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_815" playOrder="815">
+      <navLabel>
+        <text>93. Harry Potter and the Natural 20</text>
+      </navLabel>
+      <content src="93/titlepage.xhtml"/>
+      <navPoint id="num_816" playOrder="816">
+        <navLabel>
+          <text>Chapter 1: Solo Adventures</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_817" playOrder="817">
+        <navLabel>
+          <text>Chapter 2: Diagon Alley</text>
+        </navLabel>
+        <content src="93/1/OEBPF/content/s2_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_818" playOrder="818">
+        <navLabel>
+          <text>Chapter 3: The Sorting Ceremony</text>
+        </navLabel>
+        <content src="93/1/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_819" playOrder="819">
+        <navLabel>
+          <text>Chapter 4: The Defence Professor</text>
+        </navLabel>
+        <content src="93/1/OEBPF/content/s4_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_820" playOrder="820">
+        <navLabel>
+          <text>Chapter 5: The Forbidden Forest</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_821" playOrder="821">
+        <navLabel>
+          <text>Chapter 6: Crime Scene Investigation</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s3_u1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_822" playOrder="822">
+        <navLabel>
+          <text>Chapter 7: The Potions Master</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_823" playOrder="823">
+        <navLabel>
+          <text>Chapter 8: Sidequests</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_824" playOrder="824">
+        <navLabel>
+          <text>Chapter 9: Hallowe'en</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_825" playOrder="825">
+        <navLabel>
+          <text>Chapter 10: Odds of Survival</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_826" playOrder="826">
+        <navLabel>
+          <text>Chapter 11: The Troll and the Dementor</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_827" playOrder="827">
+        <navLabel>
+          <text>Chapter 12: Of Rats and Bowler Caps</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_828" playOrder="828">
+        <navLabel>
+          <text>Chapter 13: Roleplaying</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_829" playOrder="829">
+        <navLabel>
+          <text>Chapter 14: Talking is a Free Action</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_830" playOrder="830">
+        <navLabel>
+          <text>Chapter 15: Quidditch</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_831" playOrder="831">
+        <navLabel>
+          <text>Chapter 16: Be Good For Goodness' Sake</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_832" playOrder="832">
+        <navLabel>
+          <text>Chapter 17: White Christmas</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_833" playOrder="833">
+        <navLabel>
+          <text>Chapter 18: Red Christmas</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_834" playOrder="834">
+        <navLabel>
+          <text>Chapter 19: Visitors</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_835" playOrder="835">
+        <navLabel>
+          <text>Chapter 20: The Mirror of Erised</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_836" playOrder="836">
+        <navLabel>
+          <text>Chapter 21: Bewitched</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_837" playOrder="837">
+        <navLabel>
+          <text>Chapter 22: The Chessmaster</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_838" playOrder="838">
+        <navLabel>
+          <text>Chapter 23: The Duelling Club</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_839" playOrder="839">
+        <navLabel>
+          <text>Chapter 24: Nick of Time</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_840" playOrder="840">
+        <navLabel>
+          <text>Chapter 25: Roll for Initiative</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_841" playOrder="841">
+        <navLabel>
+          <text>Chapter 26: Bluff Checks</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_842" playOrder="842">
+        <navLabel>
+          <text>Chapter 27: Enchanter's End Game</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_843" playOrder="843">
+        <navLabel>
+          <text>Chapter 28: Grappling with the Rules</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_844" playOrder="844">
+        <navLabel>
+          <text>Chapter 29: Check Mate, Mate</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_845" playOrder="845">
+        <navLabel>
+          <text>Chapter 30: Troll Wanted: Dead or Alive</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_846" playOrder="846">
+        <navLabel>
+          <text>Chapter 31: The Man With Two Faces</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_847" playOrder="847">
+        <navLabel>
+          <text>Chapter 32: Dumble-dénouement</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_848" playOrder="848">
+        <navLabel>
+          <text>Chapter 33: Epilogue One, Rebuilding</text>
+        </navLabel>
+        <content src="93/2/43/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_849" playOrder="849">
+      <navLabel>
+        <text>94. Harry Potter and the Confirmed Critical</text>
+      </navLabel>
+      <content src="94/titlepage.xhtml"/>
+      <navPoint id="num_850" playOrder="850">
+        <navLabel>
+          <text>Chapter 1: Dynamic Entry</text>
+        </navLabel>
+        <content src="94/2/43/OEBPF/content/s31.xhtml"/>
+      </navPoint>
+      <navPoint id="num_851" playOrder="851">
+        <navLabel>
+          <text>Chapter 2: Nicked</text>
+        </navLabel>
+        <content src="94/2/43/OEBPF/content/s32.xhtml"/>
+      </navPoint>
+      <navPoint id="num_852" playOrder="852">
+        <navLabel>
+          <text>Chapter 3: Too Quiet</text>
+        </navLabel>
+        <content src="94/2/43/OEBPF/content/s33.xhtml"/>
+      </navPoint>
+      <navPoint id="num_853" playOrder="853">
+        <navLabel>
+          <text>Chapter 4: Railroading</text>
+        </navLabel>
+        <content src="94/2/43/OEBPF/content/s34.xhtml"/>
+      </navPoint>
+      <navPoint id="num_854" playOrder="854">
+        <navLabel>
+          <text>Chapter 5: How Could This Go Wrong?</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_855" playOrder="855">
+        <navLabel>
+          <text>Chapter 6: Whitewashed Secrets</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_856" playOrder="856">
+        <navLabel>
+          <text>Chapter 7: A Head Full of Hot Heir</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_857" playOrder="857">
+        <navLabel>
+          <text>Chapter 8: Gilderoy Lockhart</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_858" playOrder="858">
+        <navLabel>
+          <text>Chapter 9: I Scry With My Little Eye</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_859" playOrder="859">
+        <navLabel>
+          <text>Chapter 10: The Duel</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_860" playOrder="860">
+        <navLabel>
+          <text>Chapter 11: Trick or Treat</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_861" playOrder="861">
+        <navLabel>
+          <text>Chapter 12: Hallowe'en Masks</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_862" playOrder="862">
+        <navLabel>
+          <text>Chapter 13: Conspirators</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_863" playOrder="863">
+        <navLabel>
+          <text>Chapter 14: Cacophony in C Sharp</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_864" playOrder="864">
+        <navLabel>
+          <text>Chapter 15: Not So Subtle</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_865" playOrder="865">
+        <navLabel>
+          <text>Chapter 16: Equivalent Exchange</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_866" playOrder="866">
+        <navLabel>
+          <text>Chapter 17: Remedial Divinations</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_867" playOrder="867">
+        <navLabel>
+          <text>Chapter 18: The Boy Who Lived</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_868" playOrder="868">
+        <navLabel>
+          <text>Chapter 19: The Boy Who Didn't</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_869" playOrder="869">
+        <navLabel>
+          <text>Chapter 20: Epilogue, Awakenings</text>
+        </navLabel>
+        <content src="94/2/44/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_870" playOrder="870">
+      <navLabel>
+        <text>95. Harry Potter and the Save-or-Die</text>
+      </navLabel>
+      <content src="95/titlepage.xhtml"/>
+      <navPoint id="num_871" playOrder="871">
+        <navLabel>
+          <text>Chapter 1: Decease and Desist</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_872" playOrder="872">
+        <navLabel>
+          <text>Chapter 2: Old Friends</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_873" playOrder="873">
+        <navLabel>
+          <text>Chapter 3: Know Thyself</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_874" playOrder="874">
+        <navLabel>
+          <text>Chapter 4: Dragon in a Half-Shell</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_875" playOrder="875">
+        <navLabel>
+          <text>Chapter 5: City of Light</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_876" playOrder="876">
+        <navLabel>
+          <text>Chapter 6: City of Magic</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_877" playOrder="877">
+        <navLabel>
+          <text>Chapter 7: Magnum Opus</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_878" playOrder="878">
+        <navLabel>
+          <text>Chapter 8: Boss Room</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_879" playOrder="879">
+        <navLabel>
+          <text>Chapter 9: The Fourth Mistake</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_880" playOrder="880">
+        <navLabel>
+          <text>Chapter 10: The Dogs of War</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_881" playOrder="881">
+        <navLabel>
+          <text>Chapter 11: No News is Good News</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_882" playOrder="882">
+        <navLabel>
+          <text>Chapter 12: Hot Fuzz</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_883" playOrder="883">
+        <navLabel>
+          <text>Chapter 13: Passing Notes</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_884" playOrder="884">
+        <navLabel>
+          <text>Chapter 14: The Hogwarts Express</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+      <navPoint id="num_885" playOrder="885">
+        <navLabel>
+          <text>Chapter 15: The Tour Guide</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s31.xhtml"/>
+      </navPoint>
+      <navPoint id="num_886" playOrder="886">
+        <navLabel>
+          <text>Chapter 16: Safer Justice Practices</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s32.xhtml"/>
+      </navPoint>
+      <navPoint id="num_887" playOrder="887">
+        <navLabel>
+          <text>Chapter 17: Stones and Windows</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s33.xhtml"/>
+      </navPoint>
+      <navPoint id="num_888" playOrder="888">
+        <navLabel>
+          <text>Chapter 18: A Better Story</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s34.xhtml"/>
+      </navPoint>
+      <navPoint id="num_889" playOrder="889">
+        <navLabel>
+          <text>Chapter 19: The Grim and the Grave</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s35.xhtml"/>
+      </navPoint>
+      <navPoint id="num_890" playOrder="890">
+        <navLabel>
+          <text>Chapter 20: Auld Reeky</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s36.xhtml"/>
+      </navPoint>
+      <navPoint id="num_891" playOrder="891">
+        <navLabel>
+          <text>Chapter 21: Light Treason</text>
+        </navLabel>
+        <content src="95/2/44/OEBPF/content/s37.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_892" playOrder="892">
+      <navLabel>
+        <text>96. A Black Comedy</text>
+      </navLabel>
+      <content src="96/titlepage.xhtml"/>
+      <navPoint id="num_893" playOrder="893">
+        <navLabel>
+          <text>Chapter 0: Prologue</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s1.xhtml"/>
+      </navPoint>
+      <navPoint id="num_894" playOrder="894">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s2.xhtml"/>
+      </navPoint>
+      <navPoint id="num_895" playOrder="895">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s3.xhtml"/>
+      </navPoint>
+      <navPoint id="num_896" playOrder="896">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s4.xhtml"/>
+      </navPoint>
+      <navPoint id="num_897" playOrder="897">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s5.xhtml"/>
+      </navPoint>
+      <navPoint id="num_898" playOrder="898">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s6.xhtml"/>
+      </navPoint>
+      <navPoint id="num_899" playOrder="899">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s7.xhtml"/>
+      </navPoint>
+      <navPoint id="num_900" playOrder="900">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s8.xhtml"/>
+      </navPoint>
+      <navPoint id="num_901" playOrder="901">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s9.xhtml"/>
+      </navPoint>
+      <navPoint id="num_902" playOrder="902">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s10.xhtml"/>
+      </navPoint>
+      <navPoint id="num_903" playOrder="903">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s11.xhtml"/>
+      </navPoint>
+      <navPoint id="num_904" playOrder="904">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s12.xhtml"/>
+      </navPoint>
+      <navPoint id="num_905" playOrder="905">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s13.xhtml"/>
+      </navPoint>
+      <navPoint id="num_906" playOrder="906">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s14.xhtml"/>
+      </navPoint>
+      <navPoint id="num_907" playOrder="907">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s15.xhtml"/>
+      </navPoint>
+      <navPoint id="num_908" playOrder="908">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s16.xhtml"/>
+      </navPoint>
+      <navPoint id="num_909" playOrder="909">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s17.xhtml"/>
+      </navPoint>
+      <navPoint id="num_910" playOrder="910">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s18.xhtml"/>
+      </navPoint>
+      <navPoint id="num_911" playOrder="911">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s19.xhtml"/>
+      </navPoint>
+      <navPoint id="num_912" playOrder="912">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s20.xhtml"/>
+      </navPoint>
+      <navPoint id="num_913" playOrder="913">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s21.xhtml"/>
+      </navPoint>
+      <navPoint id="num_914" playOrder="914">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s22.xhtml"/>
+      </navPoint>
+      <navPoint id="num_915" playOrder="915">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s23.xhtml"/>
+      </navPoint>
+      <navPoint id="num_916" playOrder="916">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s24.xhtml"/>
+      </navPoint>
+      <navPoint id="num_917" playOrder="917">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s25.xhtml"/>
+      </navPoint>
+      <navPoint id="num_918" playOrder="918">
+        <navLabel>
+          <text>Chapter 25</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s26.xhtml"/>
+      </navPoint>
+      <navPoint id="num_919" playOrder="919">
+        <navLabel>
+          <text>Chapter 26</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s27.xhtml"/>
+      </navPoint>
+      <navPoint id="num_920" playOrder="920">
+        <navLabel>
+          <text>Chapter 27</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s28.xhtml"/>
+      </navPoint>
+      <navPoint id="num_921" playOrder="921">
+        <navLabel>
+          <text>Chapter 28</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s29.xhtml"/>
+      </navPoint>
+      <navPoint id="num_922" playOrder="922">
+        <navLabel>
+          <text>Chapter 29</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s30.xhtml"/>
+      </navPoint>
+      <navPoint id="num_923" playOrder="923">
+        <navLabel>
+          <text>Chapter 30</text>
+        </navLabel>
+        <content src="96/45/OEBPF/content/s31.xhtml"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,111 @@
+<span id="seg-0473__seg-0473-48647bc352"></span>
+
+<div id="seg-0473__s2-4205714cdf" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 33: Classes Pt I, Food Safety
+
+<div id="seg-0473__storytext-9c93142583" class="calibre4">
+
+All my thanks to Kuilin, my dear beta.
+
+RIP, Alan Rickman. I hope someone has made a Version 3.0 Horcrux for you, so that we can still hear your unmistakable voices and watch your excellent performances after we figure out how to make a Stone.
+
+------------------------------------------------------------------------
+
+Chapter 33.
+
+11:59 am, July 7th, 1993
+
+"Time is up, turn in your papers now." Severus knocked on the blackboard in the small classroom, and waved his wand.
+
+Harry raised his head as his quiz drifted toward the ex-Potions master, looked around, finding both Draco and Hermione were looking nervously at Severus. While Severus started flipping through their quizes, and marking things down quickly, Harry had a surreal feeling about his life in general.
+
+After several days of intensive saving-the-world activities and setting up the Mirror so that it would lock up all the Tom Riddles upon command or the lack of certain commands, the Boy-Who-Lived, the Girl-Who-Revived and, in Mad-Eye's words - the "Malfoy brat who should never be here", were back as students again. From Harry's own life experience, maybe the cartoonists weren't completely making things up when they depicted student superheroes who had to save the world on a regular basis and to worry about their homework at the same time.
+
+\-*At least I don't have to hide the fact that I am the superhero from everyone, and the important people around me understand that.*
+
+Harry moved his eyes away from the ex-Potions master, and pondered again on the dilemma that he had been circling at the back of his mind since he was in the dark mode four days ago: *should I let Severus revive the real Quirrell? Quirrell might have some information on the whereabouts of Voldemort, not to mention some of his secret powers. The real danger of this matter is that if we choose to do so, we need to keep this thing in complete secrecy. Mad-Eye had offered one of his fake identities to me when he thought that I needed the identity myself, the identity was "somewhat plausible" by Mad-Eye's standards, and he had gone to double check it today. Yesterday, Severus - who no longer remembered it now - had said that he could construct a new revival altar in about two weeks, if he could use the Stone to duplicate some of the leftover magical materials at hand, and his altar in the United States is still usable. Therefore, maybe it is time that I talk to Hermione about this, and ask for her opinion. Well, for potential political implications, I need to talk to Draco as well, and maybe obliviate him later.*
+
+Before Harry had weighed out the benefits and shortcomings of a new altar in Britain at some location that Mad-Eye deemed "having some semblance of safety" versus the one in Nevada, Severus had finished grading their quizes and handing back them to the three students. Harry got a ninety-four out of one hundred, and some quick glances told Harry that Hermione got one hundred points while Draco got ninety-one. Harry looked at his paper again, and found that he misspelt the name of a commonly used food poison, and he had omitted a step in the making of the animagus meditation potion, which could render the drinker having a much harder time - or maybe never - in turning back to human form, and Severus had commented that Harry had "an excellent killer's instinct even in mistakes".
+
+The lunch time also turned out to be a quiz time, simply because one of that day's subjects had been various ways that your enemy might sabotage you by food and drinks.
+
+That morning, Minerva first had given a lecture on the theory of animagus transformation, which Harry had already learned by heart.
+
+Then, Mad-Eye had given a two-hour lecture about charms and transfigurations that could be used on the things that went into your stomach, which only covered "the bare minimum of what a stupid criminal would use". As it turned out, Harry's ideas about putting transfigured sulfuric acid into the enemy's teacup wasn't that unique - the story of the criminal who transfigured gold into wine was covered during the very first transfiguration lecture after all. While talking about transfiguration, Mad-Eye had sneered, "Every so often, there is some chap who thinks that he is the only who listened in the first transfiguration class, and comes up with some fancy stuff to transfigure, puff."
+
+Therefore, when house-elves brought them three large trays of food, the real quiz started.
+
+With a hint of smirk, Severus said: "Label all the items that you think are unfit for consumption and why. For the items that you can't name a reason for refusal within twenty minutes, you would later swallow them in front of everyone - rest assured, nothing lethal within fifteen minutes. *I sspoke truth, as Mr. Potter could w-verify.*"
+
+Severus looked at Harry pointedly, and Harry translated the last part Severus said to human language for his friends. Then, Severus conjured magical curtains to block the view so that none of the students could see or hear what others were doing, and a ticking countdown clock showed up in front of Harry - which Harry suspected was actually there to create pressure, instead of showing the time left.
+
+Harry carefully applied an air-refreshing charm on himself, and began testing. He glanced at the delicious-looking steak, fried pork sirloin, stewed diricawl meat, vegetables, chocolate cake, apple pie and pumpkin juice among other items, and couldn't help but began to wonder if Severus and Mad-Eye wanted the three of them to ever enjoy meals again.
+
+About a year ago, Mad-Eye had already given Harry a number of magical trinkets that could detect "certain standard methods only fools would use", and Severus had given them more magical items with similar purpose today. Harry first tested all the food with Mad-Eye's detectors, and no alarm was triggered.
+
+\-*Well, of course, Mad-Eye and Severus would be more creative than that.*
+
+Before Harry's hand touched the magical items Severus gave him today, he stopped, and realized that he should make sure those items actually performed their claimed functions, and didn't have any other functions added - such as being a secret portkey or something.
+
+\-*Or, maybe the touch of such an item with certain things in the food would have some interesting effects.*
+
+\-*Oh, this is going to be interesting.*
+
+Nineteen minutes later, Harry was facing a glass of water and two slices of bread that he couldn't find any magical or non-magical reason to reject - he even measured the density of water, and found nothing irregular. Slytherin commented sarcastically: *Bread and water, how pristine! Should we ask for some salt?*
+
+As the time on the countdown clock turned to zero, the magical curtains and the clocks disappeared.
+
+From the smirk on Severus' face, Harry was pretty sure that at least one of them would show some very entertaining effects after consuming - Harry glanced at the chocolate eggplant in front of Hermione, and the glass of pumpkin juice in front of Draco.
+
+Harry hoped that he wasn't going to be the clown within the next several minutes. A corner at the back of Harry's mind secretly commented: *Look at the smirk on your servant's face. I wonder if he were to serve -*
+
+Harry told that corner of himself to shut up, and picked up the glass when Severus looked at him first. With some determination, Harry allowed a small amount of water to enter his mouth, and he immediately spat out the bitter-tasting liquid.
+
+Before asking what was in that liquid or calling for help, Harry pointed his wand to his mouth, and mumbled, "Aguamenti." As Harry began to wash his mouth to get rid of any residue liquid, the bitterness turned into sweetness - something too sweet. Then Harry realized: this was some type of artificial sweetener, which was bitter when the concentration was too high, and sweet when the concentration was right in range.
+
+And Severus' slightly amused voice confirmed Harry's guess: "And that is the effect of saccharin," Severus glanced at Draco, and explained, "which is a food additive that Muggles use to create sweet taste without adding sugar, but it can taste bitter if the concentration is too high. Saccharin isn't really toxic, so standard spells wouldn't give you any alarm. And Mr. Potter, as for your information, some calorie-counting Muggleborn witch has recently invented a spell that can test whether some food can be considered 'healthy' per Muggle nutritional standards."
+
+When Harry finished washing his mouth, he saw that Hermione was giving suspicious and reluctant looks at her chocolate eggplant. Then, Hermione bravely took a bite with extraordinary grace, and spat it out immediately.
+
+When Hermione was washing her mouth and throwing diagnostic spells on herself, Severus explained with a smirk, "Nothing irregular or harmful, just our famous British cook." Then, the ex-Potion's Master's face turned stern, "However, the reason that Miss Granger didn't find out the unpleasant smell of this dish was the chocolate cake, which is now labeled 'love potion in it'. The actual irregular ingredient in that cake is named 'fairflair', a common ingredient in the magical perfume industry."
+
+Hermione looked as if she wanted to hit her own head with a hammer, while Harry vaguely remembered reading about that potion ingredient somewhere.
+
+Severus continued to explain. "Fairflair can create an illusion of smell that is both expected and desired by anyone. It bears resemblance to the effect of love potion in this sense, and it is used in some variations of love potion. Fairflair is not poisonous by itself, however, we have just observed how it could trick one's mind and mask any undesirable smells from the items nearby. Miss Granger, *I*, in particular, understand your disdain for vanity, and *Witch Weekly* - I have seen your face when I mentioned where to find the previous spell - yet, certain knowledge in the fashion business may prove very helpful. - And ah, Mr. Malfoy, be careful of what interesting effects you may experience when your beautification products are mixed with some other innocuous items. I would give all of you a list concerning this subject later."
+
+As Severus was staring down at Draco, the blond boy gingerly picked up his pumpkin juice, took a small sip, carefully swallowed it down, and suddenly began to throw up.
+
+Harry saw some small black moving dots in Draco's vomit, which might be some sort of small insects.
+
+Severus' words weren't that reassuring this time. "Mr. Moody claimed that he doesn't know how to raise 'Gu', or the insects some Asian wizards use to control others' mind. He also claimed that he only knew how to wrap sleeping insects up with alkali, which would only dissolve upon the contact with acid in one's stomach, therefore releasing the insects; and of course, how to wake up the insects once in contact with acid. Since I have no way to verify his words, I have personally collected the non-magical insects from a random farm in France this morning, and made him taught me how to wrap them up. However, I wouldn't put it pass Mr. Moody to have spread cultivated insects all over the world, or he might have taught me some wrong methods."
+
+Harry watched as Draco's face turning whiter by each sentence. Actually, Harry himself wouldn't put it pass Mad-Eye to have passed up on such an excellent opportunity to control a Malfoy.
+
+\-*Err, Severus wouldn't really give Mad-Eye the chance to sabotage his godson, would he? However, I do have to ask Mad-Eye what he did, just in case.*
+
+"To counter this problem and some other similar problems, there are some universal solutions." Severus gave Hermione a glance, and continued. "However, those would all require the use of the Stone."
+
+And Harry got it: *we would also need a number of trolls, actually. Hmm, Severus is trying to use this opportunity to give Draco more protection. What a sneaky greasy bat.*
+
+Severus continued."There is a temporary solution that I have practised extensively recently, which is to transfigure your body into its perfect status, and then we can use the Stone to fix it."
+
+\-*Oh, wait, Severus doesn't want to use the untested troll solution, just in case that has some side-effects. He is quite careful with things related to Draco. Well, on the other hand, Severus might want me to consider how to give more protection to people around me.*
+
+Harry began to contemplate whether he should give the power of trolls to Draco, Severus, Mad-Eye, Minerva, and even Mom. However, Dad probably can't survive…
+
+Severus gave Harry and his bread a pointed look.
+
+\-*Oh, well.*
+
+Harry accepted his fate, and ate a tiny bite of the bread, which turned out to be -
+
+\-*Well, here is the salt we have asked for.*
+
+</div>
+
+</div>

@@ -1,0 +1,14 @@
+{
+  "book_id": "various-muggles",
+  "target_lang": "ru",
+  "input_epub": "/Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru/The Book of HPMOR Fanfics - Various Muggles.epub",
+  "input_hash": "91f2ec16d4db952910938bd19c576df53be89bd4c1a8ed2aff699670999c4961",
+  "source_root": "src/en",
+  "legacy_ru_root": "src/ru",
+  "original_title": "The Book of HPMOR Fanfics",
+  "translated_title": "Книга фанфиков ГПиМРМ",
+  "glossary_short_form": "ГПиМРМ",
+  "glossary_full_title": "Гарри Поттер и методы рационального мышления",
+  "segment_count": 1070,
+  "asset_count": 300
+}

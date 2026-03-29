@@ -1,0 +1,163 @@
+<span id="seg-0697__seg-0697-b730f18690"></span>
+
+<div id="seg-0697__s15-fae38f4be9" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 15: Blackmail in Game Theory, Aftermath
+
+<div id="seg-0697__storytext-9c93142583" class="calibre4">
+
+*Aftermath, Lesath Lestrange:*
+
+Lesath tapped his foot nervously, and waited for the staircase to the Headmistress's office to present itself to him. A disgusted-looking Professor Slughorn had instructed him to report to the Headmistress at once. People looked disgusted at him all the time, but given the context, Lesath's heart was pounding, and his mind was racing through every bad thing he had ever done, wondering which one he would be expelled for – or if perhaps he was overestimating the severity of the situation, and he would simply be suspended or killed. The staircase turned to face him, and he ascended to meet his fate. First she spoke something inaudible into her desk, and then she turned to confront Lesath directly.
+
+"Mr. Lestrange?" said the Headmistress. "Please sit down." She sounded calm and sympathetic, and not in the fake-calm manner of someone planning to expel, suspend, or kill you. So Lesath sat down, and kept an open mind, and barely even wondered what was going on. "I am afraid that this conversation will not be pleasant, but given the wider circumstances occurring at the school, that is frankly a relief."
+
+"What is it," muttered Lesath; he was still fairly certain he was in trouble.
+
+"You have turned out to be our first false alarm," said the Headmistress, "and quite an alarm, too. Your case has demonstrated a rather severe flaw in my initial plan, which is that, while children are certainly not to be ignored, immaturity is considered a character flaw for a reason. You see..." She paused, and considered how to relate the recent events to him. "After I announced to the school that, to find the 'Heir of Slytherin', anything suspicious should be reported without question, I was immediately inundated with reports about you. Nearly all of them from girls, most all of them from younger Slytherin girls."
+
+"Who?" said Lesath. He was trying and failing to hide his anger.
+
+"For the sake of obvious privacy concerns, I am not at liberty to say," said the Headmistress. "Now, of course I followed up on these reports, asking for specifics on what about you they considered suspicious. A few of them lied, providing half-baked and easily falsified stories designed to incriminate you as the Heir; they will be disciplined for malicious abuse of Hogwarts resources. But most of them simply described your general behavior and demeanor as of late. They did not seem to understand that your behavior is suggestive not of a secret Dark Lord, but of an awkward teenage boy who is out-of-touch with social norms and standards. In short, the system I created zeroed in on you not because you were a reasonable suspect, but because you were unpopular." Lesath looked back and forth, deep in thought, and the Headmistress stopped because she could see that he needed to process this, though she was at a natural stopping point anyway.
+
+"So why are you telling me all of this?" said Lesath.
+
+"Because," said the Headmistress, starting slowly, "though your accusers did not choose the correct venue to put forward their concerns, we are still glad to have found out, because Hogwarts does not tolerate inappropriate or boundary-violating behavior, particularly of a sexual nature. This is your first warning. If the behavior continues, you will be given detention, and ultimately will face criminal charges, suspension, or even expulsion if it goes further. Is this understood?"
+
+"Yes," said Lesath.
+
+"If you feel you need to learn more about social boundaries and norms, I could direct you to a professional-"
+
+"No," said Lesath, and the Headmistress frowned.
+
+"I advise that you don't bother anyone anytime soon," said the Headmistress. "Now, go. Off. It's bad enough dealing with the Heir of Slytherin and Slytherin's Monster without awkward teenage boys too." She halfheartedly smiled, and Lesath did, too, and left. Girls were so weird. Perhaps he wouldn't find romance until after graduation.
+
+What long years those would be.
+
+------------------------------------------------------------------------
+
+*Aftermath, Draco Malfoy:*
+
+"Hello, Harry," said Draco.
+
+"Hello, Draco," said Harry. He seemed oddly uncomfortable to be talking to Draco. First, Harry apparently hadn't been very well-trained in the Slytherin arts, if he was this bad at hiding his discomfort. Second, his discomfort was very disconcerting. Draco thought he had chose to stop talking to Harry, not the other way around.
+
+"I've wanted to talk to you, about... what's been going on," said Draco. "Do you have time now, or are you busy?" Harry groaned, and instinctively reached for his pocket.
+
+"I always have time," said Harry, and they found a quiet space with a bench. Harry cast as many anti-eavesdropping spells as he considered appropriate.
+
+"Good," said Draco. "We haven't talked in quite some time. How have you been? What have you been up to?"
+
+"I've been fine," said Harry, "and I've mostly been up to official business I'm afraid I can't tell you, or nearly any of my classmates, about."
+
+"Of course," said Draco, concealing his irritation entirely. "Do you have any more idea than the rest of us what's going on, who's causing trouble?"
+
+"Perhaps a bit, but not much," said Harry. "If we'd caught the perpetrator, they would already be publicly known and behind bars. The only alternate case I can see is if we'd caught them but they'd escaped, in which case their identity and that we'd caught them would still be publicly known. The problem is that we don't even have a testable hypothesis, Draco. We don't even have any suspects. We had a couple of suspects at first, but they were very quickly cleared." Draco frowned.
+
+"You're a Parselmouth, Potter," said Draco.
+
+"Yes, I know," said Harry. "That's why I was one of the initial suspects. But I can't be the person doing this, Draco. I have no interest whatsoever in breaking the Line of Merlin Unbroken or the Interdict of Merlin. In fact, there are reasons I can't tell you about that I believe breaking either of those would be a very bad thing."
+
+"I don't mean to cast aspersions on you," said Draco, "but couldn't that simply mean that you're the perpetrator and you're playing one level higher? Trying to drum up pro-Interdict sentiment, to protect it?" Harry swallowed.
+
+"No one's thought of that as far as I know," said Harry. "I'd barely even considered that. It's technically plausible, but there are Muggles who believe in such plans, they're known as 'false flag operations', and the Muggles who are most inclined to believe that they've happened are generally extremely cognitively deficient, but I can't think of any particular reason that couldn't be what happened here. It couldn't have been me, though; as far as I know, there is no nearby risk of the Line of Merlin Unbroken breaking. It's just not something that could be done. Whoever is causing all of this trouble is misinformed about how the Line works, either because they're demanding we destroy it, which is impossible, or because they're trying to protect it from being destroyed, which is also impossible."
+
+"Hmm," said Draco. "Whoever did this is still definitely a Parselmouth. Do you know any other Parselmouths around the school? Parselmouths are supposed to know each other."
+
+"I was only aware of one other Parselmouth at the school," said Harry, "and she was also one of the initial suspects."
+
+"No, Granger-" started Draco. Harry smiled. "It is Granger, isn't it?"
+
+"You are very perceptive, Draco," said Harry. "Don't let her know you know, though; she would kill me."
+
+"Of course," said Draco.
+
+"And she was aware of one other Parselmouth at the school," said Harry, "who to the best of my knowledge was investigated and cleared when it was determined he didn't even know he was a Parselmouth before."
+
+"So there's a secret Parselmouth at school," said Draco. "Either a student or a teacher. Lockhart-"
+
+"Maybe," said Harry. "I have an alternate theory, though. Voldemort was a Parselmouth, you know."
+
+"No..." said Draco, not because he didn't know, but because he could already tell that Potter was leading into some deeper horrifying revelation.
+
+"Voldemort might not be completely dead," said Harry. "I believe, based on evidence, that he has objects lying around in random places, by which he might possess someone – a teacher or student at Hogwarts, for example. And then, theoretically, he could speak in Parseltongue, and open the Chamber." Draco stared into space for something like twenty seconds, with the most appalled look on his face. "What? What is it?"
+
+"I think I might have-" Draco's voice went out, and Harry shot up out of his seat.
+
+"What happened?" asked Harry, with much more force, and he directed Draco to stand up and walk with him – and quickly, too.
+
+"IhadamysteriousobjectlefttomebymyfatherthatcouldwriteandthinklikeahumananditconvincedmetogiveittoanotherHogwartsstudentGinnyWeasleyandohmyGodisshegoingtobeokay?" said Draco, keeping up with Harry.
+
+"Follow me," said Harry.
+
+"Are we going to find Ginny, and save her?" said Draco.
+
+"Probably," said Harry, "but we're talking to the Headmistress first. I want you to tell her everything you know."
+
+"Okay," said Draco, "but what if the Headmistress can't do anything?"
+
+"Then we won't be able to do anything either," said Harry.
+
+"Will we be able to save her?" said Draco. "Will she be punished?"
+
+"Assuming that your suggested explanation is the correct one," said Harry, "which seems like the Occam's Razor solution at the moment, then we will almost certainly be able to save her, and she will almost certainly not be punished. Nobody is held accountable for things they do while they're possessed. Like-" Harry stopped himself from saying something, and Draco wondered what it could possibly be. Here was the entrance to the Headmistress's room. Harry approached the password-receiving gargoyle, but was interrupted by-
+
+"Harry! Draco!" said Professor Lockhart. "What are you doing here?"
+
+"No time, Professor," said Harry, and he whispered something Draco somehow managed not to hear at all. Absolutely nothing happened, and Harry repeated whatever he'd just said. "Why isn't it working?"
+
+"The Headmistress is in a particularly private meeting with a student," said Professor Lockhart, "and I advise that you return in ten minutes."
+
+"But this is more important!" said Harry. "This is an emergency!" A suspicion was beginning to sneak up on Draco, and Professor Lockhart raised an eyebrow.
+
+"Really?" said the Professor. "What kind of emergency?"
+
+------------------------------------------------------------------------
+
+*Aftermath, Cho Chang:*
+
+"*There is a fountain filled with blood, drawn from Immanuel's veins, and sinners plunge beneath that flood, lose all their guilty stains.*"
+
+As Cedric's body was lowered into the cold and lonely ground, Cho Chang failed to hear the words of the hymn being sung. It was just as well; she was not an adherent of the religion in which the words had significance. Nor, for that matter, was the majority of the choir singing it. It was just a tradition, a funeral tradition, an ancient thing that goes unquestioned and largely unseen, a specific type of prior that can be particularly difficult to root out. It was simply how the funeral was supposed to be.
+
+But this funeral was not supposed to be at all. It wasn't supposed to go like this. Cho Chang was supposed to become a widow – or create a widower – around age 200. She wasn't supposed to be mourning the love of her life at 13. Of course, Cedric wasn't truly the love of Cho's life – apparently. Because she would live much, much longer. Wouldn't she? Actually, with the advent of the Peverell Family Hospital, she never had to die at all. …Cedric had never had to die at all. They could have truly been together forever, exploring the stars in some magic craft of Harry's. Why had that been ripped away from her? Why had Cedric been ripped away from everybody? Cho tried to feel hatred or anger at whoever had done this, but she was not capable; her grief was too overwhelming of an emotion.
+
+"When he laughed, you swore you'd never cry again," Cho had told a reporter, through tears, before the funeral had begun. But Cho didn't want to talk to anyone, least of all the press. She just wanted to think, but that was too hard; depression releases chemicals in the brain that inhibit regular thinking. So she just wanted to take in the world around her, and judge it. Nobody else at the funeral looked nearly sad enough. They all looked sad, just not enough. It was as if they had all gotten so used to carrying out funerals that they were simply playing a role, and it had slipped their minds how genuinely awful it all was, particularly now, now that we were all so close to the finish line that the Philosopher's Stone represented.
+
+The Malfoys were sitting next to the Weasleys. The Malfoys were sitting next to the Weasleys. The Malfoys didn't even seem bothered by that. Had Cedric's death truly shaken everybody up that much? That made Cho feel ever so infinitesimally better. Draco Malfoy had lost his father last year, hadn't he? Cho supposed she would find no shortage at Hogwarts of people who had experienced death. She still felt particularly alone.
+
+It occurred to Cho that with the advent of the Philosopher's Stone, there was absolutely no reason that anything like this should ever happen again. Accidents and murders? If anything short of immediately or quickly lethal damage could be recovered, why wouldn't you minimize risk as much as possible? There was no reason whatsoever that this couldn't or shouldn't be Cho's last funeral. There was no reason whatsoever that this couldn't or shouldn't be the last funeral in the world.
+
+Cho had not been able to cast her Patronus, not since she had learned of Cedric's death in certain terms. She was still recovering from her mental reeling, and would not return to Hogwarts until January, still in miserable condition. But it was that thought – the last funeral in the world – that would allow Cho to cast a different Patronus, several years afterwards.
+
+------------------------------------------------------------------------
+
+*Aftermath, Tom Riddle Prime:*
+
+The man who could not even remember his own name drifted through space, amidst Platonic forms and timeless physics. He was and was not a gemstone, and so he could and could not think – like a sleeping man, he was vaguely aware of everything around him, but he could not hold onto any of it. He could not think, and he could not remember; he could not even long for the day he would be free. He could only perceive and dream, like an Elder God that had once been human and would someday be human once more.
+
+"Headmistress," said the boy, who was wearing the man who could not even remember his own name, "I am becoming increasingly certain of one of my first hypotheses, that this is the work of a horcrux of Voldemort."
+
+"I thought he was on your person," said the older woman, and she gestured at the finger that held the man. "And in this state, he could not access his horcruxes."
+
+"He is," said the boy, "and he can't, but he made two types of horcruxes. We have been referring to the more advanced type. He also made a more primitive kind, with entirely different properties." The older woman frowned.
+
+"Properties that you suspect leave them dangerous," said the older woman.
+
+"Yes, absolutely," said the boy. "Because instead of being connected to the main Voldemort, and therefore being vulnerable to attacks on Voldemort's main body that also influence his soul, they contain an entirely independent copy of Voldemort, diverging from the original at the moment that they're created." The older woman grew a look of horror. "The only possible complicating factor, which is completely ambiguous, is that I was under the impression Voldemort had destroyed many, most, or all of them himself, when he moved onto the more advanced sort of horcrux."
+
+"No," said the older woman. "Not Tom Riddle. He always had some sort of backup plan in mind in case we defeated his first intentions."
+
+"Speaking of the original Tom Riddle, though," said the boy, "I'd prefer that we not keep him on my person anymore. Even with all of the extra security measures you've placed on Hermione and me, I feel the risk is too large, particularly if I'm correct that it's another Tom Riddle doing all of this." He removed the gemstone that was the man.
+
+"If not on your person, then where?" asked the older woman, and she visibly panicked and squirmed away. "The Transfiguration must be sustained."
+
+"Yes," said the boy, "but it doesn't need to be sustained by myself. It was foolish to assume it did in the first place; I'm too important to put another egg in my basket like that. It should preferably be sustained by someone trusted off-campus. I'd suggest Moody, but he seems a bit obvious. How about a high-ranking Unspeakable? I can't imagine any Dark Lord catching Bode off-guard..."
+
+</div>
+
+</div>

@@ -1,0 +1,199 @@
+<span id="seg-0906__seg-0906-730246bda9"></span>
+
+<div id="seg-0906__s6-bc6df459c2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 6
+
+<div id="seg-0906__storytext-9c93142583" class="calibre4">
+
+Disclaimer: I still do not own Harry Potter.
+
+Note: Yeah, I am skipping quite a bit of time, but to be fair the actual books do skip a lot of time, too, or else the year would just drag on
+
+As much as Harry wanted to find a way to contact Sirius (after all, he hadn't seen the man in eight years and with Sirius, at least, he didn't have to pretend to be a near-stranger, unlike everybody else he'd met again), he knew that he couldn't. Not yet. He wouldn't put it past Dumbledore to monitor his mail once he learned of Sirius's escape; not to be nosy or anything, but to keep Harry safe from what he thought was a huge threat. And at the Dursley's, where he had no one to monitor him twenty-four seven, it would be even worse. No, Harry would have to wait until Sirius contacted him. The problem being, of course, that Sirius had no way of knowing that Harry knew all about what had really happened with Pettigrew and those Muggles and the Secret Keeper Switch. And yes, he would have to return to the Dursley's, at least this year. After all, he really had nowhere else to go and Mrs. Weasley had the unfortunate habit of taking Dumbledore's word as law.
+
+Harry also couldn't just go up and capture Pettigrew now for a number of reasons, not least of all that he had never taken the time to learn how to cast the spell to reveal an animagus. As a first year, he really shouldn't know what an animagus WAS and, given his lack of contact with any of his father's old friends, had no way of knowing that Peter was a rat and even less cause to think it was Scabbers. If he took this up with an adult, they wouldn't believe him and Scabbers would probably move on to another wizarding family, knowing his cover was blown. No, as vexing as it was, he'd have to wait until he heard from Sirius again.
+
+Shortly after the incident on Halloween (which, of course, just invited more staring but did also have the unexpected side effect of convincing Fred and George that Percy wasn't a lost cause after all due to his part in their little escapade) was Harry's first Quidditch match. He wasn't really nervous as Draco Malfoy, though admittedly quite talented for an eleven-year-old and the best Slytherin House had to offer, had nothing on him. He could fly circles around Ginny back when she was on a professional Quidditch team. Harry wished he had joined one instead of becoming an Auror straightaway, but then again, it was right after the fall of Voldemort and he felt like he had a moral obligation to help round up all of his followers. Maybe this time, if he could end the war quicker or (if he was sufficiently brilliant/lucky) prevent it from taking place at all. Then he could play all the professional Quidditch he wanted before he reached thirty or so and had to retire (to become an Auror). Come to think of it, becoming an Auror while in possession of the world's most powerful and death-attracting wand probably wasn't the best plan, was it?
+
+The game started off innocently enough. Draco and Harry flew around aimlessly, searching for the Snitch. Harry *hoped* he'd be able to catch it before Quirrell thought to jinx his broom, but fate did not seem to be on his side. The second he did spot the Snitch, Flint slammed into him and one of the twins shot a Bludger at Draco. Naturally, in the confusion, the Snitch disappeared.
+
+A few minutes later, to Harry's great annoyance, his broom started lurching. Harry groaned. He'd forgotten about that. Now, if he didn't do something quickly, Ron and Hermione would jump to conclusions about Snape and Harry really didn't want to set the precedent of blaming Snape every time anything went wrong. Not to mention he didn't want to have to actually start defending Snape until he absolutely had to as he really didn't like his Potions Professor and so saying nice things about him made him nauseous. Petty, perhaps, but Snape was worse.
+
+The best thing to do would be to start a counter curse and hope that his and Snape's combined efforts would be enough to stabilize the broom. Unfortunately, counter curses to such things as bewitched brooms had been the sort of thing he'd resolved to look up later and so that was out. He could take his chances that Snape could stop Quirrell, but he vaguely recalled Quirrell saying something about how he only needed a few more seconds to knock Harry off his broom when Hermione knocked him over. And come to think of it, why in the world would Quirrell try such a public and clearly not accidental method to kill him? Idiot.
+
+Well, if the two obvious answers were out, Harry might have to try something slightly unconventional. He saw the Snitch down below him, to the left but heading his way. If he timed this just right…
+
+Harry stood up and jumped off his broom. There were gasps all around the stadium-it was clear that Harry had done this on purpose. As Harry fell through the air, he could only hope he'd reach the Snitch before someone thought to do a something to slow him down, like Dumbledore did that time Dementors crashed that Quidditch game he had against Hufflepuff in his third year. Which was another reason why Quirrell was an idiot: there was no way people would just let him fall to his death. Really, why did he even bother?
+
+Sure enough, Harry started to slow down. No! He was **so** close! Desperately, Harry twisted himself into a position to make him fall faster. Closer, closer…There! Harry's hand shot and grabbed the Snitch. He chanced a look over at Snape, who rolled his eyes at the fact that Harry was obviously more concerned about winning than landing uninjured. He was the only one who seemed to have thought to slow Harry down, though, so Harry supposed he should be grateful. He was definitely going to do everything in his power to make sure that Snape survived Voldemort's second bid for power and didn't become one of the most hated wizards in Britain (well, not any more than he already was among those who didn't…appreciate…his unique style of teaching. Seriously, didn't they have a seminar all potential teachers had to attend or something?).
+
+Harry landed gently on his feet. That surprised him; he'd expected Snape to just let him fall when he was close enough to the ground to not get hurt. Then he remembered that Snape was rather bad at flying and figured he landed on his ass one or two times to many for him to do it to Harry.
+
+Triumphant, Harry held up the Snitch. Within seconds, he was mobbed by the rest of his team.
+
+"Good game," he managed to tell Draco as he was being dragged away to Hagrid's hut by Ron, Hermione, and (surprisingly) Neville. "I really lucked out that the Snitch just happened to be right in the path of my fall, huh?"
+
+"It was Snape!" Ron declared, once at Hagrid's. "Hermione and I saw him. He was cursing your broomstick, muttering, he wouldn't take his eyes off you."
+
+"Rubbish," Hagrid insisted. "What would Snape do somethin' like that?"
+
+"Doesn't Snape do all that whenever we have Potions?" Neville asked.
+
+Harry laughed. "Yeah, I do tend to provoke him a bit." At Hermione's Look, he amended, "Okay, a lot. But he's not going to try and kill me for it and he DEFINITELY isn't stupid enough to try anything in front of the whole school He'd probably try to poison me."
+
+"But Harry, I know a jinx when I see one; I've read all about them! You've got to keep eye contact, and Snape wasn't blinking at all, I saw him!" Hermione said urgently.
+
+"Even if you ignore the fact that, as Neville pointed out, that kind of behavior is par for the course when Snape sees me, Snape was probably trying to stop me from falling off. I mean, he may not be a very good teacher, but he's not so bad as to actively try to murder his students. Besides, he was the one to slow me down when I jumped off so I didn't break anything."
+
+Hermione crossed her arms. "Okay, I'll bite. If it wasn't Snape, who *was* cursing your broom?"
+
+"Quirrell."
+
+Hermione's eyes bulged out. "What?"
+
+"That's even less likely than it bein' Snape," Hagrid added helpfully.
+
+Ron just stared at Harry.
+
+Neville was the only one who thought to ask, "Why do you think that? I mean, Professor Snape is much scarier and evil-looking than Professor Quirrell."
+
+"Exactly," Harry nodded. "So if it's that obvious that he's evil to a bunch of first years, Dumbledore would have probably picked up on it." Harry paused. Dumbledore did have the slight tendency to be optimistic to the point of foolishness. "Or at least Professor McGonagall."
+
+"But wouldn't he have to trust Quirrell, too, since he's also a teacher?" Hermione asked.
+
+Harry shook his head. "Nah, it's Quirrell's first year. Plus, I talked to some of the older students and it turns out that there's some sort of curse on the position."
+
+Hermione looked skeptical. "A CURSE on a JOB?"
+
+Harry shrugged. "Well, how else do you explain that nobody's lasted longer than a year for forty years?" Hermione didn't have an answer, so Harry went on. "And it can't be Snape because his turban doesn't make my scar hurt."
+
+Hermione rolled her eyes like 'Oh god, not *this* again.'
+
+"But Snape doesn't wear a turban," Ron said, confused.
+
+"Exactly. Quirrell does though and I've learned that people in turbans are not to be trusted."
+
+"How many people have you met who've worn turbans, Harry?" Hermione asked him.
+
+"Well, only the one," Harry admitted. "But he just tried to kill me! And to answer your question, Neville, while we all know that Snape hated my father with a passion and seems to think I'm James Potter reincarnate, he hasn't once mentioned my mother. He's insulted me on everything else in my life but her, which seems strange. Do you have any idea why, Hagrid?"
+
+Hagrid, who was looking more uneasy at the second at the thought of Hogwarts Professors hired by Dumbledore out to kill Harry, brightened immediately. "Oh yeh, they were great friends, yer mum and Snape. At least til that fight at the end o' their sixth year."
+
+"Then why does he pick on you so much?" Neville asked.
+
+"Well, I look like my dad, right? Apparently I have my mother's eyes, though, and have you ever noticed he never makes eye contact with me? Besides," at this Harry grinned. "It's not like I don't give as good as I get."
+
+------------------------------------------------------------------------
+
+The next month just flew by and Harry was surprised to wake up one day and realize that it was almost Christmas. He really needed to get a move on with those Christmas gifts. He also paid the Weasley twins ten galleons apiece in order to have snowballs constantly following Quirrell around and bouncing off the back of his turban where Harry knew Voldemort was. They didn't want to accept that much money at first, but then Harry explained that by 'constantly' he meant 'until the snow melts.' They'd even managed to prevent the snow from melting inside and vanishing whenever any other teacher was nearby. Pure genius.
+
+One day, after Potions ended, Harry, Ron, Hermione, and Neville (who still persisted to hang out with them, which Harry thought was odd, but then, he was used to a trio. Maybe it was time to get used to the idea of a quartet? Even Ginny hadn't managed to really join them once she and Harry had started dating, but then, Ginny had started trying in their sixth year not first) happened by Hagrid on their way to the Great Hall.
+
+"Hi Hagrid, want any help?" Ron asked, figuring it was the polite thing to do even if he wasn't exactly sure *how* to help.
+
+"Nah, I'm all right, thanks Ron," Hagrid replied, realizing the same thing.
+
+"Would you mind moving out of the way?" Malfoy asked impatiently. "Are you trying to earn some extra money, Weasley? Hoping to be a gamekeeper yourself when you leave Hogwarts, I suppose – that hut of Hagrid's must seem like a palace compared to what you're family's used to."
+
+Harry met Neville's eye and they both moved forward to hold Ron back as he started to lunge at Draco.
+
+"And just how would you know what Ron's house looks like?" Harry asked. "Are you some sort of stalker?"
+
+Draco looked surprised. "What? Of course not!"
+
+"I don't know, it kind of sounds like you are. What do you think Ron?" Harry hoped that by involving Ron in a verbal battle they could avoid a physical one.
+
+"I think you're right," Ron agreed, still straining against them but starting to calm down.
+
+"Besides, didn't we already have this discussion about how not everyone can be Manor Lords?" Harry asked. "Honestly, you'd think the scion of wealthy Pureblood families would have a better long-term memory."
+
+"Oh, I know," Neville agreed. His short-term memory had improved dramatically since getting away from the pressure of being expected to live up to his parents' legacy by his well-meaning but misguided relatives and finding friends who didn't keep comparing him to them (and Harry had even gone out of his way to criticize the way his relatives had piled those unrealistic expectations on him his whole life). He was still scared of Professor Snape, however, who was at that very moment coming up behind Malfoy.
+
+"What is the meaning of this?" he asked silkily, eyeing the still-struggling Ron.
+
+"Nothing much," Harry said brightly. "Just a friendly discussion on whether or not all the inbreeding affects one's memory."
+
+"Then how do you explain Mr. Weasley?"
+
+"Well, Ron's a Pureblood so he got kind of offended," Harry explained.
+
+"Why wasn't Mr. Longbottom equally offended?" Snape asked.
+
+Harry looked to Neville.
+
+"I often wonder the same thing myself," Neville said, thinking quickly. "Merlin knows I've had my share of memory problems over the years." He paused. "Or at least I think I have."
+
+Snape looked to Malfoy, who remained quiet, not wanting to admit that he'd provoked them when they hadn't even responded properly and so the Potions Professor just shook his head. "Move along, all of you."
+
+"I am going to kill him," Ron announced.
+
+"Make sure you at least do it after he does something to deserve it," Hermione advised, knowing there was little sense in trying to reason with him when he was like this. "And anyway, Neville, that was brilliant."
+
+He blushed. "Thanks."
+
+------------------------------------------------------------------------
+
+On Christmas morning, Harry woke up to a larger stack of presents than he'd expected. Of course, it was still much smaller than he was used to, but he was fairly certain it was bigger than he had received his first first year.
+
+"Merry Christmas," Ron said sleepily as he stumbled over to his pile.
+
+"You too," Harry replied, picking up the first present.
+
+All in all, it was a good haul. He got a wooden flute from Hagrid, a fifty-pence piece from Aunt Petunia (which he gave to Ron), death threats from Uncle Vernon (no doubt for his parting words at the station), a Weasley sweater and fudge from Molly, Chocolate Frogs from Hermione, his father's invisibility cloak from Dumbledore, Pranking 101 from the twins, a broom servicing kit from Draco, and a photo of his Mum and Dad (along with Frank and Alice) from Neville. Harry was especially happy with the last present. Yes, this was a much better haul than before.
+
+Harry looked up at the sound of Ron gasping. "Harry…is this what I think it is?"
+
+"That depends," Harry grinned. "On what exactly you think it is."
+
+"A Nimbus 2000," Ron breathed. "But…but Harry, I don't even…"
+
+"Don't worry about it," Harry told him. "Your mother made me a sweater because you knew my relatives wouldn't bother and I got you a broom so you can have an advantage when you're playing the twins because they are *good*."
+
+Ron looked torn between accepting the gift and bristling at what he still considered charity. Finally, his desire to have a top-of-the-line broom for once in his life one out. "Thank you," he said quietly.
+
+"Hey, what are friends for?"
+
+Just then, the door flung open and Fred and George bounded in.
+
+"Merry Christmas!"
+
+"Thanks for the book on becoming Animagus!"
+
+"Most people just get us books on pranks-"
+
+"Which are nice-"
+
+"But you can't rely too much on those-"
+
+"As great pranksters must always be original."
+
+Harry smiled. "Don't go rushing things and getting hurt, but see if you can manage it before you graduate."
+
+"You're on," they agreed.
+
+In addition to Ron and the twins, Harry got thick wooly socks for Dumbledore (anonymously, of course), a book on Herbology for Neville, hair care products for Draco (he really wished he had a camera to see the look on his face, although he clearly used something on his hair), Hogwarts a History for Hermione (so she wouldn't have to keep checking it out), a sickle for the Dursleys in return for the fifty-pence, and The Monster Book of Monsters for Hagrid (since he already knew he would enjoy it).
+
+"What's all that noise?" Percy asked, sticking his head into the doorway.
+
+His brothers, who had been in the middle of discussing their sweaters, looked up at him.
+
+"P for prefect! Get it on, Percy, come on, we're all wearing ours, even Harry got one," Fred said.
+
+"I guess she didn't hear the real story behind the troll, huh?" George added.
+
+"I – don't – want-" Percy protested as the twins forced the jumper over his head.
+
+"And you're not sitting with the Prefects today, either," said George. "Christmas is a time for family."
+
+And with that, the five headed down to Christmas dinner. Strange, though, Percy didn't seem to be nearly as reluctant to spend time with them as he wanted them to think.
+
+Review please!
+
+</div>
+
+</div>

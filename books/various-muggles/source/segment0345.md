@@ -1,0 +1,53 @@
+<span id="seg-0345__seg-0345-b5f131de52"></span>
+
+<div id="seg-0345__s6-bc6df459c2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 6: Why?
+
+<div id="seg-0345__storytext-9c93142583" class="calibre4">
+
+...In Dumbledore's transfiguration workroom, as he sat and concentrated, alone. Harry's jaw dropped; the previously buried thought now broke into his stream of consciousness: "What if transfigured Hermione is the real Hermione? It explains why the source of magic didn't know her, why it couldn't find her, and why it couldn't distinguish between the real and transfigured versions."
+
+There was total silence in the room, and Harry couldn't look away. Eventually the steel sphere morphed into a human being. James and Lily gasped.
+
+James, thoroughly disgusted, asked rhetorically "When did Dumbledore become psychotic? What happened to him?"
+
+"Why would Dumbledore do that? What the hell was he thinking?" Harry exclaimed. The system provided him the answer in the best way it could...
+
+------------------------------------------------------------------------
+
+It was nearly the end of summer, so there were no students at Hogwarts. Some of the professors were preparing lessons, but most were still away. The Wizengamot was on summer recess, and the International Confederation of Wizards wasn't scheduled to meet for months. So Dumbledore had some free time.
+
+Dumbledore hated having free time. He tried to keep at least sixteen hours a day scheduled and then relied on his time-turner to deal with anything unexpected. Otherwise he had time to think. And when he started thinking he usually found himself in the most depressing place in his world, the memorial room above his office, thinking about all the people who had died following him.
+
+He paused to inspect the memorials for James and Lily Potter. He couldn't help thinking about them now that their son was preparing to start his first year at Hogwarts. It especially didn't help that Voldemort would rise again and Harry was prophesied to be the only one who could stop him, likely at the cost of his own life. He forced himself to step forward, though this brought no relief, only different names, and his memories of them and their own surviving family members.
+
+Dumbledore turned and descended the stairs back to his office; Minerva McGonagall had just passed the gargoyles. He sat at his desk, pretended to be in a good mood, and willed the door to open. After she entered, he asked "So, my dear, how did you find Harry?"
+
+He didn't read minds without consent unless there was an important reason, and McGonagall was clearly in no mood for a lengthy verbal or telepathic interview. Her attitude communicated something like "I can't explain; you have to meet him for yourself". At least this gave him something to do. After she left, he pulled on the cloak of invisibility, turned his time-turner back six hours, and had Fawkes drop him off in Diagon Alley.
+
+After watching Harry for six hours, he now understood McGonagall's attitude, which he considered a severe under-reaction. This boy was supposed to be the hero, to defeat a dark wizard, while instead he seemed to delight in causing chaos, plotting for his own gain, and was possibly considering dark wizardry and world domination. And he was apparently intelligent enough to be successful at any of those goals, given enough time.
+
+Dumbledore had spent the past few hours pondering how to influence the Harry he was seeing to grow into the hero the country would need, but failed to come up with a plan he was happy with. Now he was out of time; McGonagall had said goodbye and apparated away and Harry was walking to the door of The Leaky Cauldron, so he chose a plan. A few families happened to be fresh in his mind from his memorial room, including one Muggle couple that had no children, and would therefore require the least effort and fewest memory charms to work with...
+
+He stepped toward Harry and whispered "Hermione Granger... Look for a first-year girl named Hermione Granger on the train to Hogwarts." Then he apparated away as well.
+
+A few days later, Dumbledore went to his transfiguration workroom, touched his wand to a steel sphere and began concentrating. He had found some pictures of Roberta Granger and her mother, both of whom he was using as a goal, knowing that otherwise he would likely end up with a copy of Ariana. Long ago, he had awed his transfiguration professor by producing magical creatures, but this was his first attempt at a person. He took his best guess at how much magical strength a first year student should have, figuring he should probably get as close to average as possible.
+
+A while later, a blank Hermione Granger existed. Dumbledore's primary goals for this person were to push Harry to focus on schoolwork, to learn as quickly as possible by competing with him academically, and to become his friend and use that influence to pressure him to do the right thing rather than compromising ethical standards while plotting to achieve his ambitions. Applying memory charms of experiences was tedious, requiring multiple channels to be created, each in real-time, and there was no practical way to implement this for a whole life, even for a child. However, applying memory charms of knowledge could be done at much higher speeds. He chose for Hermione to have spent most of her life reading and studying, having few interactions with other people. He memory charmed her with the Hogwarts first year texts, the supplemental material for those texts, other books about the history of the world and the school, a set of muggle textbooks he had obtained earlier that day, and other muggle books he had acquired.
+
+As tedious as memory charms could be, Dumbledore understood them. However, he had never tried to create or modify a personality before, and wasn't totally sure how to accomplish it, but it was critical to his plan. He added a handful of experiential memories focused mostly on setting moral precedents: helping others when possible and enjoying it, being outraged at seeing others do bad things, and following the requests of her parents and teachers and enjoying their resulting praise.
+
+He then woke her up with an innervate, and asked her a few questions to verify that her memory and personality were about right, which they were, surprisingly enough. Dumbledore then called for Fawkes, and the three of them transported to the train station, where he left Hermione with a trunk and a book to wait for Harry Potter and the train to Hogwarts.
+
+The flashback concluded with a line of a conversation Harry had almost forgotten:
+
+"...I'm sorry to say, Harry, that I am responsible for virtually everything bad that has ever happened to you. I know that this will probably make you very angry...I wanted to tell you as early as possible, in case something happens to one of us later, that I am truly, truly sorry. For everything that has already happened, and everything that will."
+
+</div>
+
+</div>

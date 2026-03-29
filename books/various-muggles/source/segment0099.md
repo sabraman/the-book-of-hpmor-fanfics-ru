@@ -1,0 +1,211 @@
+<span id="seg-0099__seg-0099-33a88a5a0f"></span>
+
+<div id="seg-0099__s2-4205714cdf" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 2: Everything I Believe Is False
+
+<div id="seg-0099__storytext-9c93142583" class="calibre4">
+
+------------------------------------------------------------------------
+
+*"Of course it was my fault. There's no one else here who could be responsible for anything."*
+
+------------------------------------------------------------------------
+
+Oddly enough, it might have been easier explaining to his dad that an owl had grabbed the letter after all.
+
+"What? *Mrs. Figg*?" Professor Evans-Verres's shock was spectacular. Harry empathized completely. He sat at the table between the living room and kitchen, somewhat in a daze.
+
+"Did she say what time they would be coming?" Petunia asked. She checked the pot roast and ran her hands over her hair, as if expecting someone to ring the doorbell any minute.
+
+"We've known Mrs. Figg for ten years," Harry's dad said. "She's a perfectly reasonable woman, why on earth would she-"
+
+"No Mum, she just said they'd be here in a 'jiffy or two.' I don't know how far they're coming, but it's probably not going to be..." Harry trailed off as he realised that, given the hypothesis being tested, it might well be before the pot roast was done. He tried to remind himself that was silly, teleportation would break so many laws of physics there might as well not *be* any, but ever since he'd heard the word "Hogwarts" come out of Mrs. Figg's mouth, his brain didn't seem to be working properly. A part of his mind took note of his dad's comment about knowing Mrs. Figg for ten years. Had she moved here the year Harry had been adopted? That seemed significant, if he could only wrestle his mind into considering how.
+
+"Maybe she sent the letters," Dad said. He began to to pace the limited floorspace of the living room, feet stepping around books with the unconscious ease of memory. "Or she's part of the same cult your sister was in-"
+
+"Well better set an extra place just in case." Mum put a stack of plates in front of Harry, and he set the table for four, placing each fork and knife with an inordinate amount of attention. Dad's theories made sense of course, more sense than his did, but his strange certainty continued to color all his thoughts as he set out the cups.
+
+Dad suddenly gripped the back of the couch, face horrified. "We let her *babysit* you!"
+
+A knock at the door froze them all in place.
+
+Dad was the first to thaw. He straightened, squared his shoulders, and walked to the front door, dignity fully reinforced by his casual tweed homewear.
+
+Mum wiped her hands on a towel and followed, and Harry rushed after them, wondering if it would be Mrs. Figg and knowing somehow that it wasn't. Dad peered through the peephole and recoiled as if stung. Harry's anticipation redoubled.
+
+"Yes, who's there?" Professor Evans-Verres's voice did not tremble.
+
+"Professor Minerva McGonagall," said a formal, Scottish voice, and Michael twitched. Harry wondered why, until his dad opened the door.
+
+Professor McGonagall was an older woman, perhaps in her sixties, with greying hair in a severe bun and square spectacles perched on her nose. She looked every inch the professor she claimed to be, but for two things: she wore a black robe of some rich fabric, and her hat was decidedly pointy.
+
+Harry grinned. His father's mental image of "professor" had just been severely abused.
+
+"Come in, please," Petunia said with a smile. "Supper's almost ready, if you're hungry."
+
+"I ate, thank you." Professor McGonagall said, and walked inside. Harry and his parents stepped back to let her through.
+
+"I'm Petunia Evans-Verres, so nice to meet you..." The two walked down the hall, leaving Harry and his dad by the door. Harry closed it, then exchanged a look with his father.
+
+"What do you reckon?" he whispered. "Time to call the white coats?"
+
+Dad snorted and clapped him on the shoulder with a grin. "Come on, let's get this foolishness done with." They followed the women into the living room.
+
+"Got an experiment in mind?" Harry asked. He was still feeling off balance. That strange certainty was stronger now, as if this were all a formality, and he already accepted that the woman in their house was a witch, without quite being able to grasp what that would mean in a practical sense.
+
+"I can't imagine anything I would come up with that she wouldn't make an excuse for," his father said, still keeping his voice low. Harry nodded, and decided to be forthright with their guest, who stood expectantly in the living room. She eyed the multitude of books with what looked to be an admiring air, which Harry found reassuring.
+
+"Good evening Professor McGonagall. As I'm sure you're aware-" Harry stopped. He actually wasn't sure *what* she was aware of. Had she received his letter? What had Mrs. Figg done, read it to her over the phone? Perhaps she had stopped next door to retrieve it before coming here... Harry stifled his questions and began again. "I'm Harry Potter-Evans-Verres. We were surprised by your letter, and have some doubts about its validity. Mum says she's seen magic before, but neither Dad nor myself have. If you could demonstrate the quality of your magic to us, that would be a good first step."
+
+Professor McGonagall was watching Harry with an amused expression as he spoke. "Of course, I would be happy to." She pulled a thin wooden stick out of her sleeve with practiced grace, and Harry blinked. He hadn't seen the shape of it against the material, and it should have fallen out if it wasn't held there somehow. "Is there something specific that would persuade you?"
+
+Still preoccupied with her sleight of hand, it took Harry a second to realize she was holding a "magic wand," and he said the first thing that popped into his head: "Can you shoot fire out of that?"
+
+"Harry!" Mum said with some alarm, and Professor McGonagall's lips twitched in a brief smile.
+
+"I could, but I think that would be dangerous." She glanced pointedly at their surroundings. "How about something less destructive?"
+
+"Of course," Harry said, cheeks red. "Er... did you fly here? I didn't hear a car, and unless you live nearby I can't imagine how else you got here so quickly. If you could just... hover a bit? That might help. Wait, on second thought, levitate Dad."
+
+Professor Evans-Verres gave Harry an approving nod, and stepped forward to face their guest with his arms crossed. Professor McGonagall lifted her wand, and Harry realized his mistake. "Wait!" he said. She lowered her wand, raising an eyebrow. "I want to make sure we do this right." He thought about it for a second while everyone watched him.
+
+"Now, just to be clear," Harry said to his Dad. "If the professor does levitate you, when you know you haven't been attached to any wires, that's going to be sufficient evidence. You're not going to turn around and say that it's a magician's trick. That wouldn't be fair play. If you feel that way, you should say so now, and we can ask her to do something else instead."
+
+Dad nodded, smiling good-naturedly. "Agreed."
+
+"And you, Mum, your theory says that the professor should be able to do this, and if that doesn't happen, you'll admit you're mistaken. Nothing about how magic doesn't work when people are sceptical of it, or anything like that."
+
+Mum glanced at Professor McGonagall's wand and nodded.
+
+"Is that sufficient, Mr. Potter?" Professor McGonagall said. "Shall I go ahead and demonstrate?"
+
+"Sufficient? Probably not, but it should do for now," Harry said. Once he saw her methodology he could better decide how to isolate her actions and their relation to the result... assuming there was a result. Did he really expect his father to start floating? "Proceed, please."
+
+"Is there anything you'd like me to do?" Professor Evans-Verres said, still smiling. "Think light thoughts, perhaps?"
+
+"No need, thank you," Professor McGonagall replied, and then, "*Wingardium Leviosa*."
+
+Harry looked up at his father. "Huh."
+
+His father looked down at him. "Huh."
+
+There was a silent pause that Harry knew he would always remember... the moment when his world utterly changed. Everything was still, as if suspended in crystal: he and his mother, staring in shock, the witch holding her wand pointed up at his father, who hung a respectable three feet off the ground in complete defiance of gravity.
+
+And then Professor Verres-Evans looked back at Professor McGonagall and said in a voice Harry had never heard him use, "All right, you can put me down now, thank you." His father was lowered carefully to the ground, and the moment was ended. The universe continued on as it had before.
+
+Harry ruffled a hand through his dark hair. Maybe it was just that strange part of him which had *already* been convinced, but... "That's a bit of an anticlimax," Harry said. "You'd think there'd be some kind of more dramatic mental event associated with updating on an observation of infinitesimal probability-" Harry stopped himself. Mum and the witch were looking at him oddly. Dad slowly sat down, not even bothering to move the book from the chair as he stared at the piece of wood in Professor McGonagall's hand. "I mean, with finding out that everything I believe is false."
+
+Seriously, it should have been more dramatic. His brain ought to have been flushing its entire current stock of hypotheses about the universe, none of which allowed this to happen. But instead it just seemed to be going, *All right, I saw the Hogwarts Professor wave her wand and make* *Dad* *rise into the air, now what?*
+
+The witch was smiling benevolently upon them, looking quite amused. "Would you like a further demonstration, Mr. Potter?"
+
+"You don't have to," Harry said. "Though I should probably ask you to do it again just to ensure experimental reliability, we've performed a definitive experiment. That wasn't some trick with mirrors, it wasn't hypnotic suggestion, he actually lifted off the ground, we all saw it... but..." Harry hesitated. He couldn't help himself. Actually, under the circumstances, he *shouldn't* be helping himself. It was right and proper to be curious. "What else *can* you do?"
+
+"Besides shoot fire, you mean?"
+
+Dad looked as alarmed as Mum had a moment ago.
+
+"Yes, besides that." Though Harry actually would love to see it. He was starting to get excited. Would he really be able to fly? Conjure fire at will? How? Did he accelerate the atoms in the air until they combusted? *Maybe I use my body heat to-*
+
+Professor McGonagall turned into a cat.
+
+Harry scrambled back without thinking, backpedalling so fast that he tripped over a stray stack of books and landed hard on his bottom*.* His hands came down to catch himself too late, and there was a warning twinge in his shoulder as the weight came down unbraced.
+
+At once the small tabby cat morphed back up into a robed woman. "I'm sorry, Mr. Potter," said the witch, sounding sincere, though the corners of her lips were twitching upwards. "I should have warned you."
+
+Harry was breathing in short gasps. It felt like a dam had broken in his mind. His voice came out choked. *"You can't DO that!"*
+
+"It's only a Transfiguration," said Professor McGonagall. "An Animagus transformation, to be exact."
+
+"You turned into a cat! A *SMALL* cat! You violated Conservation of Energy! That's not just an arbitrary rule, it's implied by the form of the quantum Hamiltonian! Rejecting it destroys unitarity and then you get FTL signalling! And cats are *COMPLICATED!* A human mind can't just visualise a whole cat's anatomy and, and all the cat biochemistry, and what about the *neurology?* How can you go on *thinking* using a cat-sized brain?"
+
+Professor McGonagall's lips were twitching harder now. "Magic."
+
+"Magic *isn't enough* to do that! You'd have to be a god!"
+
+Professor McGonagall blinked. "That's the first time I've ever been called *that.*"
+
+A blur was coming over Harry's vision as his brain started to comprehend what had just occurred. Here was the shock he'd been expecting, all the stronger for its delay.
+
+The whole idea of a unified universe with mathematically regular laws, that was what had been flushed down the toilet; the whole notion of *physics*. Three thousand years of resolving big complicated things into smaller pieces, discovering that the music of the planets was the same tune as a falling apple, finding that the true laws were perfectly universal and had no exceptions anywhere and took the form of simple maths governing the smallest parts, *not to mention* that the mind was the brain and the brain was made of neurons, a brain was what a person *was* -
+
+And then a woman turned into a cat, so much for all that.
+
+Harry's head hurt.
+
+A hundred questions fought for priority over his lips, and the winner poured out: "And what kind of incantation is *Wingardium Leviosa?* Who invents the words to these spells, nursery schoolers?"
+
+"That will do, Mr. Potter," Professor McGonagall said crisply, though her eyes shone with suppressed amusement. "If you wish to learn about magic, I suggest that we finalise the paperwork so that you can go to Hogwarts."
+
+"Right," Harry said in a daze. Paperwork. Some things never changed, it seemed, even in a world of magic. He pulled his thoughts together and stood up. The March of Reason would just have to start over, that was all; they still had the experimental method and that was the important thing.
+
+"Are you alright darling?" Mum said, putting a hand on her husband's shoulder.
+
+Professor Evans-Verres did look rather pale. He patted her hand. "I - I think so dear, thank you." He then brought her hand to his lips in a rare show of public affection. "And... I'm sorry."
+
+Petunia smiled and squeezed his hand. "That's alright. I was just as doubtful with Lily, and I didn't have half as many good reasons to be as you."
+
+Dad smiled at her, then looked at Harry. "I'm sorry to you too, son. You were right. 'The final arbiter is observation,' indeed. I don't know if I can quite take all this in properly, but..."
+
+Harry had choked up a bit, and now smiled back at his parents. "I had some help, or I would probably have been just as doubtful. Maybe it's a wizard thing. I'll explain another time." He turned to Professor McGonagall, who he now remembered was also the Deputy Headmistress to Hogwarts. A real school for wizards and witches. He couldn't begin to imagine what it would be like, with professors like this. "I'm ready. How do I get to Hogwarts?"
+
+A brief laugh escaped Professor McGonagall, as if extracted from her by tweezers. "I won't be whisking you away by magic, if that's what you're expecting. As the letter said, term starts September 1st. I will come again and explain how transportation will occur, as well as help you obtain your school supplies."
+
+"Hold on a moment, Harry," his father said. "Remember why you haven't been going to school up until now? What about your condition?"
+
+Professor McGonagall turned to face Michael. "His condition? What's this?"
+
+"I don't sleep right," Harry said. He waved his hands helplessly. "My sleep cycle is twenty-six hours long. I always go to sleep two hours later, every day. 10PM, 12AM, 2AM, 4AM, until it goes around the clock. Even if I try to wake up early, it makes no difference and I'm a wreck that whole day. That's why I haven't been going to a normal school up until now."
+
+"One of the reasons," said his mother. Harry winced. He didn't want his potential future teacher and Deputy Headmistress to have a biased opinion of him.
+
+*Even if it might be a bit deserved?* asked his inner self-critic.
+
+*It could be important for the teachers to know,* commented his utilitarian side. *Remember when our science project-*
+
+*Shut up or they might not teach us magic!* said his Id, and the other parts of Harry promptly fell into agreed silence.
+
+McGonagall gave a long *hmmmmm.* "I can't recall hearing about such a condition before..." she said slowly. "I'll check with Madam Pomfrey to see if she knows any remedies." Then her face brightened. "No, I'm sure this won't be a problem - I'll find a solution in time. Now," and her gaze sharpened again, "what are these *other* reasons?"
+
+Harry sent his parents a glare, then straightened his shoulders. "I," he said with deliberate gravity, "am a conscientious objector to child conscription. On grounds that I should not have to suffer for a disintegrating school system's failure to provide teachers or study materials of even minimally adequate quality."
+
+Both of Harry's parents burst out laughing. "Oh," said Harry's father, eyes bright, "is *that* why you bit a maths teacher in third year?"
+
+"*She didn't know what a logarithm was!*"
+
+"Of course," seconded Mum. "And biting her was a very mature response."
+
+Dad nodded. "A well-considered policy to address the failings of a disintegrating school system."
+
+"I was *seven years old!* How long are you going to keep on bringing that up?"
+
+"I know," said his mother sympathetically. "You bite *one* maths teacher and they never let you forget it, do they?"
+
+Harry turned to Professor McGonagall as his father chuckled. "Are you sure you can't just whisk me away now?"
+
+"Quite sure." Professor McGonagall's restrained smile threatened to burst into a grin at any moment. "And there is to be no biting of teachers at Hogwarts, is that quite clear, Mr. Potter?"
+
+Harry scowled at her. "Fine, I won't bite anyone who doesn't bite me first."
+
+"Better not ask him to build a volcano either," Dad suggested, and his mother began howling with laughter. "Not unless this school of yours is magically fireproof."
+
+"*Dad!"* Harry yelled, cheeks burning.
+
+"Well," Professor McGonagall said. "I think, under the circumstances, that I should avoid taking you to purchase your study materials until a day or two before school begins."
+
+"What? Why? The other children already know magic, don't they? I have to start catching up right away! I promise not to burn down the school!" It occurred to him exactly a second after saying it out loud that his *having* to say it was not particularly encouraging.
+
+"Rest assured, Mr. Potter," replied Professor McGonagall, "Everyone at Hogwarts will begin with the basics, and the school is quite capable of teaching its students without risk of self-destruction. On the other hand, I suspect that if I leave you alone for two months with your schoolbooks, even without a wand, I will return to this house only to find a crater billowing purple smoke, a depopulated city surrounding it and a plague of flaming zebras terrorising what remains of Oxford."
+
+Harry's mother and father nodded in perfect unison.
+
+"*Mum! Dad!* "
+
+</div>
+
+</div>

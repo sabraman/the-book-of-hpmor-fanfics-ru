@@ -1,0 +1,199 @@
+<span id="seg-0674__seg-0674-f53ed47a18"></span>
+
+<div id="seg-0674__s27-fa23126591" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 59: Testament
+
+<div id="seg-0674__storytext-9c93142583" class="calibre4">
+
+For the second time in his life Harry sat in the Malfoy vault in Gringotts. This time nobody made him wait.
+
+There had been rigorous security, of course. He'd been wanded, probed and studied, but allowed to keep his wand and pouch. Mad-Eye Moody had made it clear: under no condition would Harry Potter be left defenceless after two ambushes in as many weeks. He'd demanded that each party be allowed wands and personal guards.
+
+Narcissa Malfoy had accepted graciously, Gringotts had not. Several increasingly heated letters OWLed back and forth.
+
+Gringotts stated that Harry Potter was in no way exempt from typical bank security. While Gringotts (both the company and all individual employees) *absolutely* believed that Mr. Potter did not intend to steal anything from this (or any other vault) and took no position on the general ... *unpleasantness* currently being debated. That being said, Gringotts had a fiduciary responsibility to all their customers that mattered more than their (obvious!) sympathies towards Harry Potter. Why, if even mighty Peverell Hospital could be broken into, Gringotts would take no chances.
+
+Politely, and with much legalese, Harry's request for personal security was denied.
+
+At which point the magical government of Britain intervened, again requesting a one time waiver due to extenuating circumstances.
+
+Gringotts initially responded with an outright rejection, then a letter examining in some detail just how much a waiver would cost. An hour latter, a letter marked with the Seal of the Chief Mugwump calmly suggested that if Gringotts did not feel comfortable hosting a meeting between two second year students and Narcissa Malfoy and that the security requirements of said meeting were beyond their ability to handle then Gringotts should simply publicly declare that fact, at which point of course other arrangements could be made.
+
+After sending *that* letter (having stolen a supply of scrolls and an extra seal of the Chief Mugwump months ago), Harry fully expected a long missive stating something along the lines of 'we feel it is a gross mischaracterisation to refer to the Hermione Granger (aka The-Girl-Who-Revived) and Harry Potter (aka The-Boy-Who-Lived-And-Is-Also-Possibly-Voldemort) as *two second year students* and said forementioned gross mischaracterization understated the real threats involved. More litigious parties than Gringotts may consider that as a borderline libelous statement,' at which point the letter would continue with a ridiculously long list of counter-demands.
+
+Gringott's actual response simply enumerated convenient times and a request for the typical 27 hours advance notice for the meeting, along with the standard boilerplate detailing in-vault guards.
+
+Harry, feeling mildly insulted that Gringotts accepted (his own) characterization of himself as a mere *second year student*, briefly toyed with the idea of never using ironic self-effacement again.
+
+And so it came to pass that Harry Potter walked into the Malfoy family vault to face Narcissa Malfoy ten days after her son's funeral. To Harry's surprise, Narcissa didn't appear active in the political drive opposing him. She'd confirmed the relevant facts when interviewed by the *Daily Prophet.* The only interview she'd given portrayed her as an outraged mother who'd just lost a child, nothing more. Narcissa hadn't attended the Wizengamot during the lengthy debates and votes for sanction, although she'd left instructions to vote for Gilderoy Lockhart's pardon.
+
+Even if Harry wanted to, he dare not keep her under surveillance because somebody would notice (or perhaps an Auror would even leak the information) and he'd look even worse. But Narcissa Malfoy stayed well out of the public spotlight. By all accounts, she was too good an *Occlumens* for Harry to know if she was just playing the role of a grieving mother. But even if she secretly rejoiced in Draco's death (which Harry sincerely doubted) Narcissa had simply withdrawn from public society, as far as anyone could tell.
+
+His contacts at the *Prophet* indicated she had not interfered in day-to-day operations the entire time she'd been back. Still, nobody could ever pin that on Lucius, back in the day. Not that direct interference had been necessary. In a situation like this you didn't need a cackling boss dictating the news. There would always be enough people (at all levels) who would consider it generally advantageous for their career to print news that helps the owner. So if the reporters merely imagined that's what Narcissa would want - to have Draco not die in vain - that was enough. The *Prophet* had printed stories about Harry's connection to Voldemort every day for the last week and a half. It boosted circulation.
+
+Amelia Bones spent her days fighting Harry's political war. Harry understood people in abstract, but he had no special advantage in politics. Horace Slughorn had been investigating Hogwarts since his return just as a matter of routine intrigue. To cement his position. Once he'd sniffed that Harry was Tom Riddle he'd focused intently. Slughorn hadn't found anything solid (apart from the Maurader's Map that Draco provided) but he'd gotten enough circumstantial evidence to indicate that Harry sat behind the scenes, masterminding.
+
+The *Prophet* parcelled these facts out, a steady stream of curious coincidences and "damning" evidence. Harry understood how people thought, and how mobs worked, but only at a theoretical level. Newspapers lived and died on this, and the country was dividing.
+
+Every day he read the paper, as an internal debate raged.
+
+*If I were an uninterested 3rd party (but just as smart), I'd recognize the signs of a hatchet job and all the sloppy logic.* said Ravenclaw.
+
+*But you'd still note the information,* said Hufflepuff. *Even if you discounted it you'd have to nudge up the probability that something strange was going on. Harry Potter may not be Dark Wizard level, but still, best to keep an eye on him. Some disturbing facts here.*
+
+Harry had some ideas how the Prophet placed him in the same room as Amelia Bones over winter break. And while they didn't have absolute proof, they'd gotten it right on at least that occasion.
+
+*And at some point, you'd decide to investigate this Harry Potter yourself,* said Gryffindor.
+
+None of his voices said "I'd prove his innocence." If Harry could do that, he wouldn't be in this mess with Draco in the first place.
+
+One lone voice said, *I'd prove Harry Potter wasn't a monster.*
+
+At which point Slytherin chimed in, *Assuming you didn't fall for the one subtle (and hard to disprove) lie the Prophet slipped in.*
+
+Harry had been watching for the subtle lie. So far it hadn't appeared.
+
+Still reviewing the latest *Daily Prophet*, Harry was escorted into the vault with Narcissa and the Malfoy family solicitor for the last two decades, a Mr. Erasmus Farnsworth, Esq. As Harry folded up his paper, he reflected that he'd never seen a Wizard Lawyer (Amelie handled that). Harry recognized the traditional lengthy waxed black moustache, honed to a pair of fine points. The entire effect would inspire feelings of inadequacy in Snidely Whiplash, but it looked no less ridiculous than those terrible wigs that Muggle judges wore, in Harry's opinion. Farnsworth sported a pair of minuscule round eyeglasses, attached to his hat via a small black rope. Narcissa still wore mourning robes and a veil. She sat on the other side of the table, while Mr. Erasmus Farnsworth nodded solemnly and offered the seats to Hermione, then Harry.
+
+By agreement, there were only four seats at the table. Mad-Eye Moody stood back with the guards. Harry couldn't be sure, but it looked like there was significantly less gold than when he'd been here with Lucius and Draco. House Malfoy remained wealthy, but Draco had spent a lot of his assets over the last year. As his eyes scanned the room, a thought popped into Harry's head. *Check if Draco moved a bunch of cash around in the last few months to use after he died. House Malfoy may not be familiar with forensic accounting. They probably are, but you never know.*
+
+The lawyer took out a scroll and started to read in a solemn voice. "Lady Malfoy, Miss Granger, Mr. Potter, I have asked you here as per the wishes of the deceased for the reading of the will of Draco Malfoy."
+
+"How can that be?" said Harry, shoving down any embarrassment he felt. Hermione kicked him under the table. *As far as anyone else was concerned, Draco was most certainly dead.* "I mean, Draco had not attained the age of majority. Is this will binding?"
+
+Mr. Erasmus Farnsworth, Esq, pulled off his glasses and they dangled from the rope, while he stared at Harry. His voice was lighter, with more velocity than before. "Technically, this will can be contested by any party directly related to the Testator, named in the will, or named in any prior will or revoked codicil. As Draco had filed no prior relevant legal documents, all parties who could contest the will are located here. If there is a desire to contest we can proceed with negotiation or non-binding arbitration, and should no agreement..."
+
+"I understand," said Harry. The lawyer reeled his glasses back up and perched them on his nose, glancing to all parties to make sure there were no questions. Then he continued in his solemn, slow voice.
+
+*"I Draco Malfoy, son of Lucius, son of Abraxis Lords of the Noble and Most Ancient House of Malfoy, son also of Narcissa daughter of Druella Lady of the Noble and Most Ancient House of Black, scion and heir of the Noble and Most Ancient House of Malfoy, declaring that I am of sound mind and body, do hereby declare this my last will and testament."*
+
+As the reading paused, Harry marveled at how the lawyer could say all of that in a single breath, and still sound somewhat elegant.
+
+*"I do hereby bequeath the Sigil Cane of House Malfoy to Lord Harry James Potter-Evans-Verres of House Potter, so that its presence should not disturb the Lady Narcissa Malfoy with sad memories, on the condition that he acknowledges that he retains it only in stewardship until such time as Narcissa Malfoy produces another child of any name, and that afterwards it will be the property of said child, with his or her parents as regent."*
+
+Harry had questions, but he didn't interrupt. Narcissa let out a plaintive sob at the mention of another child.
+
+*"If Mr. Potter does not agree to the request, the Sigil cane shall be disposed of following the standard set by the Last Will and Testament of Lucius Malfoy as if I had preceded him in death."*
+
+*"I bequeath the Diary of Draco Malfoy to Lady Hermione Granger of House Granger in the hopes that she heeds its advice."*
+
+*"I have arranged for correspondence to be delivered to appropriate parties, as per my instructions."*
+
+*"All remaining possessions I do leave to Lady Narcissa Malfoy of House Malfoy. Should she precede me in death, I leave everything to Harry James Potter-Evans-Verres or his designated heirs, to use as best he sees fit to enhance the goal of saving the world."*
+
+The solicitor took of his glasses and rubbed his nose. "Signed by Draco Malfoy on December 22nd, witnessed by Griphook of Gringotts bank, sealed with Gringotts seal," he displayed the scroll for inspection. "Are there any objections to the will as I have just read?"
+
+Narcissa shook her head, still crying. Hermione's head moved imperceptibly, while Harry simply said no. *The cane might be trapped, but I can let Mad Eye inspect it and just shove it away if it's dangerous.\*
+
+"In that case," the solicitor said, "your correspondence and items." He placed Draco's cane on the table in front of Harry. It was swaddled in a black velvet cloth, and Mr. Farnsworth briefly opened the top, revealing the silver Krait handle, then closed it. On top of the cane he gently set down a sealed letter with the words "Harry Potter" in Draco's elegant handwriting.
+
+The lawyer moved smoothly over and placed a small black book in front of Hermione. Harry recognized it as Draco's notebook he'd used for most of the year. *I thought it was just a list of notes, not a diary,* he thought. *And we'll need to inspect it as well.*
+
+In front of Narcissa, the lawyer placed a letter.
+
+Harry broke the seal and started to read.
+
+*To my friend Harry Potter,*
+
+*I write you this letter on Winter Break inside Malfoy Vault, safe from any scrying. Here it will stay, hopefully never to be read, because I have left my solicitor instructions to deliver this letter (and burn all others to you unopened) if I die betraying you.*
+
+*This is my final plot: If you are Voldemort - or should I say, Tom Riddle - I earn some measure of respect for recognizing you and using all tools in my power to oppose you. Though I failed, at least I failed trying my utmost.*
+
+*And if you are not...may you understand and gain some measure of wisdom to aid you in the future.*
+
+*I wish I could have believed you. Or believed in you. My life would've been better.*
+
+*I know I may be wrong. I hope I am wrong, that I'll soon return to Gringott's and rip this letter up, or perhaps show you some day when we are older. But if you are reading this ... this is not an apology, though I believe you will understand.*
+
+*Know that I believe you meant well and that I don't believe you are the exact same monster who killed Father. I know you couldn't save him. This is not about him, except for the fear that haunted me all fall term – repeating his mistake of backing a Dark Wizard. It haunts me, the knowledge that I could be wrong, either way. But I think that if I don't act, don't try to resolve this impossible problem, it will haunt me even more.*
+
+*I am not yet committed, when I write this. I am setting plans in motion – using every resource at my disposal. But I lack information I sorely need. My plots remain flexible, I am ready to pivot them to assisting you and Hermione, an ambition worthy of my family's name.*
+
+*But if you are reading this, I have failed. Hopefully I am wrong, so in this letter I do my utmost to help you, as I should have done from the beginning.*
+
+*I have little to offer. My Diary is now merely a book. It will offer advice only to a true Malfoy in name and blood, and I have no heir. The Sigil Cane of my Father will be of some use, though its power is keyed to my family as well. I doubt it will answer your summons, thought I have not tested that experimentally. What I can offer is advice.*
+
+*All strengths have a corresponding weakness. You saw how I deployed honesty as a weapon. Know that I desperately wished you were not an Occlumens, that you could swear under one drop of Veritaserum that I was wrong. I almost did trust Hermione, despite her training. I do not think deception becomes her, and no magic can hide her inherent goodness. She is the best of us.*
+
+*I doubt even you could corrupt her but I know you could deceive her, if necessary. We know that is your true power, if not your true nature.*
+
+*Your skills as a thinker blinds you to people, normal people. I was not your equal in thinking, but this let me see them more clearly. I wish I could have convinced myself to act as your minion, to smooth your politics and ease your way. Gregory and Vincent can help you. I believe they will want to, and I will arrange my plots to ensure that they have no meaningful foreknowledge. They have never plotted against you. In my correspondence to them, I've asked them to answer any questions you may have. I expect there will be a full investigation in any case.*
+
+*Your strength makes you arrogant. You must temper that.*
+
+*If you are innocent, examine my mistakes and teach others how to avoid them.*
+
+*And treasure family. One day you will have a family of your own. I imagine your children will teach you wisdom, Harry. I know that once I understood Father's mistakes - and the motives behind them - that is when I felt perhaps I could become wise.*
+
+*Your friend,*
+
+*Draco Malfoy*
+
+Harry stared at the letter. Part of him wanted it to be a plot, to have some deeper subtlety beyond the plain confession of the words. A part of Harry thought *I could have avoided this. H*is heart pounded with guilt and shame. He looked over at Hermione and she'd was still just sitting there, the diary untouched. Narcissa cried as she read her letter, but a wry smile was on her face as tears slid down her cheek. Harry started to re-read his letter, but as he did so Hermione reached out and pulled the diary across the table and opened it quickly. Harry could see over her shoulder that all the pages were blank, which made no sense. He'd seen Draco write in this almost every day. *Well, every day I saw Draco*.
+
+Hermione slowly flipped through the pages, bewildered, then started to close the diary. Right before the diary shut she let out a small gasp and re-opened it to the front page. What had been blank now showed a small sketch of an urn. No, a vase. Slowly the sketch added shading and a design. The pencil drew in two flowers that Harry couldn't identify. The lack of colours made it difficult, perhaps they were roses. Brisk, clean lines filled out the sketch with details and suddenly the motion stopped, the sketch complete.
+
+And then in Draco's elegant cursive, the signature *D.M.* and, underneath the words appeared
+
+***Save Them All***
+
+Hermione wept as Narcissa and Harry tried to console her.
+
+A minute later, Alastor Moody - having quietly moved closer during the proceedings - reached over the table, snatched Draco's Diary, and toss it into a sack.
+
+"That was left to me," Hermione protested, wiping away tears. Alastor cut her off.
+
+"Could be a trap," Mad-Eye said, adding the Sigil to the sack. "Never trust anything."
+
+Harry waited for the end of the sentence and then realized that Mad-Eye Moody did not intend to add any qualifiers. Nothing reasonable like, *Never trust a gift from someone who has plotted against you,* or *Never trust a Malfoy* or *Never trust a gift from someone who clearly intends to oppose you* or even somewhat reasonable advice like *Never trust anything that was disguised under your nose for a year and may be more than it seems.*
+
+No, *never trust anything*. Full stop. It probably sounded better in Latin.
+
+Harry looked over at Hermione - who looked disturbingly angry - and at Narcissa Malfoy, who did not seem offended at all.
+
+"Lady Malfoy. You don't mind the implication?"
+
+"Lucius never touched a gift unless it was thoroughly inspected, or he trusted the giver implicitly, or knew the full provenance, or felt the giver was a 'milquetoast incapable of anything truly dangerous.' Draco plotted against you. Which exception should apply?" She shook her head as she said it. "No offence was intended. It's like the gift of the wine. Your watchdog's job is to protect you; he would have done the same that had been left to you by Dumbledore himself."
+
+Alastor grumbled about intended offense under his breath, but if Narcissa Malfoy could hear it she gave no response. Mr. Farnsworth had said nothing during this time, but simply stared at his watch, like the entire conversation was just another billable hour. In fact, now that Harry thought about it, Draco's lawyer had been studying the time quite intently ever since delivering their correspondence.
+
+"So, they aren't dangerous?" Hermione asked.
+
+"I won't speak to the Sigil, that's was Lucius and he asked me never to handle it. But the Diary? That's simply the received wisdom of House Malfoy passed down from generation to generation. Lucius and I had no qualms giving it to Draco. In any case, I think if it posed a danger it would have been given to him," at this Narcissa nodded towards Harry, "instead of you."
+
+Harry listened to Narcissa's words, but during her speech her lawyer had stopped staring at his watch and reached into his satchel. Even if Harry hadn't noticed that, Alastor's abrupt shift of focus would have startled him, but the lawyer simply pulled out two small letters, one labeled "Harry Potter," and the other labeled "Gringotts." Mr. Erasmus Farnsworth, Esq, walked over to Harry and handed him the second letter, then glanced at his watch again.
+
+"You ... you are under an Unbreakable Vow," Harry recognized the signs now, Draco's lawyer was too punctual. Of course it made sense that the best lawyers, the most expensive ones would be bound not by something so weak as the threat of disbarment or other legal sanctions. The best lawyers would be bound to follow their client's instructions that didn't violate any laws. So long as they paid.
+
+"We need to leave," Harry said, opening up the letter.
+
+*Harry,*
+
+*Our lawyers may be cute, but even they know how to argue grey areas of the law.*
+
+*My letter to Gringotts will be delivered in ten minutes. I suggest you be someplace defensible by then.*
+
+"Guards, open the vault! We're leaving," Harry announced to the room, quickly standing up. The two goblins gave a small bow and then started the process of unsealing the door. "Lady Malfoy, my respects. But we're going back to Hogwarts. Mr. Farnsworth, I don't suppose you would be willing to advise us ..."
+
+"I am bound not to take on any potential conflicts of interest for at least one year plus a day after the end of my service," he said, eyes still firmly on his watch.
+
+"Of course, just checking," Harry waited impatiently for the guards to open the vault door, which took several seconds. Hermione had caught up to them by now, and even Mad Eye Moody seemed agitated as he glanced around the room.
+
+"Harry, what's the matter," Hermione asked.
+
+Harry glanced at the guards. They still wore their magical eyepieces and goggles. They couldn't have overheard him, not unless he addressed them specifically. "Draco's going to try and convince the goblins we transfigured money."
+
+"They won't possibly believe him," Hermione said, but Mad Eye's single barked laugh ended the conversation as the vault door swung open.
+
+------------------------------------------------------------------------
+
+**Author's Note** - Thanks again for my proofreader. Next chapter in one week.
+
+</div>
+
+</div>

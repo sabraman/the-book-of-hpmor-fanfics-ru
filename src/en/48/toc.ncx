@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="ddda11f2-bc1f-4515-abde-b0659ea8ff2b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>48. Minds Names and Faces</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: Something of a Riddle</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: Playing Chess, Pt 1</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3: Playing Chess, Pt 2 — Pawn Takes Queen</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4: Playing Chess, Pt 3 — Cheating</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5: Smoke and Mirrors</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6: Interlude — Conspiracy Theories</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7: The Snake and the Dog</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 8: Shut Up And Multiply, Pt 1</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 9: Shut Up And Multiply, Pt 2</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 10: Shut Up And Multiply, Pt 3</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 11: Shut Up And Multiply — Aftermaths</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 12: Endings and Beginnings</text>
+      </navLabel>
+      <content src="32/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

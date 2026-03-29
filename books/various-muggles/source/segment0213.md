@@ -1,0 +1,543 @@
+<span id="seg-0213__seg-0213-1999f948b4"></span>
+
+<div id="seg-0213__s31-80dfbe17cb" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 111: Negotiations, Pt 3
+
+<div id="seg-0213__storytext-9c93142583" class="calibre4">
+
+------------------------------------------------------------------------
+
+Shouts rent the air in the DMLE survey room as the dark-cloaked wizard appeared. "Hello Tom," Albus's voice spoke on the screen.
+
+"It's him!" Amelia yelled. "Scrimgeour, surround the castle. Get any Muggles out of the way, but *do not hurt them*. We are *not* going to let the bastard get away this time! Emmeline, handle the Muggles with Granger before they get upset. Shacklebolt, get me the status on those wards! Komodo, stand ready to break in!"
+
+Everyone jumped into movement except for Moody, who kept surveying the screens. The main one showed the view from four of the Muggle cameras, while three screens on each side of the room detailed each of the scrying wards. The Muggle ones were better positioned to give an overview of everything that was going on – and more importantly, they showed what the Muggles were most likely seeing – which was why they'd brought in Muggleborn Maria Ackerley to tap some of them and channel their output to the DMLE.
+
+It didn't take long for Kingsley Shacklebolt to return with his report. "Looks like he caused a magical disturbance the moment he appeared, and the magic interfered with our anti-Apparition and anti-portkey wards, which caused them to fall back to the basics, losing the exceptions. That's why Malfoy could not get out, but Granger could – there were no anti-phoenix wards yet, so his magic didn't affect them. We got the control back now and reopened the exceptions, but he's already added complete wards of his own."
+
+"Can we stop him from dropping our wards?" She asked.
+
+"Should be, Madam. He could *interfere* with them, but that only made them stronger. Removing them altogether or even punching through would require a lot of power, and we've got thirty Aurors reinforcing those wards. With Dumbledore fighting him, I can't see it happening."
+
+"Excellent. See about piercing his wards, but keep ours up." She stared viciously at the figure on the screen. *This will be your last mistake, Voldemort.*
+
+A white blast lit up the screens, and then all four Muggle camera views dulled.
+
+"That must have been deliberate," Ackerley observed, trembling. "He doesn't want Muggles to see what he's doing."
+
+"I concur. But the Muggle broadcast has a delay, doesn't it?" Amelia asked, thoughtfully. It was perhaps not top priority, but she had already set her people on the important tasks, and there were consequences to everything. Keeping the Muggles in the dark was not likely to be in their interest now.
+
+"About five minutes," Maria nodded. "I suspect they didn't want to submit it live so they can shift between camera views, and perhaps give warnings if their representatives are unexpectedly killed."
+
+Emmeline Vance rushed in from the next room, where the girl would have taken the Queen and representatives. "I *think* I calmed them down, but they're not happy. Can we send the footage there?"
+
+"Not now," Amelia snapped. "Maria, can you send our own view back over those camera connections?" Maria nodded, sweating, and already started muttering enchantments. A witch living primarily in the Muggle world, the woman had been known to the DMLE only as a miscreant who had received a formal reprimand for enchanting Muggle artifacts a few years back. Fortunately, it seemed that from her Muggle job she was at least a little used to working under pressure. "Use the Dumbledore, Malfoy, Potter and Granger views – the last one so they can see their Queen is safe. The technical Muggles can figure out what to do with those images."
+
+She turned to Emmeline. "We'll set up a delayed screen for the representatives once that is accomplished. Are you almost done? I may need you."
+
+"I promised them tea, but that shouldn't take long. Granger can take it from there."
+
+"Shoo, then."
+
+------------------------------------------------------------------------
+
+Blasts of lights in all colors flew around the room. The white-golden bird Dumbledore had conjured snatched up another one of the snakes, as Dumbledore's spell *just* missed Riddle and harmlessly exploded against an overthrown socket, with a gong-like sound. Harry himself lay in a corner, protected by a shield from Dumbledore, trying to get his thoughts straight despite the pains in various parts of his body.
+
+*What is Riddle doing?*
+
+A burst of magic struck three feet away from him, collapsing the shield and blasting him further against the wall. Blood trickled down his face, even as a quick charm from Dumbledore's wand healed the wound and numbed the pain. Riddle hadn't aimed a spell at him, he still couldn't, but he'd thrown some kind of magical item.
+
+*It would appear,* Slytherin suggested dryly, *that he is trying to kill us.*
+
+*Didn't we believe that that was completely against his plans?* Hufflepuff asked timidly.
+
+*We believed many things,* Ravenclaw pointed out. *Perhaps it is time to reevaluate them.*
+
+(Riddle pointed his wand at a chair near Harry, which suddenly evaporated. Almost instantly, Harry's head was surrounded by a Bubblehead Charm. A transfigured gas?)
+
+*All right,* Harry thought. He had believed that Riddle feared another world war. Using nuclear weapons, Muggles could destroy the earth and drag wizards down in their demise. Riddle, however, acted as though this was *not* a concern to him. Perhaps it was a ploy, but now that Harry actually *thought* about it...
+
+*If you're a rational person at the height of the cold war, wondering how to stop global thermonuclear warfare, the obvious solution is* not *to execute a convoluted plan where you set up a villain, create a hero for everyone to follow, conquer the world and have everyone live peacefully ever after. You would* definitely *not continue to drag your feet on this project for twenty years while every single day can bring the wholesale destruction of the earth.*
+
+(Draco yelped as his father flung the two of them out of the way of a ray of green light that had been shot in their direction.)
+
+It was amazing how obvious that one was in hindsight. Harry had *actually considered* sending Muggleborns around military bases to avoid nuclear weapons getting launched; if he could think of that, someone like Quirrell had either done it several decades ago, or come up with something better. Precautions like that might be discovered after a single nuclear test that he didn't know about in advance, but since a wizard of Dumbledore's caliber was demonstrably able to divert a nuclear missile, it might be enough to set up a warning system to at least know when and where missiles were about to strike. Or for that matter, if you wanted to avoid discovery, you could put an Imperius Curse on all the people responsible for launching those things. Due to democratic processes the actual leaders would change regularly, but the people on the ground might not. It would be entirely natural for Riddle to place someone like Stanislav Petrov under the Imperius – in fact, it was completely plausible that he *had*.
+
+(The shield around Harry was broken again, and Harry felt a sharp sting as his shoulder was hit by an ordinary bullet.)
+
+*So where does this put us?* Slytherin questioned as Harry bit back against the pain.
+
+*He had the war under control, but he still had other fears,* Ravenclaw suggested. *There are quite a few ways to destroy the earth, or at least humanity. Pollution, malevolent AI, genetically engineered bacteria ending up in the food supply, not to mention the lump sum of "everything else we wouldn't even think about". There's just no telling what scientists are going to do.*
+
+*He needed to throttle innovation,* Slytherin nodded thoughtfully. *Or at least to push new developments into the right direction, and make sure they were done by people who understand how to manage power. Given that this is the exact opposite of what we just proposed doing, he may have concluded that we are a lousy pawn.*
+
+(The ceiling shook and cracked, and then the wall Harry was resting against half-collapsed. He tried to push himself aside but he was too weak; he had no hope of succeeding. Stones fell all over his body and legs, cutting and bruising, but at least bounced off the Bubblehead.)
+
+*I still think we don't have the complete picture here,* Ravenclaw observed.
+
+*In case you haven't noticed, we're dying,* Harry's common sense snapped. *Perhaps we should get to the finer points of the twenty-year plan* after *we do something about that?*
+
+------------------------------------------------------------------------
+
+Another flash of white light completely obscured their vision on the screens. The battle was every bit as spectacular as the legendary duel between Dumbledore and Grindelwald was said to have been, so Amelia had had to ban everyone who wasn't actually useful from the DMLE premises where they tried to watch. They would get to see it afterwards anyway, even without judicious copying of omni-oculars: the Muggles had unquestioningly accepted the wizard coverage of the event, and she had learned, in the past two weeks, about such things as video recorders. Although they might not get to see it to the end; the scrying wards on Thicknesse and Potter had already failed, and Granger's weren't very useful.
+
+"What's the update on the wards?" she barked into her mirror.
+
+"We can get through them," a sweaty Kingsley reported. "but it will take time. Which ones should we focus on first?"
+
+Phoenix, portkey, Apparition or Time-Turner... Time-Turners were too fickle, she couldn't risk that, and if they took down portkey or Apparition they'd have to drop their own wards to allow a team through. But if they breached the phoenix wards...
+
+"Phoenix," she ordered. Dumbledore wouldn't be able to use it – his phoenix would take at least a day to recover far enough to transport people – but another phoenix user could bring in reinforcements and get the boy out. The old meddler was obviously stretched too far, trying to protect the child as well as fighting his powerful opponent, but he was clearly not willing to sacrifice the boy for a greater chance at victory.
+
+Should she ask Granger to get ready? Or were there other phoenix users available? The situation was far too dangerous to consciously send a first-year child into, and she didn't want to risk losing both British phoenixes in one day. Besides, the girl wouldn't have the magical strength to summon Potter if necessary.
+
+"Is Barnok still around?" she asked. None of the foreign phoenix casters had been willing to interfere too much in a domestic dispute between wizards and Muggles and risk the responsibility of dragging their own countries into it, but this was a little different. And the Ethiopian wizard, coming from a land with no magical schools or authorities at all, was the most unconstrained of the phoenix owners.
+
+Emmeline jumped up. "I'll get Lesath to contact him."
+
+------------------------------------------------------------------------
+
+Harry wondered whether the fight would last long enough for him to die a natural death. He was still losing blood, and the agony of his wounds was starting to get less, which was probably not a good sign. He was also getting a bit whoozy in the head.
+
+*Think,* he ordered himself. *Think, think!*
+
+He had no way of getting out and reaching a healer without help. Fawkes was chirping sadly under a pile of rubble somewhere, and should be counted out of the fight. Hermione had only been instructed to keep the Muggles safe; if she was going to come back for him, she probably would have already. Dumbledore was a little too preoccupied to heal him. If he asked Malfoy to help, his old master would kill him on the spot, so it would have to be a winning move to be worth the sacrifice.
+
+Another blast was stopped just in front of his face as Riddle danced around the battleground. Harry could hardly understand all that he was seeing – the duel was so far above his head that it was difficult to keep track of. An army of Aurors could not have touched either fighter as they danced around, shot powerful spells at each other and the room, summoned creatures to help, broke the rules of transfiguration, flung objects around... Two of the walls were down. Parts of the ceiling had caved in.
+
+Yet he could see that Dumbledore was losing. The old wizard was fighting defensively most of the time, as he had to defend both himself and Harry. His shields could take almost anything, but the shields he wrapped around Harry could *not*, and he couldn't safely position himself at places where dodging a Killing Curse might get Draco or Harry hit instead. The only saving grace was that Riddle could not directly attack Harry with magic, but the former Defense Professor seemed to have brought a large supply of weapons – both magical and Muggle – to hurl at him.
+
+If he couldn't get out, the only way to survive was to win. He couldn't win on power, and he probably couldn't win on brains either, but perhaps he had a chance by doing something completely unexpected?
+
+*Managing to do anything at all in our current state would be unexpected,* Slytherin pointed out.
+
+He still had the communication pin, and since it used the magic of the speaker to work, Riddle might not be able to intercept that. If he asked Dumbledore to lift him with magic and use him as a shield... what would happen?
+
+Interacting with Riddle's magic would likely kill them both. The resulting explosion from their magics spinning out of control might collapse the castle as well, kill Dumbledore, Lucius and Draco, but would *hopefully* stop short of turning London into a large crater in the ground.
+
+*Would that be worth it?* Riddle intended to save the world – quite possibly *had* saved the world already, maybe even more than once – but his goals clashed with Harry's values. If Harry was going to die regardless, was it sensible to try dragging Riddle along?
+
+*No.* He *can't die.*
+
+But if *that* was true, why was he fighting at all? Why didn't he just drop a massive bomb and kill them all? Why wasn't he at least sending Killing Curse after Killing Curse at Harry? If this was just a body he was possessing, like Quirrell's had been, why wouldn't he sacrifice it?
+
+*I notice that I am confused.*
+
+The answer came to him immediately. *He isn't trying to kill me. If he was, I'd be dead.*
+
+It was a ruse, it had to be. Riddle could kill them all any moment he liked – but he didn't want to kill Harry. He had a deeper plan.
+
+Was the plan to get Harry to "kill" him, as he'd intended to do all along? Unlikely: if it was, he would have needed to leave Harry able to actually *do* something, not hurl him into a wall and break his wand in the first move. It also seemed implausible that Riddle would still trust Harry's judgment.
+
+Perhaps he intended to steal Harry away and keep him around under some permanent unconsciousness spell as a horcrux? Or more likely, he might still have plans for his traitorous pawn. Would it be possible to get full control over Harry's body, negotiate in his place and get him to make a few convenient changes to the planned treaty that the Wizengamot had already committed to accepting?
+
+*Polyjuice Potion*, Ravenclaw suggested. *The Imperius Curse won't work, but maybe Legilimency? Moody did say he was an extraordinary Legilimens, he could probably get past our shields.*
+
+*Not without our magics interacting,* Slytherin contradicted. *But there may be other ways, darker rituals. Or he could get someone else to use Legilimency on us – Moody almost got through our shields in less than a minute, and he is supposedly not anywhere* near *Riddle's league.*
+
+*That would take time, however,* Ravenclaw pointed out. *Even if he manages to get past Dumbledore, half the DMLE is on us, someone is going to break through eventually.\*
+
+But he had a Time-Turner, didn't he? All Riddle had to do was abduct Harry, force him to take them both back in time six hours, and use the time to get control over Harry. Then he could bring him back the moment they left, set off a massive explosion that Harry miraculously survived – or indeed, something that Harry would be *credited* for – and continue the negotiations. After his old mentor aired his objections to Harry's plans on national television, the controlled Harry would have reason to specifically add more precautions and steer away from too much science in magic, and Riddle could get his plans back on track. It would require a lot more oversight in the long run than the original plan of letting Harry grow into it, and the people around Harry were bound to notice the changes, but it could be made to work.
+
+*Dumbledore will not let that happen,* Gryffindor pointed out. *Riddle may well take out the cameras, scrying and the Malfoys, but if he abducts us, even briefly, Dumbledore will notice, and he'll tell everyone. Remember that he has the elder wand, so his shields should be pretty much impenetrable. It's not easy to get him out of the way. The Aurors probably will not leave Riddle enough time for Dumbledore to fall over in exhaustion.*
+
+*There is one obvious way to kill Dumbledore,* Slytherin pointed out. *Which conveniently coincides with getting control over us. How long do you think we can hold out under torture, to prevent ourselves from using the House Vow bond to take his life? Perhaps even Legilimency suffices. And we can't drop that bond without a working wand.*
+
+Harry swallowed, and blinked some of the blood out of his eyes, trying to see what was going on. The two wizards were still fighting their epic duel. Dumbledore seemed more powerful, but Riddle was more ingenuous, and Dumbledore was heavily handicapped by having to defend Harry.
+
+Harry tried to clear his head, getting his conclusions straight. He was starting to feel dizzy, and it wasn't helping.
+
+*In* summary, he decided, *he isn't trying to kill me. He's putting up a show, to make Dumbledore and the Aurors* believe *that he is trying to kill me. When the opportunity arises, he's going to take out the scrying wards, kill or stun Draco and then abduct me – the Aurors' wards have an exception for me, so he can just throw me a portkey. Then he'll blow up the building, break all the wards, escape his host body and join me. We'll go back in time, he or his servants spend six hours getting control over me, or they just use Polyjuice. In the unlikely event that Dumbledore survives the explosion, they'll torture or manipulate me into killing him anyway, and then I get portkeyed back, or maybe stay where I am and claim I* just *managed to use an emergency portkey before the explosion. The negotiations continue, now with a slightly more cowed and cautious Harry, and he'll plan from there.*
+
+*Those are a* lot *of assumptions,* Slytherin put forth. *There are ridiculously many parts we could be wrong about.*
+
+*It's one explanation for what could be going on,* Ravenclaw replied. *There may be many more. What we know for certain is that he isn't fighting all-out, which may suggest that his goal is not to kill us. We can also postulate with high probability that if he has a dastardly plan, he probably wants to execute it without being seen by the entire DMLE, which means he has to take out the scrying. So we plan accordingly.*
+
+*Is the answer that we ought to die?* Gryffindor wondered. *For the sake of the world?*
+
+*And then what?* Slytherin bit. *Don't you think he's taken that possibility into account? Several of those attacks could have killed us already, and if he doesn't hurry up we'll be dead from blood loss. He* prefers *not to kill us, but I don't think it's a necessity. If we die, the negotiations carry on with Amelia – he probably doesn't know that, but he knows there's going to be* someone *– and he picks up the pieces. If he sets his mind to it, he should be able to kill any heir he doesn't like within a few days. Maybe not Dumbledore, but* he *is not on the list, and* *Riddle is hoping to kill him today. If that doesn't work, he Imperios the Muggles instead. The treaty becomes more harmless, and although he doesn't have his puppet to rule the world anymore, he'll just start over. Perhaps he'll even use Hermione – in fact, given that she* does *have a somewhat obedient nature, she may not be able to resist the Imperius Curse. That, or he could possess her. And thus the wizarding world gets united behind a strong leader after all.*
+
+Harry groaned at the mental image of Hermione being forced to become a puppet dictator.
+
+*Should we lose?* Hufflepuff wondered. *If this is what's going to happen with his* backup *plan, is the original better*?
+
+*Don't you dare,* his inner Hermione protested. *He is evil, and so are his plans.*
+
+*His values are not aligned with ours,* Gryffindor agreed. *He would stall progress and turn Muggles subservient. But maybe there's a way to win? Dumbledore is failing because he expends too much effort protecting us; if he stops doing that, he may be able to kill the body, at least.*
+
+*This is Professor Quirrell,* Slytherin answered. *He* always *has a fallback. He knows Dumbledore is powerful, and yet he sought a direct confrontation. He wouldn't do that if he minds dying. Even if Riddle is superior* – which isn't obvious *– Dumbledore could get a lucky shot in. But it probably wouldn't be very hard to trigger some magical effect at the point of your death. If that effect touches us, it will cause an explosion that will kill us, and probably take out Dumbledore and the Malfoys as well. Just how impenetrable do we think Dumbledore's shields are? They probably couldn't withstand the force of an atomic bomb* *– can they really take the worst Riddle can dish out?\*
+
+There was only way to stop the disaster, and to at least save Hermione and Draco. Riddle had to be *gone*. Permanently. Preferably without setting off any triggers.
+
+*How do you kill someone who is immortal?*
+
+Were there any Dementors left in the world? If he could get a message to the outside world, could someone go back in time and spend six hours searching the world for a Dementor, and then get it here in time?
+
+Unlikely. Governments of all countries had already spent more than a week searching for left-over Dementors, without finding any. If there were any Dementors left in the world, they wouldn't be easy to find.
+
+If he *broke* the Time-Turner, would it cause strange happenings that could buy him time?
+
+Unpredictable. What was more, if Riddle saw him mess with the Time-Turner's shell, he would interfere, quite possibly by killing everyone on the spot.
+
+Was there any way to *create* Dementors?
+
+He didn't know. There were so many facts in his possession, so many books he had read, that his brain would never be able to sort through them in time. But there was one person who might be able to.
+
+With a deep breath, Harry plunged himself into his dark side.
+
+The crystal clarity came over him, ignoring the pain and everything around him, as the drowsiness in his head departed. Rapidly, the cold started browsing over everything he knew, coolly considering the problem at face value.
+
+It was *his* dark side, after all, no matter who it might originally have belonged to.
+
+Find out a way to go back in time to before Dementors were destroyed? Unlikely to work.
+
+Search Britain for depressing places? Most of the searching had been done elsewhere, but the Birmingham Dementor showed that the British Isles had not been entirely Dementor-free. He filed that notion away for future reference.
+
+Was there anything said about Dementors that might be relevant? He considered all he remembered, but nothing came up.
+
+What magical knowledge did he have about death?
+
+*Ah.*
+
+It was only one idea, but it *fit*. Fit so well that he immediately knew that he was right.
+
+Dumbledore danced in front of him again. Harry screwed up his eyes, and spoke with a quiet mental voice: *I have an idea. I think I can speak without being intercepted, but if you cannot, do not respond.*
+
+*He will not hear,* came the answer, two blasts later.
+
+*Do you know of a ritual that involves a rope and a sword, and is used to summon death?*
+
+*I have heard of it,* the old wizard's mental voice replied after some moments. *Ah. I see. Do you think – ?*
+
+*Do what you can to get someone to execute it,* Harry said urgently.
+
+*Are you sure?*
+
+*Quite. Also, beware: he isn't really trying to kill me. He may transport me away. He will likely take out the scrying first. Sacrifice me if you must. Don't make it obvious that you suspect. Kill me yourself if it's the only way to stop him from taking me.*
+
+There was a long silence, with three more spells falling and Dumbledore both rolling out of the way of a killing curse and deflecting a projectile thrown at Harry, and then he replied. *All right.*
+
+------------------------------------------------------------------------
+
+To Amelia's side, Mad-Eye Moody gasped. She turned.
+
+"Amelia, I need a Time-Turner *right now*."
+
+------------------------------------------------------------------------
+
+The Queen startled as on the screen, the battle began. The young girl – Hermione – winced as she saw her friend hurled into a wall and set on fire. She'd gone completely white after the "Avada Kedavra". Elizabeth couldn't help it. Her fingers found the amulet, warm and comforting beneath her dress.
+
+*Do I trust these people?*
+
+Of course not. The battle might easily be a setup, staged for the benefit of the audience. The child-king "Lord Potter" was hardly believable. And yet, she found herself touched by the young girl, an instinctive trust that this person, at least, was genuine. Perhaps it was a foolish mistake, but she had to choose *some* side.
+
+She made her decision. *She* had no idea how to use her amulet, but perhaps the wizards did.
+
+"This is not looking well," she observed calmly.
+
+"No," the girl said with a slight tremble in her voice. "And this is on a time delay, so it's been going on for a few minutes already. For all we know, it might already have ended."
+
+A sobering thought. The Queen pulled the amulet out of her dress, the blue sapphire glowing with power.
+
+"I have inherited this from my ancestors – it's supposed to give the monarch of England both power and control over witches and wizards. I don't suppose I could help?"
+
+The girl stared at the sapphire with wide eyes, then fumbled for her wand. "*Expecto Patronum.*"
+
+------------------------------------------------------------------------
+
+"Yes, Albus conjured an invisible message in the air," Moody said irritably. "I have to go to Flamel, persuade him to teach me a ritual, and then get over there as soon as possible."
+
+"But we can't get you there!" Amelia exclaimed. "We still haven't taken down the anti-phoenix wards."
+
+"Then I *suggest* you hurry up," the pock-marked man snarled.
+
+A glowing silver woman appeared in the air and spoke in Hermione Granger's voice: "Madam Bones, the Queen has a device to give 'protection from and control over' wizards. Do you know what it does? Mr. Thicknesse mentioned something like this."
+
+Emmeline appeared with a crack. "Here's the Time-Turner, lock-free!" Moody snatched it from her fingers.
+
+"Set some bloody good historians on this, Mad-Eye!" She yelled. He nodded grimly and Apparated away.
+
+------------------------------------------------------------------------
+
+Harry felt like he was slipping into the darkness, but he forced himself to remain alert, to watch the battle. How long had it been? Five minutes since the start of the fighting? Ten? Long enough to put on a show, certainly.
+
+Now that he knew what to look for, he recognized the signs of the subterfuge. Riddle kept attacking him, but the attempts were half-hearted; Dumbledore could block them all, although the efforts left himself open to attacks and with few opportunities for his own attacks. *Dumbledore* was the intended target, or perhaps just his scrying knob. Riddle flung the occasional Killing Curse at the old man, but attempted nothing that would be absorbed by his shields; instead, he relied on blinding lights, shock waves, gases, transfiguration.
+
+Then suddenly, Dumbledore was flung sideways, apparently without any conscious decision of his own, and a ray of green light buried itself into the wall behind him. Harry's head snapped to the source and he saw Lucius Malfoy, standing upright now, eyes full of hatred, sending another Killing Curse at the back of his ally and lifelong enemy.
+
+Without his will or conscious decision, Harry's magic reacted, and he felt it lash out over the bond of the House Vow. The noble lord gasped, then collapsed onto the floor, killed by Harry's command.
+
+*WHAM!* An enormous explosion drew his eyes back to the ancient wizard. Lucius's attack had done its damage. In the moments of distraction, Riddle had hit the old wizard, or the ground beneath him, and the man was flung across the room, landing hard against a wall. Still his shields protected him, but a thin line of blood trickled down his face.
+
+------------------------------------------------------------------------
+
+Alastor hadn't been gone a second when he returned, a thin man in tow. "Barnok!" He barked. "Get ready!"
+
+A woman burst through the door, carrying a paper. "Here's the requested data, Madam Bones. But it's *really* obscure, I couldn't find anything more recent than eight centuries, and even then it was highly restricted knowledge."
+
+Amelia snatched the paper from her hand and read it. Then read it again to be sure she hadn't misunderstood.
+
+The crowned Monarch of England, apparently, was the official ruler of both the Muggle and magical side of the country. Merlin himself had created a device to encourage compliance and given it to King Arthur. No magics could be wielded against a monarch wearing the amulet, and a simple incantation could strip a witch or wizard of half their magic while they remained inside England. The boundaries of "England" weren't very clear, but Amelia hoped that at least London would count.
+
+It was the perfect solution, if the Queen would cooperate. The man fighting Dumbledore was insanely powerful, but with half his magic gone, the tide of the battle was likely to turn. There was just one downside. If the Queen realized what power she held; if they *asked* her to use it, it would be close to reinstating her authority. There was no going back: they would have to follow through with Potter's plans for surrender.
+
+Gasps in the room revealed something important had happened. Looking up, all the screens had gone blank.
+
+Amelia made a snap decision. She turned to the human Patronus, which was still waiting for her answer. "The Queen must hold the amulet and say: '*gehæftan Voldemort dwolcræft*'. Then do the same with 'Tom Riddle' instead of 'Voldemort', just in case."
+
+She ignored the gasps around her as she said the name. "Reinforce the portkey, Apparition and Time-Turner wards, and pour everything we can into breaking his anti-phoenix ones! Barnok, be ready! Bring those two in, get the children out, and then get back here for reinforcements!"
+
+*I'll be damned if I let this bastard get away.*
+
+------------------------------------------------------------------------
+
+Albus Dumbledore desperately lifted himself to his feet. He had survived, and Harry still lived, but Malfoy's attack had caused unrepairable damage: his scrying ward was gone. Without a doubt, Malfoy had taken his own and his son's as well. This was what Harry had warned him for, the moment Riddle would strike.
+
+He flung another shield in front of Harry, surreptitiously anchoring him to the ground, but it wouldn't hold for long, and Voldemort would notice. He had to do something more, but he wasn't ready. The Aurors had laid the ground work of taking down the wards, but Voldemort was powerful, and the man was right, he had grown old. He could *maybe* take down those wards, but breaking through well-cast wards took far more power than keeping them up; it would expend all his power, and it might not be enough. If he failed, he was dead. But then, if he didn't try, they would lose too, wouldn't they?
+
+There was no choice. He had to hope Alastor and Hermione were ready, and that his contributions would be enough.
+
+Voldemort *stumbled*.
+
+Albus didn't hesitate. Not wasting any time to wonder what was going on, he *slammed* everything he had into the anti-phoenix wards.
+
+------------------------------------------------------------------------
+
+With a burst of flame, three men appeared.
+
+A phoenix fluttered over to Harry, as he saw the African wizard dash towards Draco. The two men – Remus Lupin and Mad-Eye Moody – were chanting in a strange language Harry did not recognize.
+
+Riddle had fallen to his knees, but he was already jumping up, wand pointed at the newcomers, his face turned snakelike in fury. "*Avada –*"
+
+"*Morturi!*" Lupin completed, and something burst *through* him, a wound, a hole in the world, darkening and expanding. Even as Remus Lupin fell down and the green light from Riddle's wand buried itself in the wall behind him, Moody yelled "*Parma!*" and the *thing* threw itself at Riddle.
+
+"*No!*" he shouted, backing away, but all the anti-Apparition charms were still active. "*Avada Kedavra!*" Harry *just* saw the green death rushing towards him, then planting itself in the wall beside him as Moody summoned him out of the way. Riddle's eyes widened in fear as he fell over, shaking, and the Dementor grabbed his arms.
+
+"Go to Bacon's tree!" he yelled, just before the Dementor closed itself over his mouth and with a sucking sound ended his life.
+
+------------------------------------------------------------------------
+
+*What?* Harry thought.
+
+Lupin's wand flew up from the ground and hovered before him. "A Patronus, Potter!" Mad-Eye Moody shouted.
+
+No time to think. He snatched the wand out of the air, emptied his mind, brought up the image of the stars, and promised himself he would save everyone. "*Expecto Patronum!*"
+
+It felt wrong.
+
+He had just asked his allies to create a Dementor, and had willingly caused a man to die. Could he still believe in saving everyone, in ending death, after making that choice? Would he ever be able to cast a Patronus again?
+
+As the Dementor, alerted by his cry, flew towards him, the answer seemed an obvious *no*.
+
+And then another young boy's voice cried "*Expecto Patronum!*"
+
+------------------------------------------------------------------------
+
+"Draco, I'm going to die."
+
+The voice emanated from what seemed to be the person holding the camera. The magical screen which had been set up for them had been limited to single viewpoint, from a slightly moving source at a far end of the room. Hermione had had her suspicions about that, but she had kept them to herself.
+
+The young boy's face looked anxious, as a hand stroked his forehead and removed the little knob. "No father! Just stay here, we'll be fine."
+
+"I will not be." The voice from the perspective sounded pained. "I have been commanded to strike or die. No matter what I do, I will be dead in two minutes."
+
+"No, father, there has to be a way!"
+
+"There isn't. Son, listen to me. Forget what I said before. You are the next Lord Malfoy, and you will be the greatest one who ever lived. Follow your heart and your mind, and don't repeat my mistakes. I was wrong... in so many ways. I know that you will do better. I love you, son."
+
+"I – I love you too, father." The boy was crying now, and Hermione felt a lump in her throat. She had neither really known nor liked Lord Malfoy, but he obviously cared for his son.
+
+"Don't cry, Draco," the voice spoke. "I am free to do as I wish at last. And now –" his voice took on a bitter tone "– I will avenge your mother. *Stupefy.*"
+
+The boy sunk backwards, unconscious. Within moments, the angle of view had turned around at the battle and was moving towards it. One, two shots with roaring incantations, both missed. And then a strangled sound, right before the screen went black.
+
+There was silence, for a time.
+
+"It seems to be going rather badly," the Queen said, after a while. "Do you know whether my amulet had any effect?"
+
+"I don't know," Hermione answered helplessly, still wiping away her tears. "I could ask Madam Bones, but she's probably very busy. Professor Dumbledore is *really* powerful, though, so they may already have won, but –"
+
+"But so is the other guy, yes. Well, Hermione – that is your name, isn't it?" She nodded. "Our people are not entirely helpless either. I would appreciate if you could tell us a few things, if Lord Potter hasn't sworn you to secrecy."
+
+"Anything you want to know, Your Majesty," she answered. "Actually, he isn't my lord, just my friend, and I think you are formally the ruler of Magical Britain anyway. That's why you had that amulet."
+
+"Am I? That *is* convenient." The Queen smiled, a gentle, grandmotherly smile. "Then please start by telling me all that you know about this dark wizard."
+
+------------------------------------------------------------------------
+
+Draco stood, crying both in grief and in joy, by his father's body, as his Patronus shielded the Boy-Who-Lived and the others.
+
+It was the first time he'd managed to do this version of the spell. He had tried over and over, first on that Monday and later in his own room. But for all his lessons from Harry, for all his attempts, the spell hadn't worked for him. He'd asked Padma about it, and Rianne Felthorne and even Cedric, and they'd all said much the same, some mumbo-jumbo about defeating death. He'd *sort of* got the idea, but he didn't really see the point. And then finally, he'd gone so far as to ask Lesath Lestrange, who had simply said "the darkness can be broken". And *that* made sense, with Harry's unique view on the world, but Draco still hadn't been able to do it; he couldn't make himself believe in Harry's dream-visions.
+
+Not until his father had told him that he believed in him, and that he should follow his own ideas.
+
+He held the thought, struggling as his Patronus wavered. It was a near thing, he knew, and it was taking all his effort to not make it go out, but it was all that was standing between his allies and the darkness, so he held on.
+
+------------------------------------------------------------------------
+
+Harry scrabbled up with some help from Barnok. Most of his wounds were gone now, although his ribs still felt cracked, and his leg was broken. Phoenixes really were marvelous creatures.
+
+He stared at Draco, trembling in a corner, maintaining his hold on a True Patronus with obvious difficulty, his father's corpse by his side. Harry's heart wrenched at the sight. His order to Malfoy, and his own magic, had orphaned the boy – it hadn't been his intention, and even now Harry couldn't see a way in which he could have avoided it, but he felt the responsibility all the same – and despite this, Draco could find it in his heart to protect Harry.
+
+Moody was already casting spells over Riddle's body. Lupin lay dead. Barnok and his phoenix hovered near Harry.
+
+"I'm okay," he told the African wizard. "But I'm not sure Draco is, and I can't cast a Patronus at the moment. Can you get Hermione or Lesath, just in case? They should both be in the DMLE."
+
+Barnok eyed him over, then conjured up a walking stick, pushed it into Harry's hands, and disappeared.
+
+------------------------------------------------------------------------
+
+"Open the floodgates, Draco."
+
+Draco turned to find Harry standing next to him. He shook his head. "I can't."
+
+"You can," Harry said gently, but with conviction. "This may be the only chance you'll ever have. Believe it, and you can do it."
+
+Draco swallowed, and screwed up his eyes, concentrating. He just heard the sound of the phoenix's reappearance, probably with someone else to help. But this, he would do himself.
+
+The Patronus waxed, slowly but certainly, as Draco let the brightness fill him.
+
+*We shall see each other again in the afterlife, father,* he promised silently. *But until then, nobody shall ever die unless they're ready. Not if I have anything to say about it.*
+
+"It is gone," Barnok whispered. "Well done, boy."
+
+"Thank you, Draco," Harry whispered. "And I'm sorry. I'm so sorry."
+
+Draco nodded. He had better be.
+
+------------------------------------------------------------------------
+
+Harry dragged himself over to where Dumbledore was gazing sadly at Lupin's corpse.
+
+"I never meant to kill anyone else," Harry said guiltily.
+
+"Remus was always a brave man," the former Headmaster observed. "Didn't you know that the ritual has a significant chance of killing either caster, if the sacrifices used are too old?"
+
+"No," Harry said softly. "Quirrell didn't mention that part."
+
+Dumbledore glanced at him. "He was the one who told you about this?"
+
+"I daresay he didn't understand the relevance at the time," Harry shrugged. "I only *just* figured out the Dementor thing."
+
+Dumbledore caught his eyes. "Only just? What would you have done if you were wrong?"
+
+Harry was silent for a while. It had been so obvious that he hadn't really thought about the possibility that the ritual did anything else. But if he *had* been wrong... Would the True Patronus Charm have helped against whatever representation of Death the ritual summoned?
+
+"I see," the old wizard said calmly after some moments. "We have been very fortunate today, but I must say that I shall be considerably more restrained following your instructions in the future."
+
+Harry nodded. "Did you cast the anti-decomposition charm on Lupin and Malfoy?"
+
+The old wizard sighed, and started casting.
+
+------------------------------------------------------------------------
+
+"Come on, boy, get outta here so the Aurors can fix the place, and the medi-wizards can fix you."
+
+Harry was staring at the lifeless body of Tom Riddle. There was no intellect in it anymore, the life was gone, and yet the body was still breathing.
+
+What had he meant with his final words, about Bacon's tree?
+
+"Don't worry," Moody's voice growled behind him. "I'm not mad enough to let anyone kill him. We'll put the body in prison. Just in case."
+
+"That's not – never mind."
+
+"You're new to this, aren't ye?" The man spoke more gently now. "Never been in a fight to the death before."
+
+"Not like this. I never had to decide to kill someone."
+
+Alastor Moody nodded and put a hand on his shoulder. "You'll get over it. It's not a pleasant thing, but you're still alive, and that's what matters." He tried to steer Harry away.
+
+"No. Wait."
+
+Harry limped towards the breathing corpse. There was not the slightest feeling of doom about it, even as he touched the hand and carefully took the ebony wand out of it.
+
+He didn't feel anything. The dark lord was supposed to have his brother wand, as Ollivander had said, but this was not the one. Riddle had fought with a wand that was not his own. He had known that his body might die, and prepared for it.
+
+"Let's go, sonny, and get you patched up. The day is not over yet. Not by far."
+
+------------------------------------------------------------------------
+
+Emmeline Vance Apparated back to the DMLE to give the diplomats the news. It had been only fifteen minutes since the duel had come to its end, and her head was still spinning, but she'd been ordered to move swiftly. Amelia had given her a quick rundown of what seemed to have happened and told her to get going; it was essential not to leave the Muggles hanging for too long. Not just for the sake of politeness, and not only because these were the people – or at least *connected* to the people – with their hands on the massive Hogwarts-destroying explosives. But also because, as her Director had impressed upon her with a strained face, the Queen was undeniably their ruler now, and she held the power to create a lot of trouble if they got on her wrong side.
+
+Emmeline quietly opened the door.
+
+"– battles were really educative, although I suppose you might say in hindsight –" The girl stopped mid-sentence as she heard the door opening and jumped up. "Auror Vance! What's happening?"
+
+"Good news," she quickly said. "We won. Voldemort is dead, and Albus Dumbledore and Harry Potter have survived." She saw the child slump with relief, but still looking anxious, so she quickly added: "So did Draco Malfoy and Pius Thicknesse. The only other ones who died today were Lord Malfoy and Remus Lupin." She felt a lurch of sadness with that last name, but this was not the time to mourn.
+
+Hermione Granger's eyes went wide. "Mr. Lupin?"
+
+"You knew him?" Who would have let a werewolf near a Muggleborn child – oh, *Albus*, of course. "I'm glad that some people will remember him." Her fellow member of the Order of the Phoenix had deserved much better than the series of tragedies life had given him. But at least he had died a true Gryffindor's death, giving his life to pave the way for peace.
+
+She turned to the Queen. "Your Majesty. On behalf of our world, I would like to express our gratitude for your interference."
+
+"The amulet helped, then?"
+
+Emmeline took a deep breath. "We can't really be sure." Amelia had gambled her career on this; the Wizengamot would not lightly forgive the head of the DMLE for telling the Queen how to exercise power over magic users. And for all they had achieved today, they might never find out whether the choice had been necessary. "We will need a recording of the Pensieve memories to string together exactly what happened. But for what I understand, Albus Dumbledore took the moment after you used the amulet to break through the anti-phoenix wards, which allowed some of our people to get in and finish him off. Albus could *probably* have succeeded even if Voldemort's powers were unhampered, but that isn't certain, and the sudden loss of power distracted Voldemort for the crucial seconds it took for the ritual to complete. I suspect that, even if we could have won without your help, you definitely saved several lives, most importantly Harry Potter and Albus Dumbledore. So for that, we are in your debt. The director says she hopes that this will be the beginning of a good friendship between our people."
+
+The Queen smiled and inclined her head. "Indeed. But if it is safe now, we should return to the palace. We were supposed to remain in contact with parliament, and the people may be concerned over our disappearance."
+
+"They know you're fine," Emmeline smiled. "The Scrying Charm on Miss Granger is still active, and Madam Bones has ordered it sent to the Muggle television station. I suspect they are even now broadcasting everything that has happened in this room since you arrived." Although in hindsight, perhaps it would have been polite to mention that before...
+
+"I suppose that was a sensible precaution," the Queen responded after a moment's glance at the others. "Nevertheless, our communication devices do not seem to work here. Let us return now."
+
+------------------------------------------------------------------------
+
+With a burst of flame, Xare brought Hermione and the nine representatives back to the wrecked sitting room of the palace. They had seen it on screen already, but the destruction was all the more evident up close. A large part of the castle had been destroyed, not just the one room, and the air was full with the smell of dust, and something more – blood? But already a magical team was working on the restoration. There were no other Muggles in sight, but they were probably kept outside to avoid magical accidents.
+
+One of the representatives, John Locker, looked around and heaved a deep sigh. "I suppose that's it for the day. We might as well go home now."
+
+"Aye," Hillary Toney agreed. "There's plenty to do here, but not much where we'd be useful. Could you lead us outside?"
+
+Hermione bit her lip. This hadn't gone well at all. True, Voldemort had been defeated – apparently, she still needed to hear the finer points of that – but the main goal of the day had *not* been achieved.
+
+She knew what was at stake, why the Ministry had been pushing so hard to get around the table with the Muggle leaders as soon as possible, why they'd even gone so far as to appoint Harry. *They had to stop the war.* If a solution was not found quickly, the fighting would continue to escalate until there was no stopping it anymore. The announcement of negotiations, and the harsh Auror response to any out-of-bounds magic had helped, but what the television would have shown today was a very short discussion session, an informal surrender that obviously wasn't supported by the majority of the magical negotiation committee, and then a massive duel. Would that be enough to stall the fighting until a good resolution could be reached?
+
+From the Muggle side, probably. They'd be confused now, not knowing what to think, so hopefully the majority would hesitate to act until the session was followed up. But from the *wizard* side... Harry had just done the unthinkable: he had surrendered to Muggle authority. He was *going* to shape the conversation to a deal that wizards could live with, but he hadn't gotten around to those parts. Lucius Malfoy had been livid even when Harry's angle became clear, and he surely wouldn't be the only one. Many witches and wizards would be *terrified* that they'd be forced to give up their magic, or even become slaves to the Muggles – Harry had explicitly stated that he wouldn't accept that, but she knew that it was easy to stop thinking and listening right after you heard something bad...
+
+If a large faction of wizards decided to rebel against what seemed to them to be a very disagreeable deal, would there ever be a chance to finish the discussions? Or if violent groups decided to make a treaty impossible by stepping up attacks on Muggles, would the DMLE be able to keep it in hand? Would they have enough people? How many Aurors had been upset by the proposals?
+
+"Perhaps –" she started hesitatingly, then stopped herself and stood a little straighter. "Your Majesty, I propose that we continue the discussions."
+
+The representative of the United Nations stared. "The building is in ruins, our communication is disrupted, and your negotiator is in hospital."
+
+*Show no doubt.* "I'm sure not the *whole* building is destroyed, and the DMLE is already forwarding everything I see to the TV – if cameras are hard to arrange, I can ask someone to set up more Scrying Charms to simulate them. And I *am* officially a part of the negotiation committee. Harry is the only one who can *sign* the treaty, but I think I have a pretty good idea of what he wants." They were all sending her skeptical glances now. So far, she'd been the harmless child in charge of getting people out in case of emergencies. She was breaking that role badly by suddenly assuming command and offering to continue peace negotiations on her own. Still, it couldn't be that much stranger than an eleven-year old leading the committee, and they'd accepted that, so she pushed on. "We could get the basic ideas hammered out, and then finish when Harry is released from hospital. I think it could be really important to reach some kind of resolution quickly." She didn't try to keep the urgency out of her voice; it could only help if they realized that giving up now would have negative consequences.
+
+The Queen glanced at her companions, who looked uncertain, but some of them gave slight nods.
+
+"Very well then," she decided. "I propose a thirty minute recess, in which we shall restore our communication with parliament. After that, I suppose, we will speak further."
+
+------------------------------------------------------------------------
+
+Within half an hour, a small room in the castle which had not been touched by the destruction was equipped with video cameras, and the nine representatives of government returned with new earpieces, the old ones needing a check-over after having been exposed to the high amount of magic in the DMLE. Discrete messages were sent to the Boy-Who-Lived and other members of the negotiating committee, but the only one not currently in hospital was in mourning, and quite obviously not in the mood. Hermione boldly went in by herself, although she was quickly joined by Emmeline Vance, *supposedly* for her protection, although it was unlikely that anyone would object if the Muggleborn witch should happen to ask the pureblood Auror some background questions.
+
+Before the cameras and the critical questioning of the nine Muggles, Hermione explained Harry's goals, as she had understood them: to create peace, keep the lives of most wizards and witches – at least those who weren't *looking* for change – and also most Muggles roughly unaffected, but create possibilities for trade and shared research to improve everyone's quality of life. She did immediately relate Dumbledore's worries, and included his tale of how the Statute of Secrecy had allowed science to flourish. The representatives were skeptical of the insurmountability of this problem, although they did agree that they had to be careful with planning, because various industries might not be too pleased with the shortcuts magic offered, and could end up opposing the treaty unnecessarily. She told them the details of the recently added trace, and how they had been told it would be enforced. She even explained the nature of Harry's current power over the government, and the potential for refusal if a 90% majority of the Wizengamot rejected the treaty – or the simple possibility for all or most wizards to leave the country and seek their fate elsewhere, leaving the Muggles without realistic enforcement methods against magic users. She wasn't entirely sure whether it was good politics to throw all of their cards on the table like that, but (a) she didn't have Harry's manipulative streak, (b) no one *expected* her to try tricking them, and (c) the representatives responded well to someone simply being honest about their intentions.
+
+There were many questions. Hermione elaborated on Harry's warnings about sharing knowledge by explaining the things Professor Quirrell had said in his lecture for Muggleborns, a lecture that had been specifically designed for people *not* familiar with the wizarding world. She explained – with a lot of help from Emmeline Vance – how the Wizengamot functioned. The two of them together spoke of blood prejudice, of the war, Lucius's and Dumbledore's role in it, the general trauma in the wizarding world, and how Harry had mysteriously ended it the last time. She also noted the many things purebloods took for granted, and would not appreciate losing in any kind of arrangement.
+
+When pressed for more background, Hermione told them more about the things "Professor Quirrell" had done, and Emmeline urged her to include certain recent events regarding her own part. They even spoke of Grindelwald, and all the other wizarding interference which had been hidden in plain sight for all those years. Hermione *really* hoped that the other countries wouldn't take offense at her revelations (which were undoubtedly broadcasted worldwide even as she spoke), because one brief stay in prison had been quite enough, but she wasn't going to let that consideration stop her from breaking the International Statute of Secrecy all over the place.
+
+It was almost 5pm when Harry finally stepped into the small room. He was completely cured, and even his robes were as good as new.
+
+One of the women drew in a breath. "We have *got* to learn how to do that."
+
+"Lord Potter," the Queen greeted him with a gentle nod. "Your friend and fellow negotiator has given us some of the background of today's events. It was fascinating, although if I am indeed your ruler now, I do believe I am going to have to put my foot down about putting children into adult prisons. For the rest, I am happy to delegate the authority to the elected representatives of the people."
+
+"That is a decision I can fully agree with, Your Majesty," Harry said with a bow.
+
+"Very well," the Queen said. "I believe we have a lot to discuss regarding the conditions of your surrender. Miss Granger and Auror Vance here have given us an important overview of your desires for this treaty, and we are overall in agreement that it is in everyone's interest to find an satisfactory arrangement to all parties. Given the absence so far of anyone with final authority on your side we have focused on the larger picture rather than the details, but with your presence we may start finalizing the most urgent points. For example, I understand that witches and wizards commonly use magic to remove the tedium of common tasks like cooking, for which I suspect you will want to discuss permission."
+
+"Indeed," Harry confirmed. "Although I *am* just a first-year student raised by Muggles, and do not know all that can be done, or is commonly done. That was really why I had those adults with me. Well, one of the reasons."
+
+"I can help," Emmeline Vance offered. "I was surprised by your... negotiating style at first, but I think I can see the logic. If we cannot live in secrecy, this is a good alternative. If you can accept my help without a Vow?"
+
+Harry grimaced. "Yes, that part was a little too dangerous for comfort anyway. Thank you." He turned to the Muggles. "So, what have you got so far?"
+
+</div>
+
+</div>

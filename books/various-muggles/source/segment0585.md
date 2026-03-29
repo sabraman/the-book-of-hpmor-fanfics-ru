@@ -1,0 +1,147 @@
+<span id="seg-0585__seg-0585-0d1a0dfb67"></span>
+
+<div class="calibre4">
+
+<div id="seg-0585__chapter-1-2c72f2a671" class="calibre4">
+
+<div class="calibre4" role="complementary">
+
+April 8th, 1992
+
+He woke in the dark, heart racing in terror. There was something he needed to do. Think and remember. My name is… what? Were they that thorough? They took that too?
+
+Stop. Check in. What do you remember?
+
+I took their stories. I wrote them, for myself. For my fame and fortune. Because I deserved something. I deserved so much more than the hand I was dealt. I made sure that they wouldn’t find me: I erased all memory of myself.
+
+*Someone did find you* , a voice in his head said.
+
+*Someone found you, and they were quite clever indeed. Remember that signal you came up with, so that you’d know if someone was trying your own tricks on you? Your tongue does not hurt, and yet, you can’t remember your own name!*
+
+The memory came again, sharp and cutting. *Bite your tongue!*
+
+his mother had said. She had said it over and over and
+
+*over*
+
+again. But the pain of the memory was strangely blunted. She had always spat his first, middle, and last names in a horribly cutting fashion just before saying that, and he could not. Remember. His.
+
+*Name* .
+
+Stop. The mirror. The tattoo on your chest. Read it. It will tell you what to do, even if they’ve taken that knowledge out of your mind.
+
+He climbed out of his sweat-soaked sheets, and staggered to the bathroom. His wand was in his hand. Good, he thought. At least they left me that.
+
+“ *Lumos Maxima,”*
+
+he said shakily. It took him two more tries for the spell to take, and his bathroom was filled with a bright green light. It gave his flesh a sickly, corpselike aspect, but it did render the words written in flowery, ornate script on his chest completely legible.
+
+“Your name is Gilderoy Laevus Lockhart. You are a wizard. The only spell that you can cast in the accepted fashion is Obliviate, and you have used this power accordingly. If any of your memories have been stolen, you will find help at Gringotts. If for some reason you have decided to trust anyone, your mind has been tampered with. Check your surroundings and proceed to Gringotts.”
+
+Gilderoy Laevus Lockhart… He liked the sound of that. It fit surprisingly well. Yes… He would examine his house for anything out of place, or anything missing, and he would read the diary of his memories that he kept in his vault at Gringotts carefully, to see what else the intruder had done.
+
+After so long of dreading this day, of preparing for it, he was surprisingly glad that it had come. Somehow, it wasn’t hanging over his head anymore. And as it had turned out, the cleverer wizard hadn’t been that clever at all. If he had, he would have taken everything. That was what he had been dreading, that was what he had planned so long against. And now, the enemy had turned out to be far less cunning than he was. They hadn’t even taken the memory of his Gringotts vault, or of his password. They hadn’t really thought this through, had they? Not like he had. It was almost disappointing, in a way.
+
+He had his wand, he had his magic, he had a surprising amount of memories remaining. He had every advantage, really.
+
+Stop. Don’t let your guard down. Just because one enemy is an idiot doesn’t mean everyone will be. Don’t get sloppy. Take every precaution.
+
+Yes, he needed to be careful. He needed to remember what he could lose. And he had an idea that things would be proceeding quite quickly, now. He would be completely lost if he couldn’t keep up. Perhaps it was finally time to return to Hogwarts. And this time, they
+
+*would* give him the welcome that he deserved.
+
+------------------------------------------------------------------------
+
+June 13th, 1992
+
+She slowly pulled herself out of the burning rubble, shooting pains gradually disappearing as the mountain troll in her blood reformed her torn and beaten flesh. The explosion had been sudden and fierce. None of the magical warning systems had so much as uttered a squeak of protest before the cacophony, and she had seen nothing at all out of place.
+
+She should have insisted, should have made her lover undergo the ritual once they knew there was even the barest chance that the Stone could be lost to them. And now, though she had long ago promised herself that the past was the past, unable to be changed even by magic, she couldn’t help feeling a twinge of regret. There were so few people on this Earth that she actually liked. So few who could keep up their end of an interesting conversation, who could understand her, who could satisfy her utterly. And now, there was one less.
+
+She quickly put aside her regrets, however. After this long, she was nothing if not pragmatic. And, now, she was no longer constrained by the whims of the one she had loved.
+
+She had seen the lifeless body, not of the woman she had met so long ago, in another lifetime, but the body that had housed the same soul. The body that had brought her to pleasures undreamed of, even when she’d been far from an innocent, so long ago. The mind that, ever so occasionally, came up with something new and marvelous to liven her long days. The soul that she had, truly, loved.
+
+She was, in fact, tempted to resist this. But, she knew it was futile. She could get quite angry about her lover’s death, if she let herself. But she didn't like herself when she was angry. Anger had only led to loss, for her, ever since that day long ago, when she had lost all.
+
+If there was a method for truly returning from death, the knowledge of it had eluded her all these long years. She had researched countless possibilities, and none of them would quite get one there. Well, there was a method that might serve, but her lover’s ancestors would be anonymous dust by now.
+
+No, best to get this over with. She would miss her lover, but she knew from experience that she would move on, and so she saw no reason to wait. Yet another life would begin for her now, and even if she never regained the Stone, she was in her favorite Form, which was quite durable indeed, now, with the carefully managed addition of one troll and one dragon.
+
+And, the Stone was last at Hogwarts, which was as good a place as any to begin. After all, if recent trends were to be trusted, they would soon need a new Defense Professor.
+
+She felt a wide and mischievous grin forming on her face, as she considered the shape of the future.
+
+She was Baba Yaga the Undying once more, and she would have her vengeance.
+
+------------------------------------------------------------------------
+
+He dreamed of happier times: The unmitigated joy of discovering that he was special, that he could do magic. A shouted name:
+
+*SLYTHERIN!*
+
+\- like being seen and instantly judged worthy. And a snakey riddle, like a long awaited reward.
+
+Another fragment that somehow brought the smell of musty parchment:
+
+*Baba Yaga the Undying*
+
+\- someone else who understood, a kindred spirit. Someone to seek out, and learn from.
+
+Learning, always learning, more and more, at a dizzying pace. Soaking in all the things he could do, all the magnificent specialness. Finally succeeding, finally finding the snake, the giant snake, Slytherin’s Basilisk, the snake he could talk to. Knowing that he was a worthy Heir of Slytherin. Learning so much, discovering that magic was not at all like he had thought it was. Seeing the patterns and the connections, so obvious once you saw what it was you were actually looking at. Triumph that was tinged with something elusive, something unremembered. He had learned not to trust the unmixed blessing, but he couldn’t remember why that was so.
+
+Knowing that he was smart enough to fix all broken things, and realizing exactly what he needed to do. Delighting in the most cunning idea he had ever had, the plan that he would hatch to gain power and reshape the entire world in his image.
+
+Learning to spar. The fluid graceful dance of two opponents, equally matched, neither taking the openings that they knew to be traps. The economy of motion, the effortless flips, the joy of the dance that could last until utter exhaustion set in. An old man telling him that he had done well, that he had mastered the style. There was something missing there too. Something he had known once, about that man. Something important. File the strangeness away for later. It may be key.
+
+Always learning. Learning things that no one in the world knew anymore. Figuring out the puzzles left by clever wizards for clever wizards. Triumph, and again, something else. Missing pieces, always missing pieces. File it for later. It always makes sense in the end.
+
+Hearing words brought to him by another, and knowing, with crystalline certainty, what he needed to do. Knowing that he would be the first to defeat Fate itself. Setting out, already anticipating the shaping of his equal.
+
+Sleeping inside an emerald, Tom Riddle dreamed.
+
+------------------------------------------------------------------------
+
+June 14th, 1992
+
+*The feeling of emptiness that filled him up was so profound that it left no room even for lies.*
+
+*Everyone was dead.*
+
+*Everyone was dead, and it had all been futile from the beginning.*
+
+The Scion of Malfoy, last of his Most Ancient and Noble House, followed the enemy of his family, emptiness in his mind, and emptiness in his eyes.
+
+One thing echoed dully in his thoughts, though. One question that hadn’t consciously registered when he was asked it, and if it had, it still wouldn’t have quite made sense.
+
+*Lying or murder, lying or murder, which is worse?*
+
+He knew on some level that most would unthinkingly say that murder was the worse crime, and that many lies were completely innocent. He had, in fact, lied quite often, sometimes at the encouragement of his father. Who was dead now. Along with his world.
+
+His father, who was dead, had also told him that he wasn’t to murder until he was at least of legal age, and had successfully misled a worthy enemy at least three times. He was also quite clear that nothing of the sort should ever be traceable to Malfoy house. This didn’t seem to matter all that much anymore, because his father was dead.
+
+The boy listlessly followed Headmistress McGonagall, his family’s enemy, through the Gringotts travel office, because there was nothing else to do, because everyone was dead. If he could have summoned the energy to answer the question that was running through his head, he would have said lies were worse, though he wouldn’t have been able to say why.
+
+As they proceeded to the section of the office for portkeys to somewhere called Australia, he felt no curiosity about the journey. Perhaps Headmistress McGonagall would kill him at the end. Everyone else was dead, after all.
+
+The long tug of the international portkey made no impression on him. He sat numb through the carriage ride, completely ignoring the coachman’s insolent attempts at conversation. The ride in the lift, novel though it was, did not break the numbness.
+
+It was not until the door in front of him opened, and the woman he had seen only in pictures said his father’s name in a voice he had never heard before that it broke, and suddenly he was sobbing in her arms.
+
+------------------------------------------------------------------------
+
+His darling daughter Luna, light of his life, had discovered that it was so much more interesting for her to walk around the house standing on her hands. Despite several early falls, she had gotten quite good at it, and he had never really liked that vase anyway. Who was he to stand in the way of youthful exuberance? Besides, he had his writing to keep up with, and with the leadership of the
+
+*Prophet* in disarray, demand had never been so high.
+
+As he read through the final draft of the true story of the defeat of He Who Must Not Be Named, he heard a distant crash, and then the familiar high melodic tones of his daughter’s Gift. He immediately grabbed the nearest quill and scrap of parchment, and began to write:
+
+*The old snake and the young snake, the sleeping snake, the too cunning snake. All the twisty little snakes. All at the castle, all vexing the prince.*
+
+While he ran off to help his daughter brush herself off, Xenophilius pondered this prophecy. A plague of serpents, but upon which castle? No, too simple, too literal. But the answer would come to him in the end, he knew. It would come to him, and by Merlin, it would be a wonderful story.
+
+</div>
+
+</div>
+
+</div>

@@ -1,0 +1,285 @@
+<span id="seg-0315__seg-0315-9aa313f8c2"></span>
+
+<div id="seg-0315__s6-bc6df459c2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 6: My Past Is Not Today
+
+<div id="seg-0315__storytext-9c93142583" class="calibre4">
+
+Gellert Grindelwald's handsome face was grinning, despite being locked in three-way duel with his former best friend, Albus Dumbledore, and his brother Aberforth.
+
+"Give it up, Albus. This is our birthright, and if you are too weak to claim it, then I have no further use for you. But I don't wish to hurt you!"
+
+Albus slashed the air violently with his hand, only barely fending off the writhing tendrils of roots that had burst from the ground at Gellert's command. "Only if you swear to me to stop this madness. You've seen the price! Forty-five million dead? Even you can't pretend that's for the greater good!"
+
+"Do you really think that we, the chosen of Atlantis, should be held culpable for blood on the hands of a mayfly leader of a Muggle country?" Gellert laughed as he effortlessly deflected the wall of ice that Albus had sent his way. "Besides, if you care so much about saving those Muggles, just send an owl to the Viennese Academy for Fine Arts in a few years"
+
+A bolt of red light shot forth from Aberforth's wand. Unlike his brother, Aberforth was aiming to kill, not to subdue.
+
+Another effortless deflection, another laughing taunt.
+
+"I like your brother's style, Albus. I bet if it were up to him, he'd just kill the boy. Just take a quick jaunt down to Michaelsbergstraße, Aberforth... Burn the whole street down, just to be sure. If you love Muggles so much, I'm not sure why you don't!"
+
+"*Avada Kedavra!"*
+
+A gust of wind from Albus' hand blasted Gellert out of the way of the curse, and knocked Aberforth off his feet, his wand clattering a few feet away.
+
+"Aberforth! Are you insane?"
+
+The younger Dumbledore glared up at his older brother in rage, then looked past him to the object of his hatred. "He's rotting your brain, Albus. If you don't have the stomach to do it, then I will. It's 'for the greater good', after all," he spat, mockingly, while diving for his wand.
+
+Grindelwald laughed, regaining his stance and twisted his wand in a telltale corkscrew pattern.
+
+"NO!" Albus shouted, slashing his wand desperately. Gellert winced, withdrawing his hand which began blossoming blood. The curse had also struck a glancing blow across the side of Grindelwald's scalp, who wiped the blood out of his eyes with his free hand.
+
+Aberforth had reached his wand by this point, and right before he fired a curse at Gellert, he saw Albus drawing a shield with his free hand, so he changed his plan: he flicked his wand to the side, casting a concentrated sonic lance which pierced the air and broke Albus' concentration.
+
+The shield shattered, and Aberforth leapt up, slicing his wand low to destabilize Gellert's footing, preventing him from effectively dodging, then flicked a wide blade upward which could not be avoided by falling or jumping. As soon as Gellert felt the ground beneath him shift, he predicted Aberforth's vertical attack, and he cast a cord of rippling purple light outward. The rope wrapped itself around one of the support beams of the outdoor porch, and Gellert yanked hard, swinging himself out of the way of the blade and toward Aberforth.
+
+As Grindelwald prepared to attack from overhead, an awkward angle from which to defend against, he felt the weight of Albus Dumbledore crash against him and carry them both to the ground. He stared up into Albus' eyes, which were but a few inches from his face, feeling Albus' hot breath against his lips.
+
+Gellert spat insolently at Albus, "*Lesz egy ember akit a villám megjelölt és ő kioltja majd a csillagokat*."
+
+As Albus was about to respond, he was interrupted by the sound of the door from the house opening, timidly. A small, young girl wearing a gray dress, with a mop of messy, blonde hair peered out from behind the door. She turned her walleyed gaze towards Albus, and lit up with excitement.
+
+Aberforth gaped with horror. "Ari, you... you're not supposed to be here."
+
+Albus looked back down at Gellert, who spoke to him with intensity, "Albus, you speak of forty-five million Muggles? That's but a fraction of the hundred billion that have lived and died since Atlantis. Sacrifices must be made, for the-"
+
+Albus' hand, which was now running through Gellert's hair, gripped it firmly and yanked it backwards. "Don't say it, don't you dare say it. You never believed it, that's the difference between you and me. It was always a mask to you."
+
+In silent response, Gellert pulled Albus face close, and kissed him, passionately. A few yards away, Ariana tittered and bounced up and down on her heels, ogling them and giggling excitedly.
+
+"Does *that* look like a mask, to you?" Gellert whispered. Albus was dazed. He had dreamed of this moment for quite some time, and he found he had quite some difficulty come to his senses. "Come with me, Albus. We can rebuild this broken world... together." He whispered this last word, breathlessly, into Albus' ear.
+
+Aberforth had moved protectively between the two of them and Ariana, and sighed loudly. "Really? Now? He's toying with you, Albus." He kept his wand trained on the two of them and his free hand on Ariana's shoulder, trying to slowly guide her back into the house.
+
+Hot tears formed at the corners of Albus' closed eyes, and he whispered a single world that echoed with finality.
+
+"No."
+
+Aberfoth's tense posture noticeably slackened. Ariana cocked her head, quizzically. Grindelwald sighed.
+
+"You stupid, stupid boy." Violently, he shoved Albus off of him, rolled aside, and jumped up. "I'm leaving, Albus. Without you."
+
+Without further dramatics, he began to walk away, approaching the edge of the wards around the house that would have prevented him from Disapparating. When he finally reached the faintly shimmering veil, he turned around and spoke.
+
+"But of course..." he nodded his head towards Aberforth,"I can't let him live to stop me."
+
+And with that, a violent crackle reverberated through the air as forked lightning shot towards Albus and Aberforth. In instantaneous response, both Aberforth and Albus shot forth spells of their own. Aberforth knew that Albus would react defensively for both of them, and shot a bolt of pure elemental force in Gellert's direction which would have been instantly fatal had it connected. Albus knew that Aberforth would not bother with defense, and despite the inevitable war that would come, he could not bear to see Gellert die. Not here, not now.
+
+Three points of brilliant intensity shot forth, intercepting Gellert's lightning and Aberforth's elemental blast. The six streams of magic danced in the early twilight, casting shadows of deep violet, ivory, and aquamarine. The magic reverberated in sinusoidal waves, casting off sparks and fireworks both beautiful and terrible. The three grunted in magical exertion, desperately trying to maintain the force of their own magic. Pure offense was easily outmatched by pure defense in a one-on-one duel; but Albus' power was divided between both Gellert and Aberforth, and for a moment, it seemed like none of them would prevail.
+
+Until...
+
+"Ooo... shiny..."
+
+Ariana, enamored by the dazzling light show, wandered from behind Aberforth, and held her hand outstretched towards the display of crackling magic. Aberforth, Albus, and Gellert's eyes went wide in horror. As her hand reached closer and closer, it was Aberforth who broke first.
+
+"Ari, stop!"
+
+Like removing one of three legs of a stool, the balance had been shattered. The magical force erupted, and the sky went white. A hot wave of force washed over the four of them with flecks of intertwined magic concentrating in a single direction. If the pulsating bursts of magic hadn't already blasted them backwards, the rumbling of the ground would have knocked them off their feet, where the intensity of the evaporating magic made any sight beyond a few feet all but impossible.
+
+When the air had finally cleared, Gellert was gone, and Ariana was dead. All that Albus Dumbledore could hear before he drifted into unconsciousness was his brother whispering with desperate abandon, "Please... not her... take me instead. Please..."
+
+------------------------------------------------------------------------
+
+Alice Longbottom's head was buried in Frank's shoulder, she couldn't bear to look. Frank had a wary eye on Albus Dumbledore, fixedly keeping his gaze away from the box that the house elf had dropped off minutes before. Minerva McGonagall tried to place her hand on Albus' back, but he slapped it away. He paced back and forth, manic.
+
+"What's in the box, Alastor?"
+
+Alastor Moody was the only person in the room who was still staring at the box, the Eye of Vance whizzing erratically back and forth. He did not speak.
+
+In his absence, the ghostly, echoing voice of Lord Voldemort emanated from the open box.
+
+*He just told you...*
+
+*"*No. Alastor. Say it's not true."
+
+Alastor shook his head. "I'm sorry, Albus. There's a lot that I'd do for you, but lie to your face isn't one of them."
+
+*Become vengeance, Albus...*
+
+"What's in the bloody box?!" He shouted, shaking his head in desperation. He didn't need to look. He could feel that he was now alone in sustaining the transfiguration that he had assisted in maintaining at Aberforth's request, nay, demand.
+
+*Aberforth was nearly late, and nodded curtly at Albus when he arrived. Albus noted the strange new necklace hanging around Aberforth's neck, a delicate glass collection of five or six interconnected bubbles, but said nothing of it. In fact, they barely said a word to each other until after the funeral, when Aberforth had approached him and taken his hand and placed it upon the necklace.*
+
+*"Albus, you need to do your part."*
+
+*Albus cocked his head at this, but then his eyes widened in recognition as he recognized the magic of transfiguration. "Forbearance?" He* *whispered, glancing back at the closed coffin which had already been lowered into the freshly dug earth of Godric's Hollow.*
+
+*Aberforth said nothing, but only nodded.*
+
+*"Surely... surely you don't believe in that rubbish. That's for purebloods, daft fools who worship the Sacred Twenty-"*
+
+*POW*
+
+*Albus was gamely interrupted by a fist to the face, which knocked him square off his feet.*
+
+*"You always were a selfish bastard, Albus. You never liked her, Ariana the Albatross, around the great Albus Dumbledore's neck. She loved you, she adored you... and you, you couldn't even give a damn." Aberforth breathed heavily from the effort of the punch, his voice raising in volume. "It's your fault she's dead. It may not have been by your hand, but it was you that brought it on her."*
+
+*Albus, still on the ground, was looking stolidly downward, wiping the blood from his broken nose. Aberforth leaned down and roughly lifted him up. "Look me in the eye, Albus. Look at me!" Aberforth demanded.*
+
+*Still shuddering in anger from both the insult and the physical blow, Albus looked at his brother in the eyes. "I'm sorry, Aberforth."*
+
+*"If you're sorry, then do this for me. It always burned me that she adored you more than me. When I cared for her more in a day than you had in your entire life. You might not believe in it. Hell, I don't even know if I do, either. Maybe it's just a twisted lie, but it's a comforting one, Albus. You lost your chance to do it for her, but the least you could do is to do it for me."*
+
+*Aberforth thrust the necklace out in Albus' direction, who nodded and wrapped* *his hand around it. He felt the magic, the underlying form beneath the substance, and it was unmistakeable. Lifeless, but unmistakeable. Tears coming to his eyes, he let his own magic flow through, reinforcing Aberforth's, maintaining the transfiguration for as long as he would live.*
+
+He was jostled out of his recollection by the sound of the door to the swinging open. Amelia Bones and her brother, Edgar strode into the headquarters of the Order of the Phoenix, a hidden set of rooms concealed behind a bookcase in the Headmaster of Hogwarts' office. Oblivious to the mood in the room, she began speaking immediately as the door closed behind her. "Dearborn's gone missing, hasn't made any of the standard check-ins in the last forty-eight hours. We're hoping against hope that he-"
+
+She slowly trailed off as she saw the somber face of Moody, staring into an open box, and Dumbledore pacing back and forth with a crazed expression. Amelia was sharp, she knew that Aberforth had been kidnapped and was held for ransom, and she could put two and two together easily enough.
+
+"Oh, no... No, Albus, no..."
+
+As if Moody was waiting for someone who would be amenable to his suggestion to enter the room, he began speaking, slowly, testing the reaction to his words. "We need to respond. We need to send them a message."
+
+This seemed to be the only thing that Dumbledore reacted to. He nodded, slowly. "Yes... A message."
+
+Minerva, on the other hand, eyed Moody suspiciously. "A message? What kind of... 'message' do you have in mind?" Her lips and voice were both quite thin.
+
+"I'll let Albus answer that one." Moody demurred, looking up at him.
+
+"I... I need a moment. Please, will you all please give me my privacy?"
+
+Without further prompting, the assembled members of the Order of the Phoenix filed swiftly into an adjoining room. When the door had closed behind the last of them, Albus Dumbledore walked over slowly and peered down into the box.
+
+Aberforth's severed head, eyes and mouth open in a silent, bloodcurdling scream of pain, stared up at him. The glass bubble necklace that Aberforth had always worn around his neck was missing, but not gone, as its transfiguration was now maintained by Albus alone, and he could still feel the vague, persistent tug of Magic deep within his person. His brother's head was perfectly preserved; it almost gave off the impression that the box was part of some invisibility cloak that only revealed the head of its wearer.
+
+As Dumbledore suspected, the head was preserved by Voldemort himself, and was impervious to any sort of modification. A perpetual insult, meant to serve as a reminder of the heinous deed, but ultimately turned into a weapon against its maker. When Voldemort had supposedly been defeated that fateful Halloween night a year later, the first thing Dumbledore had done after hearing the news was retreat into the private room in his office, discovering that the head was still intact, perfectly preserved.
+
+He knew, at that moment, that the Dark Lord had not truly died, but had merely fallen. Voldemort's hold over the transfiguration, though still present, had weakened, and Dumbledore had used that opportunity to alter the form of Aberforth into something less painful to look upon: an ornate ring set with a brilliant sapphire, engraved with a stylized set of goat horns, and he wore that ring on his finger from that day forth.
+
+In the present, though, Dumbledore had noticed glistening, silvery tears in Aberforth's eyes, swimming with telltale white wisps: clearly a memory preserved, and Albus didn't need to guess which of Aberforth's memories that Voldemort had left him with. Nonetheless, Albus collected them in a small silver phial, approached his Pensieve, and steeled himself for what was to come.
+
+------------------------------------------------------------------------
+
+*Later*
+
+"Narcissa, take Draco and go! It's him!" shouted a man's voice. "Go! Run! I'll hold him-"
+
+His voice was cut off by a wordless, almost lazy flick of a wand, and the intruder advanced.
+
+"Not Draco, not Draco, please not Draco!" screamed the woman's voice.
+
+"Step aside, woman," said the cold, dispassionate voice. "I have not come for you, only the boy."
+
+"Not Draco! Please... have mercy... have mercy..."
+
+She flung her arms protectively in front of the door at the back corner of their bedroom, as if a wandless witch with little to no battle experience could somehow turn aside the indomitable wrath of Albus Dumbledore.
+
+"I give you this rare chance to flee," said the cold voice. "But I will not trouble myself to subdue you and your death here will not save your child. Step aside, foolish woman, if you have any sense at all!"
+
+"Not Draco, please no, take me, kill me instead!"
+
+Albus Dumbledore cocked his head as if deeply considering this. After an endless moment, he finally spoke. "Very well," said the voice of death, sounding coldly resigned. "I accept the bargain. Yourself to die, and the child to live. Now step forward so that I can murder you."
+
+There was a hideous silence.
+
+Albus Dumbledore began to chant, a horrible, rhythmic chant.
+
+*Az-reth, Az-reth, Il-dan, Il-dan, Ma-ev, Ma-ev*
+
+As twisted fire began pouring out of the flaming rune that Dumbledore had conjured, a percussive crack filled the room as Lucius Malfoy managed to break through his immobilization, and he shrieked in desperate hate, "Avada ke-"
+
+A gust of air slammed him against the back wall, knocking the wind of out him, preventing him from completing the incantation. Dumbledore held him firmly in place with magic emanating from his outstretched hand, and casually guided the crackling flame above the bed.
+
+Lucius struggled mightily, screaming, yet producing no sound, as Dumbledore flicked his wand, sending Narcissa screaming onto the bed.
+
+"Incarcerous!"
+
+Thick, black cords emerged from the aether, binding her firmly to the four posts of the Malloy's lavishly appointed bed. Amid the crackling of flames and Narcissa's shrieks, the faint sound of a small baby boy crying wafted from the adjacent room.
+
+Satisfied that Narcissa was properly bound, Dumbledore whirled on his feet and turned to Lucius, holding his wand underneath Malfoy's chin. "You were there, weren't you?" he asked, quietly.
+
+Lucius did not answer.
+
+"ANSWER ME!"
+
+"Please... not her... take me instead. Please..."
+
+Dumbledore's mouth turned up in a twisted smile. "My brother spoke those same words as he cradled our sister in his arms." As he spoke, he slowly dragged the Elder Wand up Lucius' chin, across his face, to his forehead, deliberately pushing into his skin hard enough to occasionally draw blood. "But would you know, there was no one to listen? LEGILIMENS!"
+
+The memories of Aberforth's torture and eventual murder slammed into Lucius' mind, as Albus Dumbledore continued to speak. "Your 'Dark Lord' forced him to relive that memory as he tortured him... but you already know this, don't you, Lucius? You were there. You watched as Tom Riddle murdered my brother."
+
+The memories withdrew, and Albus violently flung his hand backwards and cast the rippling cloud of flame that was hovering threateningly over the bed downward, engulfing Narcissa, who immediately let out a bloodcurdling, horrifying scream. Lucius thrashed violently against the invisible bonds that held him, his eyes wide and welling with tears.
+
+"Do you know why Tom Riddle fears me, boy? Do you?"
+
+Lucius could not answer. He stared wide-eyed as he watched the love of his life, the mother of his child, consumed by violent, blood-red flame. Her screams had ceased. A dim part of Lucius' mind wondered if this was because she was dead, or because the part of her lungs capable of screaming had simply burned away.
+
+Dumbledore's voice lowered to a menacing whisper, "He knows what I am capable of, but he does not know where I draw the line."
+
+He moved the wand deliberately down Lucius' face, down his side, to the top of his leg. The wand's tip glowed the same shade of red as the burning flames, and he pressed it to Lucius' skin, who began writhing with physical pain to match the emotional. He slowly drew a line down Lucius' leg, leaving a trail of sticky, liquid flame which charred and bubbled the flesh beneath.
+
+"You tell Tom Riddle, if you survive, that he has crossed that line, and if he crosses that line again..."
+
+Albus Dumbledore held his hands up, and a blazing Phoenix crashed through the window. When its claws caught his hands, he exploded in a fanstastic burst of flame, which scattered across the room.
+
+The curse which rendered Lucius immobile evaporated, dropping him to the ground. He tried to stand up, but his leg would not support his weight from the pain of the liquid flame. As he dragged himself across the bedroom floor to the door that opened into Draco's room, he heard the booming voice of Albus Dumbledore complete the sentence:
+
+*The world will burn!*
+
+------------------------------------------------------------------------
+
+"Albus Percival Wulfric Brian Dumbledore, what have you done?!" Minerva McGonnagal demanded, half-shrieking, half-hissing, staring down at the unconscious, but unharmed body of Narcissa Malfoy.
+
+Dumbledore's head was firmly planted in his hands, and he did not look up at her.
+
+"We agreed that you'd take the boy! As abominable as I find the idea of using an innocent baby as a piece of meat, at least we all agreed upon a plan! But this, this is a grown woman, Albus! "
+
+Without warning, Alastor Moody had clambered into the chamber and began speaking without introduction or preamble.
+
+"I agree with Minerva. We can't just stuff her in a cradle and change her nappies and expect her to keep quiet until we're ready to trade her back to the Malfoys! And besides, ol' Lucius is a lot more likely to get sentimental about his son than his wife, I expect." His magical eye whizzed around in his head a few times before fixing itself upon Narcissa's supine body. "Although..."
+
+James Potter scoffed, idly playing with a Golden Snitch. "Always the delicate one, Alastor."
+
+Dumbledore looked up at Lily and James through his fingers. "And what say you, James?"
+
+James shrugged. "We had to send a message, didn't we? Judging by the state of you, I'd say you did just that."
+
+Albus nodded. "And it almost destroyed me... anyone who can bring themselves to play the role of a monster-"
+
+"-Yes, yes, they're a monster too. Take a good look at me, Albus. Yer' not a monster. I can guarantee you that whatever it is you did tonight wouldn't hold a candle to some of the things I've done on a mild day." He leaned in closer. "*And I wasn't acting.*"
+
+"We've all heard your lecture on how rotten you are, how you can cast the Killing Curse at will, at how much you wanted Grice dead, blah blah blah..." James cut in with a smile, and then contorted his voice into a thick brogue in open mockery of Moody. "*I didn't do it for justice, or to stop him, I did it because I wanted him dead.*"
+
+Lily giggled. "I, for one, am glad to have heard his lectures. It's good to know my limits. You know me, I'm always giving people the benefit of the doubt." James rolled his eyes at her, and she decided to toy with him a bit. "You know, I bet I wouldn't even be able to manage a Killing Curse if Voldemort himself turned up in our house."
+
+James groaned and Lily laughed. "Lily, don't make a liar out of me, I'm always telling people how good you are with a wand!" She mussed his already-mussed hair as he protested.
+
+"You should watch out for how much you talk me up. I don't know how much good I'd be able to do in this state. I'm about to burst." She gestured down to her distended stomach, and James warmly laid his head down upon it.
+
+"At least you're here today, which is more than I can say for Alice. She's due any day now, too, isn't she?" Suddenly, his eyes lit up. "He kicked! He kicked, did you feel it?" James' wand, which was sticking out of his back pocket, glowed a faint golden.
+
+Lily rolled her eyes, "If you can feel it through *my*stomach..."
+
+Moody made a fake retching sound, "Alright, you two, you can wait until you get back to Godric's Hollow for that namby-pamby nonsense. We need to come up with a plan."
+
+Dumbledore finally looked up from his hands. "As it so happens, Alastor, I do have a plan." As if on cue, a loud knock came from outside the Headmaster's office, and Dumbledore and Minerva quickly left the chamber and closed the bookcase behind them, leaving James and Lily alone with Alastor Moody. They listened intently to the voices from inside the Headmaster's office.
+
+"Coming!" They heard Dumbledore shout pleasantly.
+
+The opening of a door. A bombastic, loud voice, "Greetings, Greetings, Headmaster! A pleasure to see you, sir. What can I do for you, or you for me?"
+
+"Thank you for answering my call at such a late hour, Gilderoy. I'm afraid I have a favor to ask of you..."
+
+------------------------------------------------------------------------
+
+Lucius gazed at the mantle in the Oblatorium of Malfoy Manor, staring at the figurines. Each one a different, unique sculpture, each representing a departed family member. As he stroked them, he could feel the magic that maintained the transfiguration flow through not only him, but all those who knew and loved the departed. That is, until he reached her figurine; a small, gilded lyre bathed in mint green light.
+
+It was deliberate, burning her away to ash, not allowing her to take part in the Ritual of the Forbears. Denied an honor that was extended to even the lowest of House Elves, after a fashion.
+
+The Lyre represented the Lyre of Orpheus, who had travelled into the Underworld in order to save the one he loved. Narcissa was always fond of that story, and it was their little joke that one of them would have to be the other's Orpheus. But that was no longer possible. She was gone. She no longer existed. She was absolutely annihilated and was not coming back.
+
+With each generation, the magic that maintained the transfigurations grew weaker. He and his brethren would do anything to stop that from happening. Not for their own sake, but for the sake who all who came before them. They would ally with any tyrant, make any sacrifice, pay any price... And that price had come due. Guilty of no crime but loving Lucius, his Narcissa, his beautiful, innocent Narcissa, had been denied the Awakening.
+
+He noticed that his cane was rattling on the floor as he leaned on it for support. The pain of his cursed leg was still raw. Duller now, but it would take years for it to fully subside. He stroked the silver serpent at the top of the cane and lost himself in watching his infant son playing on the floor, unaware of the turmoil that lay beneath his father's steely visage.
+
+</div>
+
+</div>

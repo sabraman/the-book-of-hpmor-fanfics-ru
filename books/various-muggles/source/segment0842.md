@@ -1,0 +1,7 @@
+<span id="seg-0842__seg-0842-01cb20c51e"></span>
+
+<div>
+
+![](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEwMCUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIHZlcnNpb249IjEuMSIgdmlld2JveD0iMCAwIDEyMDAgMTYwMCIgd2lkdGg9IjEwMCUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgo8aW1hZ2UgaGVpZ2h0PSIxNjAwIiB3aWR0aD0iMTIwMCIgeGxpbms6aHJlZj0iY292ZXIuanBlZyI+PC9pbWFnZT4KPC9zdmc+)
+
+</div>

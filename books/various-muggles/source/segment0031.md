@@ -1,0 +1,75 @@
+<span id="seg-0031__seg-0031-48d70b2767"></span>
+
+<div id="seg-0031__s3-dd33a084ba" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 3: Antenna
+
+<div id="seg-0031__storytext-9c93142583" class="calibre4">
+
+3 October 1991
+
+Antenna
+
+Harry James Potter-Evans-Verres paused as he passed the pile of electronics in the recesses of the pantry in his parents' home. Under the dust, yellow, green and red LEDs looked back at him darkly. Black cables snaked half-heartedly into corners, or terminated with fanglike, threatening connectors.
+
+"Mum, wasn't this kit supposed to go back to the university?", Harry asked.
+
+Petunia Evans-Verres paused. "You know, I don't recall. We'd have to ask your Father. Which project was this for?"
+
+"Mum! It was just last year", replied Harry, somewhat chagrined.
+
+"So that's what, 8 projects and a year gone by?", said his mother.
+
+"Okay, point taken. This is my Ham Radio gear and the kit we borrowed from Oxford. Remember all the studying and Morse Code?"
+
+Harry had become briefly enamored with the idea of speaking with people across the globe using radio signals, just long enough to absorb a license manual and enough Morse Code to pass the exam. To be fair, he had been equally enamored of the notion that there was little age discrimination in Amateur Radio - anyone who could pass the test could get a license to transmit, regardless of age. And getting the license at younger than 14 years old was in fact a sort of community honor, enough to land a brief mention in the hobbyist magazines. Harry passed the test two weeks before his 10th birthday, and a few weeks later received a government-issued call sign in the mail: M6QLF.
+
+"Vaguely. I seem to recall spending hundreds of quid on equipment that moved almost immediately to its present location," his mother said, only half joking.
+
+Harry bristled. "It's not my fault all they talk about is antennas and the weather. Besides, once you've used FTP servers on the Internet halfway 'round the world, it kind of loses its appeal."
+
+"Ah yes, the Internet. That's much better. Millions of quid to share obscure computer jokes."
+
+"It's not just computer jokes, Mum. Usenet has hundreds of forums where people from Universities all over the world discuss all sorts of things." All sorts of things, in fact, now that he thought of it.
+
+Harry had, in fact, managed to connect to the Internet using the radio and communications gear before him, as part of a short-lived attempt to show how someday, perhaps even before the year 2000, people might browse Usenet from their vehicles at up to 1200 bits per second (half-duplex), with only a cubic meter of gear in the boot. For some reason, people hadn't seemed as impressed as they ought to be with this idea. Granted, he hadn't told them about the more interesting Usenet groups, but somehow he didn't think that would have strengthened his case.
+
+Harry went back to his room and retrieved his walk-in luggage. He had a difficult decision to make. The study area inside the trunk was already packed with books, just as his family's house was. But the idea of having access to a global network of people, even if they were muggles, was tantalizing. He began carrying equipment down the stairs and into the luggage.
+
+Draco wobbled uncertainly on his broom, just outside one of the highest towers of Hogwarts. "What kind of talisman did you say this was?" he shouted into the open window nearby, awkwardly holding the aluminum tube with its many protrusions.
+
+"I told you - it's not a talisman. It's an antenna," called Harry faintly from somewhere inside the attic. Presently he emerged near the window with his wand, several omega-shaped pieces of bent sheet-metal and some wood screws in one hand, and his broom in the other. He briefly tried mounting the broom while crouched in the open window, and nearly tumbled out of it into the fog below. He paused to catch his breath, sighed, and began dropping the items into his mokeskin.
+
+"And those bits are *not* for making a shamble, then?" Draco leered.
+
+"No, they're just brackets." Harry replied, annoyed. "They're just to mount the antenna to the roof."
+
+Draco nearly pushed Harry off his broom. "Is that all we're doing up here? Muggles \*are\* stupid." He reached into the recesses of his own robe and pulled out what looked like a wad of used bubble gum. He perfunctorily stuck it to a nearby beam and jammed the side of the pole into the other side of the wad. "This where you wanted it?"
+
+"Well, yes, but I..."
+
+"Tenent continuum." Abruptly, Draco let go of the pole and grasped his broom, sailing away from the wall in a wide arc, and wringing out the hand that had been holding the pole for the last ten minutes.
+
+Harry cringed for a moment, then realized that the pole wasn't going anywhere. "Hm, that does seem to simplify matters."
+
+A full 45 minutes of cable wrangling later, Harry and Draco sat before a keyboard in a nest of wires and boxes, piled precariously on an ancient wooden desk in the attic of the tower.
+
+Harry had remained unsuccessful at convincing Draco that the gear was anything but a primitive tradition worshipping magic, like a cat proudly attempting to contribute to a household by dragging in dead rodents.
+
+"I'm telling you, Draco, this is the latest in muggle technology - the ability to send information around the world in seconds. Well, minutes in our case. Watch!" Harry flipped a switch.
+
+Draco snickered. "I don't sense anything. Perhaps my mind is not sufficiently in tune. Should I pop into the great hall at dinner and smuggle out a dead chicken for a sacrifice?"
+
+Harry's countenance fell. "Ah. Right. The battery's probably dead. The solar panel will have to charge it up. Which will take... several hours." Harry began searching for the charging cables.
+
+"This does not strengthen your argument." Draco was beginning to form a new hypothesis, that Harry's long and idealistic rants about rationality were just a highly intelligent mind's inferiority complex. He would have to think of a way to test this hypothesis. Or not, considering the notion in light of itself. "Look, I'm starving. I'm heading to dinner."
+
+Harry, half buried in a large cardboard box marked "DON'T TOUCH -HJPEV", barely noticed when Draco left.
+
+</div>
+
+</div>

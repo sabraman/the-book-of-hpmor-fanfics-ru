@@ -1,0 +1,127 @@
+<span id="seg-0449__seg-0449-368db0b134"></span>
+
+<div id="seg-0449__s9-591bea4d05" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 9: Return of Father
+
+<div id="seg-0449__storytext-9c93142583" class="calibre4">
+
+9:29 am, June 24th, 1993
+
+Draco Malfoy waited anxiously in the guest apparition room alongside with Mother.
+
+The soon-to-be Lord Malfoy received a letter from Gringotts yesterday, stating that Severus Snape had an important message for him from Father, to be delivered upon the event that Draco came to magical majority and became Lord Malfoy.
+
+This was indeed a thing Father would do, and all the secret marks on that letter were right.
+
+Father was always prepared, even for his own death. After Father passed away, Draco received Father's will, one copy from his trusted lawyer and one copy from the goblins, in which Father left the majority of his properties to Draco, entrusted most businesses to professional managers, allocated money that would go to the Crabbes and Goyles on a monthly basis for them to continue their services to House Malfoy, made donations to St. Mungo's to ensure that all Malfoys would be treated in the best possible way, set up a fund for Hogwarts so that Draco would become a member of Hogwarts' Board of Governors after he graduated…
+
+Draco wanted to cry each time he thought of Father's will, of how Father had planned for him. But he had lost more than eighty percent of what Father left him due to the heavy fines to the Ministry of Magic and restitutions to the victims of Father's crimes.
+
+\-*Who knows if Father did the things people accused him of or not? And since all Death Eaters in Azkaban have went crazy from ten years' exposure to Dementors, there is only one talking mouth now: Igor Karkaroff! Maybe Karkaroff committed some of those crimes himself, and he put them on Father. Or, maybe the victims' family bribed Karkaroff to put everything on Father, so that they can claim restitutions from the rich Malfoys, instead of the knutless Travers.*
+
+Draco knew better than to argue with the relatives of the deceased. Instead, Mother and Draco set up a generous fund for the victims' families, and handed the fund management power to Mad-Eye Moody. He secretly hoped that the financial management job would tire out the old auror soon enough, so he would give fewer suspicious stares and try fewer legilimency attempts on Draco each time they came cross. But since youth was being mass produced in Hogwarts, this plot was highly unlikely to work. Of course, neither Mother nor Draco admitted knowing wrong-doing by Father that they knew of - which was true, since Father never mentioned any details - they just said they felt really sorry to the heavy losses of the families.
+
+But losing all that money did not mean Draco and Mother were living in poverty. Father had managed Mother's dowry well over the years, and the value had grew more than ten folds. Draco suspected that Father had put some of the Malfoy wealth into Mother's dowry, so that if things went really wrong and all the Malfoy money got confiscated, Draco would still have something to rely on. Now Mother's dowry was legally returned to Mother, and the returns were more than enough for them to live a really comfortable life.
+
+Additionally, there was money from undisclosed sources coming to Draco's personal vault each month. And Draco suspected there would be a lump sum of money becoming available to him upon his majority and his marriage.
+
+Father really had everything planned.
+
+Father had even arranged for Draco to receive a Firebolt as a present for his thirteenth birthday. When Draco received the fastest racing broomstick the day before he took his OWLS exams, he locked himself in his dorm and cried. In his pre-Hogwarts days, Draco had told Father that he wanted to become a seeker for Slytherin House, just as Father did when he was in Hogwarts. Draco had wanted to make Father proud. And Father had promised Draco the fastest racing broomstick if he became a seeker.
+
+Draco didn't become a seeker, and Father wouldn't know that.
+
+Father wouldn't know that Draco was no longer the child who loved Quidditch and dreamed to become a seeker. Draco needed to keep a close eye on Harry so that the Boy-Who-Lived wouldn't cause an instantaneous wizarding war in his naivety. Draco knew that Harry did not tell him all the secrets Harry shared with Hermione, and Father would not like that. However, a lot of times, Draco was simply too tired to care, all the international politics were more than enough for him.
+
+Father wouldn't be happy if he knew Draco settled himself as the third person in the power structure. But if Harry and Hermione got married someday as everyone said they would, Draco wondered whether that would be counted as him serving the Lord and Lady of the Potter House, and therefore, second in command.
+
+Draco cringed a bit on how disappointed Father would be if he knew Draco's condition, then directed his attention to the incoming messenger.
+
+Draco knew Snape and Father were allies, but he didn't think they were close. Yet, there were a lot of things that Draco didn't know about Father, and it was possible that there was a chain-of-command, and all the people before Snape were dead. And to be honest, Draco held some resentments at Snape for just abandoning Slytherin like that.
+
+Then, a popping sound came from behind the newly installed Thief's Downfall, and the former Head of Slytherin House appeared with no automatic anti-concealment alarms triggered.
+
+The black-haired man looked worse than when he was Head of Slytherin. His hair was as greasy and unkempt as he had not stood in a shower or used a comb for at least a week, his dark eyes were like slow boiling fire, the dark circles below his eyes were quite obvious, his cheek was shallow, and his black robes were spotty, and there were heavy smells of potion coming from him. And the man had a grey suitcase in his left hand, which might contain something that Father wanted Draco to have.
+
+Draco wondered if an extra powerful imperius curse wouldn't be washed off by the Thief's Downfall, or if the man was simply annoyed at getting interrupted in his potion experiments and needing to deliver some message for a dead ally.
+
+Draco instinctively grabbed Father's wand tighter in his hands, and Snape eyed Draco as if in approval of Draco's reaction.
+
+Mother stepped forward, and raised her right hand while holding her wand in her left: "Severus, what a delight to meet you!"
+
+To Draco's slight relief, Snape put his wand into his left hand together with his suitcase, grabbed Mother's hand and made a hasty handshake. "Glad to meet you, too, Lady Malfoy."
+
+The greasy man didn't show any particular interest in the beautiful and rich widow, simply turned to Draco, sizing him up and down for a bit, then said: "Glad to meet you, Mr. Malfoy."
+
+Draco knew he was not Lord Malfoy yet, but that was why Snape was here, wasn't it? Draco smiled politely, and shook hands with the former Potions Master.
+
+Before Mother or Draco could say any more courtesy words, Snape cut in and said: "I would like a place with more privacy for what we are about to converse."
+
+Mother and Draco exchanged a brief glance, and showed Snape to a private study.
+
+"Mr. Malfoy, It is my understanding that you would receive occlumency lessons before entering your magical majority." The man said without sitting down, as if in a hurry. "Not only up to the level that you can fool Veritaserum, but up to the level that you can block Alastor Moody."
+
+Remembering all the "trainings" he got from Moody, Draco answered: "Yes."
+
+And Mother said: "I guess I need to check lunch now. Severus, is there anything that you would like to try?"
+
+Mother was an occlumens for sure, but she probably could not resist a powerful legilimens such as Moody or the Dark Lord, and that's probably one of the reasons why Father never talked of his Death Eater business with her.
+
+Snape mumbled: "Anything would be fine."
+
+After Mother left, Snape put his suitcase down, and casted spell after spell to the room. Some of the spells Draco had learnt from preparing for his OWLS, some Draco had seen Mr. Bester casting before occlumency lessons, and there were about half of them Draco had never heard of.
+
+Snape turned and -
+
+A red-hot blade took its aim toward Draco's mind, and cutting through his layers of occlumency barriers like cutting through shear butter. If it were not for Moody's frequent trials, Draco might lose the grip of his final barrier and reveal all the nights that he cried for Father. But this was way worse than anything Moody had tried, worse than anything Draco had experienced, Draco was barely able to stand.
+
+The pain stopped.
+
+Draco staggered, realizing that he was facing the second most powerful Death Eater, alone. If this man wanted to attack…
+
+Snape raised an eyebrow and said: "Mad-Eye didn't test you hard enough, did he?"
+
+Draco panted. He knew Snape should and would do this if he were going to talk about something really important, but doing THAT to -
+
+Draco heard an unbelievably familiar sound from Snape's suitcase: "Severus, I can't feel my legs!"
+
+Snape cursed and opened his suitcase. As Snape was running down the stairs of the suitcase, Draco could only see the back side of someone crawling on the floor of the study-sized room inside the suitcase. The long white hair, the neatly manicured yet powerful hands, the elegant feeling of the common robes from just being worn by that man, crawling in pain or not...
+
+\-*No, it can't be…*
+
+After Snape threw a number of spells on the figure on the ground, the pain that man had been in seemed to cease. Seeing that man no longer in immediate danger, Draco let out a breath that he hadn't quite realized he had held.
+
+Then the man on the ground raised his head, and turned toward Draco, panting, and breathed: "Draco, my boy, I am sorry to let you see me in such a state."
+
+\-*Father.*
+
+Draco could not believe his eyes; he could not believe his ears. Maybe, maybe Snape did something to him, maybe he didn't hold his mental barrier as he thought he did, or it was all a bad joke…
+
+Snape spoke amidst casting healing charms: "You can verify his identity using your patronus."
+
+In so many sleepless nights that Draco had sent his patronus to find Father, and only receiving sad looks. But this time, Draco's snake patronus happily lept and jumped to the man on the ground.
+
+Draco ran down the stairs regardless of the possible dangers. He just wanted to hug the man on the floor, and never to leave his side.
+
+As Draco reached the bottom of the suitcase, Snape had finished casting spells, and shoved a red glass into the hand of the white-haired man on the ground. Snape swayed a bit, and then lent a hand to Father to help him up. "Hopefully, the next hour will be safe. I'll leave it to you and your son. Call me immediately if anything goes wrong."
+
+Draco watched as Father grabbed Snape's hand and climbed up. It was strange to see Father in such a weakened state, and needing other's help to get up, like something perfect that had started to crack.
+
+Before Draco could figure out anything to say, Father spoke first: "Draco, I died a year ago. Severus, my dearest friend and brother in all but blood, revived me five days ago. Since then, he has saved my life at least thirty-eight times. There is no word that I can use to express my gratitude toward him."
+
+Snape stared at Father, as if being quite annoyed by Father's words, then shook his head and climbed up the stairs, murmuring: "Don't die in the next hour. I really need some sleep."
+
+The moment Snape disappeared from the staircase and the suitcase door got closed, Father opened his arms, with some tears glistening in his eyes.
+
+Draco knew this was the hint that he could abandon Malfoy demeanor now, in front of the very man who taught him how to behave like a Malfoy.
+
+Draco threw himself into Father's arms and began sobbing.
+
+</div>
+
+</div>

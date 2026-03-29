@@ -1,0 +1,61 @@
+<span id="seg-0533__seg-0533-75db7f1284"></span>
+
+<div id="seg-0533__s1-640d87e741" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 1: A Day of Rather High Probability
+
+<div id="seg-0533__storytext-9c93142583" class="calibre4">
+
+\*Millions of eyes are watching\*
+
+\*A hand is raised\*
+
+\*Red light flashes and someone whispers a word\*
+
+As Ginny Weasley woke one morning from uneasy dreams, she found herself in her bed, transfigured into a gigantic insect-like creature.
+
+I will kill Fred and George, she thought.
+
+How dare they do this on my first day of Hogw…
+
+Then her alarm clock rang and she actually woke up. After she had checked that she was not an insect, but a perfectly normal eleven year old girl, she relaxed a bit.
+
+This was not the first time she experienced such a false awakening. In fact, it had happened quite often ever since she read about lucid dreaming in one of these muggle books her father collected and started practising it. But it was still scary. However she was sure that it was worth it. The book said you could practise movements while dreaming and considering what she knew about the process of learning spells that would really come in handy.
+
+She continued to let her mind wander and started to think about Hogwarts. For as long as she could remember some of her older brothers went off to Hogwarts in early September. First only Bill and Charlie, then Percy, Fred and George, and finally Ron. But this year she would not be left behind. She had bought her wand and her schoolbooks in Diagon Alley the day before and would finally start to learn magic. But the prospect of learning magic wasn't even the most exciting part. The thing she looked forward to the most was meeting Harry Potter. He was so awesome. He defeated the Dark Lord as a child and her brother told her about all the things he did during the army battles of the last Hogwarts year. And there had even been an article in the Quibbler that he was involved in the defeat of the Dark Lord, after he rose again last summer. Although the story was quite strange, it basically said that Harry Potter was David Monroe pretending to be Harry Potter, and though the Quibbler was not the most reliable source of information, she was sure that Harry had saved them all again.
+
+She did not know when she had fallen in love with Harry Potter. She was not sure how this could have happened, considering that she never met him before, but she just felt that they were meant to be together in the end no matter what might happen in between. She was still thinking about Harry when she heard a voice from downstairs.
+
+"GINEVRA WEASLEY," her mother screamed. She sounded like someone trying to impersonate a howler.
+
+"Hurry, your eggs are getting cold and we're going to miss the train."
+
+Realising how much time had passed since the alarm clock rang, she jumped out of her bed, dressed and went downstairs.
+
+The other Weasley family members were already sitting at the table and were halfway through their breakfast when she arrived. Percy was lecturing Fred and George on how they had to work harder this year, as their OWLs were coming up next year and they would need to start getting their things together now, if they wanted to have any chance in passing them. Ron was telling his father that he was sure that he would be the general of an army this year and began explaining his strategy for the first battle. Ginny was not convinced. She liked her brother and he was quite good at chess, so he had to be a good strategic thinker, but she still could not imagine him competing with the likes of Harry Potter and Draco Malfoy.
+
+Before she sat down she let her mother perform the body cleaning charm on her. A couple of seconds later she felt clean and refreshed and began eating her toast. She was thinking again about how grateful she was that she lived in a wizarding family. She knew that muggles had to spend quite a lot of time in the shower every morning in order to get clean. She had seen such a device in the storage room where her father kept all the Muggle artefacts he was so obsessed about and the thought of having to step into it and let it spill water over her head every morning was not very pleasant. It would take hours for her long thick hair to dry and she would probably catch a cold if she had to go outside with wet hair. She knew that there were showers In Hogwarts, for the muggleborns who could not get used to magical cleaning. And she heard that even some wizard born children actually used them though she could not understand why.
+
+"Finish your food, we have to leave," said Molly.
+
+"Mum, why can't we take the floo network", asked Ginny.
+
+"I told you, they started charging money for using the floo office at Kings Cross on the first day of Hogwarts. You remember how much of a mess it was with so many people arriving there at the same time. There were even frequent accidents with people bumping into each other if someone left the fire too slow. Now it is going to be much more pleasant for the people who can still afford it. Sadly we do not belong to those people. We are going to take the car. Be glad that your father managed to acquire such a thing and we don't have to use the public muggle transport like two years ago".
+
+Ginny was indeed glad about that. They had been out of floo powder at that time and Ginny remembered public muggle transport as beeing incredibly unreliable. She really did not want to be late to the train for her first trip to Hogwarts.
+
+A couple of hour later the Weasley family was standing at Kings Cross station in front of the wall between Platform nine and platform ten, waiting for a moment when no Muggles were watching to pass through the wall to platform 9 ¾. Ginny had always been wondering why the platform was called 9 ¾ and not 9 ½ but no one had been able to explain it to her. So she just accepted that most of her fellow wizards were not really good with numbers. She had always liked numbers and taught herself a bit of maths with a textbook from her father's muggle library. Sometimes she thought it might not have been too bad to go to receive some basic muggle education, although most of the things muggles learned were useless if you could do magic. She had even asked her parents once, if she could visit a muggle school, since she had nothing better to do with her time, besides sitting at home and waiting until she was finally old enough to go to Hogwarts, but her father's love for muggles had not extended so far as to allow his daughter to be taught by one.
+
+After a few minutes all of them had managed to pass through the wall unseen and were now standing in front of the Hogwarts express. Since they were already quite late there was no time for long farewells and they immediately boarded the train. A few seconds later her brothers had all left, looking for their friends from school and leaving her behind. She was quite happy with that because she was also looking for somebody. She pulled her trunk past several compartments until she finally found the one she was looking for. Inside it sat a boy with black hair and a lightning scar on his head. To Ginnys surprise and her delight he was alone. Hermione Granger, who, as her brothers told her, was usually with him, was nowhere to be found. Harry looked up from his book as she entered the compartment and said:
+
+"Hi, I'm Harry Potter-Evans-Verres, but I'm sure you already know that, since everyone in the wizarding world seems to. Judging from your look you are probably a Weasley, most likely the little sister Fred and George told me about. Ginny was the name, right?"
+
+Ginny was paralyzed. She usually found it easy to relate to people and was quite talkative but the fact that Harry Potter knew that she existed, even knew her name was too much for her to take. Her head turned as red as her hair and she stood in the compartment door in complete silence.
+
+</div>
+
+</div>

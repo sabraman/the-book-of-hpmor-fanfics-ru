@@ -1,0 +1,215 @@
+<span id="seg-0905__seg-0905-648a8980a0"></span>
+
+<div id="seg-0905__s5-a17a5326f2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 5
+
+<div id="seg-0905__storytext-9c93142583" class="calibre4">
+
+Disclaimer: I do not own Harry Potter.
+
+Note: Lacking a large extended family myself, I see the term 'X cousins' and can only fit them with my frame of reference for cousins (all first). I know that once you get to a certain point you're not even related but it's the *calling* of someone your family and wanting to be with them that I can't wrap my head around. I know other people believe differently, that's just why my personal stance is 'if you know how closely related you are to someone you are too closely related to date.' Because in my case that would be, at the most distant, second cousins.
+
+That night passed quite peacefully as Draco wasn't actively trying to get Harry expelled and Harry didn't see any particular reason to go and wander about discovering what he already knew about the Philosopher's Stone. Of course, that might make it harder to explain to Ron and Hermione why he felt the need to go to the corridor on the third floor that Dumbledore had mentioned involved dying a horrible, painful death. Then again, he wasn't even sure if he should involve them. Last time, he hadn't had any choice because he wasn't capable of getting through there alone and his friends knew all about Voldemort and the stone anyway. This time, he was technically a legal adult and dragging two eleven-year-old children along with him to face Voldemort seemed highly irresponsible. Come to think of it, considering that Quirrell had no chance in hell of getting the stone from the mirror, did he even need to bother going down there? But if he didn't, would Quirrell return to teach the next year? While any teacher, even a possessed one, would be better than that pompous git Lockhart, having Voldemort at Hogwarts while his Horcrux was running around attacking people would probably be a very bad idea. Hm. He'd need to give this more thought.
+
+His musings were interrupted by the arrival of the daily post. More specifically, by the two broom-shaped packages that required six owls each to lift. One broom went to Harry at the Gryffindor table, the other to Draco at the Slytherin. Harry raised his broom at Malfoy in a 'cheers' gesture, which the other boy returned.
+
+Harry quickly scanned the card. "It's a good thing that Professor McGonagall warned me not to open this broomstick-shaped package at the table. After all, something that is shaped exactly in the form of a broom can be so many, many things," Harry muttered sarcastically. "What, does she think I'm stupid or something? Or, more accurately, everyone else?"
+
+Ron glanced over at the card to see what he was talking about. "A Nimbus Two Thousand!" Ron moaned. "I've never even touched one."
+
+*Well, at least now I know what to get him for Christmas*, Harry thought wryly. He wondered briefly why he hadn't thought to do so the first time around. Sure, first years couldn't have there own brooms at Hogwarts, but nobody actually listened to that anyway. And if Ron complained, as he was wont to do, about accepting charity, Harry could simply point to the Weasley sweater he hoped to receive. After all, Molly had sent it to him because Ron told her that he wasn't expecting any presents and if that wasn't charity, what was? Not that he minded; he'd have done anything for some charity in his early years, particularly when he was still at the Dursely's.
+
+After breakfast, Harry headed back to the Common Room alone as Ron had chosen to stay behind and confront Malfoy about the blatant favoritism (which really meant that Ron wished that the school would buy him his own broom) and was cornered by Hermione. "I suppose you think that this is a reward for breaking the rules?"
+
+"No, I think that this is a reward for me being ridiculously good at Quidditch." Harry paused. "And because my parents were brutally murdered."
+
+"You talk about that a lot," Hermione noted.
+
+Harry grinned. "Yeah, so does everyone else. I'm just trying to keep up."
+
+"I still can't believe that you were *rewarded* for risking your life!"
+
+Harry nodded, his expression serious. "I know. I mean, they were never going to expel me for something like that, but at the very least I should have lost some points and gotten a detention. I realize that what I did was reckless, but you have to understand that Draco, despite his inability to hold his broom the right way, knows what he's doing. I'm apparently a prodigy, although I had no way of knowing that at the time but if I got hurt, it would have been my own fault and I would have taken responsibility for it. I guess what I don't really get is why it matters so much to you."
+
+"Why? Because you could have gotten seriously injured; what more reason do I need?" Hermione asked him.
+
+Harry laughed. "Hermione, this is a magical school, and not a particularly safe one. People get grievously injured on an hourly basis. Horrible injuries are just something you're going to have to get used to and I think you know this. So what's the real reason?"
+
+"What do you mean?"
+
+"I think this has more to do with the fact that we broke the rules and you seem to hold them as sacred," Harry theorized.
+
+Hermione reddened. "I do not! It's just that rules are put into place for our protection and as such we should follow them and not flaunt our disregard for them!"
+
+"That is true," Harry acknowledged. "Sometimes, maybe even most times. But I won't follow pointless rules. If I feel that something has been put in place for my own protection, then yes, chances are I'll follow it. No promises, though. And I won't purposely endanger any fellow students. Occasionally, I may do something stupid like this. I probably shouldn't, but then again, I'm eleven." Technically. "You've got to cut me some slack."
+
+"I suppose I can…if you really mean it about being more careful," Hermione agreed.
+
+"So we're friends again?"
+
+"F-friends?" Hermione repeated, looking dazed.
+
+"Great," Harry smiled, pretending not to realize why his use of the word friends had gotten to her so much (as her magic and her intellect had always made her a bit of an outcast and he could certainly sympathize) and proceeded to his dormitory.
+
+And was it strange that seeing his broomstick again had been just like seeing a long-dead friend again?
+
+------------------------------------------------------------------------
+
+The morning of Halloween, Harry received an unexpected letter. Well, the letter was unexpected because he never got mail, but the handwriting was downright shocking.
+
+Sirius.
+
+Quickly, Harry tore open the letter, wondering how in the world Sirius had managed to send him an owl from Azkaban. Unless…but no. He hadn't done anything drastic, like getting sorted into Slytherin, for Sirius to break out for, so how could the timeline have possibly been moved up?
+
+"Dear Harry,
+
+I realize that you've probably never heard of me. Or, at least I hope you've never heard of me. If you have, it's all been pretty vile, I imagine and you'll soon hear it at any rate. Most of it is a pack of vicious, vicious lies. Note my use of the word 'most' because I you'll have to remember that I was a teenager at one time. When you reach puberty, you'll understand.
+
+Anyway, I thought you'd like to know that I'm not actually a mass murderer, I am not nor have ever been a supporter of Voldemort, and I'm your Godfather. Surprise!
+
+Here's to hoping that since I broke out during the year, they won't subject you to the horrors of Dementors,
+
+Sirius Black
+
+Ex-Con Extraordinaire."
+
+Harry snorted. Typical.
+
+"BLOODY HELL!"
+
+Apparently, Sirius's escape had made the Daily Prophet again. Harry leaned over to Percy. "Hey, when you're done with that, do you think I could borrow it?"
+
+"Certainly, Harry," Percy replied and, twenty minutes later, handed him the paper.
+
+"Thanks," he said absently. Sirius's story was on the front page AND it was by Rita Skeeter. This oughta be good.
+
+**Black Escapes Azkaban**
+
+**By Rita Skeeter**
+
+**Sirius Black is widely known to be the most infamous prisoner ever held in Azkaban. The question of why, however, has yet to be answered. Yes, Black killed thirteen people with one curse. On the other hand, twelve of them were Muggles, which even the most inept wizards can accomplish, and the thirteenth was one such inept wizard.**
+
+**Black's allegiance to He-Who-Must-Not-Be-Named came as a great shock to many and it is easy to see why. Black was certainly not a member of one of the most prominent Dark Families in Britain, after all, nor was he implicated in an attempted murder when he was sixteen.**
+
+**Despite the questionable nature of Black's reputation as infamous (given that Azkaban also houses noted prisoners as Black's cousin, Bellatrix Lestrange who was convicted for, among other things, torturing Aurors Frank and Alice Longbottom into insanity and who took down eighteen of the two dozen Aurors sent to capture her), three facts remain. People are terrified of Black. No one has ever broken out of Azkaban. Black broke out of Azkaban.**
+
+**Despite its reputation as being impenetrable, perhaps there ought to have been a contingency plan in place. When questioned, Minister of Magic Cornelius Fudge had no comment but did insist that, "We are doing all we can to recapture Black and we beg the magical community to remain calm." When pressed, Fudge admitted that they had not yet worked out a plan, although since Black escaped mere hours ago, a plan will likely soon emerge.**
+
+**In the weeks before Black's escape, he was known to mutter in his sleep about "that greasy git" and "gotta go back to Majorca." Who exactly is this "greasy git" and is Black actually heading to Spain? Only time will tell.**
+
+Harry snorted. Rita Skeeter was really quite amusing when she wasn't hell-bent on destroying his life. Still, he wished she hadn't thrown in that part about Neville's parents. He'd have to talk to Draco and see if he could convince him to get the other first-years to lay off of Neville. The older years were generally too busy harassing each other to worry about them so Neville wouldn't have to deal with much. Although really, what kind of eleven-year-old taunted someone for having their parents tortured into insanity (especially when the taunters were actually related to the perpetrators)?
+
+Harry arrived to Charms quite pleased. Draco, still shocked and thrilled that he (along with Harry) was the youngest seeker in over a century, still felt immensely grateful to him and agreed not to mention Neville's parents and to stop the others from doing so. In fact, he'd even gone so far as to tell Harry not to do something stupid like going after Black when he was a fully trained wizard and psychotic killer while Harry was a first-year, which was a far cry from the "I'd want revenge if it were me" of the first time around.
+
+The students were all whispering about Sirius when Harry arrived and some shot him curious looks, clearly aware of how Sirius and Harry's father were best friends. Harry briefly wondered why no one had said anything about Sirius supposedly betraying his family to Voldemort, but then he realized that that wasn't exactly common knowledge and, what's more, not technically a crime. Granted it was morally reprehensible, but you really couldn't prove if someone was under a Fidelius Charm nor who the Secret Keeper was. Additionally, Harry could safely assume that most Secret Keepers were more trustworthy than Wormtail and so the only way they would betray someone would be through torture, and cracking under torture isn't exactly something one should be punished for.
+
+Once class started, Harry didn't bother practicing Wingardium Leviosa as he already knew it and instead divided his focus between helping Seamus with it and watching Ron and Hermione. When Hermione levitated her feather perfectly and got points and Ron started looking angry, Harry quickly levitated his feather over to Ron and began tickling him.
+
+Needless to say, Ron was very irritated with Harry by the end of class. "Why in the world did you feel the need to torture me with that thing?"
+
+"Because I was bored and it amused me," Harry told him.
+
+"And you got it so quickly! Like Hermione, but at least you didn't go rubbing everyone's face in it. It's not wonder no one can stand her. She's a nightmare, honestly."
+
+Harry groaned. Good God, Ron was *obnoxious* at that age. "You're just sore that she corrected your pronunciation. But you know, if she didn't, you never would have gotten it by the end of class."
+
+"I guess…" Ron admitted grudgingly.
+
+"And I'd like to invoke the same rules I have concerning Draco where Hermione is concerned. Namely: No badmouthing my friends in front of me. After all, I don't let Draco say anything unless you're there to defend yourself. Alright?" Harry asked seriously.
+
+"Fine…" Ron sighed.
+
+Harry turned to look at Hermione and saw there were tears brimming in her eyes. 'Thank you,' she mouthed.
+
+Harry just smiled.
+
+------------------------------------------------------------------------
+
+At the Halloween feast, Harry made sure to eat as quickly as he could in anticipation for the troll attack. He knew they'd continue the feast upstairs afterwards, but it somehow wasn't the same.
+
+Sure enough, twenty minutes into the feast, Professor Quirrell came sprinting into the hall and gasped out, "Troll – in the dungeons – thought you ought to know."
+
+Hm, what was his reason for being absent in the first place? Everyone else was there. And for that matter, how could he have explained why he was in the dungeons? And did he just leave the doors open and hope a troll would come wandering in? He'd never seen any in the Forbidden Forest. There was really no conceivable way this could have been an accident. Great going Quirrell.
+
+"Prefects," Dumbledore roared. "Lead your houses back to the dormitories immediately!"
+
+If Harry didn't know for a fact that the troll wouldn't really be there, he'd have pointed out that the Slytherin dormitories were in the dungeons. Although how to explain how he knew…
+
+"So," Harry said brightly. "I'm feeling reckless and thus I'm going to go looking for the troll. Who's with me?"
+
+Everyone at the Gryffindor table looked at him like he was crazy.
+
+"We're in," one of the Weasley's said.
+
+Percy looked aghast. "Fred!"
+
+"I suppose I'll have to go to make sure you don't get yourself killed," Hermione sighed. "Although for the record, this totally counts as endangering others."
+
+"If she's going, I'm going," Ron said, eager to prove that he was just as good a friend as Hermione.
+
+Neville, who was also feeling reckless due to the article mentioning his parents, nodded that he was going.
+
+Percy looked longingly at the staff table; the teachers had already left to go to the Dungeons. He turned to one of the other Gryffindor prefects and instructed them to get the Gryffindors back safely while he chased after his brothers and their friends.
+
+Harry, meanwhile, quickly left the Great Hall, the others hurrying behind him. He soon reached the girls bathroom (taking care not to pass by Snape heading to stop Quirrell from getting past Fluffy) and stood outside of it. "Excellent, my troll senses seem to be working," he beamed once he heard the troll inside.
+
+The Weasley's, Neville, and Hermione did not look nearly as excited.
+
+"Are you SURE this is a good idea, Harry?" Ron asked, looking a bit green.
+
+"Of course," Harry nodded. "I mean, we're just a couple of schoolchildren about to face off against a fully-grown mountain troll. What could possibly go wrong?" And with that, Harry headed into the bathroom before the others had a chance to reply. "I suggest we use 'Sectumsempra'," Harry said as the others followed him in. "Except Ron and Neville, you guys do Wingardium Leviosa and drop his club on his head."
+
+"Do you think I can do that?" Ron asked.
+
+"Positive," Harry grinned and fired the cutting curse at the troll. The troll's thick hide meant that it did not do nearly the amount of damage it would have done had the target been a human, but it still split its arm open. Behind him, the twins, Percy, and Hermione also cast Sectumsempra and did quite a job distracting the troll. Good thing, too, as it was taking Ron and Neville awhile to levitate the club and once he did, even longer to move it over the troll and drop it.
+
+"Wow…" George said. "Keep this up-"
+
+"And we might actually-"
+
+"Admit we're related."
+
+Even Percy looked impressed. "Well done, Ron."
+
+Ron's ears turned pink and he looked very pleased.
+
+"Nice, Neville," Harry complimented.
+
+A sudden slamming and loud footsteps made them all look up. A moment later, Professor McGonagall, along with Snape and Quirrell, burst into the room. Quirrell took one look at the troll, let out a faint whimper and sat down, clutching his heart. Harry rolled his eyes at the DADA professor's theatrics.
+
+Snape bent down to examine the troll while Professor McGonagall glared at them, looking angrier than she had when she caught Harry and Draco playing Seeker.
+
+"What on earth were you thinking of?" demanded McGonagall, with cold fury in her voice. "You're lucky you weren't killed."
+
+"After you guys left, I decided I wanted to go looking for the troll. I was…upset, after hearing that Sirius had broken out of prison." Mostly just because he didn't understand why it happened so early, but then, no one said he had to be specific. "Neville was feeling the same way because of what the article had said about Bellatrix but he wouldn't have done anything if I hadn't have gone and he didn't want me to go alone and the others went with me so as to stop me from getting killed. Percy did try to dissuade me, but once I left he had little choice but to follow me and had another prefect take the rest of the Gryffindor's back." Harry was laying it on a little thick, but he didn't want to get the others in any trouble.
+
+"Well – in that case…" Professor McGonagall said, staring at the three of them. "Potter, you foolish boy, how could you think of tackling a mountain troll on your own?"
+
+Harry shrugged. "I wasn't really thinking of that so much as how one of my father's closest friends could have been a Voldemort supporter and mass murderer."
+
+McGonagall looked away, no doubt thinking about the fact that said friend (although it was Peter, not Sirius) had also been Harry's family's Secret Keeper.
+
+"Potter, five points will be taken from Gryffindor for this. I understand your frustration, but you should not take pointless risks like this! As for the rest of you, you each win Gryffindor five points. Now, if you're not hurt at all, you'd better head back to Gryffindor Tower. Students are finishing the feast in their houses."
+
+They hurried out of the bathroom and back to the Tower.
+
+"You do realize that you're insane, right Harry?" Hermione asked him. "And that we got extremely lucky and by all right should be dead right now?"
+
+Harry shrugged. "Eh, I got us 25 points, why are you complaining?"
+
+"You're right," Ron said, coming up to stand by Hermione. "He is mental."
+
+Harry smiled. There was nothing like a little near-death experience to help forge a friendship. The others hurried off to go get plates and Harry was about to join them when a thought struck him. He knew what had happened now, why things had changed.
+
+*Sirius had also fallen through the Veil.*
+
+Review Please!
+
+</div>
+
+</div>

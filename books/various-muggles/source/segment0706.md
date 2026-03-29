@@ -1,0 +1,121 @@
+<span id="seg-0706__seg-0706-a409a9379e"></span>
+
+<div id="seg-0706__s24-88b8b0c4d2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 24: Pax Romana
+
+<div id="seg-0706__storytext-9c93142583" class="calibre4">
+
+Ginny had already recovered from her shock – many months ago, actually (that's the thing about being Obliviated; to some degree you can get used to a state of affairs you don't even know about). So, rather than panicking, she made a premeditated decision not to take any further action. She didn't bring Tim to the attention of the Headmistress, Harry, Hermione, or any other authorities, because, having been Obliviated, she didn't actually know how involved she was, and a legal precedent about a century old established that one is still culpable for crimes committed prior to Obliviation, even if the Obliviation was entirely unrequested.
+
+What she did do was place Tim's box – with Tim's diary inside, and Tim inside it – under her bed, where it had normally gone before. She then heaped on top of it spare blankets, and quilts, and pillows, and anything else obscuring that didn't look out-of-place in the dorm. Her hope was that she had buried her problem (she could literally bury it over the summer), and for a while, this certainly seemed to be the case. About a month went by with a shockingly low amount of incident, and every day that thus passed simultaneously convinced Ginny that she, and everyone else, was now safe, and that she had really been at the root of the problems, by trusting Tim, all along. But no matter – it was all over, now. There was some guilt, but Ginny was mostly proud to have finally fixed the problem - particularly seeing as that's all she could actually remember doing.
+
+On one occasion, Ginny decided to speak to Hermione about her calculator – it now fully supported multiplication and division, and could even solve basic algebra problems, if they involved only a single unknown and the four basic arithmetic functions. Doing so involved outing herself as a Parselmouth, but she suspected Harry and Hermione were close enough that she already knew that.
+
+"I'm also strongly considering inventing a spell that will enable non-Parselmouths to make just-as-effective use of *Sapespeck,*" said Ginny. "With more difficulty than a Parselmouth can, but still perfectly within a normal wizard's ability. The way that the new spell works is so clear in my mind that I'm sure it'll be the first thing I invent once I get a leg up on Ancient Runes, and then I'm pretty sure it'll be central to some of my N.E.W.T. projects."
+
+"Wow," said Hermione. "I can tell you, as a Muggle who's familiar with computing - this really does have as much potential as you think – or maybe more. This is exactly the kind of thing Harry would love to hear about if he weren't so busy."
+
+"Oh, well, I actually showed him a prototype a few months ago," said Ginny. "It wasn't as robust, but the basic idea was there. He didn't seem particularly interested."
+
+"Ugh," said Hermione. "Something's wrong about Harry, you know? He's slowly been getting worse and worse since some time after Voldemort finally died; he's falling back into some nasty mental patterns and he barely seems to listen when I point it out. It hurts me to say this, especially seeing as Voldemort killed me, but I think he might have left a power vacuum behind that's dangerous with Harry around. I like Harry, I'm closer to him than anyone, but I think he might be getting Dark. I mean, that's a bit of a stretch, but it's just, aloof – aloof doesn't cover it."
+
+"Maybe he's just getting smarter and smarter," said Ginny, "and he's less and less on our level."
+
+"You know what happens to things that just get smarter and smarter," said Hermione, and Ginny shook her head. Hermione mimed an explosion, and mouthed a related onomatopoeia. Ginny rolled her eyes at this.
+
+*And they say that she's smart,* thought Ginny.
+
+"Maybe you should try to talk to him more," thought Ginny. It was hard for Ginny to spur Hermione towards Harry, but she'd attained her own happiness, and if Harry was becoming solitary and detached from reality, it was probably for the best that he get closer to his loved ones. Just look at what happened to Lesath! (Not that Harry would do *that.* Dying was too unappealing to him and he had too much reason to go on.)
+
+"I've tried," said Hermione. "But maybe I should... try harder?"
+
+"That's the spirit!" said Ginny. That sort of feel-good optimism continued to propel Ginny through the happy month with no Tim and no attacks.
+
+On Good Friday, Ginny and several of her classmates (mostly her siblings) were granted a religious exemption enabling them to Floo home for the weekends; they were all nearly prevented thanks to "reconsiderations of the policy", but a quick visit from Molly Weasley sorted that out. On Sunday, at the Ottery St. Catchpole Eastern Samothrace Orthodox Chapel, though, Ginny received quite a surprise.
+
+"Draco!" said Ginny.
+
+"Ginny," said Draco.
+
+"Draco?" said Molly.
+
+"Mrs. Weasley?" said Draco.
+
+"Malfoy!" said Ron, with accompanying antipathetic noises from the twins.
+
+"Yes, you're Ginny's friend, aren't you?" said Molly.
+
+"He sure is," said Ron, and he made a gagging noise. Molly snapped her fingers, and Ron disappeared.
+
+"What are you doing here?" said Molly. "Aren't you still supposed to be in school?"
+
+"Well, your daughter – Ginny," said Draco, "has been telling me about the service, and the celebration, and the history, and the *story –* the Creation, the Exaltation, the Manifestation, the Crucifixion, the Resurrection, the Resonance, the Metastasis."
+
+"Precisely correct," said Percy; Draco nodded and smiled.
+
+"So I decided I had to come visit and see," said Draco. Molly Weasley looked positively awed, proud of her daughter, a far cry from the mother who had, over winter break, delivered stern, grotesque warnings about the things young Malfoy men were known to do.
+
+"Here's a young man who's happy to go to church on a Sunday!" said Molly. "Fred, George, you could learn a thing or two." Fred and George looked somewhere between uncomfortable and amused; Arthur and Bill were, of course, already inside. Charlie, of course, had made an excuse again not to come home this year.
+
+Another nineteen days of public peace came and went. As far as Ginny knew, all was well.
+
+------------------------------------------------------------------------
+
+"*Obliviate! Rebliviate!"*
+
+It was a Sunday in mid-April. That was all the context Cho Chang had on where she was and why she was there. *This looks like I'm leaving the Defense room, where Professor Lockhart teaches, where Professor Quirrell taught in my second year, where Professor Burbage taught in my first. What am I doing here? It's a weekend, right? Not a class day? Why can't I remember?* This question was quickly painted over.
+
+Cho realized that she was holding a scroll, so she looked down at it; it was an essay she remembered writing for Defense Against the Dark Arts, just last week. "On The Applicability Of Various Muggle Schools In Magical Combat". What was that in red above it? "T"? For "Troll"? No, that didn't make sense. The essay wasn't Cho's best work, but this was completely outside her hypothesis space. Cho slowly turned around, and saw Professor Lockhart, Gilderoy Lockhart, sitting at his desk, staring up at her as she was about to leave, and she realized that she was about to leave because she'd gotten nervous about confronting the Defense Professor.
+
+"Miss Chang?" said Professor Lockhart. "Is there something you wish to discuss with me?"
+
+"Um..." said Cho, and she couldn't back down now. She just couldn't. It had to be his mistake, it had to, that or she'd made a drastic, drastic mistake. Either Professor Lockhart had mistakenly written the wrong mark, or she had made a colossal error of judgment somewhere in writing. Professor Lockhart was too smart, he couldn't actually make a bad judgment. How had Cho screwed up so badly? "Yes." And she'd thought Professor Lockhart had seen potential in her! He was taking her on quests! Quests of meaningful importance for the wellbeing of all of Hogwarts!
+
+"Is there a problem?" said Lockhart.
+
+"Um, yes," said Cho, walking down the steps towards him. "It's about my essay..."
+
+"Ah," said Lockhart, and he waited for Cho to arrive at his desk.
+
+"Is this a 'T' for 'Troll'?" said Cho.
+
+"Yes," said Lockhart. "They were going to rename it 'Terrible' out of respect, but Miss Granger insisted they were being overly sensitive." A million thoughts ran through Cho's head, and finally one came out:
+
+"What did I do?" asked Cho.
+
+"Apparently not a good essay!" said Professor Lockhart, more in disgust than humor. "I wrote notes in the margins pointing out some of your more egregious errors."
+
+"What?" said Cho. "Oh." She felt very stupid, not to have noticed them. Or – she did, and then she just forgot about them. Yes, glancing down, it was a miserable essay, and she could barely believe she'd turned it in and expected any better. She must have been half asleep. It still didn't make sense. Why had she even come here to complain? Why was she even still permitted to breathe air? "We went on quests," Cho stuttered. The Defense Professor stared at her, and blinked.
+
+"Are you suggesting you should therefore be subjected to nepotism?" said Lockhart. "Because if so, you insult me and my integrity."
+
+"I'm sorry!" said Cho. "It's just, I just - I want it to disappear. I know I can't. I made my bed and now I have to lie in it. It's fair, life's fair, but I want this to go away." She shook the scroll desperately, and this time, Professor Lockhart did laugh, albeit darkly.
+
+"All Ravenclaw girls are the same," said Professor Lockhart, with a sneer. "They want extra credit here, they want a chance to rewrite a shameful term paper there. They don't want to work hard for it in the first place like a Hufflepuff, and they're not brave enough to accept their mistake like a Gryffindor, and they don't want anything grander like a Slytherin. Just a little slip of paper that affirms that they're Really Smart." Cho tried to object, but she knew she wasn't supposed to. She had a feeling that Lockhart was right, anyway.
+
+"Although," continued Professor Lockhart, "I'll confess that most Ravenclaw girls who come to me with sob stories have papers better than this." He seized the scroll from the spot on his desk where Cho had set it, so that she could sob into her hands. "So I expected most of the class to perform decently on the assignment, so I didn't see any problem, tying such a large portion of the class marks to it. This assignment is simply necessary for perfect course performance. With a T? At least two full course grades down." This was not alleviating Cho's crying in the least. "You really are in trouble, Miss Chang. Worse than you'd imagined, I'd wager."
+
+"But..." said Lockhart, and the scroll vanished from his hand. "I can erase it from the record." It came back. "Or I could do what I'm supposed to. But I'm not altogether opposed to the idea. I do care for you, Cho – at least in some sense. And there's something I'd be willing to trade for my good marks." Lockhart smiled, and Cho was just confused. What was he leading up to?
+
+"Another quest to avenge Cedric?" said Cho.
+
+"A quest of sorts," said Lockhart. "To forget Cedric."
+
+How Dark was the Defense Professor, exactly? Were they about to set off for some haunted cottage filled with the screams of the damned?
+
+"Would you believe that the quarters assigned to the Defense Professor are immediately behind this classroom?" said Lockhart. "They moved it here when Professor Quirrell moved the classes. Actually, Professor Monroe. Actually... I would speculate he was actually Voldemort - or at least my friends in high places would."
+
+"What a horrible thing to say," said Cho. "But - what friends in high places? It's an intriguing possibility; is it related-"
+
+"Shut up," said Lockhart. "I got off track. This conversation is about you... your marks... what you're worth... and me. Follow me." Professor Lockhart beckoned towards the dwellings behind the Defense Hall, and Cho followed, because she believed she had nowhere else to go.
+
+It proceeded that Cho was Obliviated about three more times that day, before finally leaving the classroom with a perfect essay (the one she had actually written), no recollection of any other essay, and a nice story about how she and Professor Lockhart had gone and confronted giants over their possible trafficking of cockatrice eggs, which could potentially have been used for the recent attacks.
+
+</div>
+
+</div>

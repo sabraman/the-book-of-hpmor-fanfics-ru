@@ -1,0 +1,265 @@
+<span id="seg-0041__seg-0041-3c3eab10c1"></span>
+
+<div id="seg-0041__s3-dd33a084ba" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 3: Tom Riddle and Defense Class
+
+<div id="seg-0041__storytext-9c93142583" class="calibre4">
+
+*note: Bellatrix Black is a contemporary of Tom Riddle in this story.*
+
+**Chapter Three – Tom Riddle and Defense Class**
+
+Professor Merrythought was of the opinion that in order to be a true warrior, you needed discipline in everything you do: be precise with everything, from the way you draw your wand, to the way you brush your teeth.
+
+Tom agreed fully with her on this point. Discipline made you learn self-control, made you harder and stronger. *Discipline makes you more dangerous.*
+
+Tom forced himself to practice constant vigilance. Even now, before anyone else had arrived to Defense, he scanned the room deeply, not just with his eyes, but also feeling for any hint of hidden magics.
+
+Probably at one point, the professor had held herself to the high standard she liked to stress. It was clear that her passion for battle had left her years ago, but her knowledge and insight never would. At least she had a clue what she was talking about. She also appreciated and rewarded enthusiasm and competence in her classes, unlike most teachers, who didn't seem to care one way or the other.
+
+Truly, he didn't really like Professor Merrythought much. *If only the hypocrite still practiced what she preached*. It was obvious that she had in fact done some of the amazing feats years past - she often gloated them - but just as obviously, her days of slaying Inferi were over. *If only teachers took these things a little more seriously, perhaps the students wouldn't be so incompetent...*
+
+She was certainly no Tobo Mott. Tom had learned far better lessons on how to stay alive in Mott's "extra-curricular activities" than any Ministry-approved Defence Against the Dark Arts class he had taken at Hogwarts. Tobo Mott was a man Tom could appreciate. He didn't look forward to the end of their "lessons" together, when he'd have to cast Tobo Mott down and Obliviate him into oblivion, or, more than likely, kill him. But the man knew far too much of what Tom was capable. *Not to mention, my payment for his lessons...*
+
+He did, however, look forward to the day when Headmaster Dippet would invite Tom into his office with a smile on his face. He would watch the crushing defeat in Galatea Merrythought's eyes when Dippet thanked her for her near 50 years of service, and informed her that Tom Riddle had shown the competence and aptitude worthy of usurping her position.
+
+Tom would enjoy that victory very much.
+
+The Professor managed to walk in right as class was scheduled to start. Tom caught himself from visibly frowning.
+
+She had been frequently late as of this term; she kept misplacing crucial things, it would seem. Things like her lesson plans, or her glasses, or her shoes. The students spoke during mealtimes of how forgetful she seemed.
+
+Tom hoped there had been a time when she would have gone above and beyond to cast wards to protect her living quarters from intrusion. But clearly that time had passed, as he had little trouble bypassing the superficial detection charms she lazily placed.
+
+For now these little dings in her reputation would do: late for class three times already this week due to misplacing things or having small "accidents". *I have a funny feeling there's going to be an urgent personal issue to force her to miss a few days of classes coming up...*
+
+Soon enough, people would start expecting her to mess things up more often, including herself. That unsure confidence would fester and cause her to get sloppier without Tom's further assistance. *Gently prod her in the direction of failure, and she'll walk straight into it. Dippet will not be pleased...*
+
+Taking her seat, Professor Merrythought ruffled through her papers, all out of order, for some reason, this morning.
+
+Tom had been quite careful to not so much as glance as them when he had rearranged today's lesson. He didn't have a moral problem with cheating, but he did have his own strange principles. His purpose was just to make Merrythought look bad, and if he took advantage of his strategies to, in this case for example, learn the lesson ahead of time, it would just make him - well, feel lazy. *Actually reading her notes is something* ***Monroe*** *would do.*
+
+There was a loud crack from the Professor's wand. All the chatter in the class died down; all eyes focused on her.
+
+"You have three specific enemies! Who for unknown reasons, are looking to do you harm! They are clever! They may strike at any time! Despite knowing this, you have to go on living life... and you have a thirst."
+
+Tom sat up straighter. He was now quite glad he didn't read the notes, as this class was going to be one of the wonderful times that Merrythought went off book. *She ought to do it more often, it actually makes her students think on rare occasion*. Despite her hypothetical situations frequently being illogical, it was a nice break from reading on how to deal with boggarts.
+
+She had paused to let the hypothetical situation take root in the class's imagination. "So! You decide you will go to the Three Broomsticks for a few drinks. No more than two, obviously you will not get drunk in your situation, but enough to take the edge off. After all, it's been a stressful day for you, and you need the drink and a social atmosphere... regardless of the dangers."
+
+She looked around the classroom, her eyes magnified by her thick glasses. "How do you do this? How do you do this *safely*?"
+
+Tom hesitated to raise his hand - to him, the lesson was a little foolish. *You don't go out for any leisurely activities until you have slain your enemies! Unless you can combine the two, and make slaying your enemies a leisurely activity.*
+
+Merrythought wouldn't want to hear the simple, correct answer, however.
+
+While Tom hesitated, she called on Cedric Bagshot to answer. "Yes Mr. Bagshot, go on then, tell me how you survive."
+
+*Idiot, this should be hilarious...* Cedric took a moment to consider how to phrase his answer, and then simply said, "I'd pay the extra galleon to have the drinks delivered to my house, and let my home wards protect me."
+
+There were a few murmurs of agreement around the room.
+
+Tom wrinkled his nose. It was a halfway decent answer, assuming you had a fortress and took several other measures. But drinking something delivered by an unknown was nothing short of foolish. *In fact, why on Merlin's green earth would you want to dull your senses in this sort of situation? Unless you're suicidal.*
+
+Professor Merrythought likewise poked holes in the boy's plan. "Even then, you would have to follow the delivery boy to be sure it wasn't an undercover reconnaissance mission."
+
+The boy looked disappointed, when he should have been ashamed that he would have been killed. Cedric was a fool, and simply thought of this as a pointless game. *It does seem slightly ridiculous, but the thought experiment could turn out incredibly important.*
+
+"Yes, Miss Black, you have a proposal?"
+
+The dark-haired danger put a sweet edge into her voice and asked, "How long have my enemies been out to get me?" Tom almost snickered; anytime Bellatrix Black opened her mouth in Defense class, something outrageous was sure to come out. If only she didn't so patently obviously have a crush on him, he would have considered her for Battle Magic fights... *Well, that, and she's more openly violent than I am.* Around her fiance she was calmer, at least, but she was the most aggressive girl in the joint Ravenclaw and Slytherin class.
+
+The Professor considered the question for a moment and replied, in a creepy voice, "One year, these enemies know you, very well indeed." *Really now? Well, that changes my next idea...*
+
+"An entire year you say, and they know me?" Bellatrix Black put a funny confused look on her face. "If that's the case, I would have to assume I was being paranoid by this point."
+
+Professor Merrythought stuttered, "Wh-what do you m-mean, of course you should be p-paranoid if-"
+
+Black cut her off again with that deceptively innocent voice, "I meant that my enemies would have been dead within a *month*. Or I would have been. If for some reason, they were still getting to know me after a *year*, they would stay well away." She sniffed, "There are no enemies to be afraid of here, it's a trick question."
+
+Most of the class laughed out of amusement at the "joke", but some stayed silent, for the same reason Tom and two others chuckled darkly.
+
+*She would likely draw them all into open battle at once, and kill herself, along with everyone within a square mile, with some wild unpredictable magic.* The girl was arranged to marry Antonius Prewett, someone he could certainly manipulate, but he wondered if anyone could control Bellatrix Black.
+
+Professor Merrythought frowned, "Hmm, is there anybody in this class who could survive this encounter?" And she and the whole class looked pointedly at Tom Riddle. "Mr. Riddle! Please explain to us how to stay alive in this scenario."
+
+"Well, honestly Professor, if these enemies know me as well as you say, it would be as simple as doing something that they know I wouldn't do, more or less."
+
+The Professor was frowning again.
+
+"I mean, look. If they know me, and know I won't take any risks, which I wouldn't, then the obvious thing to do is go all out on a gamble." Tom thought for a moment and continued, "I walk into the bar, casual as you please, and have my drinks in peace. If they follow into the bar, they will either assume this person isn't myself, a distraction of some sort, and therefore flee, or they will assume that it is me. And, if they know me so well, they know I wouldn't just appear like that without some massive advantage ready to wield against them, and so, again they would flee."
+
+"Mister Riddle, I don't think you can just make assumptions like that on how people will behave. You defeated the purpose of the lesson." The professor was shaking her head lightly. "You put yourself in incredible danger by bluffing like that."
+
+Tom disagreed, "It wouldn't be a bluff, it would be a trap."
+
+"How would you overtake them if they called your bluff, and fall into your 'trap'?"
+
+"Magic." Tom replied simply. This response got a laugh from a few people for some reason, but the Professor was unimpressed.
+
+Tom sighed, "Fine, then, another plan. You can never have enough plans in place." The professor smiled at that comment, and Tom went on. "Well before you left your temporary safe house, you check to make sure your spare wand is still secure in the hidden holster. Hmm, enchanting a device for temporary superhuman speed wouldn't be a bad idea either."
+
+Tom paused to consider how else he'd prepare. "There a few other small devices I can think of which you may want to bring along as well, but I don't think I will mention them now."
+
+The Professor tilted her head in curiosity at that, but before she could ask, Tom went on.
+
+"You would then drink from one of your four Polyjuice vials, each of them containing a different appearance, nothing too obvious, but no-one overly ordinary either. That part may be tricky… Really, it would depend ultimately on whom you were trying to fool." Tom inhaled, then continued. "Then Disillusion yourself, and just for overkill, throw on an….. No, forget an invisibility cloak, not enough freedom of movement if you actually have to fight. Besides, if they already know who you are, and where you are, an invisibility cloak won't offer much concealment."
+
+Professor Merrythought's grin grew even broader.
+
+"From there, you Apparate to a random location, with no link to you. Then you can Apparate outside the bar. Then no one will know where you started**.** I know you can track a person, but I've never heard of a way to track where a person just Apparated from. But it's still possible…" He finished his thought almost as a question, as he stared into the air for a moment and tapped his cheek with his finger.
+
+As expected the Professor chimed in, "Apparation tracking is quite advanced, and will only work in certain conditions, but even then it's quite difficult. I'll explain it a little to you after class, I'm sure you can work out the rest from there."
+
+Tom allowed himself to show a smile; he was providing exactly the type of ridiculously over-complicated answer that she wanted to hear, and he would be rewarded with extra knowledge. Professor Merrythought often had little gems of lore she would dish out to Tom if he could but push the correct button. Fortunately, she mostly seemed under the impression Tom was but a curious student.
+
+"The moment you arrived you would observe the scene closely, probably for an hour, at least, before you entered. Rather than cast detection charms, which might be noticed by a powerful opponent, you would have to feel around for magical resonance. Not as effective, of course, but it's better than the alternatives.
+
+"Once you were sure that nobody else was in plain hiding, you could then very subtly slip the barmaid a pre-written note, in somebody else's hand, with your order, along with the exact amount of money. Do everything quickly and precisely, very subtle."
+
+He was about to finish up but considered the situation further. "If for some reason after getting your drinks, you had to stay there to drink them, you wouldn't do it at the open bar! You would stay in the patio where there are fewer people to watch, plenty of escape options, and lots of room to fight if you have to.
+
+"And no, I did not forget about raising shields, even invisible ones would be foolish. Any competent wizard would be able to detect the slight surge of defensive magic from an invisible corner. " Tom was now satisfied that if he followed that plan, and adapted to the situation as it played out, he could control the situation if it got out of hand.
+
+Professor Merrythought apparently agreed. "Well thought, Tom. Normally I would expand, and ask the student how they planned to fight possibly three strong opponents at once if they had to, however you seem confident you would simply 'Find a way' to do it…"
+
+Tom nodded, and Professor Merrythought shook her head.
+
+"You are talented, Mister Riddle, but I think your ego is a little larger than it should be."
+
+*My ego is just the right size, thank you very much.*
+
+She turned to address the class. "I am afraid we don't have much time left, and we have material from the book to cover yet, quite a lot in fact, so I'll have to put off the practical lesson I had planned till the next class."
+
+Tom had been looking forward to a real Defense class where they got to cast magic; perhaps he was doing too good a job at disrupting Merrythought's job. He sighed as she pulled out the textbook; as with all of their texts, this one was full of inaccuracies and covered irrelevant subjects. Without better textbooks, proper teachers were imperative. *And this one is fading fast.*
+
+The Professor held the book open to show the class a picture, talking about how to deal with some type of giant spider that Tom had read about once. Rather than listen, he probed his memory for anything of importance. They hadn't seemed fearsome enough to really need to worry about - some magical strength, but no real intelligence. *Not dangerous, to a trained wizard; perhaps a little girl might be in danger if she ran into one.*
+
+"The underbelly is vulnerable to curses, and with so many legs, a strong tripping Jinx will get them into perfect position for a hard Stunner to the soft flesh of the belly."
+
+Back to the thought experiment, Tom decided that if you saw a giant spider and threw curses at it, the three others tracking you could come out and flank you, then overtake you.
+
+"You aren't likely to encounter one any place except its home, in a forest, or cave system, which would likely be full of traps and hard terrain to fight on. "
+
+*And once you start to notice signs of their presence, you should simply apparate away. If you can't, forget the complex jinxes, there are two simple words that no magical protection can withstand, no matter where you strike it.* Even if a person wasn't capable of that curse, or unwilling to use it at the time, they could simply use some type of overpowered brute force magic on it. *Magical or no, it's still an insect, and it could be squashed.*
+
+Thinking of how flawed others' thinking was proved to be a great source of enjoyment to him.
+
+*Once I get this job, our first lesson will be Fiendfyre, so we can properly send these texts to the hell they belong in.*
+
+The professor continued to go on in detail about - something - for the next little while, and Tom observed his classmates. Besides the girls that tried to catch glances of him, almost all seemed absorbed and frightened while listening to the details; however, Tom noticed that Orego Burke was paying more attention to him then to class. Tom locked eyes with the boy for a few moments, he looked away, and that seemed to be the end of it.
+
+Professor Merrythought closed the book and put it down. "The acromantula living deep in our own forbidden forest have been growing more restless and wild over the last few years, according to the gamekeeper." The professor made it sound like this was worrisome news. "He says he has never in his life seen them change their behavior patterns so drastically, it's as though they have been preparing for a storm, or some other large event, for at least the last four years. There has been talk of bringing in researchers to study this new pattern of behavior it seems significant. I suspect their change would make for an interesting Care Of Magical Creatures class."
+
+Tom doubted that, who cared what the spiders were doing deep in the forest or why they were restless? *I'm not taking Care of Magical Creatures, can we shut up about these things?*
+
+After class he waited until everybody left to approach The Professor in regards to their unfinished discussion.
+
+"So tell me, Mister Riddle, who is it you are hoping to track from place to place?"
+
+She was almost laughing, but there was a tinge of fear in her laughter. Tom was sure she wasn't completely sold on his innocence. He had to convince her he was simply eager to learn as much as possible for the sake of learning. It was the truth, but Tom could also see lots of other uses for tracking Apparation.
+
+"It's not so much I expect I'll need to track anybody. I'm just curious how it would work exactly. You know, in case I ever need a drink while 3 enemies are out to get me," he joked back, hoping to put her at ease, then smiled his most charming smile. It apparently worked, because she waved him to a desk at the front of the class, and sat on top of her own to regard him.
+
+"As you well know Tom, all magic leaves traces, and nearly all magic can be sensed, if a person is sensitive enough to that type of thing. That's the basic principal behind tracking a person who just Apparated... do you see what I am getting at?" She cocked her head at him.
+
+Tom considered it. "I believe I do. I've also heard powerful magic rubs off on a person, and lingers after they are out of the area."
+
+The Professor kept quiet and let Tom continue working it out.
+
+"So, say, your house has heavy wards, or it contains some ancient device of power? After you Apparated out, the magical scent would linger on you? A person can trace that?" Tom was very curious now, this sounded like something he would be particularly good at: his sense of magical resonance was strong, he could feel even the smallest traces of lingering magic in the air or on an object.
+
+Professor Merrythought nodded, "That's the essence of it, yes. I'm afraid I have to admit that I do not know how a person uses that to trace the original location. I have never been capable of it personally."
+
+She seemed disappointed in that, Tom could understand. Failure to learn an exotic magic would be a hard pill to swallow.
+
+With as much enthusiasm as he could muster, Tom replied, "Thank you, Professor, you have been very helpful. I always look forward to our chats."
+
+Professor Merrythought smiled, "As do I, Tom, you really are a talented young man. I wouldn't be surprised if you ended up taking my job one day far down the road, once you get some real world experience. And realize your own limits, since you don't seem to believe they exist at the moment."
+
+Tom let the insult wash over him, since she had no idea he was already destabilizing her reputation and planned to take her job far sooner than that. *Maybe then I'll rub some salt in, but for now*… He learned from his last failed plot that even if you can move quickly, usually it is better to play the long con.
+
+He stepped out of the defense room, and nearly bumped into a girl, but he pivoted and spun out of the way, hand ready to summon his wand in an instant.
+
+He dropped his guard slightly when he seen who it was.
+
+"You should be more careful where you are going, Myrtle." *How in Merlin's name does she just appear in front of me so often? Maybe Merrythought is wrong and tracking comes quite easily to some.*
+
+The awkward girl's eyes widened under her glasses. "Were… Were you about to curse me, Tom?"
+
+Tom was still in a combat ready position.
+
+"I still may." He said it only half-jokingly. The threatening undertone went completely over the dull girl's head and she laughed.
+
+"Sorry, sorry, I did kind of come out of nowhere on you there, sorry about that!" She blushed and looked down as she continued, "I guess that's why you are so good in Defense class! Actually, that's what I wanted to talk to you about…"
+
+*Is she in my Defense class? I hadn't noticed.* Not that Tom gave a toss about most girls. It would be one thing if they seemed to care about anything besides staring at him... He was adapted to it by now, but last year, when it began, he became uncomfortable enough to consider cursing off his nose.
+
+The girl grew a deeper shade of red before she was able to speak again. "I was really impressed with how you answered the teacher's question! You really sound like you know how to take care of yourself!" she stammered, all in one breath, then finally looked up again. Even if he was interested in girls right now, this poor, foolish thing was certainly not somebody he would consider. Why she couldn't take a hint was a puzzle even he couldn't solve.
+
+So he gave her another hint. He turned, started walking, and said just loudly enough to make sure she took it as a dismissal, "Yes, I take care of myself just fine."
+
+"Bye Tom!" Myrtle gushed, as Tom's strides took him farther and farther from her.
+
+And now, Black was approaching him. He sighed.
+
+"You don't really like Myrtle, do you, Tom? I could see it." Black seemed proud of her obvious observation, and apparently jealous of Myrtle's conversation with Tom for some reason.
+
+"As a matter of fact, I believe I am going to marry that girl, Bellatrix." Tom said it sarcastically, but the sarcasm either went over Black's head, or the comment was all she needed to go over the edge.
+
+"She is an idiot." Black snapped as she watched Myrtle walk down the hall. Tom could feel the air growing cold around her. He had to settle this girl down before she did something stupid again.
+
+"She is my idiot, and no worry of yours." Tom put some force into his voice to stop Black staring at Myrtle.
+
+"As you say…" Black said, reluctantly, then continued, "A pity if some accident should - "
+
+Tom cut her words off with a gesture from his wand.
+
+"If I need something from you, I will tell you, Bella." He put an edge to the end of the sentence to make it clear this conversation had come to an end. Bellatrix Black turned and walked away without another word. *The last thing I needed is Black cursing Myrtle into a thousand pieces in my name.*
+
+David Monroe seemed to embrace this problem; to him the attention of girls was a great joy and he went out of his way to encourage it. Tom on the other hand tried very hard to be curt with female students, but it only seemed to make some of them more interested.. Apparently his "mysterious and dangerous" aura had the unintended side effect of attracting certain types of females. At least with Black there was a chance of making her into a useful pawn at some point, a powerful witch without scruples could come in handy.
+
+"Bellatrix Black, Abigail Myrtle…" He considered the uses he might be able to get from them as he walked.
+
+Myrtle was malleable and weak willed, Tom was certain he could manipulate her into just about anything he needed with a few kind words. He was just as certain, alas, that her stupidity and weakness would cause problems if he tried to use her to any important end.
+
+Black on the other hand…
+
+*If I asked her to prove that she could blow up The Three Broomsticks, I would be reading about a fiery massacre in tomorrow's paper, I expect she would stay to fight with the aurors who arrive as well.* The girl had incredible book smarts and was in the top of all her classes, but her impulsive decisions called her intelligence into question. He almost felt sorry for Antonius Prewett, saddled to marry her...
+
+The fact was, like most girls, Black would do almost anything for Tom without hesitation, and she was powerful enough to use as a brute force "sledge hammer" if he needed an expendable one, but her willfulness and unpredictability was a weakness that would bring Tom down if he made use of her without a substantial amount of training.
+
+Tom thought about Myrtle and Black as he walked.
+
+*If nothing else they could be useful scapegoats, witnesses, or sacrifices...*
+
+Bellatrix Black stalked off down the hallway, feeling slightly angry.
+
+"The only reason I let him get away with talking to me like that is because he is the only guy here who can back up his words." Her fiance, Antonius Prewett, certainly couldn't. Every year she'd had to remind him: they were betrothed from birth, simply so their parents could be happy with a pureblood marriage after they graduated. As long as he did whatever she wanted, she would pretend to agree with him in public. Unless, of course, he tried to touch her, in which case she would demonstrate exactly why she had higher marks in every class than he did. And when he begged to be allowed to ask Dorea Potter to Hogsmeade last year, she almost cursed him, till she realized that would be the perfect cover for her crush on Riddle.
+
+Riddle, who definitely did not have lower marks than she did in every class. True, sometimes Black grew so angry with how Tom disregarded her that it made her want to curse him. *Bloody fool might even like it.* It probably wasn't worth the risk of finding out though. She was quite sure Tom did like her, but in his own strange way. The challenge of getting him to admit it was exciting to her.
+
+She tried to imagine Tom Riddle coming to her door at 8pm with a rose in hand and sweet words on his tongue. It was a hilarious image. When her fiance, had done something similar, it had been hilarious in a totally different way...
+
+Well. Tom Riddle with a rose would never happen, but she was optimistic something else could happen.
+
+Tom was probably the only 5th year who could actually out-match her with magic. His views more or less lined up with her own - rather than reporting her to the Ministry of Magic for suggesting a ritual to sacrifice a herd of unicorns for immortality, he had cast a number of charms to ensure they weren't overheard - and he seemed deeply interested her opinions.
+
+*He does call me Bella, after all. Just like Father used to,* Black thought with affection.
+
+"Hey Bellatrix!" Mandy Perkins called. She turned around to see Mandy smiling at her."I liked that joke you made in class about your enemies, they better not mess with you, hey?"
+
+Black tried to recall making a joke, but she didn't have a habit of trying to make people laugh. "The only joke is that somebody would purposely want to be my enemy. Do you want to be my enemy?" Bellatrix asked Mandy the question as if she were asking the girl to have a butterbeer.
+
+Mandy looked taken aback. "Of course not! I was just trying to be friendly is all, Merlin's pants!"
+
+The girl walked off muttering something, Black was sure she heard the words "hopeless" and "lunatic" under the girl's breath.
+
+</div>
+
+</div>

@@ -1,0 +1,277 @@
+<span id="seg-0499__seg-0499-063be5dbe1"></span>
+
+<div id="seg-0499__s28-4eb918ebd5" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 59: Space Travel Pt XVI, Emotional Choices
+
+<div id="seg-0499__storytext-9c93142583" class="calibre4">
+
+I want to thank Dan for beta-ing this chapter.
+
+------------------------------------------------------------------------
+
+6:57 pm, August 3rd, 1993
+
+Lucius smirked toward Mad-Eye, as the bad-tempered Auror was sending the three Malfoys a deadly glare while slamming the door of Severus' old office closed. Then, the blond-haired ex-Lord Malfoy began to keenly observe Severus from his back, as his best friend and future Lord applied the usual series of private and protection spells.
+
+Severus' robes were spotted with mud of several different colors, his back was a bit hunched, his shoulders were slack, his usually silky voice was hoarse, while the movements of his wand hand were still precise. And the golden bird of fire on his shoulder looked sad, and somewhat confused.
+
+Lucius shot Narcissa and Draco an inquiring look, but neither his wife nor his son seemed to know the reason for the current situation.
+
+About half an hour ago, Lucius served his second cleaning duty since he entered Nurmengard by washing used meal trays with a rag. The recent change in Nurmengard which required prisoners to serve as house-elves without magic was supposed to teach the inmates some moral lessons, yet Lucius consider this a way to humiliate the prisoners. While the house-elves must be hitting their heads against walls upon their work being taken away, Lucius also overheard some guards complained about the additional work it brought them. If it were any other prison, Lucius might suspect that the prison management wanted to secretly sell some of the house-elves, which had become increasingly expensive these days; however, since this was Nurmengard, Lucius had to suspect something else was at work.
+
+While the ex-Lord Malfoy was plotting how to present this new development to the Boy-Who-Lived, so that the cleaning duty sounded more like a clever scheme, such as a possible escape plan for Lord Grindelwald, instead of a proper form of punishment the Girl-Who-Revived might approve of, Mad-Eye came and hauled Lucius to Hogwarts. This act itself wasn't suspicious, so Lucius gladly threw away the rag, and assumed that the Boy-Who-Lived wanted his service.
+
+However, after arriving at Hogwarts, Lucius was told to change to something appropriate, which was bizarre, for Mad-Eye seemed to gain a twisted sense of satisfaction upon the sight of a Malfoy in prison uniform, and the Boy-Who-Lived and the Girl-Who-Revived thought prison uniform served Lucius justice, while Severus was usually unaware of the status of robes he himself was wearing. A few minutes later, Mad-Eye basically handed Lucius to Severus' care, which was more bizarre. And apparently, his best friend and intended Lord wanted to have a family dinner with all three Malfoys.
+
+It didn't take a Malfoy to figure out something was wrong with Severus.
+
+-And if Severus' problem is severe enough to convince even Mad-Eye that he needed to fetch me…
+
+Lucius became really worried.
+
+The powerful black-haired wizard turned around, and gave a weary smile to Narcissa. "Narcissa, thank you so much for arranging this dinner on such short notice."
+
+Narcissa returned an instinctive polite smile, and said: "Dear Severus, this is the least I can do. "
+
+Even when Lucius was busy trying to figure out the situation, he could hear the lack of subtlety and complaint in his wife's reply. Lucius knew Narcissa was bored in her confinement in Hogwarts, and he knew it was his fault for getting her into all this, yet he couldn't see much he could do to lessen her pain.
+
+As they took their seats, Lucius almost entered a trance as he looked at the woman across the long dining table. He had imagined Narcissa's impeccable smile, elegant demeanor, slim features, beautiful face, and lovely blue eyes many times when he held dinner parties in the Malfoy Manor. At other times, Lucius had imagined her being present in just another room in the huge Manor, such as being still asleep in their bed while he was taking a morning shower, or singing to their little dragon a lullaby before he entered the nursery. Lucius had imagined it so often that he was slowly going mad, and Draco was the only thing that kept him in this hateful world. That was why Lord Malfoy had donated handsomely to the insanity ward in St Mungo's, and had taken the chance of inspecting St Mungo's to visit the Fourth Floor, to study the ravings from the patients with permanent head damages.
+
+Now, Narcissa was alive and breathing, sitting across the table, being the hostess of a Malfoy dinner party, Draco's mother, and most importantly, Lucius' wife, all for real. Lucius felt sourness in his eyes, but quickly kept himself collected in front of their son and guest.
+
+Narcissa had noticed Lucius' gaze, her blue eyes meeting his, and the previous resentment was replaced by sorrow and love.
+
+Lucius wanted to ease her sorrow, to hug her, and to -
+
+The ex-Lord Malfoy quickly stopped this train of thought in front of his son and future Lord, and started pleasant small talk with Severus.
+
+The black-haired wizard, who had definitely noticed the silent emotional exchange, politely offered his opinion on the weather of Midlands England at this time of year.
+
+Lucius found this a bit odd, for Hogwarts was in Scotland, the Malfoy Grange was in Wales, London was in Southeast England, the former USSR was on the Continent, so what was Severus' business in Midlands?
+
+Lucius searched his memory for Severus' connection with Midlands, then remembered that the Prince family home was in Lincolnshire, and the horrible run-down house that Severus grew up in was in a small town near Birmingham.
+
+-Did Severus visit his ancestors' graves before he took on the space mission? This might partially explain his emotional unrest, but why would Mad-Eye consider this sufficient reason to get the Malfoys to dine with Severus?
+
+-More importantly, did Severus talk about the Midlands to indicate something? If so, what is it?
+
+Being a Malfoy who had received the full set of trainings, Lucius had taken an effort to know more about every close kin of this useful ally and friend over the years. As it turned out, Severus didn't have anyone close to him: his mother Eileen Snape nee Prince passed away sometime during Severus' sixth year in Hogwarts, and his despicable muggle father (Tobias or something) died in prison around that time as well. Lucius didn't know much about the muggle side of Severus' other family members, but he knew Severus' maternal grandmother, Virgo Prince nee Lestrange, had passed away when Eileen was in her second year in Hogwarts; and Severus' maternal grandfather, poor old Pius Prince, had a stroke upon the news that his only daughter secretly married a muggle, and stayed in the long-term ward in St Mungo's ever since. According to the visitor log in the Fourth Floor that Lucius had flipped through, Severus visited his grandfather approximately once per year. Back then, Lucius had even wondered, in case Lord Malfoy did end up in the Fourth Floor, how often Draco would visit his mad father, how often would his many friends visit him, and if Severus would pay him a brief courtesy visit while visiting Pius.
+
+-Is it something to do with Pius Prince? Would Severus ask us to visit his grandfather once in a while if his mission fails? Or would he want us to remind the Boy-Who-Lived to think of a way to cure the ones with brain damages?
+
+Lucius knew a good right-hand man should relieve his Lord of worries about his kins, yet visiting one's unresponsive grandfather was not something that you could take upon without being asked, for your Lord might not want to be reminded that his family history was a teaching lesson for all pureblood families on what might happen if your daughters' education failed.
+
+Just as cold appetizer appeared on the table, Lucius' future Lord volunteered an important message: "The schedule for my trip will be advanced to an earlier date."
+
+Lucius' eyes widened. He knew great rituals usually required months or even years of preparation, yet Severus had only had his pheonix for two weeks.
+
+-What happened? Why such urgency? Is there any more danger of the world that I am not aware of?
+
+-Moreover, even if Severus would go to the Moon within the next hour, Mad-Eye is not the kind of person to get me out of prison to meet Severus. There must be something going on here.
+
+Draco's eyes darted to his godfather. His mouth opened as if wanting to ask why, but then closed again. Narcissa exchanged a worried glance with Lucius. And even the snakes and wyverns on the tableclothes started to twist uneasily upon the change of emotions in the dining room.
+
+After some eye exchanges, the Malfoys decided that Lucius should do the talking. The ex-Lord Malfoy allowed appropriate amount of worry and tremble enter his voice, "my dear brother, I wasn't expecting - I wasn't expecting this to be so soon."
+
+Severus regarded him with a bitter and apologetic smile. The black-haired wizard casually tossed the sliced deviled diricawl eggs on his plate, apparently not in a mood to eat. The man's eyes wandered to the crystal glass that was filling itself with blue nettle wine. His right hand put down the fork, and picked up the wine. "Please excuse my ill manners, Mrs. Malfoy. I shouldn't have - Well, thank you so much for this dinner."
+
+Lucius was a bit disappointed by Severus' sudden change of topic, but he and Narcissa had no choice but to assure Severus that he was always welcomed, and preparing this dinner wasn't a burden at all for Narcissa.
+
+Narcissa began to describe how the house-elves in Hogwarts and the ones she brought from Malfoy Manor were in such an ecstasy when they knew they would prepare a formal dinner for all the Malfoys and their most beloved and honored friend, that she had to calm them down a bit.
+
+"Sparky wanted to prepare twenty-one courses for the dinner, while Sweety proposed that we should have twenty-one sweet desserts instead. Unfortunately, I had to break their poor hearts by saying that we wouldn't serve so many courses - let alone desserts - since this would be a family dinner, instead of a state one." Narcissa offered pleasantly.
+
+The overreaction of Sparky, the Malfoy butler house-elf, reminded Lucius of the bitter fact that this was the first formal dinner with both their master and mistress for the first time in eleven years. As for the house-elf named Sweety, Lucius assumed that it was a Hogwarts elf, trained by the old bumblebee Dumbledore, and it proposed twenty-one sweets just to annoy Sparky.
+
+Severus politely smiled, and took a large gulp of nettle wine, which made Lucius worried. The Severus he knew did not indulge with alcohol, and it would be more normal for Severus to deride the Malfoys for the rumored hair-glossing effect of nettles. However, it seemed that the powerful black-haired wizard wanted to get drank.
+
+After Severus had taken several gulps, Lucius decided that he should send the house-elves a signal to serve the next course immediately, so that their guest would at least have something before getting drank. Just as Lucius was about to tap his left pinky finger on the table, he found that Narcissa was already tapping hers. They exchanged a conspiratory smile, and Lucius' heart lightened up despite his worries for his best friend and future Lord.
+
+To Lucius' slight relief, Severus did pick up his spoon, and was about to take some borshch. However, the powerful wizard stared at the beef, cabbage, and beetroot, and the spoon stopped in mid-air for a fraction of a second, and the corner of his mouth twisted a little.
+
+As Severus was taking several courtesy bites, Narcissa gave Lucius an apologetic glance, and Lucius returned her an assuring smile. Lucius knew if he was the host, he wouldn't be so thoughtful as to include something from Russia to compliment his guest; he would probably go with the default bouillabaisse, which Severus would consider pretentious. Now it seemed that Severus wasn't so keen on topics relating to the former USSR.
+
+Draco looked inquiringly at his parents, and was about to take on the responsibility of saving the conversation, yet his words were stopped by a rather strange expression from his godfather.
+
+Severus' black eyes regarded Draco's light blond hair and his young face, and then his eyes went sideways, and studied Lucius' feature in a rather odd way. Then the black-haired wizard spoke: "Narcissa, Lucius, you might have heard of my uncle Severus, whom I was named after."
+
+Lucius nodded. In a society with only approximately ten thousand people, and everyone went to the same school, every pureblood could easily count three generations of most other pureblood families - except the Weasleys, there were simply too many redheads. And since the Princes were a laughstock among purebloods, Lucius did know that Pius and Virgo Prince had a son and a daughter, and the elder son, Severus, died at a very young age, probably before Hogwarts.
+
+"Now as I think of it, the disease that took him away was likely to be measles, or at least my mother probably thought so." Severus' eyes glanced at the perplexed Draco and Lucius, and explained. "Measles is a contagious disease that was once rampant in the muggle world, and it can be dangerous to ones who have not been exposed to it. According to my mother, her elder brother developed high fever and red rashes soon after his first trip to Diagon Alley, and that was why my mother was never allowed to step in any public place before she had to get her wand for Hogwarts."
+
+The black-haired man's lips twisted into a bitter smile.
+
+Although Lucius knew he'd better figure out the implication of such events on his future Lord's psychology (a hateful yet useful muggle word that Lucius learnt recently), his raw instinct wanted to put an air bubble around Draco's head each time he got around the Granger girl.
+
+-Those dirty muggles and mudbloods!
+
+"I remember my mother used to take me to muggle hospitals to get vaccine shots when I was very young. And when I was approximately nine years old, although money was tight, and I'd already been vaccinated against measles when I was younger, my mother still dragged me to a private muggle hospital to receive an advanced measles vaccine that had not yet been covered by NHS." Severus' voice was mournful, and black eyes wandered to the ceiling, and into the past.
+
+Although Lucius could tell Severus recounted an emotional event, the pureblood wizard had no idea of several important concepts.
+
+-What is a vaccine shot? Why is it related to measles? And what is NHS?
+
+Narcissa took in an involuntary breath, and she looked all of a sudden ashamed of herself. "Severus, I am so sorry to hear that. And you mean Draco should -"
+
+"I mean all of you." Severus replied.
+
+Lucius was more perplexed than before. And from the look on Draco's face, the boy was trying hard to remember something.
+
+As cuisses de grenouille replaced soup on the table, the half-blood wizard began to explain vaccines to his best friend and godson, and why many contagious diseases were no longer serious threats in the muggle society.
+
+"Because of vaccines, the prevalences of many potentially dangerous diseases are quite low among first- and second-world muggles. Vaccines for chickenpox were invented recently, and I've gotten one shot last year, for I suspect dragon pox might be a variant of the muggle disease chickenpox, - the symptoms are similar, and both of them are more dangerous for adults than children. " Severus concluded his explanation with a significant look toward Lucius and Draco.
+
+Lucius' eyes widened in disbelief.
+
+-Did Severus mean that the dirty muggles are not only spreading dangerous diseases that kill pureblood wizards, but they are also inventing things that could prevent diseases, and potentially save wizards?
+
+-If only muggles had invented chickenpox vaccine earlier...
+
+Lucius remembered his father, Lord Abraxas Malfoy, in his last days: his fair skin became green, green-and-purple bumps erupted everywhere, his hair fell out, the high fever and uncontrollable cough, bleeding problems…
+
+Then Lucius realized, even if the muggles had invented the chickenpox vaccine before his father was infected, the Malfoys most likely wouldn't take the vaccine shots as Severus - and possibly many other mudbloods and half-bloods - did.
+
+"Comrade Shakhov used to require all wizarding children in Russia to receive muggle vaccines before entering magical school, and it didn't seem to have much negative impact on the health of wizarding children." Severus said meaningfully to Draco and Lucius.
+
+Lucius pondered on this. His instinct told him not to trust the dirty muggles, however Severus had little reason to lie about something that a whole nation did, and it rang a tone of the kind of incredible yet true things in Potter's books.
+
+-Moreover, Narcissa knows about this vaccine thing, and she thinks that she should have Draco take it. Therefore, it is likely that vaccine is a good thing in the muggle world. As for the NHS thing, it sounded like it has something to do with money, which isn't a problem for the Malfoys.
+
+-Although the Stone can heal most diseases, the "haem-something type B"Severus talked about sounded like a disease that can hurt the brain, which the Stone cannot cure.
+
+"That sounds like an excellent idea!" Lucius forced himself to smile, and told himself that he was only being pragmatic as all Malfoys should, and not admitting that muggles could be better than wizards in some very small and very specific field of healing.
+
+"Oh, dear Severus, Draco is so lucky to have you as his godfather." Narcissa said sincerely.
+
+Severus smiled a bit smugly despite his generally gloomy mood.
+
+Lucius was glad to see that Severus still enjoyed sincere praises, so he was about to shower his best friend with them.
+
+However, Severus' trail of thoughts were more unpredictable than usual, as the man said: "Our dear Headmistress Minerva McGonagall is committing a slow suicide by trying to be the Headmistress and the Transfiguration Professor at the same time, among all other things. She might have collapsed if not for the Stone. I wonder, if she might need assistance."
+
+It took Lucius a moment to make the connections: Severus is indicating that Narcissa should be the one to propose the idea that all British witches and wizards should take muggle vaccines, as a gesture of submission in front of the Boy-Who-Lived. And Narcissa would become a player on the board for her own right.
+
+This scheme was certainly clever, and the idea that everyone should get vaccinated was definitely something that a witch who was forced to spend eleven years in the muggle world could propose, yet it contradicted Lucius' instinct on so many levels that he couldn't point out all of them.
+
+Being pragmatic and taking advantages of the rare good things muggles produced was one thing, yet letting everyone know was completely another matter. The Malfoys had served muggle royalties for gold and land before, and there was even a muggle queen who wanted to marry the first Lucius, yet nobody in the wizarding world needed to know about it - so long as they were ignorant of the amount of gold and silver the muggle nobility could offer, the Malfoys were without competition in this regard. However, if everyone knew the good things muggles produced, the Malfoys wouldn't have much advantage over other wizards.
+
+-However, since the Boy-Who-Lived and the Girl-Who-Revived were raised in the muggle world, they should know the vaccine thing already. But why didn't they propose it?
+
+And Lucius asked as such.
+
+The half-blood wizard answered sardonically: "Vaccines are so common in the muggle world, that our beloved Lord and Lady probably don't know that wizards don't have them, for I, a half-blood, wasn't fully aware of this until several years after becoming Head of Slytherin. However, at that time, I wasn't - let's say, I wasn't in a position that could easily propose such an idea."
+
+-And Severus probably didn't care enough for anyone in the wizarding world. Otherwise, he could simply leave some indications in the Muggle Studies Professor's mind. Not until Draco became his godson.
+
+Lucius' eyes wandered to his beloved dragon, and found that Draco was looking at his mother. Lucius turned his gaze to his wife, and saw that her hands were slightly tight on the utensils, and her neck was a bit too straight.
+
+-She is nervous about - herself? Or about my reactions?
+
+Before Lucius joined the Death Eaters, they had made a conscious decision that Lucius should be the only one to risk his life, and Narcissa should play the role of a good pureblood wife. However, things had changed. The game nowadays was more complex and dangerous than any Malfoy had played in the past one thousand years, and becoming a player meant danger. Most parts of Lucius were exalted by such a challenge, yet a small part of him was intimidated and always wanted to flee. It was one thing to risk yourself, it was completely another matter that someone you loved, lost, and recently returned would risk her life…
+
+Lucius' hands whitened on his knife and fork. In his mind, a respectable pureblood witch should raise children, run business, manipulate Wizengamot, but not become a lunatic like Bellatrix.
+
+But our plan didn't work so well in the previous war. Lucius ruefully remembered. Maybe it would be better to let Narcissa to become a player without becoming Bellatrix.
+
+The idea that Narcissa wouldn't be in the first line of fire calmed Lucius a little.
+
+In another corner, some dark intuition told the pureblood patriarch that if Narcissa were to become a player in her own right, she might drift away from him.
+
+-But she is in pain. One Malfoy is more than enough for imprisonment, and there is no need for two.
+
+Lucius swallowed down his bitterness, gave Narcissa an encouraging smile, and turned to Severus: "My dear Severus, I always pride myself with my vocabulary, yet I can hardly find words to describe your cunning, and more importantly, to properly thank you for your love and kindness."
+
+Just as Lucius began to compliment Severus that he was more loyal to his family and friends than Lady Hufflepuff, and was probably more cunning than Lord Slytherin himself, the ex-Head of Slytherin suddenly nervously coughed, his black-eyes bewildered for a second, and then began to share his impression of the young Petunia Evans, his general knowledge on muggle professors and dentists, and the politics among Hogwarts staff.
+
+Lucius listened, and slowly and sadly realized what Severus was doing: he is arranging for the Malfoys in case he wouldn't come back. He is indeed the best and most loyal friend that I have ever had, and probably will ever have.
+
+The grim possibility of losing Severus saddened Lucius. It wasn't quite in the same way as when Lucius watched black cat flu taking away his mother, and later dragon pox his father, but it became close. Both diseases were potentially fatal, but the majority of patients were eventually cured. Lucius had experienced the hope, the anxiety, the fanatic search for any healing magic, the devastation, and the final departure - no, not final departure, the cursed Boy-Who-Lived would probably figure out a way to bring everyone back.
+
+Lucius managed a smile on his face, and continued listening to his dear friend.
+
+During one course followed by another, Severus shared his knowledge on the politics among Hogwarts staff, and important matters relating to the student body during his tenure in Hogwarts, in the meanwhile taking more alcohol than he usually did.
+
+Although Lucius usually wanted his guests to loosen up and be more talkative after a few drinks, the ex-Lord Malfoy began to sense that he might not want to know what Severus was really holding back. He had to signal the house-elves to switch the beverages to ones containing less alcohol.
+
+-Or is he just waiting for an opportunity to tell me something?
+
+Whatever it was, Lucius guessed it wasn't good.
+
+And when dessert was on the table, Severus stopped his revelation of Professor Sinistra, and a twisted smile appeared on the corner of his lips. The black-haired man sighed, and said: "Narcissa, may I borrow your husband for a few hours?"
+
+-I am to stay for the night?!
+
+Lucius felt a wave of rejoicing, even though part of his brain was quite aware of the fact the following few hours probably would not be easy, while another part of him reminded that it must have costed Severus a lot to let the paranoid Auror to allow Lucius to stay for the night.
+
+After a few bites of blancmange, Severus thanked Narcissa again, and then retreated to the study with Lucius.
+
+Before Lucius could speak, Severus ordered a bottle of firewhisky from house-elves, and poured two glasses. "I am sorry, Lucius, but I may need some alcohol now."
+
+Stella looked at her master disapprovingly, yet remained silent.
+
+After the black-hair potioneer took a large gulp of alcohol, he drew out three bottles of green potions, and put them on the large oaken table ornamented with snakes and wyverns. "Antidote for alcohol, pour one down my throat in case you consider it necessary."
+
+This really sounded ominous.
+
+Severus sat down in one of the comfortable leather chairs, cleared his throat, his usually silky voice hoarse and shaky: "Lucius, there is something that I want to ask of you. You may decide whether you would like to do it or not after hearing the whole story. I - I don't know where to start, so I'll start with what Mad-Eye and the Boy-Who-Lived told me this afternoon."
+
+Then, Severus told his best friend about the old photo of Lord Rasputin, Mad-Eye's theory, and the digging of his own ancestors' graves this afternoon.
+
+"I've sent hair from my parents, all my four grandparents, and all their supposed parents that I could find, to a muggle lab to test for their kinship." Severus' black eyes glistened with traces of water, his voice became blurry as he finished the full bottle of firewhisky. And his hand went to the first bottle of antidote for alcohol without Lucius' suggestion.
+
+The pureblood wizard stared at the copies of magical and muggle photos: Lord Rasputin after his death, Tobias Snape, Nicolas Snape, Eileen Prince, and Virgo Lestrange. The faces were quite self-evident.
+
+There was indeed a rumor among purebloods with certain traditions, that making horcruxes would bring misfortune to one's offsprings, yet Lucius never thought the misfortune would come at such a literal sense. Then Lucius got it in absolute horror: this must be the second level of horcruxes, that you have to literally curse your offsprings, to let them produce your new body.
+
+Severus observed the horrified expression, and said: "So you must have realized."
+
+"Yes, the curse of horcrux for one's offsprings is literally so." The blond wizard murmured.
+
+"What?" Severus asked in surprise.
+
+And then the black-haired wizard straightened up, drank down the second bottle of antidote for alcohol in one gulp. "I'm such a utterly self-centered fool! I need to tell -"
+
+"Oh, well, Mad-Eye must have been checking on this already."Severus slowly relaxed back down the chair, put one hand over his face, and his voice tired: "And I have just proved how slow I am."
+
+-Err, Severus didn't think of this? And what did Severus actual think of?
+
+-The fact that he should avoid touching any horcrux? But that's pretty straight-forward without knowledge of the additional curse.
+
+-The cause of family tragedy? But Severus has told me so in plain words.
+
+Then Lucius realized, and it terrorized him on another level: the curse encourages incest, and -
+
+At this point, Lucius couldn't even tell if measles taking away Severus Prince's life before the boy attended Hogwarts was a bad thing. Lucius didn't really want to ponder on what relationship Severus Prince might have with his younger sister and/or his mother if the boy entered puberty.
+
+-Severus doesn't seem to have an improper relationship with his mother, though. But the existence of Tobias might explain this.
+
+-Also, Severus probably shouldn't run all over the former USSR at this time. And that's why the Boy-Who-Lived and Severus decided that the launch date should be advanced.
+
+The black-haired wizard looked rather embarrassed, and his black-eyes were focusing on a snake on the oaken table, not on Lucius, as he said: "I know what I am asking may put you in a rather difficult position, but - before I figure out how to get rid of the curse, could you try to stop me if it seems like I - I want to lay down with some female?"
+
+-Err…
+
+There was pleading in Severus' voice: "I know that process might just take less than an hour, probably before anybody would have the chance to intervene. Therefore, if I am dumb enough and weak enough to procreate anyway, under the influence of the curse or no, could you please be my child's godfather, and prevent me from meeting my daughter, or prevent my child's mother from meeting her son?"
+
+Lucius didn't know any previous Malfoy had been told by their Lords to stop them from gaining certain pleasures. He should say yes and do this for his best friend, because friends should stop friends from committing unspeakable crimes of this nature; but saying yes might also mean to seriously offend his Lord at a time when the said powerful Lord might not be reasonable at all.
+
+Lucius knew Severus was expecting his answer, most likely in Parseltongue, and that was an answer that Lucius could not give lightly. Saying yes would mean that he had to rebel against his powerful Lord and face the potentially lethal ramifications, but saying no would mean he had to watch his best friend committ horrible crimes and falling forever into self-loathing.
+
+Severus sighed. "Lucius, I am sorry for asking so much of you. I would block your memory, and -"
+
+The black-haired man hesitated.
+
+-No, Severus would go to Mad-Eye Moody or the Boy-Who-Lived for this request. And Mad-Eye would just gladly castrate Severus, and curse him with who-knows-what!
+
+-Wait, Mad-Eye would request Severus to sacrifice his male part, and probably his sexual identity in a ritual!
+
+"I will try my besst to sstop ssuch tragedy from happening or becoming worsse." hissed Lucius, and he added. "Pleasse try not to kill me."
+
+</div>
+
+</div>

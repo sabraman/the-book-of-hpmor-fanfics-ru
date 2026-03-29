@@ -1,0 +1,179 @@
+<span id="seg-0920__seg-0920-fc1173b3f5"></span>
+
+<div id="seg-0920__s20-f04dbcbb6f" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 20
+
+<div id="seg-0920__storytext-9c93142583" class="calibre4">
+
+Disclaimer: I do not own Harry Potter.
+
+Note: I'm sure that there are a whole bunch of ways that Harry could stop the whole Basilisk thing right now. Unfortunately, they haven't occurred to Harry because once the main plot of the school year is resolved, there really isn't anything to do but a huge time skip, developing a romance (at twelve?), or moving future events backwards in time (which there would be no logical reason for doing). Since Harry already won't have to deal with thinking Sirius is out to get him next year, he's going to be more preoccupied with keeping everyone safe while simultaneously annoying them all than animagi-proofing the castle. Besides, if that were possible, I'm sure it would have occurred to Dumbledore at some point. He's not *that* lax on security.
+
+"So," Hermione said triumphantly the day before the term ended. "We're not the only ones to think Malfoy is the Heir of Slytherin."
+
+"Yeah, ever since you had a bunch of witnesses when Ernie was attacked, everyone has been off your case and on his," Ron chimed in.
+
+"It's really quite fortunate that nobody realizes I could have just ordered the Basilisk to attack him beforehand," Harry mused.
+
+His three friends stared at him. "But…you didn't, right Harry?" Neville asked finally.
+
+"Of course not," Harry scoffed. "But the point is that I *could* have."
+
+"I recommend keeping that bit of information to yourself," Neville advised. "Or else people will NEVER let go of the idea that you're responsible."
+
+"Not that I don't fully support the idea that Malfoy is the Heir," Ron began. "But Harry…you're his friend – Merlin knows why – and shouldn't you be doing something to make people stop suspecting him?"
+
+Harry grinned. That was a strange situation, all right. "Normally, I would," he agreed. "On the other hand, Draco is a Slytherin from an old Dark Pureblood family. To him, being the Heir of Slytherin is a badge of pride and so even though he's not responsible, he doesn't mind people thinking he is. What's more, he's the one who came to me with the idea of making everyone think he's the Heir and I went along with it because the truth will come out soon enough and the teacher's totally don't' believe him anyway, so it's not like it really does any harm."
+
+"If that's the case, why are you so sure he's not?" Hermione asked reasonably. Or, as reasonably as one could be when espousing the theory that Draco Malfoy was the Heir of Slytherin. "He could be playing you and just asking for help in taking the credit that he already deserves."
+
+"You mean other than the fact that he's twelve, not a Parselmouth, and thinks being able to attack people with a giant snake is 'wicked'?" Harry asked. "Seriously, even Voldemort didn't go around setting the Basilisk on Muggleborns until he was sixteen."
+
+Ron flinched. "Stop saying that!" he said, annoyed.
+
+"Stop telling me not to say that," Harry shot back. "It's not going to do any good and getting into another argument about this with you will just make everything take twice as long."
+
+"The fact that we're talking to you automatically makes everything take twice as long as it normally would," Neville pointed out.
+
+"Then perhaps Ron should not be so eager to make everything take four times as long as it normally would," Harry said mildly. "But that reminds me: I've got your Polyjuice. Now go away and don't try to drag me into this."
+
+Hermione woke them up at the crack of dawn on Christmas morning, proving that she was indeed sadistic enough to be the daughter of dentists.
+
+"You have five seconds to tell me what you're doing in here before I hex you," Harry growled sleepily. He and the rest of the Gryffindor Quidditch team (plus Lee) had just had their monthly all-night tournament. This time it was exploding snap and since they wouldn't have Quidditch Practice the next morning, Wood joined in for once. It was great fun, naturally, but unless Hermione had a good reason to be barging in there twenty minutes after he had fallen asleep…
+
+"The Polyjuice Potion is ready!" Hermione exclaimed excitedly, bouncing up and down on the balls of her feet.
+
+"Of course it's ready," Harry snapped, not a morning person under the best of circumstances. "I gave it to you last week."
+
+"Well, yes," Hermione admitted. "But I thought we could use it today."
+
+"Breakfast isn't for another three hours! How could we possibly hope to use it before then?" Harry demanded. Then, realizing his mistake, he corrected, "And by 'we' I mean 'you.' I still think this is stupid."
+
+"I think half the things that you do are stupid-" Hermione began heatedly.
+
+"Only half?" Ron muttered, covering his head with a pillow to block out the sunlight.
+
+"Maybe she just doesn't pay enough attention," Neville murmured back, copying Ron's method of refusing to admit it was morning.
+
+"But that doesn't mean I try to stop you!" Hermione concluded.
+
+"Since when have I been trying to stop you?" Harry asked incredulously. "I bought you the bloody potion! And let me tell you, that did not come cheap."
+
+"And I'm sure you made the money back within twenty-four hours," Hermione said dismissively. "Besides, you only helped so we wouldn't endanger our Potions class."
+
+"Oh please," Harry laughed. "Like I couldn't have stopped that. The only reason it would have worked on Snape was because he didn't know you were planning it and would have undoubtedly have been busy with the other kids who were trying to kill each other."
+
+Right then, Hedwig flew in and dropped a medium-sized package on Harry's head. Ouch.
+
+"Okay, that's it," Harry said determinedly. "I don't care what day it is; it is just too damn early. Out, all of you."
+
+"But Harry…" Hermione protested. "The potion-"
+
+"Out!" Harry shouted, waving his mind and banishing Hermione down the stairs.
+
+"Thanks for that, mate," Ron said, snuggling deeper into his pillow.
+
+"What part about all of you didn't you get?" Harry asked, raising his wand again.
+
+"But-" Neville began, horrified.
+
+"Sorry," Harry said apologetically. "But she won't stop until you guys go help her with that."
+
+"It's good to know where your priorities lie," Ron muttered as he reluctantly got up.
+
+"Yeah, well, I need sleep," Harry told him. "Oh, but take this." Harry waved his wand at his trunk and a vial with a few hairs floated out and into Ron's empty hands.
+
+"What's this?" Ron asked, inspecting it carefully.
+
+"A few of Pansy Parkinson's hairs," Harry explained. "Tell Hermione that Polyjuice potion should NOT be used with cat hair."
+
+"How did you-" Neville began. "Wait, don't answer that. You're scar told you," he said sarcastically.
+
+"You know me too well," Harry said as he waved his wand once more to shut the curtains and went back to sleep.
+
+------------------------------------------------------------------------
+
+When Harry finally got around to getting up and opening his presents, he found that the Dursleys had actually sent individual presents. Uncle Vernon had sent him a cross and a note saying how he was going to hell for worshipping Satan and proving that once again he knew nothing about magic, Aunt Petunia had sent a book on gardening which he immediately gave to Neville, and Dudley got him a bunch of CDs which (due to the lack of electricity at Hogwarts and his own lack of a CD player) Harry strung up and hung around the Common Room, creating a cool rainbow effect when the light hit them. Harry had sent Aunt Petunia some rare but Muggle seedlings, Dudley some magical sweets that would probably freak him out for about twenty minutes before he gave in and ate them all within the day, and Uncle Vernon twenty galleons so as to torture his Uncle with the dilemma of exchanging his wizarding coins for Muggle money or not accepting free money. This would probably agonize him for days.
+
+Hagrid sent him a large tin of treacle fudge and Harry had sent him six Abraxan. Harry had decided pretty early on that he was going to celebrate the success of his money-making ventures by going all out this Christmas. Ron gave him *Flying with the Cannons*, which was an interesting enough read even if he despised that team. In turn, Harry had sent him a new wand. Hermione got him a luxury eagle-feathered quill and Harry (so help him) gave her a time-turner. Fortunately, he also gave her a guide on how to use it, straight from the Department of Mysteries itself. It really was nice sometimes that the Ministry was so corruptible as Harry was almost certain that what he did was worth a good ten years in Azkaban. The Weasleys had sent Harry a new hand-knitted jumper and a plum cake and Harry had responded by purchasing them a House Elf - something he was NOT looking forward to Hermione finding out about. It's not like he wasn't all for House Elf rights, it was just that Dobby was the only House Elf he had actually met who *wanted* them and he figured he should probably stay away from enacting new magical creature legislation until he had at least graduated. Things like that were very time-consuming, as he knew from experience. And the Weasley's were in Egypt visiting Bill for Christmas. If they could afford that, then why was it such a big deal that they won the 1000 Galleon Draw over the summer and went back? Maybe it was cheaper when it was just the two of them and not seven of them.
+
+Ginny had gotten him some owl treats for Hedwig and he had gotten her a year's supply of Honeydukes chocolate because he didn't know her as well as he might have liked. Fred and George had sent him several seemingly innocuous desserts that he was afraid to try without a lengthy examination and a possible guinea pig and he had gotten them a book on inventing potions. He knew they could do it on their own, but this might make things go a little smoother. Tonks had sent him some of Sirius's old schoolbooks that he and Harry's father had written all over when they were supposed to be listening in class and Harry had gotten her a rather expensive ring charmed with an anti-clumsiness spell for when she needed to be undercover once she finally got through Auror Training. Technically, he supposed she could wear it all the time, but he knew that Tonks had kind of liked being clumsy for whatever reason. Maybe she just saw it as integral to her personality? Percy had gotten him a book on the OWLs, which was just so typically Percy that it wasn't even funny and Harry had gotten him a set of new school robes as Harry knew pomp like that was important to Percy. Neville had gotten him book on Poltergeists as apparently Harry was starting to remind him of one (and dear God he was getting a lot of books. He could really sympathize with the Headmaster's desire for a pair of nicely woolen socks now and resolved to purchase some for himself at the earliest possible opportunity) and Harry had gotten him a couple gillyweed plants. Not that he was thinking ahead to fourth year or anything.
+
+Cedric had gotten him a book of '1000 Things I Never Had the Nerve to do at Hogwarts' and a note remarking that Harry had already done three dozen. Needless to say, Harry now had a new ambition in life. Harry himself had sent Cedric a book on the history of the Triwizard Tournament complete with task analysis and a note saying, 'You never know. But my scar does.' Draco had gotten him a top-of-the-line broomstick serving kit and Harry had gotten him the most extensive wizard genealogy in all of Europe. That probably wasn't the best plan if he wanted Draco to get over all of that Pureblood crap he kept spouting, but he knew Draco would love it and it was Christmas… Luna had gotten him a pair of X-Ray glasses that genuinely worked and looked just like his regular glasses so he knew he'd have fun with being able to look even more omniscient than usual. It made him very glad he had hired two dozen experienced trackers to find her a Crumple-Horned Snorkack, which turned out to be some sort of pig-like creature. He knew that would just make her day. He got Professor Dumbledore a pair of woolly mittens to go with his woolly socks, Professor Lockhart a book on calligraphy so he could have fun making his signature even more elaborate, an anonymous grant for Professor Snape to continue doing research, and Professor McGonagall a brand-new chess set, also anonymously. And of course, he sent the entire Hogwarts population a candy cane and everyone who had expressed faith in him a box full of chocolate.
+
+By the time Harry was finished admiring his presents and deigned to leave the Common Room, it was lunchtime and Harry was just in time for a quick bite to eat before he joined the traditional all-afternoon snowball fight. By the time that ended, it was dinner and Ron, Hermione, and Neville were getting up halfway through the meal to go chasing after Crabbe and Goyle.
+
+"Feel free to just ditch me; it's okay, I don't mind!" Harry called after them.
+
+"If you don't mind then why are you yelling at them?" Luna asked sitting down across from him and plopping his gift down next to her.
+
+"I like yelling?"
+
+"I'm sure you do; you make all-school announcements in the Great Hall often enough. Thank you for Norbert," Luna said breezily.
+
+"N-Norbert?" Harry repeated. Like the dragon? Well, that was really a Norberta, but he wasn't supposed to know that yet. What were the odds that she would pick the same name as Hagrid? Although somehow he wasn't surprised.
+
+"Oh yes," Luna said serenely. "I asked Hagrid about name suggestions and he got a little teary-eyed when Norbert came up, so I figured that would be a good name."
+
+"That's just…yeah…" Harry said, not exactly eloquently.
+
+"Strange?" Luna supplied.
+
+"Yeah."
+
+"I get that a lot. For that matter, don't you?" she asked.
+
+"I do," Harry nodded. "What do you think about the theory that Draco Malfoy is the Heir of Slytherin?"
+
+"That's ridiculous," Luna said instantly. "He would never write in a diary."
+
+"Diary? So that means that you believe me about a supposedly dead parent-betrayer illegal rat animagus using Voldemort's old diary to open the Chamber of Secrets?" Harry asked, interested. No one had taken that part of his story seriously, even if they did believe him about the Basilisk.
+
+"Of course," Luna nodded sagely. "It makes perfect sense."
+
+"Not to everyone else," Harry pointed out.
+
+"Most people don't believe in Norbert, either," Luna countered. "Although they will after he makes the front page of the next issue of the Quibbler."
+
+"Do you ever get frustrated in your attempt to educate the shee-er, wizarding world?" Harry asked curiously.
+
+Luna giggled at his near slip-up. "Sometimes. But if we don't do it, who will? Everyone else is just content to be stagnant for the rest of their lives and live lives almost identical to their ancestors and their descendents."
+
+"Do you know which is which?" Harry asked her, realizing that the question wasn't very clear and he should probably elaborate. Before he could do that though, Luna answered.
+
+"It is truly sad the state of the world when so many people don't realize that ancestors are those who came before and descendents are those who come after," Luna said, shaking her head pityingly. "Where did your friends go?"
+
+It was strange, but Harry and Luna never really felt the need to use transitional phrases, they just abruptly changed the subject and the other one was expected to keep up. Again, very strange, but it worked for them.
+
+"They are off to go drug Crabbe and Goyle in order to impersonate them and Pansy Parkinson so they can go sneak into the Slytherin Common Room and try to worm a confession out of Draco," Harry explained.
+
+"Drugging students? Couldn't they get expelled for that?" Luna asked, interested.
+
+"Probably," Harry acknowledged. Come to think of it, why hadn't Crabbe and Goyle gone to Dumbledore in the first place? Was it because they were embarrassed or didn't know who had drugged them? Was it because they didn't like the most prominent champion of Muggle rights or had they simply not noticed they had been drugged? Sure they could have thought they had fallen asleep, but he and Ron had taken their clothes and locked them in a closet. "Although they could probably also get expelled from deliberately causing an explosion in Potions Class, which they were planning to do so they could steal from Snape – another offence – until I stepped in and just bought them the damn potion."
+
+"Polyjuice, right?" Luna asked. At Harry's nod, she continued, "Wouldn't Draco Malfoy admitf it because he wants people to think he is?"
+
+Harry's blood froze. "That had honestly never occurred to me."
+
+"So I guess you'll get a pretty interesting debriefing when they come back," Luna smiled.
+
+"Yeah. And they will be even harder to convince of Draco's innocence than Ernie is of mine."
+
+"What I really don't understand is this: even if the Heir was a student and a Slytherin – which is actually a reasonable assumption given the name, unless they were planning this from the beginning and wanted to deflect suspicion – why are they suspecting a second year? They should be looking for a culprit amongst the upperclassmen," Luna said sensibly. It had also amazed him just how sensible Luna could be sometimes. He had remembered her as the most bizarre person he knew (which was still true) but he supposed that since the wizarding world practically had a logic phobia and Luna was so very different than the mainstream wizard, it was almost inevitable that she would have to be.
+
+"Simple," Harry laughed. "He's the only Slytherin they interact with on any kind of regular basis and he doesn't like them. Well, he's okay with Neville, but then, Neville is a Pureblood who doesn't buy Ron and Hermione's theory that he's the Heir and is really just going along to keep them out of trouble. Ron thinks all Slytherins are evil and the Weasleys and Malfoy seem to have some sort of blood feud going on anyway. Hermione is a Muggleborn and Draco really doesn't have very much experience with them, and so there are definite problems there. Plus he can't stand anyone who is so obviously smarter than him."
+
+"I see," Luna said. "That really makes no sense, though."
+
+Harry sighed. "Preaching to the choir, Luna, preaching to the choir…"
+
+Review Please!
+
+</div>
+
+</div>

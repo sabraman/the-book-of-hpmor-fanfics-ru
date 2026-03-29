@@ -1,0 +1,103 @@
+<span id="seg-0687__seg-0687-2f841cded5"></span>
+
+<div id="seg-0687__s5-a17a5326f2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 5: Dis-
+
+<div id="seg-0687__storytext-9c93142583" class="calibre4">
+
+*Dear Mum,*
+
+*I've been Sorted into Slytherin. I hope you're not upset. Is there any reason I would be a Parselmouth, though? They checked to see if I speak Parseltongue and it turns out I do. Here's hoping you can resolve my confusion. Hoping Bill is well!*
+
+*Love,*
+
+*Ginny*
+
+Ginny sealed her letter and, on an offer from Blaise Zabini, paid a Knut for a Public Encryption Charm in case it was intercepted. She then had it sent to the Owlery just before the feast ended and the students were shown to their dorms. Nothing quite felt real. Ginny became disillusioned with Gryffindor house long ago, but she had never felt more distant from her family than she did now. What kind of Weasley was quickly Sorted into Slytherin and spoke Parseltongue, anyway? Not that speaking Parseltongue was actually evil – Harry Potter did, after all – but what was Ginny thinking? The Potter family hadn't spoken Parseltongue; Harry only did because Voldemort had. Ginny tried to imagine Godric Gryffindor approaching her, kneeling down, and telling her in a very serious tone that she was a bad person. On some level, she wouldn't even care. Godric Gryffindor had been the worst Founder, anyway. He couldn't even cast a Patronus.
+
+On the way to their dorms, Luna briefly broke away from the Ravenclaws to meet Ginny. She was absolutely beaming, radiating happiness beyond her normal personality.
+
+"Ginny!" called Luna. "I was wrong about you! One of the prophecies on your hand! The one I didn't tell you because I thought it was inappropriate! I misinterpreted it!"
+
+"Oh?" said Ginny.
+
+"It said you'd be a friend of snakes." said Luna. "It meant you'd be sorted into Slytherin. I thought it meant something else." Ginny smiled, although she chose not to guess how Luna had originally interpreted it.
+
+"But I'm still going to be magically strangled to death, though," said Ginny.
+
+"Only if you get married," said Luna.
+
+"Uh huh," said Ginny. "Later!"
+
+"Goodbye!" said Luna, and Ginny thought she saw her blow a kiss, but it was probably just something else, misinterpreted. The crowd of students swirled around and into itself, and Luna disappeared.
+
+Four left turns around the same column led to the flight of stairs down to Hogwarts' dungeon complex, which contained the Potions classes, the Slytherin dormitories, and the lake maintenance system. They were all rather dull to be dungeons, though Harry had commissioned some improvements over the summer; there were some bridges over bottomless pits, now, at least. There were full-height chain-link fences to prevent anyone from falling in, and a Human Zero Gravity Charm above the critically dangerous height, just in case. The pits were supposed to be decoration, not a safety hazard.
+
+When Ginny finally entered her Common Room (the password: "Crocodile's Tears") she felt a twinge of regret for her Sorting. Before her stood the most miserable collection of children imaginable; only slowly pouring in were the new students and the happy (or at least happier) old ones. The first people in were the children who now lived here, the orphans of Death Eaters. Draco, who Ginny had been intrigued to meet, barely looked better; his mother had been miraculously found alive after a decade missing, but that hadn't brought his father back to life – not to mention that, however happy he was to find his mother alive, he had still only really met his new guardian this summer, and she had an entire decade of magical events to catch up with.
+
+"Hey," said one of the oldest boys present, Lesath Lestrange, who towered over Ginny.
+
+"Hi," said Ginny, getting distinctly uncomfortable. Did they have a different sense of personal space here in Slytherin? No, looking around, nobody else was acting like him. Weird. "I'm Ginny Weasley, I'm a first year. I just got Sorted here."
+
+"I heard," said Lesath. "Everyone was talking about it because the Weasleys have been a Gryffindor family for so long. Congratulations on getting into Slytherin. I'm Lesath."
+
+"Lesath Lestrange?" said Ginny. "Delighted. I heard you're a friend of Harry Potter?" Lesath's tone suddenly, momentarily changed, taking on a deadly serious, rather than casual, aura.
+
+"I owe Harry Potter my life," said Lesath. He leaned in and Ginny got the distinctly unpleasant impression that he intended to kiss her.
+
+"Hey! Ginny!" called Tracey, who had noticed the situation and was approaching. "Let's go in the Girls' Dormitory and arrange our stuff."
+
+"Alright," said Ginny, slipping away from Lesath, who left sensing something amiss. What was up with him? Anyway, Ginny started through the archway to the Girls' Dormitory-
+
+-and was stopped by a brick wall that manifested very precisely in her way. Every brick she was touching was visible, and every brick she was not was not. Fortunately, she had not collided with it fast enough to injure herself. It had clearly not been there mere seconds ago – Tracey had passed through the archway without incident.
+
+"What's going on?" said Tracey, turning around to see Ginny slightly hurt and very confused. She ran back to the archway and faced Ginny. "That's not – that's not right." Wherever Tracey put her hands through, they freely passed through. But it seemed that the archway was just not permeable to Ginny. "Hang on, I'll get somebody." Tracey slipped back into the Common Room, and ran to the Boys' Dormitory, screaming "Lesath, what did you do?"
+
+Ginny smacked the space in front of her repeatedly, literally running up against a brick wall. On some level she intuitively understood part of what had happened. This was Hogwarts' security measure to keep boys out of the Girls' Dormitory. For some reason, the system considered her to be a boy. But why? Ginny could not remember ever being a boy. Ginny was aware of some of the inherent differences between boys and girls, and despite having so many brothers and liking to play outdoors, she was definitely all girl. Would people notice, or if not would they still find out some other way? Would there be talk? What would people think about her? Was she ever going to get into the Girls' Dormitory? Oh no, Draco was standing behind her, watching! He'd seen her hit the empty air and manifest the brick wall! He knew! There would be talk! Draco left, having more interesting things to watch, and Ginny realized that he was a friend of Harry's, too! Utter disaster!
+
+Professor Slughorn found Ginny on the floor near the archway with all of her things, crying. The Potions Master looked rather mortified, himself. He helped her up and spoke carefully.
+
+"Ginevra Weasley?" said Professor Slughorn. "The door isn't working for you?" She nodded. "Don't worry. I'll get you to Madam Pomfrey at once." Ginny continued to cry on her way to the Infirmary, because now she knew that whatever the cause of her distress truly was, it was suspected to be a disease. She was sick, and would need to be fixed - if she could be.
+
+"Professor Slughorn?" said Ginny, as they finally neared their destination. "What if I can never get in?"
+
+"Not possible," said the Professor. "These errors can be fixed instantly; we just need to have Madam Pomfrey diagnose the problem." Speak of the devil, there Madam Pomfrey was.
+
+"You again," said Madam Pomfrey, clearly trying to lighten the mood. Professor Slughorn whispered something to her. "Ah. Come right in, Ginny." Ginny entered the Infirmary and, as directed, sat down on a bed, while Professor Slughorn returned to the dungeons, his work complete. "Lie down." Ginny did, and she could feel a wand being moved around her. She heard no less than five diagnostic Charms performed. Madam Pomfrey muttered something to herself, and then said, "You can sit up now. Are you feeling alright?"
+
+"Yes," said Ginny, and she sat up, taking in the scene of the empty hospital ward around her. She had just lied, but not enough that Madam Pomfrey cared. She had already summoned a piece of parchment on a stand and was drawing on it as a visual aid.
+
+"Alright," said Madam Pomfrey. "Methods of determining sex, or gender, can essentially be divided into three categories. First there's the physical, or the biological, the things Muggle doctors can check. That can be further subdivided into the anatomical - which genitalia you have, not that difficult - the hormonal - which chemicals run around in your body and muck stuff up during puberty - and the chromosomal, which I don't even completely understand. Now, all of these subsets can have their own problems, but you don't have any of those. You are completely physically a girl. Congratulations."
+
+"Thanks," said Ginny, exactly as sarcastically as the "congratulations" she was answering.
+
+"All of that can be fooled by Polyjuice," said Madam Pomfrey, "or, or if you're a Metamorphmagus. You didn't show up on my diagnostic as a Metamorphmagus, though, so I'm going to keep you in here overnight to make sure you're not a male impostor using Polyjuice, and then we'll call that good. Then, there's the mental aspect of sex or gender, which is partway between Muggle medicine and ours. Whether you feel deep inside like you're a boy or a girl. Partially the result of socialization, and partially the result of physical aspects like brain structure and hormonal balance and so on. Now, Muggles can only really approach this subjectively, in general, by talking to patients and asking them what they think. We can be more objective, with Legilimency, but there's still a chance that we're dealing with a perfect Occlumens. I've already performed Legilimency, but just to be as thorough *as possible*, I'll ask: have you, honestly, ever felt any confusion or discomfort with your gender?"
+
+"Not until just now," said Ginny.
+
+"Well, then," said Madam Pomfrey, "I'd say you're mentally female, too. That, or a perfect Occlumens. That only leaves the third way of determining gender, magical, and there's our problem. Everyone has a magical signature on their soul that says several things about them - and one of those is gender. That's what the girls' wards in our school check. Now, usually someone's magical gender is the same as their physical and mental gender. If there's a mismatch between their physical and mental gender, totally up in the air what their magical gender is. Likewise, if their physical gender is screwed up, totally arbitrary. I couldn't guess what magical gender a hermaphrodite gets. But, ever so occasionally, stuff happens. Someone is totally physically and mentally a boy, but they're magically considered a girl. Or vice versa. Not predictable at all. Looks like that's what happened to you. That, or you're carrying a Dark Wizard's soul. But I think only Harry Potter has to deal with that. Shouldn't have said that."
+
+"So what's going to happen to me?" said Ginny, still in disarray.
+
+"Tomorrow, when we're sure you're really who you say you are, we're going to tell the wards they made a mistake and should recognize you as a girl, and then you'll move into the Slytherin Girls' Dormitory like you were supposed to tonight," said Madam Pomfrey. "Long term? Nothing. Maybe you'll have to check a box occasionally on Ministry paperwork, or you have a slightly higher chance of having Squibs. But basically nothing. Now, get some rest; you need it. I'll bring you some tea to help you sleep."
+
+"Thank you," said Ginny, but she did not get much rest that night. Ginny felt a profound magical dysphoria: who, really, was she? Was she really a girl? What would her parents think? What would God think? When Ginny finally drifted off, it was only by disconnecting with the world.
+
+------------------------------------------------------------------------
+
+*Aftermath, Draco Malfoy:*
+
+Draco Malfoy's thoughts centered on the new girl that night. Or perhaps the new boy? Draco could feel on some deep level that Ginny was a girl; she was too pretty not to be. But he had just seen an objective magical test indicating that she wasn't. That would fit with the pattern; there were far too many Weasleys and they were all boys. If Ginny were a boy, she would be-
+
+-oh. *Oh.* Father would have to hear about-
+
+Tim would have to hear about this.
+
+</div>
+
+</div>

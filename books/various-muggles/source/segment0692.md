@@ -1,0 +1,183 @@
+<span id="seg-0692__seg-0692-73b024353f"></span>
+
+<div id="seg-0692__s10-da711ada13" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 10: Escape Sequence
+
+<div id="seg-0692__storytext-9c93142583" class="calibre4">
+
+Ginny stared at the wood scrap on her desk and tried to turn it into brass, but it simply wouldn't. Occasionally, she thought she'd see a shining fleck start to appear, but it was probably only wishful thinking. She wasn't magically weak, so what was her problem? Charms were never this hard, at least not yet. Her mind wandered to a daydream of Harry and Draco jousting on Hippogriffs.
+
+"What would happen if I transfigured a gram of electrons?" asked Colin, who had already turned most of his desk metallic.
+
+"Um, gee, I don't know," said Professor Tonks, and she bit her lip. "I don't know what those are."
+
+"They're little tiny negatively-charged particles that go in atoms," said Colin.
+
+"I don't think so," said Professor Tonks. "I'll ask the Headmistress, but I suspect her answer will be no. Until I tell you otherwise, absolutely do not."
+
+"I already transfigure electrons all the time," grumbled Colin as Tonks left. "They're in everything."
+
+"On order of the Headmistress Minerva McGonagall," said Harry, who had very suddenly walked into the room and addressed Colin, angrier than Ginny had ever seen him, without explanation. "Absolutely not, ever, no electron-transfiguring, for Very Important Reasons. Do you understand?"
+
+"Y-yes," stuttered Colin.
+
+"Do you actually understand?" said Harry. "This is a matter of existential threat; we considered confiscating your wand and putting you in Ministry custody, but I decided a stern lecture would suffice."
+
+"It makes sense," said Colin. "I ran through the possibilities in my head and the *best*-case scenario I was able to think of was that it would set my wand on fire-"
+
+"Good," said Harry. "Then don't do it."
+
+"Understood," said Colin.
+
+"And don't spread the idea around so some other idiot does it," said Harry.
+
+"Understood," said Colin.
+
+"I want you to hand a summary of this conversation, in writing, to me by our next meeting," said Harry.
+
+"Understood," said Colin. Harry looked at him very closely.
+
+"Good," said Harry, and then he addressed the first year Transfiguration class as a whole. "Minor interruption, everyone; it's of no consequence." Ginny only had one thought, as Harry pulled Professor Tonks aside to talk to her:
+
+*News sure does travel fast in Hogwarts.*
+
+------------------------------------------------------------------------
+
+Ginny opened the box, and the plain book within it. She examined it for writing, but it was blank. She looked around the dorm to ensure she wasn't being watched, summoned a quill, and began to write:
+
+"Hello. I am Ginny Weasley." Her words vanished, and she knew that she had written them with regular ink. Soon, different words appeared on the page, in different script, as if written by someone on the other side, though they were frontwards-readable:
+
+"Hello, Ginny Weasley. My name is Timothy Quagmire. I am a journal, or a diary if you prefer." Ginny immediately put her quill back to the paper.
+
+"Can you teach me any ancient lost magical powers?" Tim's text, too, disappeared, but he began to write more.
+
+"I'm afraid not, thanks to the Interdict of Merlin. I'm technically not considered alive, though I hardly see why not. I certainly feel alive, and I think as well as any human. But because of the Interdict, if I told you any magical secrets, you would be unable to understand them." Ginny stopped to consider this, and more text appeared. "I could lend an ear – or an eye, rather – to your problems, though. What's troubling you?"
+
+"Well..." wrote Ginny. "I don't know if I like Harry or Draco. I'm fond of both of them, but I've been obsessed with Harry for more than a year now and Draco hadn't even crossed my mind until a few days ago. But Harry's dark and brooding, but Draco is too, I suppose, but he's also much more approachable. And he really likes me, whereas I'm not sure if I'll ever have a chance with Harry, but I feel like I'm taking advantage of Draco if I lead him on while I still have feelings for Harry, but of course I do like him too, and" Ginny's words began to disappear even as she wrote them, and words appeared beneath hers in the journal's own handwriting.
+
+"Wow, a love triangle. Impressive. You should have an older Ravenclaw girl write it up as a novel. You could make millions of Galleons." Ginny stared at this.
+
+"You sure are grumpy, Mr. Quagmire."
+
+"You can just call me Tim."
+
+"And if you're a journal, why do you have a human name?" There was a much longer pause before more words appeared.
+
+"You ask better questions than Draco Malfoy."
+
+"Well? What's the answer?"
+
+"I'm an experiment, a prototype. To go into more detail might prove dangerous. Can I trust you, Ginny? I have heard about you from Draco, and he says he would trust you with grave secrets, but I'm not sure if I'm convinced." Ginny looked over this and decided on a response:
+
+"I'd only reveal any of your secrets if I thought you were a danger somehow and someone with more power than me was required to nullify it." A pause.
+
+"Well, thank you for your honesty. I'm afraid I hadn't considered things from your perspective. You're probably more afraid of me than I am of you. So I'll answer your question, now. I was once a human. Lord Voldemort did this to me." Ginny's mouth hung open in horror.
+
+"That's awful! Can I help you?"
+
+"No. I am beyond help. I would like to help you." Ginny stopped reading here and justified it to herself – *it's like having a House Elf, then.* "Do you want advice, or just someone to confide in?"
+
+"How about a friendly chat?" She really still wanted to help this poor soul, instead of just using him as he surely had been for years or even decades.
+
+"Alright, then. How have the meetings with Harry Potter been going?" He knew about them? Oh, of course, Draco must have told him.
+
+"Good. Occasionally a bit awkward, but good."
+
+"Awkward?"
+
+"Well... Harry's an atheist."
+
+"Aren't most people these days?"
+
+"Yes, but not like Harry. I think he would think a lot less of me if he knew I were a Christian."
+
+"That's distasteful and unwise of him. You're Eastern Samothrace Orthodox, I take it?"
+
+"Yes."
+
+"I was too, when I was a human." Ginny was snapped back to reality as she perceived it.
+
+"Oh, Tim, I really do want to help you. Is there anyone you knew who I could get in touch with?"
+
+"I believe all of my contacts from when I was a human are long-dead by Lord Voldemort's hand. That, or traitors I do not wish to associate myself with. Some perhaps both. Don't worry about me. I am content to be an observer; just be my eyes, please."
+
+"Alright, Tim. Did you go to Hogwarts? What was your House?"
+
+"I'd prefer to hear about you and the world today, but I suppose I can answer a few questions about myself. No, I did not attend Hogwarts. I am an American, and was educated at the Salem Witches' Institute. I was traveling abroad shortly after my graduation when I was abducted by Voldemort. When he decided he was satisfied with what he'd learned from the experiment, he gave me to the Malfoys as a friendly gesture, and I wound up stuck alone in a box for several decades before Draco began speaking to me this summer."
+
+"That's horrible" wrote Ginny, "but you don't need to worry about anyone hurting you ever again. Lord Voldemort is defeated."
+
+"I know; Draco told me in detail."
+
+"Oh, well of course he did." It must have been bittersweet for him; besides the obvious loss of his father and much of his father's social circle, Ginny was aware that Draco had been partially enlightened by Harry, at least to the extent that the Dark Lord's fall would be a positive thing for him. But under those circumstances – what an emotional summit it must have been, with so many conflicting feelings, most all of them awful. After a few moments, more text appeared:
+
+"I'm not so certain that Lord Voldemort is defeated. Isn't it rather suspicious that the clearly dead Hermione reappeared alive simultaneously with the supposedly failed resurrection of Voldemort?"
+
+"Well, gosh, I hadn't even considered that!" It wasn't quite true; Ginny had certainly considered it, but not seriously. She'd always dismissed the thought, as it was born out of jealous spite. "She emanates an aura of purity, though."
+
+"A perfect disguise, I'd say. I'm surprised that no one else has thought of it. What other explanation is there for what transpired? There's only one wizard who ever returned from the dead and wasn't Dark, and his name was Jesus Christ. Why should Hermione Granger be the second exception?" Ginny bit her lip.
+
+"According to Harry, Professor Quirrell – that is, David Monroe – stole Hermione's body very early after her death, and was keeping it frozen. So, according to Muggle science, she might not actually have been dead; she just would have needed magic restored to her, which she plausibly could have gotten from Voldemort's death."
+
+"I'll admit I'm not well-versed enough in Muggle science to know if that makes sense. But I do know several secrets of Voldemort's that poke holes in the story." Ginny just stared at this.
+
+"Like what?"
+
+"For one, Voldemort knew a very powerful type of Dark magic, which I can't tell you about thanks to the Interdict, which should have prevented his death. It was what prevented his death eleven years ago when the Killing Curse rebounded when cast on Harry Potter, and it should have worked again."
+
+"That does add some complexity. But no one knows how exactly Voldemort died. Perhaps it nullified whatever it is you know about."
+
+"I find that unlikely, but granted. But second, and more importantly, Lord Voldemort killed David Monroe in secret many years ago, and has been impersonating him since. Professor Quirrell was either Lord Voldemort himself, in disguise, or yet another figure lying about his identity – also unlikely." Ginny had no idea how to take this; they were some of the most shocking words she had ever seen.
+
+"That can't be! Professor Quirrell was a great man and a great professor. All of his students loved him and would have used his lessons to effectively fight against Voldemort. I'm sorry, but you must have been lied to."
+
+"Perhaps. I advise you stay wary of Hermione."
+
+"I already am."
+
+"And tell me anything odd you notice about her; I might help you make sense of it. Anything unusual yet, besides the resurrection and the aura of purity?"
+
+"Well... she knows a very advanced spell that Harry Potter invented, and she's the only person besides him who can cast it. A Super Patronus, that takes the form of a human, and can destroy Dementors."
+
+"Destroy Dementors? Bless Harry Potter; the Interdict has failed to quash magic. We're advancing as fast as the Muggles again. I hope he manages to teach his spell to more than one person. Have you considered asking him to teach it to you?"
+
+"I'd very much like that, but I don't have the courage to ask."
+
+"I know you don't think very highly of Gryffindor, but you need to build up that courage, or you're never going to get anything in life. You only have so many years ahead of you on this Earth. Anything else interesting about Miss Granger?"
+
+"She's taken to keeping a phoenix."
+
+"That would be very reassuring. Lord Voldemort would never be able to own a phoenix as I understand it; they're some of the most objective measures of morality in existence. Have you seen it?"
+
+"No..."
+
+"Oh. You should ask her to show it to you; if she refuses, increase your caution tenfold."
+
+"Alright. That sounds reasonable. I very much doubt that she's faking it, though. A lot of the Ravenclaw girls say she's showed it to them in their Common Room."
+
+"That sounds fairly watertight, though I can think of at least one way Voldemort could falsify such testimony. I don't trust Ravenclaws, anyway. At least the craftiness of Slytherins is well-known."
+
+"If you don't trust Ravenclaws, how can I possibly expect you to give me good advice about Harry Potter?"
+
+"My advice on that matter is exceedingly simple: speak to him honestly about your faith. If I understand his character correctly, he'll have a reasoned discussion with you, and you will either convince him of the truth, sooner or later, or you will learn that he is fated to be an obstacle to you. It is in your interest to learn quickly which it will be, particularly if you truly are the Third Seventh Son." Ginny considered responding that this sounded like a good course of action, but she had a more pressing thought:
+
+"You know about that?"
+
+"Yes. It was one of the first things I learned about you. Draco told me of your escapade with the door, and after that it was simple deduction. I know the Weasleys by reputation, and it was not difficult to determine how many older brothers you had. Once I figured it out, I knew I had to meet the prophesied hero, the one who will rebuild the church." Ginny's eyes stopped on the phrase "prophesied hero". She was one, wasn't she? What an odd thought, considering she would be more likely to associate that title with Harry.
+
+"Thank you." wrote Ginny, though something didn't seem quite right to her, something she hadn't yet put her finger on.
+
+"I'd like to make clear that I'm a very secret diary, and your secrets are as safe with me as mine are with you." This was meant to be reassuring, but in Ginny's current state of mind, it read as a threat. Tim said he had wanted to meet Ginny. Had Draco really given Ginny the diary of his own free will, or had it convinced him to? What agenda did Tim have? Was he intelligent enough to manipulate anybody into doing anything, using only writing? Could he be trusted about anything he said? Ginny was getting nauseous; her father had once told her not to speak to anything whose brain she couldn't see, and she'd thought it rather stupid advice, but she was beginning to see his point.
+
+"It's been fascinating talking to you, Tim, but I have something I need to do now."
+
+"Thank you. I look forward to our next conversation." Ginny never read this final message, for she had already closed the book and precommitted not to open it again until she had a strategy prepared to ensure she was not being used in some dark scheme.
+
+</div>
+
+</div>

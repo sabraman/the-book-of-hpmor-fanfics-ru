@@ -1,0 +1,47 @@
+<span id="seg-0957__seg-0957-b8b0efa60e"></span>
+
+<div id="seg-0957__s3-dd33a084ba" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 3: A Conference on the Killing Curse
+
+<div id="seg-0957__storytext-9c93142583" class="calibre4">
+
+Key Note Speaker Dirk Moore:
+
+"The killing curse, the incantation Avada Kedavra, first invented by the dark wizard Alonso Gurtenstein in New York circa 1814 it was almost immediately outlawed and has, quite rightly, remained so ever since. One of only 3 spells to have a sentence attached to it's successful casting regardless of effect. Unblockable, Unstoppable, except in one case the deatails of which I am forbidden to discuss. This curse ends the respiration of every cell in the body simultaneously; the subject has been described as "Simply dieing."
+
+When dealing with the killing curse we wizarding detectives have a simple question to solve: why does any wizard murderer do anything else?
+
+Indeed when you have the tool to dispose, quickly, efficiently and at range why would a wizard ever be stabbed, or beaten, or imprisoned in magical chains and left to rot? In answering this question we look carefully into the hearts and minds of the criminal class, shall we?
+
+This is my first slide. He is 31 years old, killed with a single knife through the heart; we know it was the knife that killed him due to the blood loss around the wound telling us the heart was beating when it was stabbed. If say he had been killed by the killing curse then stabbed we wouldn't see this effect. This case shows neatly I think the multitude of problems with using the killing curse.
+
+Firstly the killing curse is supremely obvious. If someone has been killed using the curse nothing else could possibly have killed him, everything from heart failure to transfiguration of the internal organs into lead and back again, leaves traces, not Avada Kedavra. If the body has no other sign of death then no other killing method could have been used. Your murderer is suddenly a class 1 dark wizard and subject to the greatest penalty this government can impliment.
+
+Secondly the incantation takes too long; 6 syllables in all; a spell which I stress **cannot** be cast mentally. If you're engaged in a wizarding duel, you would be disarmed 5 times over before you had killed your opponent. It does not matter how fast you talk, we have to assume that you are in combat with someone who can talk at least as fast; and lets not forget that this is a wizarding duel your opponent can anticipate your move down to the fraction of a second; six syllables is a long time in these duels.
+
+Thirdly there's a lot of ways to kill someone with magic. Between transfiguration, charms, potions, magical creature summoning, magical virus's in addition to all the muggle methods: why would any wizard murderer turn to a spell who if it fails they face a life sentence? My second slide shows two murders, on the left this was committed by a wizard; Septumsempra is believed to have been involved but the body was mutalated afterwards with a sword just to be sure. And on the right was see the murder of a wizard by a squib, poisoned made to look as much like Avada Kedavra as much as possible, no marks left on the skin wand unused.
+
+These methods have many practical advantages over the mundane killing curse; but there's a satisfactory element to. In the book 'The Minds of Wizard Killers' I interviewed over 100 felons of Azkaban, brought back to there senses for a day to answer my questions. They told me in no uncertain terms that the killing curse was for them a last option, they would frequently rather torture mutilate or kill with a muggle weapon, it felt they told me more personal.
+
+So you see the uphill battle we face with this spell. It's untraceability prevents us from seeking out when and where it's being cast. We can only identify that it has been cast by testing the wand that did it; unlike Crucio and Imperio there is rarely a victim alive to question in the matter.
+
+I will now take any questions."
+
+*The floor recognizes Albus Percival Wulfric Brian Dumbledore*
+
+*"Thank-you. You have spoken at leanth about the practical implications of the killing curse; but your account misses many things. What of the nature of the person casting it, no ordinary wizard can cast the curse, what of the damage it does to the casters soul: surely these should factor into a crimincal investigation of the matter.?"*
+
+"I appreciate your question; but reject it's premise out of hand. I believe that any wizard of sufficient power is capable of casting this curse, dark or not, fully in possession of a soul or not, strong willed or not, capable of murder or not: any wizard who knows what they are doing is capable of casting this curse. Whether this says something of the nature of the curse or the inherent darkness in all people: it is not my place to say.
+
+My own beliefs aside, most criminals are not thinking of there indelicate souls when they commit murder Mr Dumbledore. They are focussed entirely on the task at hand.
+
+I will add on this subject that when the Ministry comes across the body of a wizard killed with the killing curse in nine cases out of ten the cause is not a traditional murder but a hit, organized and orchestrated by a professional. Mark my words if the last words you hear are Avada Kedavra, then you have upset someone to the tune of several thousand Galleons."
+
+</div>
+
+</div>

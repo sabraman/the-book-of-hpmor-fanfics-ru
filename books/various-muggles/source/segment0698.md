@@ -1,0 +1,224 @@
+<span id="seg-0698__seg-0698-a1e311ad11"></span>
+
+<div id="seg-0698__s16-4adf241e28" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 16: Programming
+
+<div id="seg-0698__storytext-9c93142583" class="calibre4">
+
+In Charms class, on the first day that classes resumed, Ginny was distracted. She could afford to; she had a natural talent for Charms. Was it right to pursue Draco and Harry simultaneously? Tim had dismissed the matter as girlish foolishness immediately upon hearing of it, so she had tried to block it out of her mind, to feel more mature. But it was a serious concern. Perhaps almost as serious as the question of whether it was right to pursue either of them. Ginny certainly felt like a girl, and was physically one so far as anyone could tell, but her soul said something different, and it was a routinely-made point, where Ginny came from, that the soul was what truly counted, in the end. The Bible prescribed awful punishments for male homosexuality, though those punishments had been abandoned long ago, and secularism, the most dominant religion in the modern wizarding world, thought it was cruel even to disapprove of the practice. Ginny would hate to wind up in Hell over some dumb misunderstanding about her gender, and even though her view of God's omnibenevolence suggested that that was an absurdity, it was still enough of a looming possibility to concern her.
+
+"Luna," Ginny had said, just before class started. "I have a very personal question to ask you, about something very secret. Can I trust you to keep it between us?" Luna had put a hand just in front of her mouth in a futile attempt to hide that she was smiling more widely than she normally was.
+
+"Um, of course," said Luna. "What is it?"
+
+"Okay, um," said Ginny. "When I got to Hogwarts, I discovered something very surprising and very distressing about myself. Basically, there was a mess with some wards, and then I learned from Madam Pomfrey that my soul says that I'm a boy." Luna had not looked confused at all; it would have been very odd if she had. "But I don't feel like a boy, and I never have. I'm not biologically a boy, or even ambiguous. So, to go forward, just, what am I?"
+
+"Ginny, of course you're a girl," said Luna.
+
+"But why?" said Ginny. "Are you sure?"
+
+"No," said Luna. "You're sure. Because it's in your head. The mind's the final arbiter of this kind of thing, because the body can be changed with magic – especially now, with the Philosopher's Stone, come to think of it – and the soul contains – roughly half a page of text. That's all. It can be wrong." Ginny had frowned, because that was not her understanding of what a soul was at all. "And also, I like you, so I'm pretty sure you're a girl."
+
+"Come again?" said Ginny, and there had been a long pause, as Luna had just been smiling, before a sudden realization. "Oh." Luna had nodded, and Ginny had realized that, given the vast gulf between their worldviews, Luna's opinion didn't mean much to her, except insofar as she was a friend.
+
+The lesson today was of particular interest to Ginny. One of the spells being taught today was a castable form of the Remembrall's magic, which, upon being correctly cast, shot up a number of black sparks proportional to the number of things forgotten by the caster. Ginny consistently produced more sparks with the Charm than anyone else in the class, which at least vaguely concerned her. Luna, conversely, produced the fewest; each time she correctly cast the spell, only a single projectile emanated from her wand.
+
+Ginny was thinking about the nature of Charms, and about her first day at Hogwarts – specifically, the moment when she had been knocked unconscious by some Parseltongue enchantment. She carefully thought about what she remembered of Professor Flitwick's description of the spell, and decided that, as a Parselmouth herself, and a future Charms Master, it was her responsibility to learn it, as she could make better use of it than nearly anyone. So she lingered after class.
+
+"Professor Flitwick," said Ginny. "I'd like to ask a question. There's a spell I'd like to learn, but I want to know if it's feasible for me to learn it at my level, and as far as I know, you're the only one who knows it to teach it to me."
+
+"What spell?" said the Professor.
+
+"I don't know what it's called," said Ginny, "but it's the spell you described to me on the first day, that you used to drown out the secret message on the Sorting Hat – and, I'm assuming, that was used to put the secret message on the Sorting Hat in the first place."
+
+"Hmm," said Professor Flitwick. "That *is* a surprisingly easy Charm – I'd probably say second year, but you've shown surprising talent. I could easily teach it to you before my next class, but I want to get the approval of the Headmistress first; it wasn't a secret when I found it, just obscure, but that might have changed."
+
+"Alright," said Ginny, and Professor Flitwick showed himself out of the room. Somewhere, Ginny heard the sound of a Patronus being cast. A slight delay, and several Patronuses later...
+
+"Okay," said Professor Flitwick. "I've gotten permission to teach you this spell, but I want it to be very clear that you should inform me on a weekly basis of any novel uses of the spell that you invent. And I fully expect you to invent novel uses of the spell, because you're a Parselmouth, and therefore have access to much more of the spell's potential than I ever did."
+
+"Understood," said Ginny. Professor Flitwick nodded, and displayed his wand; Ginny instinctively reached for her own.
+
+"Now – first the wand movement," said Professor Flitwick. "The physical wand movement is very simple. The thoughts you must focus on simultaneously with the wand movement are more complicated, but still simple in their own way, but I'll get to them next. To cast this spell, you must trace an equilateral triangle in the air. The exact size of the triangle does not matter, as long as each side is equal in length. The bottom side of the triangle should parallel the horizon, assuming that you're standing upright, and the order of the sides should be left, bottom, right. So you start and end at the top point of the triangle." He demonstrated all of this in the air in front of him as he explained. "Is that all very clear?"
+
+"Yes," said Ginny, and she mirrored Professor Flitwick's movements, though not reversed, until she had gotten it right.
+
+"Now, then, for the thoughts," said Professor Flitwick. "While tracing the left side of the triangle, focus on where you want the 'node' generated by the spell to be. Whatever location you choose must be relative to an object. You could choose a portable object, like a ball or a stick, and therefore have a portable node. Or you could choose something fixed, like Hogwarts or the Earth itself, if you want the node to be fixed."
+
+"While tracing the bottom side of the triangle," said Professor Flitwick, "focus on what conditions you want to activate the node. I don't know exactly how versatile this step is. The nodes seem to have some sensory mechanism that they're capable of examining; at least enough that 'the Sorting Hat says Slytherin' can be a condition. I was able to confirm that they don't have access to all human knowledge, only the sensory information immediately surrounding them. Like many idealistic fools, I am eagerly awaiting the invention of a Charm that accidentally grants its user effective omniscience or omnipotence, in the hopes of getting to it first, even though Magical Theorists say it's impossible. So of course I took the time to check if this spell was it."
+
+"While tracing the right side of the triangle, focus on what you want the node to say when activated," said Professor Flitwick. "This is the feature of the Charm I am not able to make full use of, as the nodes only speak in Parseltongue, and you may not even correctly cast this step without being a Parselmouth yourself. I was able to find a workaround, as you know – sorry – but I was fully aware of the potential uses of the spell that I had no access to, which was disheartening. I envy the uses you are sure to find here." Ginny didn't know whether to seem proud or sorry.
+
+"When you have completed the triangle, say the incantation – '*Sapespeck*' – and the Charm is complete," said Professor Flitwick. "Several interesting notes about the result – the resulting node is invisible to anyone except for the original caster, who sees it as a bright green dot suspended in space. The node does not consume any of the original caster's magic, or at least not a large enough portion of the original caster's magic that I was able to tell after creating a hundred of them. Judging by Slytherin's node on the Sorting Hat, it continues well after the original caster's death. And it's resistant to magic-canceling spells like '*Finite Incantatem'*, except, again, from the original caster. All-in-all, it's a very powerful, very versatile Charm. If its use weren't limited to Parseltongue, almost all of Hogwarts would know it."
+
+"Now," said Professor Flitwick, "would you like to try? Affix a node to an object somewhere in this room, and give it a simple condition we can easily check."
+
+"Alright," said Ginny. She was fairly certain she had understood everything Professor Flitwick had said – perhaps she had even understood some things he'd said that he hadn't understood himself. Swish-swish-swish. "*Sapespeck*." A green dot appeared above Professor Flitwick's desk. Ginny was impressed with herself; even she often took multiple times to get a Charm right, and those were first year Charms. Perhaps being a Parselmouth helped.
+
+"Did it work?" asked Professor Flitwick. Ginny nodded, smiled, put her wand down, and clapped. A hollow voice said:
+
+"*Ssalutationss, sschool.*"
+
+------------------------------------------------------------------------
+
+In her first day of usage, Ginny discovered a variety of nuances of the Sapespeck Charm that Professor Flitwick had not happened upon. If you cast the Charm not-quite-right, but close enough for it to tell that you'd tried to cast it, a voice would tell you, in Parseltongue, a rudimentary description of what you had done wrong. You couldn't create two nodes in the same place – if you tried, the Charm would tell you: "*You have made a misstake. Sspecks musst occupy different pointss in sspace.*" You could create them so close together that the green dots that indicated them overlapped, though – in fact, you could even create them so close together that they might as well, for all practical purposes, have been in the same place.
+
+The truth requirements of Parseltongue coming from Sapespeck nodes were slightly looser than the regular truth requirements. The caster needed to either believe that what they were saying was currently true, or that it would probably be true when the node was activated; either was sufficient. Ginny thoroughly tested this, and was able to produce nodes that said false things in Parseltongue – one node, for example, would, upon hearing a clap, say "*There iss a coin under me*," because it was true when the node was initially created, even though Ginny immediately removed the Knut after casting. If Ginny attempted to produce a node that was true in neither sense – neither when it was created nor in the probable event that it was activated – then she would receive only a "*You have made a misstake. Invalid ssnake wordss.*"
+
+The nodes were not much smarter than you would expect from a Charm. On one occasion, Ginny tried to make a node that would hiss words of encouragement at Slytherins when they passed, and she simply received a "*You have made a misstake. Invalid conditionss.*" She was still able to achieve her goal, though, by changing her mental wording to "when you see robes with green trim". The only other notable limitation she encountered was that she could not affix nodes to her own wand – the response to that was "*You have made a misstake. Sspecks may only be removed by casster, and musst be able to be removed."*
+
+Ginny had one idea that she was particularly excited to show Harry Potter. She barely completed it in time for their date.
+
+------------------------------------------------------------------------
+
+"Harry, you have to look at this," said Ginny, and she held up a piece of paper.
+
+"It's blank," said Harry.
+
+"Yes," said Ginny. "But I've enchanted it. Say an addition problem."
+
+"I thought we were here to discuss your Wizard Christianity," said Harry.
+
+"We can get to that next," said Ginny. "I thought you'd think this was neat."
+
+"Two plus four," said Harry, shrugging.
+
+"*Ssixx*," said the paper, after a quick bout of inaudible hissing of code words.
+
+"Impressive," said Harry.
+
+"Do something harder," said Ginny.
+
+"Two plus one half," said Harry.
+
+"*Three*," said the paper.
+
+"What?" said Ginny. "No, like-"
+
+"Five plus six point four," said Harry.
+
+"*Eleven*," said the paper.
+
+"I plus I," said Harry. The paper didn't respond.
+
+"Three plus three plus three," said Harry.
+
+"*Sseven. Ssix,*" said the paper.
+
+"No, I mean bigger numbers," said Ginny.
+
+"Oh," said Harry, disappointed. "Five hundred and ninety three plus three hundred and ninety four."
+
+"*Nine hundred and eighty sseven*," said the paper.
+
+"Very impressive," said Harry, though that certainly wasn't what his face said. "How did you enchant this to speak in Parseltongue?"
+
+"There's a Charm I could teach you," said Ginny. "Professor Flitwick taught it to me, although he couldn't make full use of it-"
+
+"Because he's not a Parseltongue, of course," said Harry.
+
+"Parselmouth," said Ginny.
+
+"It's *that* spell," said Harry. "Got it. So we were going to discuss Wizard Christianity, right? Have you ever heard of a place called the Department of Mysteries?"
+
+"Yes," said Ginny.
+
+"I've been there," said Harry. "I could arrange to take you there if you don't believe me, although I'd prefer not to; it's an awfully large hassle with a lot of paperwork involved, and it shouldn't be necessary, I mean, you trust me, right?"
+"Yes," said Ginny, though she was subconsciously beginning to have her doubts.
+
+"In the Department of Mysteries, there's a room called the Time Room," said Harry. "Some relatively new and incredibly useful magics have been invented there. In the Time Room, there's a spatial-temporal anomaly called the Well of Time. The Well of Time is an apparently perfectly cylindrical pit, with a sort of spiral pattern on the walls. Every full rotation of the spiral – roughly every meter and a half – is equivalent to one year. Every year, the Well of Time grows one year deeper. It serves as a sort of time viewer – if you press your face up against the side, you receive a vision of something that's already happened; the only reason it can't be used as a spying device is because the visions can't be aimed in space – although they tend to be heavily clustered around the land surface of the Earth – but they can be aimed in time."
+
+"I'm aware of the Well of Time, Harry," said Ginny, and she was smiling. She hadn't expected the conversation to start this way.
+
+"And you're aware of its depth?" said Harry.
+
+"At least a million years deep with no end in sight," said Ginny.
+
+"Actually, the exact depth was recently calculated," said Harry, "because it was determined that the Well of Time is actually conic, allowing its exact size to be determined with very fine instruments. It's 4.57 billion years, exactly in line with the Muggle estimates of the age of the Earth." He stopped, and realized he had gotten sidetracked. "But what do you think the Well of Time is, Ginny?"
+
+"Exactly what you think it is," said Ginny.
+
+"Not a portal to Hell?" said Harry. He frowned.
+
+"No," said Ginny, "not a portal to Hell. The Weasleys haven't been that deluded since Septimus two generations ago. The Earth isn't six thousand years old, Harry, and I'm completely aware of that. I'm aware of the Muggle evidence as well as the magical."
+
+"And you are still a Wizard Christian?" said Harry. Ginny nodded. "Ugh. That kind of rationalization is common in the Muggle world, too."
+
+"I think your mistake is probably that you're fighting the hypothesis that the Bible is the perfect word of God," said Ginny, "which, to be fair, is a hypothesis that a lot of people hold. But it's not a very strong hypothesis to attack. You can break a hypothesis like that by pointing out internal contradictions. Although, let's be honest, here; most people who believe in that hypothesis aren't going to be big on rationalism anyway."
+
+"What do you believe?" said Harry. It was too early for an "and why do you believe it?".
+
+"I believe that the Bible is a historical document," said Ginny, "no, actually, a collection of disparate historical documents, that records events that shine light on the existence and nature of God. Their reliability and value varies considerably; the earliest books are essentially tribal myths, though there might be some truth in them as well."
+
+"So you consider the New Testament more relevant to your beliefs than the Old Testament, then?" said Harry.
+
+"Yes," said Ginny, because it was true, although she hadn't explicitly said it yet, so she was a touch surprised.
+
+"There's only one wizard or witch known to have returned from death without the use of inherently evil magic," said Harry. "And she currently attends this school."
+
+"You are forgetting about Jesus Christ," said Ginny, "who is no ordinary wizard."
+
+"Oh, was he a double witch, then?" said Harry.
+
+"He is the Son of God," said Ginny.
+
+"According to?" said Harry.
+
+"The Bible! Himself! Prophecy!" said Ginny.
+
+"Hmm, prophecy..." said Harry. "Unfortunately, I can't check whether it was delivered by a legitimate Seer; the Hall of Prophecy has been destroyed."
+
+"This all happened long before-" started Ginny. "Wait, it has?"
+
+"Never mind," said Harry. "Anyway, I have it on good authority that Hermione Granger was never truly medically dead; she was only dead in a limited, magical sense. You can't actually survive actual dying without extremely evil magic, which you need to arrange in advance of the death. It's impossible. I suppose you're going to say that's the point, and it's a miracle."
+
+"It is indeed the point," said Ginny. "A major theme of what the Bible records is miracles."
+
+"There's no such thing," said Harry. "Have you ever seen a miracle? Do you really believe that they happen, or do you only believe that you believe that they happen? Does this world look like a world that has miracles in it to you, or does it look like one that operates on consistent rules?"
+
+"What's the Well of Time?" said Ginny. Harry considered the purpose of the question before deciding how to answer it.
+
+"It's either a magical invention or a naturally occurring magical phenomena," said Harry. "I'm not sure which, although I suspect that all magic is constructed somehow or another, in the distant past." Ginny smiled.
+
+"You referred to it as an anomaly, and that sounds about right to me," said Ginny. "Consider other possible terms for 'anomaly', though. A Muggle might just say 'magic', because they don't know that that's something normal and understood. Someone like me might call it a 'miracle'."
+
+"Ginny, it's all magic," said Harry. "It's all understandable, the question is just whether or not we understand it already. This is the Hogwarts School of Witchcraft and Wizardry, not the Hogwarts School of Prayer and Miracles. There aren't any real miracles."
+
+"Oh, well I'm glad we understand everything, then," said Ginny. "I guess the Department of Mysteries can just shut down, then. Since there isn't anything mysterious to study."
+
+"Ginny, you can't put everything you don't understand yet in a box called 'God' or 'miracles' and call it a day," said Harry. "That's a God-of-the-gaps argument, and it should be clear why it's broken thinking."
+
+"I'm not saying it's not understandable," said Ginny. "I'm saying that anomalies happen, and are important and interesting."
+
+"Have you ever heard of theodicy, Ginny?" asked Harry. He had just researched the matter over the previous week.
+
+"That's the set of omniscience, omnipotence, omnibenevolence, right?" said Ginny. "I've heard of it and believe in it, although omniscience is awfully redundant with omnipotence, isn't it? I think omnipresence would be a better third quality."
+
+"No," said Harry. "Theodicy is the question of how, given omniscience, omnipotence, and omnibenevolence, how does suffering happen, particularly suffering that could widely be agreed on as unjust."
+
+"Oh," said Ginny, "the problem of evil."
+
+"Yes," said Harry. "How do you resolve theodicy, Ginny?"
+
+"Well, first off, to truly prevent humans from being evil would strip them of all agency," said Ginny.
+
+"The free will argument," said Harry. "Classic. But not all suffering even results from evil. That's why the problem of evil is really just a more mainstream form of theodicy."
+
+"Well, secondly," said Ginny, "I don't believe that any suffering is of real significance, because an omnibenevolent God would permit us all to live forever." Harry was clearly restraining himself from something.
+
+"Do you believe in Hell, Ginny?" asked Harry.
+
+"Maybe?" said Ginny. "Probably not? My family told me about it as if it were real, but they didn't seem to really believe in it, as if they were quoting a fairy tale about Father Christmas at me. And my gut tells me that it contradicts omnibenevolence, hard, and omnibenevolence is a much more important belief."
+
+"Oh, look at my wrist, I've got to go," said Harry, immediately rising and heading for the door. "There's an appointment I forgot."
+
+The next Friday, Ginny learned that, "to shake things up", Blaise Zabini was the new Vice President of the More Sane Squad.
+
+</div>
+
+</div>

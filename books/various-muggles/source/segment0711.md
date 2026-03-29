@@ -1,0 +1,213 @@
+<span id="seg-0711__seg-0711-3bee7dae8a"></span>
+
+<div id="seg-0711__s29-d8e2e65e26" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 29: Autonomy
+
+<div id="seg-0711__storytext-9c93142583" class="calibre4">
+
+As was expected, Luna Lovegood was cleared of all charges leveled against her, and her framing was added to the list of the true culprit's crimes. Unexpectedly, though, Luna Lovegood did not return to Hogwarts; she was given an individualized break from coursework and added to the same summer school makeup plan the Petrification victims were on. Hogwarts staff described the reason for this as a "family crisis". What actually happened was that Xenophilius Lovegood, Luna's father, had attempted, entirely unsuccessfully, to break into Nurmengard to rescue his daughter. The ensuing investigation, which made the front page of the Daily Prophet for about a week, revealed extensive, undeniable evidence that Mr. Lovegood had been behind a wide assortment of previously unsolved serious magical crimes spanning decades. He wrote a final issue of the Quibbler, but it did not reach publication – his printing presses were confiscated as evidence, and the golems of Nurmengard were not willing to provide him with use of their own.
+
+Xenophilius received multiple life sentences, and Luna became a ward of Hogwarts; Xenophilius's will, which stated that, should anything happen to him, guardianship of Luna should pass on to Queen Elizabeth of Muggle England, was widely regarded as absurd. For the final months of her first year, Luna was placed by the Headmistress in solitary confinement in St. Mungo's, supposedly for her own good and recovery. Just thinking about it made Ginny angry; she wanted to point out that maybe the best thing for someone's mental health *wasn't* locking them away from social interaction for months on end. She brought it up with the APSC, and they expressed interest, but apparently never moved anything forward.
+
+It was such a shame, too, because Ginny really, really wanted to talk to Luna. She was the single person most relevant to Ginny's recent personal revelations, after all. Draco had sworn not to tell anyone about it (or, for that matter, about anything else learned in the Chamber), but Ginny knew precisely whose name had come out of her mouth, and she knew just enough about psychology to know that it was the sort of thing the otherwise absurd aphorism "there are no accidents" was invented to describe. How exactly did she feel about Luna, then? There had to be some emotional attachment; Ginny noted that on the basis of otherwise-accountable-for utility alone, she would have pushed Luna away long, long ago. That didn't mean it was romantic, did it?
+
+Deep down, there was some part of Ginny that intuitively believed that Luna was never, ever going to go away and stop being a part of Ginny's life, and its reaction to this was somewhere between annoyance and comfort. Maybe it was for the best that Luna wasn't available to talk to. If it really was a romance, then it was wrong, and Ginny knew it. Not wrong for moral reasons, the way some of her elders would have described it, but wrong in the way that it's wrong to believe wrong things or use wrong strategies. Luna's own sense of romance was clearly wrong, as she liked Ginny, and, according to her, girls in general, which wasn't how it was supposed to work. Now it was looking like, on some subconscious level, Ginny's sense of romance was wrong, too, which was a disaster, and Ginny didn't understand how it'd happened. Had Luna somehow infected her with something? There was a noted correlation between queerness and vampirism; perhaps they worked the same way, too. In any case, Ginny actually liked it, but hated that she liked it, and it was this latter feeling that provided her with a continuing sense of pride and identity.
+
+Here came Harry, and Ginny was satisfied that she was done talking with herself. He looked strangely surprised, moreso than Ginny had ever seen him before, even when he was being informed of deaths in Hogwarts.
+
+"Ginny!" said Harry. "I owe you so many apologies. *Honesst.*"
+
+"For what?" said Ginny.
+
+"For underestimating you," said Harry. "Everyone's heard the news, most of all me."
+
+"What news?" said Ginny. Had her escapades in the chamber somehow leaked? That would be disastrous.
+
+"Surviving a Lethifold attack?" said Harry. "Inventing an advanced Patronus on the spot?"
+
+"Oh," said Ginny. You knew you were having an interesting month when an attempt on your life slipped your mind. "Thanks, but actually, I invented it a while ago." She hoped he'd ask her how she'd done it.
+
+"I suspected as much," said Harry. "Make sure not to tell anyone how you cast it, not even me. Knowledge of advanced Patronuses is magically dangerous to pass on to other people."
+
+"Oh," said Ginny. "Okay. That's what I was already doing."
+
+"Don't get me wrong, though," said Harry. "I'd love to learn it from you; it has properties my own Patronus is incapable of. I think it might be able to disassemble a Nundu by itself."
+
+"So I've been told," said Ginny, "but I'd really rather never meet a Nundu."
+
+"Point taken," said Harry, "but if one forms, you'd be my first contact."
+
+*You don't even wear contacts,* said Ginny's internal Luna, whose (newfound?) existence was distressing.
+
+"What I'm leading up to is, you've got to have something going for you, if you can do that," said Harry. "Something I missed. Would you accept an opportunity to become Vice President of the More Sane Squad again?"
+
+"Oh, since Blaise has gotten petrified?" said Ginny. "That makes sense. Sure." It had been painful to tell Draco that even after the diary's destruction, more attacks were coming, but he'd accepted it, seeing as they would all be reversible and in the end the whole sordid business would fade away all the same.
+
+"Then you're tentatively reinstated," said Harry. "Congratulations, and I look forward to your lectures on computing. I've been reading up on the theory, but only you're actually doing anything about it."
+
+"Wait a minute," said Ginny. *This is an awfully convenient arrangement, and I notice that I am confused.* "I know about the thing where you can't lie in Parseltongue. Could you please confirm that you aren't the one opening the Chamber? And don't try ambiguous wording tricks with me; I know about those."
+
+"Okay," said Harry. "*I have been in the Chamber oncce, reccently, though I have vissited ssecret passsagess around it many timess. Have never sspoken to the Monsster. Wass unaware of all attackss thiss year until after they happened. I now know who hass been caussing attackss, and that they are now dead.*"
+
+"You do?" said Ginny, meekly.
+
+"Yes, and Ginny, you don't need to feel guilty at all," said Harry. "You did the right thing, and even the smartest man in the world could fall for Voldemort in a clever disguise. For an entire year, even." Ginny pouted. "I'm serious! It was known to happen in the war."
+
+"But how do you know what I did?" said Ginny.
+
+"I'm sorry, I can't tell you," said Harry. "It's a matter of national security."
+
+"Hermione said you told her that all the time about things it obviously didn't apply to," said Ginny.
+
+"Then she apparently needs to sort out her priorities as regards existential threats," said Harry. "I suppose I'll have some words for her when she's reanimated."
+
+"Harry," said Ginny, very suddenly and, she knew, inexplicably, "am I a girl or a boy?"
+
+"Binary gender is the map, not the territory," said Harry. "Have you ever read 'Man & Woman, Boy & Girl' by Dr. John Money?"
+
+"No," said Ginny.
+
+"Neither have I," said Harry. "But I'd assume it's a good starting point if you intend to investigate that sort of thing. It's the foremost scientific textbook on gender."
+
+*That doesn't sound very helpful,* thought Ginny.
+
+"Thank you," said Ginny. "That sounds very helpful. Sorry to get sidetracked like that."
+
+"Not a problem," said Harry. "I won't tell anyone about you and Voldemort and the Chamber, by the way. Don't see anything to gain from it."
+
+"I actually have another point I'd like to clarify with you regarding the Chamber," said Ginny.
+
+"Yes?" said Harry.
+
+"If you knew I killed Tim-" started Ginny.
+
+"Tim?" said Harry.
+
+"It's the alias the diary used," said Ginny. "Timothy Quagmire." Harry found this very funny, and was not afraid to show it.
+
+"Sorry," said Harry. "It's a Voldemort in-joke. Go on."
+
+"And since obviously you were aware that Blaise was attacked," said Ginny, "does that mean you were also aware that three final attacks were prescheduled?"
+
+"Yes," said Harry. "Two are left now, and I'm going to be glad when they're over. People just don't think well in a state of fear."
+
+"At least they'll ultimately be harmless," suggested Ginny with a smile.
+
+------------------------------------------------------------------------
+
+Fred and George were found petrified together. They were standing in the same corridor, but faced in nearly opposite directions. The evidence suggested they were petrified simultaneously; neither seemed to have noticed and reacted to the other's Petrification. The worst part was that only Fred (assuming they were wearing their own clothes instead of switching, which was a bit of an assumption) had fogged-up goggles. According to the healers, it was possible that this was because of the connection between magical twins, and it was therefore possible that Fred's goggles could be used to cure both of them, but they had never seen a case like this before and were venturing into unknown territory. Upon hearing of this, the Patils added to the growing number of families to pull their children from Hogwarts. The school was looking emptier and emptier.
+
+On this particular day, Ginny wasn't in Hogwarts either. The Headmistress was still holding fast against the APSC's proposal to allow permanent free Floo travel in and out of Hogwarts to students, but had, on Molly's request, allowed the Weasley children to convene for a weekend at the Burrow in their time of crisis. For once, Ginny was glad to be with her family at home - Harry and Draco, who both knew the degree to which she could be considered responsible, had given her sympathetic looks but not said a word.
+
+"I pray for Fred's soul and for George's soul," said Molly. "They're both such rebellious boys, Lord, and only You and they know if they ultimately accepted the gift of Life. I can only hope that they applied their Gryffindor courage correctly, against sin, and beg You to forgive them as You would forgive me. In the Lord's name. Amen." Every Weasley present muttered their own "amen", and the ceremony could easily give off the false impression.
+
+"We don't know if they're dead," said Ron.
+
+"True," said Molly, "and that is quite a happy thought. But we don't know if they're not, and I fear for their souls either way. I'm remembering every time I ever heard them say something disrespectful in church, and I just scolded them to make them quiet instead of trying to fix them... And I feel so guilty, because they might be paying the ultimate price right now for my failure to take the situation seriously."
+
+"Hell," said Ginny.
+
+"Yes," said Molly.
+
+"Do you really think God is going to send people to Hell for making an incorrect assessment of whether He exists?" said Ginny. "That doesn't sound very omnibenevolent to me."
+
+"Do you want to go to Hell, Ginny?" said Arthur.
+
+"No," said Ginny, "but I don't believe in it."
+
+"Gi- Ginevra Weasley!" said Molly.
+
+"Only one man paid the ultimate price for sin; His name was Jesus Christ, and that's a pretty important point in Wizard Christianity, I understand," said Ginny. "I'm not an atheist, mother! I've talked to atheists long enough to know that! I'm not even an agnostic! I'm a Wizard Christian like you! But you have to pick and choose your beliefs!" Ginny stood up and left the table; she would later be unsure why she'd opted to make a scene. "That's rationality!"
+
+"Um, Ginny," said Percy, as Ginny passed, "no, it really isn't-"
+
+"You have to pick and choose your beliefs so that they make *sense*!" Ginny yelled as she exited the room.
+
+------------------------------------------------------------------------
+
+The door to the childrens' bedroom opened, and Molly stepped in.
+
+"Hello," said Ginny, looking out a window.
+
+"Do you know what you did wrong?" said Molly.
+
+"Yes, mum," said Ginny.
+
+"Explain it to me," said Molly.
+
+"I lashed out at you and had a temper tantrum and stormed off without finishing my dinner," said Ginny. "It seems pretty simple."
+
+"That's all correct," said Molly, "but you also defied my authority, and your father's, and, worst of all, you defied the authority of God. God isn't a good enemy to make. He's just about the most powerful enemy you *can* make. And I know that you know better."
+
+"I'm sorry," said Ginny. "I really thought I was defending God. I thought I was doing the right thing."
+
+"Half the sins in the world are committed by people who think they're doing the right thing, Ginny," said Molly. "That doesn't excuse them. You have to actually do the right thing."
+
+"But how do you know you're really doing the right thing?" said Ginny.
+
+"You just know," said Molly, and Ginny instantly grew tired of that thread of the conversation.
+
+"I have a question I'd like to ask you," said Ginny.
+
+"What is it?" said Molly.
+
+"At the beginning of the school year," said Ginny, "I had some trouble getting into the girls' dorms. The school fixed it, but it turned out the wards were seeing me as male. I kind of dismissed it, but I've been having some strange thoughts lately." *About other girls.* "Do you know anything about that?"
+
+"Oh... Ginny..." started Molly, and she was just lightly starting to cry. "The school told me when it happened. They told me to talk to you about it, and I thought that was so stupid, because if you wanted to talk about it you'd come to me. And now, here you are. Do you really want to know?"
+
+"Yes," said Ginny, and Molly sighed.
+
+"I guess this story starts during the war," said Molly. "I saved Lily Potter's life - she wasn't married yet, she was Lily Evans then. And anyways, she felt she had to repay me, so she gave me a gift. She tried to make it seem like a small thing; she said she just had some extra lying around. But it wasn't a small thing at all, it was huge; it was one of the rarest and most potent Potions in the world: Enhanced Eagle's Splendor. Grants the drinker permanent beauty. The stuff Veela are made of. The single dose she gave us was worth more than all the money I'd ever seen in my life. We never did know what to do with it, so we just stored it. And then we had you. You were a boy."
+
+"It was the height of the war," continued Molly. "You know that. And then one day, when you were just two months old, we heard that James and Lily had died protecting their baby, but there'd been a miracle, and Voldemort was struck down when he tried to harm the child. It was the end of the war. The first Harry Potter day. And, as many did that day, we - shamefully - became intoxicated. I can hardly follow the reasoning we used then, but I think we decided we had to finally use the Eagle's Splendor, to 'honor Lily'. So we poured it over you."
+
+"The healers told us you nearly died," said Molly, "but you didn't, thank God. But - when the Potion was done reshaping your body, you were a beautiful baby girl. And you've been a girl ever since. The healers offered to Obliviate the entire extended family, and we took them up on it. None of your brothers know, not uncle Bilius, not aunt Lynn, no one except your father, me, and you now. I once thought you'd never have to know; I was wrong."
+
+"That would make me the third seventh son," said Ginny.
+
+"If your soul is still male," said Molly, "then yes, I believe it does. We haven't been certain for years; we were certain when you were born. You were baptized as Gilderoy Aaron Weasley."
+
+"Ginevra," said Ginny. "Mother, do you know what happened to me about a month ago?"
+
+"The Lethifold attack," said Molly. "Of course I know about that; you know I know about that. I was up all night giving the Headmistress a piece of my mind for not giving Hogwarts the same unicorn-based protection they gave that new hospital, especially when the school is directly under attack by forces who specifically want to harm students."
+
+"All of that's true," said Ginny, "but something else happened. I *survived* the Lethifold attack, using my own Patronus." Something clicked in Ginny's mother, and she calmly, curiously spoke.
+
+"You told me you couldn't cast a Patronus," said Molly.
+
+"Department of Mysteries made me say that, mum," said Ginny. "My Patronus was unique, like Harry's, but not, and they wanted it to stay secret as long as possible. My Patronus is fueled by my specific faith in an all-powerful, fundamentally good creator, God, to save every one of us. I am the third seventh son, mother. And I will rebuild the church and bring wizardkind back to the light. *Expecto Patronum*." Ginny's wand began to spark with white particles, and Molly looked on in awe.
+
+------------------------------------------------------------------------
+
+It was the true end of the school year. Exams were over, everything was wrapping up, and the school had even temporarily assented to the APSC's "Open Hogwarts" initiative, so the halls were generally deserted. Ginny was nonetheless in school (so was Percy; Ron decided to go home early), mostly waiting for the final attack to come, to give her peace of mind. While taking a walk through Hogwarts, she encountered a substantially older Ravenclaw student, who she nonetheless knew: Penelope Clearwater.
+
+"Ginny!" said Penelope, and it rapidly became apparent that, despite being pleased to see Ginny, she was absolutely enraged in general. Ginny wasn't sure why. "Thanks for the advice." Her hand went up to her jaw.
+
+"You're welcome, but what advice?" said Ginny.
+
+"The lip advice," said Penelope. "It worked for my friends, too."
+
+"Oh!" said Ginny. "That advice. I got it from Hermione, actually, and she got it from Harry."
+
+"I've passed it on to some of the younger girls, too," said Penelope, "but hopefully they won't need it, because *Gilderoy Lockhart is getting sacked*."
+
+"*Oh,*" said Ginny. It was strange to learn who your secret namesake was and that they were actually a horrible person within a single month.
+
+"I'm forming an organized party to perform watchout duty on each other, in case he's hiding by the Headmistress's office to *Obliviate Maxima* us when we come by," said Penelope.
+
+"Contact McGonagall by Patronus, first," said Ginny. "He can't intercept that."
+
+"Can't cast one," said Penelope.
+
+"Never mind," said Ginny.
+
+Headmistress McGonagall was of course properly horrified by the evidence-backed allegations she was presented with, but discovered, to her further horror, that Gilderoy Lockhart had anticipated this and fled the school. Soon, every magical law enforcement agency in the world was memorizing his face, but the man-hunt proved unsuccessful. He was still nowhere to be found the next day, when Draco Malfoy was petrified and everything somehow got worse.
+
+</div>
+
+</div>

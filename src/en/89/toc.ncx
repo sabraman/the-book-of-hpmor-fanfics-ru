@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="fb75f001-aeb8-4b06-adac-f1a0d59f9d77" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>89. Oh God Not Again!</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 3</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 4</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 5</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s5_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 6</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 7</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s7_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 8</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 9</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 10</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 11</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 12</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 13</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 14</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 15</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 16</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 17</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 18</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s18_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 19</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 20</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s20_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 21</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 22</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s22_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter 23</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter 24</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s24_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter 25</text>
+      </navLabel>
+      <content src="40/OEBPF/content/s25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Chapter 26</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s1_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Chapter 27</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s2_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Chapter 28</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s3_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Chapter 29</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s4_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Chapter 30</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Chapter 31</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s6_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Chapter 32</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>Chapter 33</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s8_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Chapter 34</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s9_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>Chapter 35</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s10_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Chapter 36</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s11_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>Chapter 37</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s12_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>Chapter 38</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s13_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>Chapter 39</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s14_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>Chapter 40</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s15_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>Chapter 41</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s16_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>Chapter 42</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s17_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>Chapter 43</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>Chapter 44</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s19_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>Chapter 45</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>Chapter 46</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s21_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>Chapter 47</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>Chapter 48</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s23_u1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>Chapter 49</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>Chapter 50</text>
+      </navLabel>
+      <content src="41/OEBPF/content/s25_u1.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

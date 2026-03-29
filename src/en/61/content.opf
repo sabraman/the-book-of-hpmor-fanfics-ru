@@ -1,0 +1,63 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>61. Chapter 113 Exam Answers</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Various">Various</dc:creator>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:publisher>www.fanfiction.net/r/5782108/113</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">fde9a038-e800-4e61-8c39-fc9750640150</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:identifier opf:scheme="calibre">fde9a038-e800-4e61-8c39-fc9750640150</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="61. Chapter 113 Exam Answers"/>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Various&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_000.html" id="a1" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_001.html" id="a2" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_002.html" id="a3" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_003.html" id="a4" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_004.html" id="a5" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_005.html" id="a6" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_006.html" id="a7" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_007.html" id="a8" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_008.html" id="a9" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_009.html" id="a10" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_010.html" id="a11" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_011.html" id="a12" media-type="application/xhtml+xml"/>
+    <item href="34/index_split_012.html" id="a13" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="34/images/image-1.png" id="a15" media-type="image/png"/>
+    <item href="34/images/image.jpeg" id="a18" media-type="image/jpeg"/>
+    <item href="34/images/image.png" id="a14" media-type="image/png"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="a1"/>
+    <itemref idref="a2"/>
+    <itemref idref="a3"/>
+    <itemref idref="a4"/>
+    <itemref idref="a5"/>
+    <itemref idref="a6"/>
+    <itemref idref="a7"/>
+    <itemref idref="a8"/>
+    <itemref idref="a9"/>
+    <itemref idref="a10"/>
+    <itemref idref="a11"/>
+    <itemref idref="a12"/>
+    <itemref idref="a13"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="toc.xhtml#calibre_generated_inline_toc" title="Table of Contents" type="toc"/>
+  </guide>
+</package>

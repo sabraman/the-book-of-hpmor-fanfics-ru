@@ -1,0 +1,36 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>68. You Said No Kissing</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="wordbug">wordbug</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">3279995b-d438-49fc-82a9-eb4bb4903a33</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:publisher>www.reddit.com/r/HPMOR/comments/33qfe3/spoilers_ch_122_you_said_no_kissing_oneshot</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:identifier opf:scheme="calibre">3279995b-d438-49fc-82a9-eb4bb4903a33</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <meta name="calibre:title_sort" content="68. You Said No Kissing"/>
+    <meta name="calibre:author_link_map" content="{&quot;wordbug&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="27/index.html" id="a1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="a1"/>
+  </spine>
+  <guide>
+    <reference href="toc.xhtml#calibre_generated_inline_toc" title="Table of Contents" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

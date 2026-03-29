@@ -1,0 +1,42 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>17. HPMoR: The Missing (but Necessary) Chapters</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="qbsmd">qbsmd</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>www.fanfiction.net/s/10898247</dc:publisher>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a867e26a-58ac-4fdb-9899-e90c5046213d</dc:identifier>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:identifier opf:scheme="calibre">a867e26a-58ac-4fdb-9899-e90c5046213d</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="17. HPMoR: The Missing (but Necessary) Chapters"/>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;qbsmd&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPF/content/s1.xhtml" id="a1" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPF/content/s2.xhtml" id="a2" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPF/content/s3.xhtml" id="a3" media-type="application/xhtml+xml"/>
+    <item href="7/OEBPF/content/s4.xhtml" id="a4" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="a1"/>
+    <itemref idref="a2"/>
+    <itemref idref="a3"/>
+    <itemref idref="a4"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="toc.xhtml#calibre_generated_inline_toc" title="Table of Contents" type="toc"/>
+  </guide>
+</package>

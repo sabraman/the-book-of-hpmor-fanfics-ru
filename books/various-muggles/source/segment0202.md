@@ -1,0 +1,669 @@
+<span id="seg-0202__seg-0202-a78c6ead15"></span>
+
+<div id="seg-0202__s20-f04dbcbb6f" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 100: Lost Innocence
+
+<div id="seg-0202__storytext-9c93142583" class="calibre4">
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:30am, DMLE Dementor-crisis room 1)
+
+**DEMENTORS ARE A PHYSICAL EMBODIMENT OF DEATH. YOU CANNOT FIGHT THEM ANYMORE. YOU CANNOT RUN. TODAY, THEY WILL ATTACK. PREPARE TO DIE.**
+
+The words slammed into Hermione's consciousness. She winced, and then winced again as she realized the implications.
+
+*They have no consciousness of their own,* Harry had said earlier. *They will act as people expect them to do. People* thought *they could make deals, and that's why it worked.* And she had known that it was true. Attacking the members of the Wizengamot, rather than the two prisoners, had not been in the interest of yesterday's Dementor – but it had done so because everyone expected it to. And in January when the Dementor had spoken to her, she had been afraid for Harry and distrustful of Professor Quirrell, and it had told her exactly what, deep down, she expected to hear. And in speaking those words *she* had set expectations too, which might have been part of what had given the Dementor its power over Harry afterwards.
+
+With these words, Professor Quirrell – Lord Voldemort – had perfectly set up the expectation that Dementors would attack. And that would make them act. Even far away from wizards, Muggles who had never known about Dementors would fear them. They would expect death to come for them, and therefore, come it would.
+
+Almost on the instant of the message, two pictures with notes attached appeared in the air and drifted down. Alastor grabbed, read, and then thrust one to Barnok, and the other to her.
+
+"Two people to Russia, two to France."
+
+Madam Bones had explained that in the early minutes of the hour, sometimes they would be sent somewhere together, as there were places with too many Dementors for one person to expectedly handle – Albus Dumbledore had suggested that Hermione's destruction of Azkaban had nearly killed her, so chances were that this was approximately the maximum size a single True Patronus-caster could handle with the help of a phoenix. So, they had agreed that Harry and Hermione, who both had experience destroying Dementors, would ideally split up at least the first time, and help Padma and Lesath, who had not.
+
+They wasted no time. Barnok and Sally both looked at the photo and then grabbed Harry and Lesath and disappeared in equal bursts of flame. Hermione took the hand of the strange, pock-marked man, stared briefly at the picture, and then passed it to Tamara before envisioning the place. She touched Xare's claw, and an instant later they were in the building of the picture, with dark-blue walls, and wizards running in terror. Only seconds had passed since the announcement, and the guards of this Dementor-prison had just seen their Patronuses pop. Fear and cold burst around them like a whirlwind.
+
+"Aaah!" Padma screamed, but Hermione wasted no time. Any second now, a Dementor might catch one of the guards, and these were Dementors with reason to be really, *really* angry. Pushing all her *will to protect* towards her hand, she raised her wand. "*Expecto Patronum.*"
+
+Padma followed the example, failing at first, but on the second try the Patronus *did* come. She still looked shaky, however.
+
+"Don't let the fear get to you," Hermione urged. "Think of it as – as five seventh-year bullies coming at you with wands out. Sure, you're afraid, but that wouldn't stop you from trying to hex them."
+
+Padma nodded. "Now how do we do this?" The two Patronuses were blocking the Dementors' progress, but it wouldn't stop the effect from filtering out in other directions.
+
+"Just *want* to destroy them. Let go of your restraints." As she spoke, she did so, her Patronus growing. Padma followed suit.
+
+The phoenixes sang, and cried on them. It was a marvelous moment as they felt all Dementors in the dome dissolve one by one, as the French guards stared at them in bafflement. It was like Azkaban had been, but *better*, because they were doing it together.
+
+Alastor Moody nudged her. "Stop." He was wearing dark spectacles. The Dementors must be gone; no need to protect these people further. She willed her Patronus to dim again, and beside her, saw Padma do the same.
+
+"That was wonderful," the other witch sighed.
+
+"I'm glad you like it," Moody grunted. "Because you'll be doing it until you fall over in exhaustion. Let's get back to the Ministry for the next task."
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:30am and 20 seconds, the Russian Dementor containment park)
+
+"The fear is not natural!" Harry yelled at Lesath. "It's just your enemy trying to make you afraid! You can destroy them first!"
+
+The boy had fallen over at the first wave of despair – which Harry could hardly blame him for, it had been far worse even than the lower levels of Azkaban – but now a determined look crossed his face, and he tried casting again (Harry kept his Patronus away from Lesath, of course – if he couldn't cast the spell under these conditions, he shouldn't be doing this).
+
+"Those people, Lesath. They are good people. They need us. Help them."
+
+"*Expecto Patronum?*"
+
+It sounded hesitant, and the Patronus came slowly, but it came. And when it was there, it grew.
+
+"Well done, Lesath."
+
+"Thank you, my –" he turned it into a cough. "Harry."
+
+"And now... let go of your barriers. Pour *everything* into the spell. But make sure you can stop when they tell us to."
+
+And so he did, sending the silvery feelings out into a joyful burst of light. He had imagined what this would be like, before. Dreamed so often of going to Azkaban and just letting go and burning away every last Dementor in that dreaded place. He had cursed himself over and over for not taking the chance when the phoenix came to him, when he could have gone and survived. And now he was finally doing it. He wasn't sure whether this place was also used as some kind of human prison or was just there to block Dementors – given the lack of walls he suspected that there had been *some* kind of deal with these Dementors at least – but it didn't matter. Dementors should not exist. And after today, they wouldn't.
+
+Barnok, the Ethiopian phoenix owner who was accompanying him, shook him, and Harry let go of his wand. The light winked out; Lesath had stopped before him. All around them lay the tattered cloaks of over a hundred Dementors.
+
+"Didn't you hear me?" Barnok asked.
+
+Harry shook his head, slightly embarrassed that Lesath had managed to control himself better than he had. "I was too much into the spell. Sorry."
+
+"Let's go," Sally suggested, and she and Lesath disappeared again.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:32am, DMLE Dementor-crisis room 1)
+
+The instant Pamda and Hermione reappeared in the DMLE, a note was already fluttering down. Alastor Moody grabbed it. "Two people, India."
+
+At that moment, Harry and Lesath appeared again, and Padma just saw two new notes appearing before she, Hermione, Alastor and Tamara burned up.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:33am, the Indian Dementor-villlage)
+
+They arrived at a dreary-looking village, surrounded by forests. It was mid-afternoon, but despite the lack of clouds it didn't seem sunny, here.
+
+The Auror's crazy blue eye rolled around in its socket even as the brown eye looked at her. "Other side," he ordered, and a new image was pushed into her mind.
+
+She obeyed, and they reappeared at a different part of the village, close to vegetable fields and rows of fruit-bearing trees. Here, the feeling of dread was worse by a tenfold. People were here, Muggles by their looks, but weak, scrawny. Some were shouting, or running back towards the village. Some had fallen over, just holding up their hands to ward off an invisible foe. And from the forest, the sense of fear and despair was increasing, as the Dementors who apparently surrounded this village in large numbers were closing in. Dumbledore had described places where Dementors were deliberately given Muggle victims to drain over time, and this seemed like it might be one of them. Those poor people...
+
+In the distance, she already saw the burst of silver light as Padma had cast her spell. Hermione quickly followed suit. From today on, the people of this village would finally be free.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:38am, Detroit, USA)
+
+It was night, here. Nothing indicated that anything was wrong, except a deep, miserable feeling in the air. The note sending Padma and Tamara to this area of Detroit had been blue, indicating that Dementors were known to live around here, but that their exact location was unknown.
+
+She raised her wand and cast the spell again. And yes, *now* she felt them. There were several, in the weathered buildings around her. She held on while she felt them, and then lowered her wand, nodded to Tamara, and flamed off to receive her next assignment.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:41am, a small settlement in Australia)
+
+Hermione had cast the Patronus spell the instant Xare brought her here, but they had arrived too late to stop it, and the few moments before the Patronus appeared had been enough to *see*.
+
+Some man, terrified, batting wildly at the air as a Dementor grabbed him and placed itself over his mouth. In that single instant, *just* before she could help, the eyes changed from terrified to utterly dead and empty.
+
+She wanted to cry out, but she needed all her concentration to hold on to the Patronus, to protect the *other* people here, and so she forced herself to protect everyone, and not let herself see those empty eyes again in her imagination until the last Dementor was gone. And then her wand slipped from her fingers as a sob rose in her throat.
+
+This place had been on a purple note: Dementors expected (they probably lived in the forest area around), but likely too far away to need to go for them immediately. And that, it seemed, had been a miscalculation.
+
+The man who had been taken right before her eyes had only been one of the victims. Behind him, she saw others, many others, their empty bodies still standing or even walking, but all with those same horrid dead eyes.
+
+A hand was laid on her shoulder and her wand thrust back into her hand. "Hermione... We must go on." The voice was gentler than Alastor Moody had been so far, and this was the first time he called her by her first name.
+
+She nodded, and looked out over the battlefield again. Besides the Dementor-Kissed, there were other people, moving carefully among the victims. Many had died, but more were still alive. And that was what it meant to be a hero too, she realized. It wasn't just doing scary things and going to Azkaban and dying for a greater good. It was also *losing*, losing *badly*, and going on anyway to help those who still lived.
+
+Today was going to be horrible, she knew, as she held Moody's hand and touched Xare's claw to go back to London. But every single life that could be saved was worth fighting for.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:46am, the temporary Dementor-crisis control chambers)
+
+Amelia looked at the red note with a frown of worry. *Already?*
+
+She was handling the distribution of assignments over the children in the six rooms. The other countries had agreed to trust her to take the lead, both because the children who could destroy Dementors were all British, and because she could be expected to be fair, as the United Kingdom and Ireland themselves were unlikely to be attacked (all their Dementors had been around Azkaban or in the Ministry). In the first minutes, she had sent them to all the large, controlled pockets whose control suddenly fell away. Those were done. Next were the locations of *expected* Dementor-pockets: most governments kept tabs on where Dementors hid out, even if they didn't explicitly capture or make deals with them, so Aurors of all countries had been Apparating around to check for the feel of Dementors.
+
+A red note indicated a confirmed attack, but the frightening thing was the location. The note named a district in *Lashio, Burma*, and she was pretty sure that that city had *not* been on the list of expected places. Which meant that it hadn't been a priority to check out by Aurors and government officials, so this report must have come from someone noticing a Dementor *without* explicitly looking for it. And she had a pretty good idea of what might have caused them to notice. How long had it taken them to notify the right people in their Ministry?
+
+She looked at the numbers of the six doors surrounding her. Someone had just arrived in the first room, so procedure called for her to send this assignment there. *Poor child.*
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:47am, Lashio, Burma)
+
+As the light faded away, Harry stared at the carnage. People were running and screaming. A child was sobbing in a corner next to the vegetative empty hull that might have been its mother, once. Near the doors and on the stairs and escalators, the ground was slick with blood and gore, from the people who had been trampled in the mad panicking rush as everyone tried to flee the invisible horror. And all around, dead blank stares looked into space, from the faces of people who were just standing, or walking at random, or who had fallen over.
+
+One Dementor had done this. Attracted by the shopping excitement of a Monday afternoon, and unrestrained by the threat of Patronus-captivity, the thing had entered a busy mall and gorged itself. It had not worn a cloak, and Muggles could not see Dementors, so the people had never seen the creature that was killing them. But they had *felt* it, and they had seen the effects.
+
+"People are dying," he said hoarsely. He didn't *know* anyone here, but the blood and the limbs and the empty eyes shook him on a deep emotional level anyway. "Can you send your phoenix to the wounded?"
+
+"No," the Ethiopian wizard sighed. "You are needed elsewhere. I am notifying the authorities to send a cleanup squad here. Other phoenixes can heal, today. We have different people to save."
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:51am, Hogwarts)
+
+Michael was worried.
+
+Harry hadn't come for breakfast, even thought he had *said* he would. Then there had been that strange voice in his mind, and he had suddenly remembered all that had been said at the trial. He had a strong feeling that Harry was wrapped up in this somehow, but nobody had come to explain, which could either mean that he was wrong or that whatever was going on was too serious to waste time on talking to some Muggles.
+
+And so he had ventured out of the apartment and tried to find his way to the Great Hall. Petunia had not wanted to join, probably because she was far too sensible to risk getting lost in a magical castle, but you didn't become a university professor by avoiding risks. So Michael had gone alone, while Petunia stayed behind to raise the alarm if he would not return.
+
+It wasn't even *that* hard. Their apartment was close to the Entrance Hall, and even when the staircase he tried to descend ended up in an entirely different place than where it had seemed to go when he started walking down, there was a remarkably helpful portrait to point him back on track. So it was only six minutes later that he stepped through the large open doorway into the Great Hall.
+
+Students were scattered around the hall. A lot of the food on the four tables was left uneaten. There were shouts of "*Expecto Patronum*" everywhere, but no apparent results. *Yes,* he thought. *Something definitely seems wrong.*
+
+Professor McGonagall walked towards him with a resolute step.
+
+"Mr. Verres. I am so sorry, but we had quite forgotten about you in all the chaos."
+
+"It's okay," he answered. "But what's going on? And where's my son?"
+
+She told him.
+
+"Ah." Michael considered the situation. His son was off saving the world. He should probably be more worried, but since yesterday the part of his brain in charge of estimating task difficulties was confused.
+
+*Little children grow up indeed.* There didn't seem much point in trying to be a good, supportive father for a small child-going-on-teenager anymore. But perhaps he could still be an acceptable lackey to a young hero.
+
+"Is there anything I can do to help?" he asked the Deputy Headmistress. She seemed hesitant, so he quickly added: "I think that if I had magic, I would be able to do that spell. Hermione's explanation resonated a lot better with me than it seemed to do with the other people yesterday."
+
+Now she looked *interested*. "Do you also understand why you are different in that?"
+
+He nodded. "It's a classical error of thinking, the belief that some realistic developments are just too good to be true. But I have a little more grounding in history, and I know where the human mind tends to go wrong."
+
+She stared at him. "Can you teach us?"
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:59am, Almere, Netherlands)
+
+The dark-haired goatee-wearing man, who had fallen over next to Lesath, looked a *lot* like he remembered his father. Father, who was now safe, whom he would get to visit and maybe even take care of.
+
+Muggles were running and screaming, and unmitigated Dementor fear washed around him, but Lesath didn't care. It was unnatural, as Lord Harry Potter had said, and there was nothing to frighten him anymore. They could fix the world, together. This was just a part of it.
+
+He looked at the terrified middle-aged man. *Everything will be alright, dad.*
+
+"*Expecto Patronum!*"
+
+Once more, the silver light fled from his wand, spreading over the sports stadium. He could feel it enveloping the people and touching those shadows of Death spread out over the place. Some of them were close, some of them were distant, but if he opened up enough, he could destroy them all.
+
+The light brightened and brightened; even with his eyes closed it was intense, but he could *feel* them getting torn apart.
+
+*No more Dementors!*
+
+These monstrous creatures would never soil the earth with their presence again, they would never hurt anyone he cared about again!
+
+He could almost feel the life leaving him, but he didn't care, he was doing what he needed to do...
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:00am, Almere, Netherlands)
+
+Sally desperately clung to the fallen body of the boy she was supposed to be protecting.
+
+*Oh no. No no no no no.*
+
+She had been looking at the Dementors, not the boy, and so she had only realized what was happening when he fell. And yet *more* light had flown from his wand even as he was falling unconscious, so she had snatched it out of his hand, but it might already be too late...
+
+Despair washed over her. The last, most distant Dementor was still there.
+
+*Shit!*
+
+In a burst of flame, she, the boy and the phoenix arrived at the entrance of the Dalton Magical Malady Center. She grabbed her mirror, barked to the responding Auror that someone else needed to get to Almere, and drew her wand.
+
+"*Innervate.*"
+
+The boy did not stir.
+
+"*Vitalis Revelio*," a Healer who had rushed over said, and Lesath Lestrange was surrounded by a weak pink-red glow. He was an inch from death, but he still lived.
+
+Several incantations later, the Healer had determined that he was not in any real danger, but did need rest. The phoenix tears had stabilized him, but he had almost no life force left, and there was only so much even a phoenix could do. He was transported to one of the beds in a private ward.
+
+"A few hours sleep should do the trick," the Healer promised. "And let your phoenix cry on him every ten minutes or so, that will speed it up. After that, I'd recommend a few days of minimal exertion."
+
+Sally sighed. *One down, three to go.*
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:05am, Hogwarts)
+
+"So you see," Michael concluded, "you are taught to accept certain 'facts of life'," (he made the airquotes, of course), "Seven centuries ago, people accepted that the only ways to preserve knowledge were to either learn it by heart, or hand-copy texts. A hundred years ago, no one would have believed that it was possible to go through childhood without contracting measles, smallpox and various other diseases. Sixty years ago, it was almost impossible to imagine Europe not torn by war. Fifty years ago, the idea of people leaving the earth was an absurdity. And even now, many people – including wizards, it seems – do not realize that complete information freedom is within reach.
+
+"The world is not fixed. Just look at how much has changed in the last century alone! I don't know what the future will be like, but I expect that the next thousand years will be spectacular. And I don't know about you, but I certainly intend to be around to witness it!
+
+"Thank you!"
+
+He jumped off the Head Table as applause broke out. The Deputy Headmistress beamed at him.
+
+"That was a very inspiring speech, Professor."
+
+"Thank you, Professor. I am not sure it will be enough, though. It takes a while to change your mind about something as fundamental as this. Children *do* tend to be more open to new ideas, but it will need time. I planted the seeds, but –" he shrugged helplessly. "I don't suppose you have invented time machines, have you?"
+
+She gave him a strange sideways look, and then the sounds of the Great Hall seemed to be muted.
+
+"None that will let you go back for more than a few hours, no," she answered.
+
+"Wait. You *actually* have time machines?"
+
+"Yes... But please realize knowledge of their existence is restricted – I depend on your secrecy. This is how we're currently averting the worst of today's disaster, by sending your son and his friends back as often as the laws of time permit, to stretch the crucial fifteen minutes as far as they will go. In fact, your son had a Time-Turner from the start of the year. It's how we've been dealing with his sleep disorder."
+
+"You gave *Harry* a *time machine* to treat his *sleep disorder*?" He *just* managed to keep his voice down, but he did not bother trying to keep the horror out. There were just so many flaws with this plan that it was a miracle wizards had not yet destroyed the world, although he wasn't excluding the possibility for the next ten years.
+
+Professor McGonagall's shoulders slumped and something almost like a groan escaped her. "Not again."
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:18am, Linfen, China)
+
+The problem with the True Patronus Charm, Harry realized, was that it required a certain mental state that was *rather hard* to maintain if you were were being confronted with the consequences of your failure, over and over.
+
+Because this *was* his fault. Of course it was. That was the whole *point* of heroic responsibility, that *everything* was your fault. And especially this, because he was pretty sure that the situation had been set up for his sake.
+
+He had known that something like this might be coming. He had refused to cooperate with Quirrell's plans to become hailed as a savior, and so Quirrell had given him no choice. All these people were killed for *him*. And as Harry looked out over what amounted to a battlefield, he had trouble imagining the earth among the stars and mankind traveling from galaxy to galaxy. Whatever he might do with the rest of his life, the people lying dead here would not be part of that future. It was Hermione's explanation, the *will to protect* the survivors, that drove his Patronus forward now, weak and wavering at first, but enough to stop further destruction.
+
+*This isn't right,* he thought, as he poured everything he still had into the spell. *Everyone should live forever. These people had no less right to live than the others.*
+
+But perhaps he could still save them.
+
+The Patronus brightened to a small sun as he realized the obvious. He had rejected Death as the natural state of affairs, had decided to heal the wound in the world. But that would not be enough. Even if he could heal aging and stop disease, there would still sometimes be accidents; even if he could back everyone up somehow so they could be recovered after death, it would not bring back all those billions of people who had died before.
+
+"Harry Potter, stop!"
+
+He dropped his wand. He couldn't stop the spell, not when the thought was exploding from him like a supernova, but this he could still do. The light disappeared, but the feeling remained.
+
+*There is no reason to accept death. Not while there is magic in the world.*
+
+All those people in front of him might yet be saved. The demented still had intact brains, all their memories and personality might still be there somehow. No one had ever figured out a way to reverse the Dementor's Kiss, but no one had known how to destroy Dementors either. Perhaps it was well within the realm of science to bring them back already, and otherwise magic might do it in the future.
+
+And as for the others... There were time machines, weren't there? Sure, they could only go back for six hours, but if time travel was possible in the universe, then why not go further? If they could truly figure out how time worked, why should they not be able to make read-only time machines that could go back six billion years, and allow them to make a backup of every sentient being that ever lived? And if that took another thousand years to accomplish, then so be it; no one would ever *truly* die in that time...
+
+How had he ever been so unambitious as to desire an end to death only for the people of the present and future?
+
+"Are you okay?" Barnok asked. Harry nodded, and bowed down to pick up his wand.
+
+He had vowed to wipe Dementors from the earth. He had vowed to bring an end to death. And now, as the Ethiopian wizard took his arm and teleported him back to the Ministry, he made a new vow. A world without death meant a world where no one had ever permanently left.
+
+The next few groups of Dementors were a lot easier to vanquish.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:20am, Lodz, Poland)
+
+Padma stared around at the result of another bloodbath, her face hard. The Dementor had caused huge traffic accidents in between its other... activities.
+
+*This felt a lot better in the first five minutes,* she thought, disgruntled. But there were just ten minutes to go, and then she'd get to live those wonderful five minutes all over again.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:21am, Hogwarts)
+
+*I'm right by your side, son. Don't be afraid.*
+
+Draco pictured the scene in his mind and called up all the feelings of the moment.
+
+*"Expecto Patronum."*
+
+Nothing. Just an ever-growing certainty that this wasn't going to work.
+
+After trying to cast the Patronus Charm over and over, he had started to notice it: the little moment of distraction right before the final brandish. The phrase *DEMENTORS ARE A PHYSICAL EMBODIMENT OF DEATH* hadn't seemed so important at first, compared to the *PREPARE TO DIE* parts, but when casting the spell now, it was like his mind was inevitably drawn back to it. And in that final moment, the spell felt wrong, somehow.
+
+It *didn't make any sense*! Why should some tidbit of knowledge that didn't even really seem to fit ruin the spell? And yet, what seemed to be a stupid claim at first felt simply *true* while casting the Patronus Charm.
+
+Draco sighed and gave up. Apparently, if he was going to do this, it would have to be in Potter's way. He'd been trying that for almost twenty minutes already, but it also didn't seem to be going anywhere. Still, he probably had a better chance of pulling it off than anyone else here.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 10:50am, Dalton Magical Malady Center)
+
+The boy, Lesath, opened his eyes.
+
+"Where am I?" he asked.
+
+"Hospital," Sally answered simply. "You lost control in the arena, and I didn't notice in time. I'm sorry."
+
+He sat up, eyes wide. "What time is it?"
+
+"It's ten to eleven. You were unconscious for about three hours," she explained.
+
+"So... I can still go back?"
+
+"The Healers say you need rest..."
+
+"I don't want rest, I want to destroy Dementors! Look, I'm fine!" He pushed the blankets away as if to prove it.
+
+She considered him. It *would* be in the world's interest if he fought. She didn't want him to die, but if he wanted to risk it, that was *his choice*. She'd learned to respect people's choices, in her twenty-five years with a phoenix.
+
+"Very well," she decided. "We'll go back in ten minutes, when your old self isn't going to be in the DMLE anymore." And she would make very sure to add a note to the presence roster, whenever he was the only one there, that he was only to receive *small* assignments. She'd almost gotten him killed once, and she wasn't about to repeat the experience.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:29am, DMLE Dementor-crisis room 2)
+
+Lesath and Sally were the last of them to appear.
+
+"So, we're all still alive then," Hermione concluded. She sounded weary, but then, they all were. One hour of constantly watching strangers die had dampened their spirits somewhat.
+
+Then the others all winced, presumably because the voice sounded in their heads again. Harry didn't hear it, like he hadn't heard it the first time. Professor Quirrell's magic could not interact with his own, and so it seemed that he had been excluded from receiving the unblockable mental message.
+
+A single photograph with a note fluttered down. Barnok grabbed it and passed it around to the other phoenix owners.
+
+"Northern America," Sally explained. "The camp where they send all the Dementors they catch, along with criminals to execute. I know the place. There's a good thousand of the creatures there, along with over a hundred guards."
+
+With four bursts of flame, they went, to save at least the guards before their captives could strike. They had five to ten glorious minutes to go.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:57am, Cairo, Egypt)
+
+"*Innervate*."
+
+Padma looked up into the eyes of the kind middle-aged witch. She was feeling drained. The phoenix was singing and the song was healing, but it just wasn't enough to cure the mental exhaustion, or to make her forget all that she'd seen today. She was tired, and she'd just lost control over her Patronus and had to be knocked out. She didn't want to go on, but she had to; the world needed her, there were still over four hours to go to save as many people as possible. This was Parvati's job, damn it, *she*'d chosen Gryffindor, not Padma, but *she* couldn't destroy Dementors...
+
+"Are you okay?" the woman asked gently. Padma nodded. She'd have to be.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:03am, Sydney, Australia)
+
+Albus Dumbledore burned into existence in a poor part of Sydney, where another group of Dementors had wreaked havoc. The warning had come too late here for the children to avoid the damage. The street was silent, even as the dead lay among the wrecks of cars and the empty bodies of the soulless. The sudden blast of Dementor-induced fear, or perhaps the presence of soulless humans walking onto the streets, had evidently distracted drivers. None were left alive; if anybody had been only wounded, the Dementors had taken care of them, too.
+
+With a sweep of his wand and a curse of dread power, bolts of yellow light spread out and struck the victims of the Kiss in the heart. They fell without struggle, without even a quivering in the air, as there was nothing left to pass on. In death, they seemed peaceful. It was the only grace he could still give them, that their loved ones would not witness their true fate. Scant comfort though it was, their bodies would be at peace, at least, even as their souls had been consumed.
+
+Tears did not come easily to the old man anymore. Life had forced him to become hard. But his stomach still wrenched together, and his throat caught, at the terrible, senseless loss. He had seen the consequences of atomic bombs, but this was *worse*, for the people who died in that war had only lost their lives...
+
+*Why do such evil?* He had never understood, until Harry had unwittingly explained it. To Voldemort, as to Harry, *every* death was like a Dementor's Kiss. To be accustomed to the idea of thousands of people losing their soul every single day... Indifference towards other people's lives would be a sensible barrier. Albus could understand turning evil if the universe seemed so bleak, and he respected Harry Potter for not giving in to such feelings.
+
+Fawkes cried out and flew ahead, and Albus Dumbledore followed. Further along the Dementors' path, people were still alive to be fought for. And no matter how much he himself was hurting, while there were still people who needed him he would go on. For that, too, was what it meant to accept a phoenix.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:07am, Charlerois, Belgium)
+
+The Patronus spell made it a lot harder, Hermione thought, to stomach the loss of thousands of human lives. Every death was a tragedy, but it hit just that much harder when you were constantly reminding yourself of the value of life, and realizing that a victory over death might be in reach within the next hundred years.
+
+She went on anyway, of course. She held on to the thought, even as every new place she went tore at her heart, because she needed to, and because she *did* believe in it. The lives of the survivors were precious above all. And she would be there to protect them.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:21am, Mexico City, Mexico)
+
+The two of them burned back into existence at what looked like a marketplace. Padma didn't even know what continent they were on, just that it was dark, and there were demented people walking around aimlessly. There were few, but if it was night then it seemed likely that many had also been taken in their beds. However it was, she and Tamara had come too late; the Dementors had moved on, but where to?
+
+She felt scared, and was starting to despair. What chance did they really have to stop all this?
+
+"Cast, quickly," Tarama hissed to her, a real tone of urgency to her voice. Then Padma saw it too, not a hundred feet away, flying towards them at speed. Real despair washed over her. They were going to die.
+
+*No,* she forced herself to think. *You are only Death. Humanity can get over you.*
+
+It was getting harder and harder, to really believe in that thought.
+
+"*E-expecto Patronum.*"
+
+A great silver humanoid completely failed to appear. Padma just registered that the spell had felt wrong, as the thing flew straight at her, Tamara cursed something in Arabic, grabbed her by the arm, and they both disappeared in a burst of flame just before the Dementor reached them.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:22am, Hogwarts)
+
+A burst of flame announced the arrival of a phoenix in the Great Hall. Minerva was already on her feet when she recognized the Patil girl, who was gently being pushed down onto Professor Trelawney's chair by an unknown woman. Padma was crying, she saw.
+
+She poured a mug of tea and pushed it into the girl's hand. "Drink," she ordered, even as she rang the little bell to order chocolate.
+
+Padma obeyed, silent tears rolling over her face. "I'm sorry," she burbled in between gulps. "I'm sorry, I'm sorry!"
+
+*What has this poor child been going through?*
+
+"You have no need to be, Miss Patil," she said sternly. Whatever had happened, the girl should not blame herself for failing to live up to the insane pressure put upon her. "You are already doing so much more than anyone has any right to expect of you. How many Dementors have you been exposed to today?"
+
+"Hundreds," the foreign witch who accompanied the girl said, as she stepped back towards the table and put her mirror away. She was not looking that well either, Minerva thought.
+
+"I have warned Madam Bones," the woman told Padma in a heavy accent. "She will send someone else there. Don't *worry*, everything will be fine. But I think you need to rest for a while."
+
+Minerva nodded in agreement and shoved the chocolate pudding which had appeared on the table towards the two. "I quite agree. Now eat a little. I think the both of you should."
+
+She went back to the students in the hall, correcting gestures and stature as they tried to cast the True Patronus Charm. None of them had managed it yet, despite the Muggle man's inspirational lecture. Professor Verres and now Petunia, Lily's sister, were mingling with the students, answering questions and (in the Professor's case) giving encouragement. It might all be futile, but if even one more person learned in the next few hours, it could take a lot of pressure off the others, and would certainly help save lives. Not that she really wanted to put another student through all that.
+
+She glanced back at her star-student Padma Patil, who was quietly picking at her pudding with a tear-stained face. It broke her heart to see the child like this. How many deaths had she witnessed today? And would she ever be the same again? Some hurts could not be healed, even with memory charms...
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:33am, Hogwarts)
+
+"Death is just the next great adventure," some third-year Hufflepuff girl was saying. "Honestly, all this talk about defeating death seems rather dark to me."
+
+The Muggle man reached under his chair and slowly, *carefully*, drew forth a gleaming knife. The girl's eyes widened in shock.
+
+"One of the seventh-years made this for me," the man clarified. "Since you don't see any problem with death, I assume you won't mind if I stab you?"
+
+Draco quietly smirked at the girl's spluttering and walked away. The Muggle had interesting ways of making his point, but Draco didn't think he was going to teach him more than Harry already had. Not that Potter had ever tried to teach him this skill...
+
+Or had he? Potter *had* told him the fundamental idea, tried to get him to agree, even made him swear a vow. *No one should have to die if they don't want to.* That was the underlying thought of the new Patronus spell. Had it been Potter's intention all along to guide him so that he could eventually learn this spell? Was that what he'd done to Padma Patil? He didn't think they'd been close, but the whispers in the Hall were saying that she'd been out there, destroying Dementors, alongside Potter and Granger.
+
+He stole a glance at his second-in-command, who was sitting at the Head Table looking desolate. Whatever she'd been doing had been incredibly hard on her. Did he really want to put himself in that situation?
+
+No, that was wrong. Having an additional skill – and one that seemed highly desirable at the moment – could only be a good thing. Patil may have overstretched herself, but he was a Malfoy; he would not be forced to put himself at risk.
+
+He put his hands and feet in the position Potter had taught him, and called up the memory once more, readying himself for the True Patronus Charm.
+
+*That's what I want you to say. Not who was right or who was wrong. Just that it was sad when your mother died, and sad when my mother died, and that it would be sad if Hermione Granger died. Every life is precious. Can we at least agree on that?*
+
+*But there are other lives that are still alive to be fought for. Your life, and my life, and Hermione Granger's life, all the lives of Earth, and all the lives beyond, to be defended and protected* *–*
+
+He held the thought in his mind, held on to the idea that every life was precious, Harry's mother's as much as his own mother's; held on to the oath he had made.
+
+"Expecto *Patronum!"*
+
+But it still felt hollow.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:40am, a hotel in Aberdeen)
+
+Severus Snape zapped through the various TV networks to watch the news. The Ministry would tell Albus what they believed was going on in the Muggle world, of course, but the Ministry tended to use sources like Arthur Weasley, who didn't understand as much about Muggles as he thought.
+
+Every single channel seemed to have news about the Dementor attacks. There was speculation about the strange message. There were hand-made videos of people trembling and then their eyes glazing over, the sign of a Kiss. Someone had even managed to catch the Patronus and one of the children on tape; Lesath, he thought. There were also amateur videos of witches and wizards killing the soulless.
+
+The commentary was baffled, scared, and very, *very* angry. On various channels, people were speaking of a war. The Muggles didn't know exactly what was going on, but they knew that they were being wronged.
+
+On one channel, the prime minister of Japan was giving an emergency press address. Did he know about wizardry? Most governments gave updates to the Muggle leadership. The Potions Master could not understand Japanese, but he got the impression from the responses that the man was telling the people things they did not already know. And if he wouldn't, the current Prime Minister of the UK was sure to speak up soon; he had been on the brink of revealing them after the attack on that school last week, which was not unreasonable given the atrocious way the Ministry of Magic had dealt with it.
+
+The International Statute of Secrecy was at an end. There was no way they could ever Obliviate *everyone* of the day's events. Even if they could, it would be next to impossible to trace down all the video material.
+
+Grimly, he zapped to the next channel only to see an amateur video of a magical explosion in the London Underground.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 9:01am, Hogwarts)
+
+Padma sipped her second cup of tea guiltily. She should probably go back, even if she *did* get a sick feeling in her stomach at the thought of fighting again, but Tamara had recommended a full hour rest, and she hadn't really felt strongly enough to argue that. Destroying Dementors had felt good at first, but now she just kept seeing the dead, empty stares of the victims. Would she even be able to do it anymore? She had already failed once... did she still believe that they could make the world a wonderful place?
+
+Around her, shouts of *Expecto Patronum* filled the air. Many students were gathered around the Great Hall, trying the new version of the Patronus C, to little success. They might well have the will and the mental strength – many of them had been able to cast the normal Patronus Charm, after all – but they probably couldn't think in the right way, *they* didn't have Harry's training.
+
+A burst of silver light blasted into the room. Heads swiveled. Tamara's wand shot into her hand, but the light was already dimming. And there, next to a bright human figure, stood Cedrid Diggory, a broad smile on his face.
+
+Tamara jumped up. "Half an hour to brief him," she whispered to Padma, then strode off towards Cedric. Without a word of explanation, she grabbed his arm and disappeared with the fifth-year boy in another burst of fire.
+
+*Another person to fight,* Padma registered. If Cedric started in half an hour, he could destroy Dementors for four full hours. Which meant that, even if she gave up now, there would be someone going on in her place.
+
+And that was really the thing, she realized, as she took another sip of tea, and felt a warm feeling spread through her body. Whatever happened, someone would carry on. Maybe individual humans could not defeat death – billions had died in the past, far more than the lives which had been lost today – but *humanity* would go on. She would not have expected Cedric Diggory to manage this spell, but perhaps it made sense. The "Super-Hufflepuff" had the talents of multiple houses, but was a Hufflepuff because he excelled above all at the qualities of his house: dedication and loyalty. If anyone could internalize the power of working together to achieve the seemingly impossible, it would be him.
+
+She felt good, faith returning to her mind and strength to her body. Today, they would wipe Dementors from the face of the earth, if all went well. In the next hundred years, she was sure that they would end war and famine. And one day, they would even defeat Death. How could she have forgotten that it wasn't about her, that she was just a small part of a much bigger whole?
+
+Her wand felt comfortable in her hand. She would be able to cast the spell again, she knew. So when Tamara returned to take her back to the Ministry, she was ready.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:30am, DMLE Dementor-crisis room 3)
+
+"Cedric!" Harry yelled enthusiastically. The fifth-year boy just grinned at the other four children.
+
+"Your father got me to understand. He is a great lecturer, you know."
+
+Four notes fluttered down, and the phoenix-owners snatched. Sally's required two people.
+
+"I'll go with Cedric," Harry offered. Sally and Barnok swapped notes, and the five groups went to their assignments again.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:52am, Tehran, Iran.)
+
+The light burst forth again from Harry's wand, as he mentally promised the dead and demented that he would bring them back. *No matter what,* he promised, as he sensed the two Dementors be ripped apart, *I will dedicate my life to finding a solution.*
+
+A small part of him wondered, not for the first time, whether he was just willfully deluding himself. But he shut that part of himself up, hard. This was not the time for self-doubt. The people needed him.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 7:29am, DMLE Dementor-crisis room 4)
+
+They were seven! Two Gryffindor boys and a Slytherin girl had joined them. Lesath wasn't there yet, but maybe he would come only on the instant of the announcement.
+
+"Hey, Timothy!" Cedric was greeting. A lot of the enthusiasm had gone out of the boy in the hour since they last saw him.
+
+"Hey Ced," one of the two Gryffindors said tiredly. "The three of us are only here for one turn more. We've been at it for half an hour already, we used all spins of the Time-Turner to make it this far."
+
+"The first minutes are better," Padma reassured them, although she didn't look very excited either.
+
+The voice resounded in their heads, and the assignments appeared.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:24am, Untergurgl, Austria)
+
+Padma and Tamara hung together on the tail of the phoenix, trying to trace down the Dementor by going in the direction where the fear was the strongest, ignoring the scattered bodies lying on the ground below them.
+
+They had got the assignment the instant they returned to the DMLE, so it might have been queued for a minute or so, and the Dementor had already left the place they were sent. They *had* to find the creature now, for if they went back and let Aurors pinpoint it, they might find it in the 8:29 minute when there was no one in the crisis rooms anymore.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:29am, DMLE Dementor-crisis room 5)
+
+"Time," Barnok said. He and Harry popped to crisis room 6, he threw the chain of the Time-Turner over Harry's neck, grabbed his phoenix firmly to transport the creature along, and planted his hand on the first unopened box in the line of boxes placed at the far end of the room. The lid sprung open, revealing a paper saying "*No*".
+
+It was only to be expected, sometimes. If Harry went back, then he might end up getting an assignment that his earlier self had already done.
+
+Barnok just grabbed the paper and burned with Harry to the 7th, and last, room.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:29am, DMLE Dementor-crisis room 7)
+
+"Room 6, box 2," Barnok told the waiting Auror. The woman would go back in time when all was over and place the NO-notes into the boxes that should have them. A new paper was already fluttering down to send Harry to his next assignment.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:30am, DMLE Dementor-crisis room 7)
+
+Hermione appeared just in time to see Harry disappear. Her heart leaped: Cedric was the only other Patronus-caster she had seen in the sixth room, and she'd been really worried about the others. She'd known that Padma wouldn't make it, because the girl had told her about her one-hour break during a brief lull in the fourth room, but Harry? And Lesath?
+
+She just saw the bursts of flame of others arriving – Lesath and Cedric – before she was sent off to Japan again.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 8:51am, DMLE Dementor-crisis room 7)
+
+They were all there, that much Padma had established. All eight of them: Padma, Harry, Hermione, Lesath, Cedric Diggory, Timothy and Patrick Brandon, and the Slytherin girl introduced to her as Rianne Felthorne.
+
+They all looked really, *really* tired. There was a table piled with food here, and some comfortable sofas in case it got too much for a while, but taking a break didn't really feel like an option when you knew that every second you wasted another person might die. All the places where Dementors were *expected* had been checked in the first forty minutes, so what remained now were the Dementors which had evaded detection before. Usually single Dementors, living in out-of-the-way places. And since it had taken more than an hour to hear about them, most of them had caused *significant* damage before the children were sent to destroy them, even if they had needed a while to travel to some part of civilization.
+
+She still took some time to eat half a bar of chocolate. More people would survive if she lived to help them than if she let the Dementors overcome her, after all.
+
+------------------------------------------------------------------------
+
+(April 20th 1992, 11:26am, DMLE Dementor-crisis room 7)
+
+They were sitting around the dinner table in a subdued mien. Yes, they had saved billions of lives today. But it didn't feel all that great.
+
+The reports had steadily trickled down, and nothing new had come in in the last half hour. Aurors, Ministry officials and legions of volunteers all over the world had been recruited to search for traces of Dementors or wounded people for the rest of the day.
+
+They didn't know the exact death count yet, but it was in the six or seven figures. Hundreds of thousands of lives lost, in the few hours since breakfast time.
+
+"You killed them?" The voice should have sounded indignant, but it just seemed hollow. None of them had much capacity for emotion left.
+
+"Yes," the old wizard sighed. "We destroyed the empty hulls of their bodies. Primarily in the hope of saving the Statute of Secrecy, but also because it is kinder to their friends and relatives, this way. We've probably missed a fair few who have wandered off before we could reach them, but –" he shrugged helplessly.
+
+"You should not have done that. What if they could have been saved still?" Harry asked. Hermione thought he didn't sound like he believed it himself. Just another ten thousand victims or so who might have been saved some other way. "And don't tell me no one ever figured out how to do that. No one ever destroyed Dementors before either."
+
+There was a brief silence, at that.
+
+"You yourself have named the Dementors as Death, Harry," the old wizard wearily pointed out. "Would their Kiss have any lesser effect?"
+
+"There is little to lose by *trying*!"
+
+"There is everything to lose. You underestimate the emotional impact on the survivors of not finding the corpse of their beloved ones. Besides this, the ancient texts speak dark words of the Dementor's Kiss. Perhaps these were based on guesswork, perhaps not, but if we assume that these elders knew something we did not, then it seems beyond a doubt that the Kiss is worse than death, for all the pre-Merlin sources agree on that one point. If this is not because they destroy souls, then it might be for one of the other reasons suggested by the scholars who tried to translate the now-lost Atlantean texts on the subject. Would you also object to destroying the bodies if the people are still *there*, unable to control their bodies, with all their hopes and happiness drained away permanently? What if they lost their ability to think, but not to feel? For *those*, too, are not uncommon explanations."
+
+"Ah," Harry said. "I guess I see the point."
+
+He didn't press further, which was unusual for him. But he too needed some rest, like all of them did.
+
+They ate further in silence.
+
+"I almost gave up," Padma confessed into the silence. "I lost faith that we could do it, and I almost stopped wanting to go back and fight. I don't think I'm really cut out to be a heroine."
+
+Professor Dumbledore gave her shoulder a squeeze. "I understand well how you felt. When you have been exhausted for many hours, when pain and death is no longer a passing fear but a certainty, then it is harder to be a hero, Padma Patil. And yet you *did* continue. Do not sell yourself short."
+
+"Is it always like this?" Hermione asked.
+
+"No, not always," the ancient hero said gently. "There are many good days among the bad. When you see the smile of a child. When you know you have saved someone who would otherwise have suffered or died. That's what makes everything worthwhile."
+
+"I will have beds made for you all," Madam Bones offered. "You cannot go back to Hogwarts yet, especially since some of you are still there, learning the True Patronus Charm. If we receive new reports, we'll wake one of you up."
+
+"I still have one Time-Turner spin remaining," Harry offered.
+
+Madam Bones considered this. "That might be useful, although it may be best to keep your last turn in reserve for emergencies."
+
+"I don't want to sleep right now..." Rianne said thickly. "I don't really want to live through all that again in my nightmares."
+
+"You'll be given potions for four hours of dreamless sleep. After that, we'll send you back to Hogwarts."
+
+The children climbed into the beds they were offered, even as Professor Dumbledore and Madam Bones exchanged looks with each other. The children had stretched themselves beyond belief and deserved some rest. It was probably better not to burden them with the more worrying implications of the day's events for now.
+
+------------------------------------------------------------------------
+
+-o-o-o-o-o-
+
+------------------------------------------------------------------------
+
+**Author's Note:** some answers to questions that might come up, so I won't have to do it in future notes...
+
+*Q*: isn't this a rather enormous risk for Quirrell to take?
+
+*A*: don't forget that, as mentioned in the last chapter, a Time-Turner was involved. Quirrell had access to information from two hours in the future before executing his plan. One might imagine that he, or the person who was sending a message back in time for him, tested certain victory-conditions (such as Harry's and his own survival) before committing to the plan.
+
+*Q*: okay, so Quirrell apparently used a Time-Turner to guarantee success (or at least lack of Harry-killing ;)) before sending his message. What happened to people in places like Azkaban which are warded against Time-loops?
+
+*A*: Azkaban cannot interact with its own future, and therefore nobody inside has heard the message. Unfortunately, everyone who has heard the message has also interacted with Azkaban's future, and as that's definitely going to affect what they'll communicate, they cannot interact with Azkaban either. This means that for instance Amelia Bones has no way of contacting them until 9:28, which is rather inconvenient as the Aurors there are still able to cast a Patronus. The Aurors probably realize that something is wrong, as all their communication with the outside world has stopped, but they cannot find out what without leaving (and if they do, they cannot come back). So yes, some people remain who can cast a normal Patronus, but with the entire rest of the world knowing the secret, it's going to be hard for them to remain ignorant for very long.
+
+(None of this is in the text, because it really isn't all that important; the protagonists don't even think about it, except Amelia and Albus who merely find that it doesn't help them.)
+
+*Q*: the initial plan called for everyone who learned the True Patronus Charm afterwards to drop back in time to 7:30 and go to the second room. Why did Cedric go to the third room on his first time?
+
+*A*: due to a miscommunication about fallback places, Tamara had taken Padma to the Great Hall in her second iteration. Thus, her second instance had already interacted with Cedric, which meant that, to avoid paradox, it was better for him not to directly interact with her past. This is why he went to one room further (which still allowed him the full four iterations his Time-Turner could give him).
+
+*Q*: why are there students of all houses casting a True Patronus Charm?
+
+*A*: because I envision the TPC as a spell that really uses the strengths of all four houses:
+
+\* \[Slytherin\] you need a lot of ambition to fully intend to reshape the world, cast down places like Azkaban and even overcome death
+
+\* \[Ravenclaw\] you need the perception to recognize the flaws in the world and the intellectual honesty to not lie to yourself about them, while also being able to envision a plan for fixing those flaws
+
+\* \[Gryffindor\] you need to have strong will to protect others, and courage to take on all the nasty pieces of darkness in the world, giving your life if necessary towards building a better one
+
+\* \[Hufflepuff\] you need to have the dedication to spend your life making that dream a reality, and the friendship and faith in your peers to know that others will carry on even if you fail
+
+Harry, who invented this form of the spell, has talents spread across all houses. The others might lean more towards two or three in particular, so they focus on a specific aspect of the happy thought.
+
+</div>
+
+</div>

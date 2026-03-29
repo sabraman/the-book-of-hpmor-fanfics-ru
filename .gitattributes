@@ -1,0 +1,16 @@
+*.xhtml text eol=lf
+*.html text eol=lf
+*.opf text eol=lf
+*.ncx text eol=lf
+*.xml text eol=lf
+*.css text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.epub binary

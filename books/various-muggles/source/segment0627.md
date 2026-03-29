@@ -1,0 +1,133 @@
+<span id="seg-0627__seg-0627-65ef4f9cd9"></span>
+
+<div id="seg-0627__s12-d3d5417af2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 12: Defence and Offence, Pt 3
+
+<div id="seg-0627__storytext-9c93142583" class="calibre4">
+
+*"A fact your enemy does not know is a handful of Galleons. A fact your enemy knows incorrectly is a treasure beyond price."*
+
+*- Lucius Malfoy*
+
+------------------------------------------------------------------------
+
+Draco got up gingerly from the table, dinner unfinished.
+
+"Aren't you hungry?" asked Gregory. When Draco shook his head, Gregory grabbed the roll off of Draco's plate. At least this year Draco wouldn't have to listen to Crabbe ranting about the caloric injustice that was the Goyle metabolism. Gregory ate just as much, more perhaps, as Vincent and never gained an ounce of fat, so Vincent had a point. But it had been made, stated, reiterated, made unfunny and then funny again, and general discussed from all angles. No point complaining about the unfairness of life.
+
+They made their way back to the Dungeons, but Draco passed their room, went through the Commons, and continued down another flight of stairs. In the common room fifth years sat, writing out scrolls and pouring over text books, already studying for their O.W.L.S. The left most entrance led to the upper year boys dorm, and Draco started that way as Gregory pulled up beside him, coughing slightly in place of a question.
+
+"Robert," Draco explained. Gregory fell back. Draco went up the stairs and poked his head into the main room, glancing around, and saw Robert sitting on his bed talking to his brother Ethan. Draco cleared his throat. Ethan saw Draco first. His face dropped slightly, shock then annoyance followed by masked indifference. Draco hadn't set foot in the room, not really, he'd just poked his head in. Robert frowned, but got up and came over.
+
+"What is it, Malfoy?" he asked.
+
+"I just wanted to thank you, again. After last night, I didn't know what to expect. I shouldn't have done that, brought you up in the duel. I'm sorry."
+
+"You're right. You shouldn't have."
+
+Draco stood in the doorway, waiting. For once he didn't bother trying to hide the awkwardness he felt. In some cases, appearing awkward helped.
+
+"Well, what? Spit it out."
+
+"I wanted to ask you a favor, but I don't want to impose. Sorry, never mind." Draco started to leave.
+
+"What makes you think I'd do you a favor?"
+
+"My mistake. I'll go." Draco turned and went up the stairs, not looking behind him. Thankfully you ascended as you exited the Dungeons (or went from the main area back to Draco's room). He trusted his footing more, more going up. Going downstairs on a bad leg felt treacherous.
+
+"What was that all about?" Gregory asked when they got back to their room. "This makes no sense."
+
+"I was curious, *why did Robert help me*? There are lots of ways to go about making a friend. Giving a gift, sharing a secret. Getting someone to do you a favor works fairly well too. And if the favor actually winds up helping us both. I think Robert's an ally, or at least on the fence. But he feels, I don't know, honour bound to appear indifferent. I can work with that. Besides, sometimes ideas take time, and now I've planted the idea that I'm thankful and want to ask a favor. Although ... Now that I think about it, we should practice. I don't actually know if I can do this, yet."
+
+"Do what?"
+
+"Teach the *Patronus* charm. All right, let's see if you can learn it. I think the mechanics are easy enough, but you just have to believe," Draco said, holding his hands up defensively. "Yes, I know, it sounds like something out of that children's fable about the dog made out of paper."
+
+------------------------------------------------------------------------
+
+Harry Potter walked into his room and then did a double take. "An owl. Huh. I like it, elegant." He closed the door behind him. Gregory's Patronus sat on the window ledge, looking out over the dusk.
+
+"How did you know, Potter?" Gregory asked. "How did you know we could do this when we didn't. I mean, I don't think any of my dad's classmates did, ever heard of..."
+
+"Sometimes it takes an outsider's perspective. And sometimes it's tricky. Did you ever, I don't know, look at clouds and spot shapes? Yes, well, that's harmless. It's what we're good at, finding patterns. And sometimes we get strange beliefs in them. Take Basketball, its like … Muggle Quidditch. No flying, but you throw a ball into a hoop. There are more goals, each team may make 40-60 goals a game. Well, many of the best players believe that once a player makes a few goals, he gets 'hot' and is more likely to make his next goal."
+
+"But it turns out that they've studied it. And a player who has just made 3 free throws – a shot from a fixed point - is no more or less likely to make their next free throw. But all the players believe it. And, the belief got passed down. Players retire, they become coaches, they talk to their player's about the hot hand. But the statistics don't bear it out. Anyway, at some point, maybe one year of Slytherins couldn't learn it, or had a teacher who didn't think Slytherins could, so didn't bother teaching it, and then everyone started believing it."
+
+"So what made you think we could?" asked Draco.
+
+"It just seemed … highly unlikely that there were be a significant distinction between the houses on this ability. Clearly there are some forms of magic that depend on the caster's mental state, but happiness? Slytherins can be happy."
+
+"Apparently so." Gregory walked over to his *Patronus*, whispered to it, and it flew off into the night.
+
+"That's the kind of stuff Harry is teaching. I mean, apart from practical things, but how to think."
+
+Harry watched Draco pick up his cane, that had once belonged to Lucius Malfoy. Draco was idly flipping it, first catching it by the snake handle, then by the toe. It seemed irreverent, to be almost playing catch with the walking stick. Harry remembered his meeting on Platform Nine and Three-Quarters with Lucius, how the sudden crack of the stick against platform removed the two of them into the pale haze, isolated from the rest of the world.
+
+*What else could that cane do?* Harry thought.
+
+"So why so secretive about it?" asked Gregory.
+
+"Well, losing a cherished belief takes a toll. It's hard, admitting you were wrong," said Harry. Draco flipped the cane, then swung it in front of him like a baseball bat, or sword. He flipped it again, swung it again, snake handle gleaming as it arced through the air in front of him. "I suppose Draco filled you in about the experiments on magical potency and blood? He didn't take that well."
+
+*Flip, swing.*
+
+"You aren't seriously going to use that in a fight, are you?"
+
+Draco paused, mid swing.
+
+"I wasn't planning on using it *comically*. Or ironically. And so you *do* hear gossip, Harry, wherever it is you disappear to all day. Good to know. No, I'm not planning on using my Sigil in some random fight. But if things get out of hand, well. Who always says 'be prepared?' Actually, you sing it. Which is annoying, you know." Draco set the cane back down on top of his desk.
+
+"He's one of those singers?" said Gregory, sarcastically. "And you didn't think to mention that yesterday?"
+
+"What else does that do, anyway?" asked Harry.
+
+"I don't know. It's one of those mysteries I have to unlock. According to legend it can do just about anything but I think we Malfoys invented those stories up ourselves just to keep everyone guessing. I haven't seen it do much more than make you disappear with Father. But it's been in the family forever."
+
+"Can I?" asked Harry, holding out his hand. Gregory stiffened for a moment.
+
+Draco glanced up. "I don't see why not." He picked up the cane and handed it across to Harry, who took it an inspected it. "But I'd advise against picking it up when I'm not around. Just in case some of those stories happen to be true."
+
+Harry hadn't known what to expect. The cane clearly possessed power. He'd seen it last January. Harry's first thought - a thought he'd never been able to do anything about since he could hardly experiment on Lucius Malfoy's cane - was that the cane worked like a wand. After all, where was it written that you had to use a *small* piece of wood to use magic? Why not a four-foot long branch? But the Malfoy Sigil, as Draco had called it, didn't feel like a wand. It lacked the responsiveness of a wand, that small tingling sensation that Harry associated with defying physics, like licking a battery. But while Harry didn't feel the magic, he felt an emotion when he touched the cane, just as he felt when he first grasped the Elder Wand. But while the Elder Wand's presence cried out like a cascade of trumpets calling to glory, like the purity of righteous aggression, this cane's presence reminded Harry of an elegy. A quiet minor key, slightly out of tune. *Was the cane mourning?* The thought came to Harry unbidden.
+
+He handed it back to Draco. "Thanks. Just curious."
+
+"You can take the Ravenclaw out of the library..." said Gregory with a laugh, then turned to the window as his *Patronus* landed on the ledge.
+
+------------------------------------------------------------------------
+
+The next day, as Harry sat poring over a few books he'd pulled from the Library shelves, he felt Hermione's hair brush past his shoulder as she bent down over him. He sat back with a jump, narrowly missing Hermione's chin with his head.
+
+"You should cough, or something," Harry said. "You *know* you don't make much noise when you move. It's unnerving."
+
+Hermione had actually forgotten about that, hadn't yet fully internalized all of her differences of her transformation. She knew she moved gracefully and quietly on an intellectual level, but she didn't *feel* any different than before. Still, she didn't apologize. Hermione and Harry had taken to playing a game where they never actually conceded they were wrong unless it was about something important. She'd been hoping to catch him reading *Hogwarts: A History,* since she was sure he'd actually read it. Well, not sure, but more probable than not. Harry knew too much. So she quietly stalked him whenever he disappeared with a book or to the library.
+
+(Harry, of course, only read that particular book when hidden inside his trunk).
+
+"Mm-hmm. What are you doing," Hermione asked innocently, "Studying History?"
+
+"Research. Did you ever read any stories about that cane of Draco's?"
+
+On the other side of the Library, Draco sat writing notes in his journal.
+
+*Urgent - The fight for Slytherin. Yesterday has shown this issue is more pressing than I'd feared.*
+
+*Important, but not immediately urgent- Investigating Harry's relationship with Voldemort.*
+
+------------------------------------------------------------------------
+
+**Author's Note** – Harry read about The Hot-Hand effect based on research published prior to 1991. For example, see Gilovich, et al. "*How we know what isn't so: The Fallibility of Human Reason in Everyday Life*" for details. Recent studies - using the more detailed shot tracking metrics in the NBA, which record exactly where shots are made from and how far away defenders are - have reopened the issue. Players with a Hot Hand don't necessarily have a better percentage on their next shots but *they take more difficult shots* (as they gain confidence, or attract more defenders). And their percentage doesn't go down noticeably when taking these more difficult shots. (Other studies just looking at free throws also throw the original research into question).
+
+So, it could be argued that they are, in fact, outperforming expectation. The data from earlier studies showed no effect, the current data implies it. Science marches on.
+
+Of course, this research will not occur until 20 years after HJPEV makes this speech, so Harry is right according to the science of the time. I include the Hot Hand discussion because it was, 25 years ago, a good example of non-scientific experts believing something that scientists could "refute" (with the data at hand) but it turns out that the *unscientific belief had something going for it*, was not obviously wrong, and may in fact be true.
+
+Skeptics - Be aware that its not just the unscientific who are sometimes smugly wrong. Be doubly aware when criticizing domain expertise in a highly competitive, high-stakes field where people are usually searching for an edge, however small.
+
+</div>
+
+</div>

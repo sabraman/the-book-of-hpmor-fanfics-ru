@@ -1,0 +1,39 @@
+body {
+  margin: 0 auto;
+  max-width: 52rem;
+  padding: 2.5rem 1.25rem 4rem;
+  font-family: "Georgia", "Times New Roman", serif;
+  line-height: 1.65;
+  color: #1c1c1c;
+  background: #fcfbf7;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.2;
+  margin-top: 2rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: #7a1111;
+}
+
+nav#TOC {
+  border: 1px solid #d8d1c4;
+  background: #f5f1e8;
+  padding: 1rem 1.25rem;
+  margin-bottom: 2rem;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #d8d1c4;
+  margin: 2rem 0;
+}

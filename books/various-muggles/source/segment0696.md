@@ -1,0 +1,181 @@
+<span id="seg-0696__seg-0696-9f26219a00"></span>
+
+<div id="seg-0696__s14-7d488dbee1" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 14: Blackmail in Game Theory, Pt 3
+
+<div id="seg-0696__storytext-9c93142583" class="calibre4">
+
+Ginny had been seething in the middle of the night, when she returned to her bed. Now, several hours had passed, and everyone was waking up around her, and she barely felt any better. The school thought they had tested her for possession, and so the possibility wasn't worth considering, but they hadn't thought that she might have been possessed since. Ginny knew for a fact that she had, though she certainly wasn't going to let that particular detail out. She put on the gloves that she had managed to secure, though she barely trusted the gloves more than she trusted Tim; they were flimsy and had little holes in them she had had to patch up with Spellotape. *Note to self: if I continue to keep Tim, try to get higher-quality gloves out of Draco.* She picked up Tim's paper abode and placed it in a bag, which she carried out to the Slytherin Common Room.
+
+"Colin!" shouted Ginny, finding him and making her way over to him. "I need something from you again-"
+
+"Everyone to the Great Hall!" said a prefect, for the twenty fifth time this morning. "Headmistress's orders!"
+
+"Um, let's talk as soon as possible," said Ginny.
+
+"Okay," said Colin; he followed Ginny all the way to the Great Hall, though Ginny refused to be pressed for more details.
+
+"I'd prefer to tell you privately," said Ginny. "In an empty room somewhere in the dungeons."
+
+"I know just the place," said Colin, though Ginny was unimpressed; it was not difficult to find unused, unattended rooms in the dungeons, or anywhere in Hogwarts, for that matter. Soon, everyone was sitting at the Great Hall, and it gradually dawned on Ginny what was coming; Headmistress McGonagall was standing at the podium with a grave look on her face. When everyone had settled in, the Headmistress began to speak.
+
+"I am afraid I must be the bearer of terrible news once more," said the Headmistress, and Ginny knew that she had been correct, about why they were all gathered there. "I am sure many, if not most, of you are aware by now that a student has been killed. It is true. Cedric Diggory, a fifth year Hufflepuff and star student, was found petrified last night. The greatest efforts of the worlds' greatest healers could not restore him to life. He is truly lost to us. The Diggorys have requested a public funeral this weekend. All of you knew Cedric, and I expect that many of you will attend."
+
+Ginny scanned the room, and saw that each table was miserable in its own way. The Gryffindors had clearly already caught on to what the Headmistress had thus far not said, that it was murder, and the blood of every one of them was boiling with anger; Ginny wouldn't want them to so much as *consider* the possibility that she was the Heir of Slytherin. The Hufflepuffs had lost a friend, a peer, one of them, an ideal. The Ravenclaws were pushed into a higher state of grief by the wailing of Cho Chang, who cried as loudly as you could without causing much literal noise. Some of the Ravenclaws – particularly Harry, and even more particularly Hermione – had an aura of guilt about them, as though they were responsible for this for not preventing it from happening. And the Slytherins? The Slytherins were as sad as all of the other Houses put together, in large part because they knew that every single one of them would pay the price for Cedric's death, regardless of their guilt.
+
+"After careful deliberation, we have decided not to close Hogwarts," said the Headmistress, "though all classes will be temporarily suspended until next Tuesday. Before then, you are all permitted, and even encouraged, to visit home via the Floo Network. It is not mandatory, however; Hogwarts will remain fully operational. Because, you see, as most of you have probably already concluded, Cedric Diggory was murdered. His murderer is something Muggles call a 'terrorist', one who enacts violence to cause chaos and disarray, to attract attention to their goals. I cannot possibly imagine a possible reaction that would play better into this terrorist's plans than closing Hogwarts. So Hogwarts will stay open, to demonstrate to the culprit that their bloody quest will prove entirely fruitless."
+
+"Yes, the murder was almost certainly committed using Salazar Slytherin's Chamber of Secrets," said the Headmistress. "No, you should not harass Slytherin House about it. They are not responsible for this, they have quite enough other things to worry about, and I once again cannot imagine an outcome the killer would prefer to a wedge being driven between Slytherin House and the rest of the school."
+
+"You might ask what we are doing to protect you, then, if we are not shutting down the school, and the murderer has not yet been identified or apprehended," said the Headmistress. "That's a fair question, and we do have an answer. We have manufactured safety goggles for every Hogwarts student. Because of the way petrification works, you may still be attacked while wearing these goggles, but you will not be killed, or even permanently harmed; merely taken out of commission for the time it takes to brew a Potion of Reanimation. The safety goggles will be firmly magically affixed to your face at all times. If you feel that this is unnecessary, or too large of an inconvenience for you to bear, then you are free to ask your parents to withdraw you from Hogwarts, but I suspect they will mostly tell you that you don't have your priorities in order."
+
+"In order to identify the murderer," said the Headmistress, "who is as of yet unknown, I ask that you not mistrust each other – again, that is what they would want – but do consider the suspicious behavior of those around you. If someone is acting unusual, out-of-character, or simply Dark, I advise that you report them to me or another staff member immediately. Do not suppress your first suspicions. Reports that do not ultimately lead us closer to the culprit will not be punished, as long as they are made in good faith. We must all act together so that the person responsible for this horrible crime may be identified, so that they may be apprehended and punished.
+
+"And rest assured," said the Headmistress, "the murderer, or murderers, will be identified. They will be apprehended. And they will be punished. Because today, we are all Cedric Diggory, every one of us. Standing up to our foes, standing up to death itself, just to get an education. And that state of things cannot stand. There will be peace, because we will make it." The staff, with the exception of the Headmistress herself, walked out into the crowd, dividing the room into distinct sections, carrying boxes of goggles. "You will now receive your safety equipment from the nearest instructor, and a Charm will be applied to stick them in front of your eyes. If you are visiting relatives, you may request to have the Charm removed when you leave; it will be reapplied on your return. When classes resume, Professor Flitwick will teach all years how to reapply the Charm to yourself, in case it should come undone. When you receive your goggles and Fixture-Fixing Charm, you may return to your dormitories."
+
+------------------------------------------------------------------------
+
+"Now put your arm around me like this," said Ginny.
+
+"Um, Ginny?" asked Colin.
+
+"No, this is still part of the magical experiment," said Ginny. "Now, I'm going to use this quill to write in this book-"
+
+"It's that same book again!" said Colin. "Is it causing trouble again? Is this safe?"
+
+"Yes," said Ginny. "That this is safe, I mean. And the experiment is to find out if it's causing trouble. Now, I'm going to use this quill to write in this book a bit; please don't look at what I'm writing, it's private. Then, I'm going to take my gloves off, close the book, and hiss at myself a bit. Then I'm going to drop the book, put my gloves back on, and put the book back in its bag. If at any point I do anything remotely unexpected, that's where you come in; I want you to grab the book out of my hands and throw it across the room. Understood?"
+
+"Understood," said Colin.
+
+"And of course, it goes without saying that this is all very secret and you are not to tell anyone," said Ginny.
+
+"Okay," said Colin.
+
+"Alright," said Ginny. "Let's start." She took out a quill, and began to write:
+
+"Hello, Tim." An uncomfortable lull, and then a response appeared.
+
+"You're wearing gloves."
+
+"Indeed, I am. I wasn't sure if you'd even notice. Trying to possess me, are you?"
+
+"No, of course not." wrote Tim. "I just checked to see if I could. You are a properly paranoid girl, Ginny Weasley."
+
+"Yes, and that is the purpose of this entire conversation. There has been a lethal attack on a Hogwarts student, using the Chamber of Secrets."
+
+"The Chamber of Secrets... There had been a similar attack shortly before I was captured... very upsetting to hear that it's happened again. I know some secrets about the Chamber of Secrets, but none that relate to either attack."
+
+"I'm sure you do. I'd like to ask you some pointed questions in Parseltongue. I've boosted security from our last such encounter."
+
+"Alright. Then I assume you are removing the gloves?" Ginny didn't bother to answer in writing; she simply took her gloves off and felt the foreign presence entering her mind.
+
+*"What do you wissh to assk?*" Ginny asked herself in hisses, but it was actually, of course, the diary speaking through her. Ginny could feel Colin growing nervous behind her.
+
+"*May you causse me to forget thingss ssimply by possssessssing me?*"
+
+"*No. Regardlessss of the level of control I assssume, you alwayss retain full awarenessss when possssessssed.*"
+
+*"May you remove my memoriess by cassting a reflexxive sspell when possssessssing me?*"
+
+"*No. Cannot casst reflexxive memory removal sspell. Theoretically I could possssessss ssomeone elsse, and remove your memoriess thuss, but I have done no ssuch thing.*"
+
+"*Then where wass I when sstudent was killed?*"
+
+"*How iss it that you exxpect me to know? When wass the attack?*"
+
+"*At night, when I wass ssuppossed to be assleep.*"
+
+"*Then I would ssay you were where you were ssuppossed to be. To the besst of my knowledge, you were not pressent at the sscene, if that iss what iss worrying you.*"
+
+"*Wass I ressponssible?*"
+
+"*Ssome of your older friendss have conccept-*"
+
+"*Ansswer me!*"
+
+"*I am. Ssome of your older friendss have conccept called hero ressponssibility, wherein particularly competent people sshould feel guilt for tragediess, because they did not foressee and prevent them. That iss only way I could imagine your being ressponsible for thiss.*"
+
+"*Were you ressponssible?*"
+
+"*Builder of chamber iss ressponssible. Thiss iss what he built the chamber for. Infamouss masster wass firsst to fulfill intended purposse of chamber, ass weapon. Learned ssome ssecretss of chamber from him. Whoever is now opening chamber is continuing infamouss masster's work, and if not sstopped, will rule world ussing chamber. I dessire to sstop them.*"
+
+"*I apologize for ssusspecting you. Possssibility that possssessssion victim wass ussed to open chamber was brought up.*"
+
+"*You are not my victim. You are my partner."*
+
+*"Goodbye.*"
+
+"*Goodbye.*" Ginny removed her hand freely from the diary – once again, Tim had not exerted overriding control over her, to prevent her from doing so – dropping it and putting her gloves back on.
+
+"So did it go well?" asked Colin.
+
+"Very well," said Ginny; she had put her gloves back on and returned the diary to the bag she was using to transport it. She then indicated for Colin to let her go, and she started for the door with him.
+
+"I mean, I assumed so, since I didn't have to save you," said Colin.
+
+"Uh huh," said Ginny.
+
+"Hey, Ginny, um," said Colin. "I was wondering if maybe, some time, we could, um..."
+
+"Oh!" said Ginny. "Thank you, but I'm already seeing someone, Colin."
+
+------------------------------------------------------------------------
+
+"Hey! Harry!" said Ginny, managing to find him by a staircase between matters of official business.
+
+"Oh, hi, Ginny," said Harry. "I didn't know it was you."
+
+"I take it there's no meeting this week?" asked Ginny.
+
+"Indeed," said Harry. "Half of the Squad is either visiting home or dead, and I'm caught up in some business myself."
+
+"What do you think about this whole mess?" asked Ginny.
+
+"It's a mess," said Harry. "Frankly, I'd be shocked if no one else died by the time this is all over. Whoever is opening the Chamber is probably very clever, at least in some ways. They'll find a way to route around the goggles. Of course, I don't mean to imply that they're brilliant – this whole blackmail scheme of theirs is simply not very smart, as far as I can tell. They could kill every boy, girl, and teacher in Hogwarts and it wouldn't make anyone end the Interdict of Merlin."
+
+"Could you see the Interdict of Merlin ending any time soon?" said Ginny.
+
+"It's even less likely after this," said Harry. "Because, you see, now if they ended the Interdict, that would be signaling to whoever's done this that their plan to end it by killing Hogwarts students was a success. It would be signaling to any future Dark Lords following in their footsteps that killing people is a good way to make people pay attention to their agenda. It makes the world a generally worse place. That's the thing about blackmail – if you give into it, then it makes the concept of blackmail a stronger one, which means there's a moral imperative not to give into it."
+
+"That's a shame," said Ginny. "So absolutely nothing good will come of this."
+
+"Indeed," said Harry. "Although I'd hesitate to call the Interdict of Merlin being canceled a good thing. Merlin had some good reasons for putting it in place originally, and I'd be hard-pressed to argue with him."
+
+"Muggles don't have to deal with the Interdict of Merlin in scientific research, and look at all that they've accomplished," said Ginny. "Think about all that you would have accomplished if the Interdict had been removed for you."
+
+"Muggles are more advanced than wizards, yes," said Harry. "But they're also much less stable. There are dozens of Muggle inventions that could end their world, in varying degrees, if misused in the precisely incorrect way. I suspect – no, know – that that problem is even worse with magic. Not to mention, of course, that I don't actually know how you would cancel the Interdict of Merlin. I know some people in very important positions of power relevant to the Interdict of Merlin – Amelia Bones, for instance – and I'm pretty sure none of them know how to cancel it, either. I'm pretty sure nobody does, and that's a good thing."
+
+"Let's agree to disagree," said Ginny.
+
+"That's rather difficult for a true rationalist," said Harry, "because true rationalists will necessarily reach the same conclusion, if they're operating on the same priors using actual rationality. Which reminds me, that you really need to examine some of your beliefs and why you believe them."
+
+"What beliefs?" said Ginny, and she did not like the direction the conversation was taking one bit.
+
+"Come on, Ginny," said Harry. "You literally wear a big sign on your chest that says 'I'm a Christian.'" Ginny looked down, confused, and saw her cross medallion.
+
+"Wizard Christian," said Ginny.
+
+"I know," said Harry. "I researched all of the magical belief systems a long time ago, when I first learned of magic, to see if any of them had any more evidence or sense than the Muggle ones. And sure enough, they didn't. It's exactly the same process, a vicious cycle based on broken thinking..." Harry had long ago learned to say "broken thinking" instead of "magical thinking" if you wanted a wizard to have any idea what you meant.
+
+"I've done research as well," said Ginny, "and not come to the same conclusion."
+
+"Of course not," said Harry. "It takes a lot of effort to fix bad mental habits; rationality isn't easy."
+
+"How much research did you do?" said Ginny.
+
+"Enough," said Harry.
+
+"I'd like to talk to you at length about the evidence," said Ginny. Harry stared at her, and then smiled.
+
+"Well, that at least suggests genuine belief rather than belief in belief, so that's a good sign," said Harry. "Perhaps we could meet somewhere in the dungeons – outside the Slytherin dorms, of course – next weekend, after classes resume, and talk. I'm open, then."
+
+"Alright," said Ginny. "I hope to see you there." Harry nodded, strolled off, checked a watch, muttered something vulgar to himself, and stepped out of sight while turning something in his pocket. After a few minutes, Ginny managed to twist things from "some of my most strongly-held beliefs are being challenged by my idol" to "Harry Potter asked me out on a date!"
+
+</div>
+
+</div>

@@ -1,0 +1,86 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>74. On the Continuity of Consciousness</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="al_fa">al_fa</dc:creator>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:publisher>https://archiveofourown.org/works/9829580</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e1e0a71e-ab92-4af0-ab75-689f36760d67</dc:identifier>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">e1e0a71e-ab92-4af0-ab75-689f36760d67</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <meta name="calibre:title_sort" content="74. On the Continuity of Consciousness"/>
+    <meta name="calibre:author_link_map" content="{&quot;al_fa&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s1_split_000.xhtml" id="a15" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s1_split_001.xhtml" id="a14" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s2_split_000.xhtml" id="a22" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s2_split_001.xhtml" id="a21" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s3_split_000.xhtml" id="a32" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s3_split_001.xhtml" id="a31" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s4_split_000.xhtml" id="a42" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s4_split_001.xhtml" id="a41" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s5_split_000.xhtml" id="a52" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s5_split_001.xhtml" id="a51" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s6_split_000.xhtml" id="a62" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s6_split_001.xhtml" id="a61" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s7_split_000.xhtml" id="a72" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s7_split_001.xhtml" id="a71" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s8_split_000.xhtml" id="a82" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s8_split_001.xhtml" id="a81" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s9_split_000.xhtml" id="a92" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s9_split_001.xhtml" id="a91" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s10_split_000.xhtml" id="a102" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s10_split_001.xhtml" id="a101" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s11_split_000.xhtml" id="a112" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s11_split_001.xhtml" id="a111" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s12_split_000.xhtml" id="a122" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s12_split_001.xhtml" id="a121" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s13_split_000.xhtml" id="a132" media-type="application/xhtml+xml"/>
+    <item href="32/OEBPF/content/s13_split_001.xhtml" id="a131" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="a15"/>
+    <itemref idref="a14"/>
+    <itemref idref="a22"/>
+    <itemref idref="a21"/>
+    <itemref idref="a32"/>
+    <itemref idref="a31"/>
+    <itemref idref="a42"/>
+    <itemref idref="a41"/>
+    <itemref idref="a52"/>
+    <itemref idref="a51"/>
+    <itemref idref="a62"/>
+    <itemref idref="a61"/>
+    <itemref idref="a72"/>
+    <itemref idref="a71"/>
+    <itemref idref="a82"/>
+    <itemref idref="a81"/>
+    <itemref idref="a92"/>
+    <itemref idref="a91"/>
+    <itemref idref="a102"/>
+    <itemref idref="a101"/>
+    <itemref idref="a112"/>
+    <itemref idref="a111"/>
+    <itemref idref="a122"/>
+    <itemref idref="a121"/>
+    <itemref idref="a132"/>
+    <itemref idref="a131"/>
+  </spine>
+  <guide>
+    <reference href="toc.xhtml#calibre_generated_inline_toc" title="Table of Contents" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

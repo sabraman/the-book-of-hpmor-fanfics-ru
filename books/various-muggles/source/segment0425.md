@@ -1,0 +1,1003 @@
+<span id="seg-0425__seg-0425-cb74194a51"></span>
+
+Sorry for reposting, but I can't delete the review on Chapter 1.
+
+At the end of the sixty seconds, through which Harry experienced the collective problem-solving of thousands of aspiring rationalists at a rate of one hour per second, he looked up.
+
+"Prepare your anusss," he hissed.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=2830995&amp;rwid=216514756&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514756&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/2830995/Einander" class="text_1">Einander</a> chapter 113 . 3/2/2015
+
+Challenge answer:
+
+Reason out that he's probably connected to Voldemort's Horcrux network (magical resonance, the Hogwarts Map) and gamble on that and his status as a Master of a Deathly Hallow allowing him to access the same remote possession ability (or on the reasonable placement of Voldemort's Horcruxes after his revival). Then he uses partial transfiguration with himself as material to kill himself and as many Death Eaters as he can by some suddenly explosive means, possibly conceptual creation of antimatter. (Transfiguration in general and the Animagus Transformation, Broomsticks, and the Invisibility Cloak all work conceptually instead of the way physics says they should, so that's a precedent.) He uses some part of the secret of Dementors and the Patronus Charm to buy time if needed for this.
+
+Voldemort's precommitted to staying in the graveyard for at least six hours to ensure that Harry is really and truly dead, and with the right steps taken, Harry can signal that this is a heroic sacrifice and not a plan and therefore obfuscate Voldemort's understanding of his thoughts. This allows Harry to get the word out to the right people, especially if he's able to summon Fawkes by the same process he imagined during the Wizengamot trial.
+
+This idea resonates with the storywide concept of "learning to lose" (especially when biding one's time for a greater victory), parallels Harry's canon walk to death in the final book, could serve as an example of the "power he knows not" (both partial transfiguration and the love that allows Harry to take apparently suicidal action), and makes use of the established facts around Harrycrux and the Hallows.
+
+It's not the most certain plan, but it works on several levels and I honestly can't think of any plan I like better... Some that allow him to possibly survive, but none that allow him to WIN. This doesn't do it either, but it gets him much closer than my other ideas.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=2527225&amp;rwid=216514750&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514750&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/2527225/ballyer" class="text_1">ballyer</a> chapter 113 . 3/2/2015
+
+For the challenge:
+Tom quite recently stared Harry compensates the massive power drain that the patronus, a spell in Harry's hand can simply kill death in a controlled form, has that he can not provide by using a piece of his soul. As such when he is killed both his soul and Magic will leave is corps at the same time and as I just stated that combination (Harry's soul his Magic) when combined destroys death, and following that line of thinking it when both of them (soul Magic) joins the natural forces of the world it will kill death. And with death being the other side of life, life will cease to be. Should Harry figure this out he will be forced to inform Tom who will then be in the predicament of where killing Harry will have a good chance of destroying everything.
+Other news I must say this is one of my most enjoyed stories that I have read to date. While I am sad to see it come to an end I must say it is a master work and I can only hope I will find more stories that are up to this level. Bravo sir, bravo.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514735&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />CorwinofAmber chapter 113 . 3/2/2015
+
+Harry starts by saying: "I will now tell you of Powers you do not know and of Secrets that you will want to know. Stop the countdown"
+
+When LV acknowledges that it is stopped, Harry says "I have magical powers to tell you of that I believe you will \*very\* \*much\* want to know and that you will never be able to discover on your own. However, there are two muggle powers that I will explain to you first, as they will be important to understanding the meaning and significance of the \*Secrets\* that I will tell you."
+
+Harry explains the following and presents them as "powers" attempting to buy a life with each of them (This will keep LV thinking that Harry expects to die and is playing along and will also be used to help convince Voldie to keep Harry alive):
+
+\* Expected Utility Calculations
+\* Bayesian Probability Updates
+
+Harry leads LV to quantify his probabilities over the following beliefs:
+
+\* Killing Harry tonight will not prevent the prophecy from coming true
+\* If I let Harry live, he will end the world.
+
+... and to do an Expected Utility Calculation over the choice of killing Harry after they're done talking, using these two probabilities.
+
+Harry asks: "Are you still resolved to killing me when this is through? Does it still seem like the rational choice to kill me when I am done telling you of powers and secrets?"
+
+If yes, then:
+
+Harry: "Now I will tell you Secrets of utmost importance, both to you, to me, and to the world itself. I say honestly to you that my reasons for telling you these secrets are to save the lives of those I love and to convince you that killing me is a terrible idea and not in your best interest, even considering the prophecy you heard. I will begin with the facts of the secret and then follow with the interpretation.
+
+Harry: "First, will you now tell me of the prophecy that you heard from Trelawney that leads you to believe I will cause end of world? You know my intentions are pure and would never intentionally end world. Now, the Vow binds my will so that I cannot risk ending world. And girl-child-friend is alive to give counsel. If you are mistaken about the meaning of the prophecy, it would be very much in your interests to know it. Especially considering that Prophecies cannot be averted and you \*know\* \*that\* and you're trying to do it anyway. Perhaps I can see meaning you did not—find way to fulfill prophecy in a beneficial way."
+
+If Yes, awesome, skip some of the below points. If No, then "I will tell you of more Secrets important to you. Barter for more lives of my loved ones."
+
+After each of these secrets are revealed, until LV says he will let Harry live or tells him the current prophecy (tear apart very stars), Harry will:
+
+\* Name a person whose life is to be saved
+\* Ask Voldemort how much this shifts his belief that killing Harry right now will not prevent end of world as per current prophecy.
+\* Does he still intend to kill Harry?
+\* Still believe that it is in his best interests?
+\* Will he now tell Harry current prophecy?
+
+1. Tell Voldie that original prophecy ("born as the seventh month dies...") has not yet been fulfilled, and argue that this calls for rethinking killing Harry because attempting to kill him might cause this prophecy to come true in a bad way and might provide mechanism for "remnant" of Harry to survive and fulfill second prophecy. \[Evidence: Snape said "No, I would know if it were fulfilled." Apparently, neither Dumbles or Minnie found anything strange with the idea that "If it were complete, it would make sense to me," so that's likely a known/plausible attribute of prophecies.\] LV was very sure that he understood it enough to take risky action that time, but was wrong. "Seems you learned wrong lesson from previous mistake with prophecy, teacher." Argue that it was lack of understanding of previous prophecy that led to loss of LV's first body, not the act of trying to turn it to his advantage.
+
+Other points of argument, again asking the above questions after each. Some should work, but none are crucial if they don't:
+
+\* Tell LV that Harry has other secrets/powers to tell, but he needs to check with Hermione first because of the Vow. He knows LV is evil and powerful and that Harry can't give him information that could inadvertently cause end of world. (Justification of this for any secrets: It makes LV more powerful, hence might make Harry more likely to die and not prevent heat-death or other x-risks)
+\* LV's actions now are driven solely by prophecy. Just as before, it will make him fall victim to it. How can you not realize you're actions are being completely determined by what you heard?
+\* Double-check that LV is not just following through on his plan from before to convince everyone that LV is dead so that Harry will be allowed out of Hogwarts again
+\* Suggest that everything may be a simulation, that they're in the Mirror.
+\* Tell LV that he strongly believes that things will turn out badly for LV and the Prophecy will not be averted if he tries to kill him (Harry never meant to end his immortality, just temporarily disembody him, though he can't tell LV why because of Vow. He DOES NOT TELL SPECIFICS)
+\* Harry has heard a third prophecy that seems to indicate that Harry will survive beyond this day. It's better not to tempt fate. (And 3 their devices...) Upon being pressed, it's okay to tell LV (try again for Hermione if you don't have her yet), again, in exchange for lives.
+
+If still haven't gotten him to give in and spare you:
+"Okay, seriously? You're Trying to tell me that you still assign a greater than 50% probability to the idea that killing me here tonight is in your best interests?"
+
+Eventually, LV will tell him the prophecy. If not, Harry can just go from his (correct) best guess based on what he heard ("Tear apart the very s-") Stars? Sun? His first 2 thoughts when hearing it, narrowed down to Stars from Firenze's comments, and deducing the "End the world" part from the fact that his mother said the world would end if Lilly were nice to her sister and the fact that Firenze called him "Son of Lilly".
+
+Explain that he's pretty sure it says he will tear apart the very stars and that it will be the end of the world, LV should just tell him if he's right because it doesn't change anything and Harry has a good explanation for how tearing apart the very stars/sun could be very much in LV's best interest. Either way, Harry explains Star Lifting, Dyson Spheres, and the amount of energy required for interstellar travel or other futuristic technologies. What if Magic actually does draw from some energy source? Would still be necessary.
+
+If that's what the prophecy means, which is way more likely than anything else at this point, since what LV was really doing was not "snipping all threads of destiny" but \*constraining\* the solution-space. If he tries/succeeds in killing Harry, then the prophecy will \*still\* come true, but \*neither\* of them would have any control over \*how\* it happened, because all choice has been removed. And, knowing the nature of Prophecy, that's how bad things happen. So wouldn't it be better to work together toward making sure the world \*doesn't\* end and that Wizardkind gets a way to escape the Planet Earth, just like Voldie wants? Even if somehow Voldie manages to kill Harry tonight and the prophecy just \*doesn't\* \*happen\* which has never happened in the history of ever, what amount of diminishing pleasure from torturing idiots could possibly be worth more than all that?
+
+And at that point, once they've solved permanent death for everyone, people will probably \*want\* to play War with You. They'll be lining up by the thousands. Every clever person on the planet will want to try their skills against Lord Voldemort. I'll play War against you for as long as you want! It'll be fun! That's the kind of fun you can only \*really\* have in a post-scarcity, post-death society.
+
+"So, whaddya say, Tommy-boy? Want to trade your low-fecundity/complexity pleasures for something more exciting? If there's no match for you among the population of the Earth, we should obviously be working on raising other people up to our level so we can be less bored!"
+
+If \*SOMEHOW\* at this point (or earlier if he doesn't let him get this far), LV tells Harry he still intends to have the death eaters kill him if Harry has no more powers to tell him of, then Harry finishes partially-transfiguring the line of \[insert substance from below\] from a patch of skin, down his leg, through the ground, and over to where the Death Eaters are into:
+
+\[Whichever one Harry deems best, given his better knowledge of Physics, Magic, and his own Utility Function than me\]:
+
+For attack/killing:
+
+\* Sulfuric acid through brains of the Death Eaters
+\* Monofilament knife through brainstems of Death Eaters which he contracts (see below) or yanks
+\* Cyanide from blood plasma
+
+For distraction:
+
+\* Few grams of Elemental Francium (Cesium if he can't do unstable isotopes) in the middle of the \[(small pool of water / line of nitroglycerine surrounded by oxygen) he made just below the surface of the ground in front of the Death Eaters\] (much more dangerous than the others as it's only a distraction. Would only do if he knew for sure he could get out afterward.
+\* Nonlethal amount of TDT transfigured from blood-plasma
+
+... and transfigures the carbon nano-tube (that he had, while talking, transfigured from a tiny patch of skin cells and grown, as per the shaping-exercises, into a long tendril that snaked through a loop in his time-turner) into a much, much shorter version of itself (you can transfigure against tension, remember) which, at this point, Harry can do very rapidly, as Hermione was able to transfigure the original nanotubes very quickly. The Time-Turner flies toward Harry. Harry catches it, flips it once, and disappears to call in the cavalry. (Moody, Bones, the Aurors, Lucius(?), Diggory, Madam Longbottom, and attempt Dumbledore (and Fawkes, because why not?) just in case he's reac
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=456509&amp;rwid=216514705&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514705&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/456509/magfrump" class="text_1">magfrump</a> chapter 113 . 3/2/2015
+
+"Take my wand." Harry hissed. "If you truly believe that I may destroy all existence, then I trust your knowledge more than my own."
+
+Dropping his wand in front of himself, Harry continued.
+
+"There are two secrets remaining that I know of which remain hidden to you. The first is a charm taught to me by professor Flitwick. It is likely of little to no use to you, but on the off chance that it is, it is cast with the incantation Stuporfy, with the following motion," Harry twisted his hand, "and produces a stunner that can swerve once."
+
+Voldemort scoffed, but Harry continued.
+
+"The other secret I possess is the one with which I might most easily cause great destruction. If you still wish me to tell you I will do so for the life of Petunia Evans-Verres."
+
+"Take it, and another for your caution. Tell me the power this secret grants you and I shall weight the risks." The dark lord's mouth became a mockery of Quirrel's smile on that hideous face.
+
+"For the life of Michael Verres. I can transfigure parts of objects without transfiguring the whole of them. The power comes from deep knowledge of muggle arts, much more difficult than expected. Could not teach Hermione with months of training. Primary value is efficiency."
+
+"Would I be able to claim this power on my own terms, with sufficient knowledge of the muggle arts?"
+
+"I suspect so."
+
+"Then speak no more of it. Have you anything else to offer?"
+
+"I would speak of the power I have over dementors, though I cannot reveal the secret itself. It is possible, though unlikely, that if I die here they may notice and be summoned. If you were to revive me with the power of the stone, the intent itself would surely keep them from coming. Revived, I would be nonmagical and unable to harm you."
+
+"Very good. The intent will be sufficient, you say?" Harry nodded. The dark lord raised his wand to his temple and quietly spoke. "Confundo."
+
+"Begin." He said, and thirty six hexes slammed into the 11 year old body of what had once been Harry James Potter-Evans-Verres.
+
+\[\[Welp, I tried. Took me too long to realize that doing anything aside from talking truthfully in parseltongue was a waste of time and energy, too easily countered by Voldemort and just provoking further distrust if not death when discovered. Looking forward to the followup fic, Chaotic Neville and Mega-Invincible Hermione take on a world ruled by rational!Voldemort.\]\]
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=6579735&amp;rwid=216514689&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514689&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/6579735/DragonDraro" class="text_1">DragonDraro</a> chapter 113 . 3/2/2015
+
+Harry froze. For an instant his mind went completely blank as that final shred of hope was dashed away by Lord Voldemort’s hissing words and the realization that Voldemort had long since planned this out from beginning to end. And then the voices began their fight for attention.
+
+Do not tell him anything! screamed Hufflepuff. It’ll only help him cement his victory over any remaining resistance –
+
+It doesn’t matter, he has already won, Slytherin scornfully interjected. Might as well prolong our lives and prevent the deaths of our own.
+
+Gryffindor was not even bothering to construct coherent thoughts and instead was sending impulses to try to take down as many Death Eaters as possible with the use of partial transfiguration, the only magic left accessible for Harry.
+
+Slytherin let out a hissing laugh and directed its final thought to Gryffindor. As if Voldemort has any need of them. We’d just anger him and not even prolong his conquest by a second.
+We do still have the patronus active inside Hermione’s body, ventured Ravenclaw. We’ve never dispelled it… if we could send out a message to somebody then-
+
+Only Dumbledore stood a chance against him and he’s no longer… available, thought Gryffindor, sending a deprecating message out to the whole body. Maybe something directed at-
+
+“Sso were you only pretending to care for your friends?” Lord Voldemort hissed, interrupting all the unimportant voices. “Iss there no one you would care to ssave with your final wordss?”
+
+“Conssidering”, Harry replied. “What if thiss iss action that endss world?” What wass actual prophecy?“
+
+Voldemort paused for a fraction of a moment, shook his head, and hissed “No doubt in prophecy, only posssible sscenario is you. No more sstalling child”. He paused meaningfully and then started to turn to his Death Eaters.
+
+“Wait”, Harry attempted to scream, though it only came out as a slightly more agitated hissing, and delved into the one topic had performed so many times that he could describe with no thought required, the trick of partial transfiguration. Every single thought was now being sent to think of one last attempt, just one attempt that could save him. Patronus charm was still active and could force a resonance reaction with the Dark Lord. Death Eaters would react no differently to the screaming of their invincible leader than Sunshine soldiers did to the apparent invincibly of an enemy: an ingrained response of acting out roles, a simple minded reflex of fleeing from an attack so powerful that it could even affect Lord Voldemort. Then… then it would possible to maybe make an escape attempt of his own. Well, in any case it was the only possible action which could give pause to the trigger happy Death Eaters. Harry willed his Patronus out from Hermione Granger, making it charge at him from behind.
+
+Upon seeing the light arise from the girl, Mr. Grim let out some sort exclamation, but it was far too late for the Dark Lord to react in any sort of meaningful way.
+
+Pain.
+
+Splitting Pain.
+
+Something important to be done. Urgent. Somewhere to get to. Someone to save. And all this time a feeling that something was getting out of control with blinding white light.
+Harry heard far too many piercing sounds. The Dark Lord screaming as some Death Eaters shouted out “Finite Incantatem” and other such spells, while others gave out pops as they quickly fled that Mysterious Force that could harm their leader. And none of them, blinded by the light, could find the eleven year old child lying on the floor, clutching his scar. Doom and pain fought each other and canceled each other. As the Patronus winked once more out existence, Harry crawled past the recovering heap on the floor towards the one reason for all this. There was only more thing to do now that he had reached her. Only one more impossible thing and he might survive all this. The only third grade spell he knew. “ACCIO TIME TURNER” Harry let out in a far too high pitched scream, wrapped the device around his arm and grabbed Hermione. One final risk, he thought to himself as he turned the device once.
+
+It paid off. McGonagall’s removal of his time turner restrictions included the prevention of taking someone along with him besides himself. And now there was one hour to take advantage of the chaos that was soon to occur. Just as Harry was about to get started on preparation, Harry’s Inner Critic flashed images past his brain. Bellatrix Lestrange. Hermione Granger. Albus Dumbledore. There was no way that Harry Potter was making any more decisions on his own. The one thing Lord Voldemort would never understand. The main lesson of Sunshine. Leaving the decision up to someone else far more qualified. A third spell to finish everything off. Just one more spell:
+
+“INNEVERATE!”
+
+Notes:
+Before every instance of the Patronus was either dispelled or vanished due to something happening to it, yet here it is not mentioned that the patronus did not stay in Hermione’s body. True, Harry didn’t use it save Quirrell, but that could’ve just been him not having enough time to react to the killing curse.
+Accio is only being used here for symmetry with canon. Harry could have easily grabbed the time turner while crawling to Hermione.
+Though some might say that the Patronus might’ve been detected by LV, it could be that the doom feeling Harry felt was there because the spells that Voldemort was casting were extremely close to contacting Harry’s own spell.
+Also I wonder if a single person can have two different patronus spells active at the same time or transfigure the incorporeal body into something… say into Harry Potter’s glasses. (It’s incorporeal so it shouldn’t suffer from transfiguration sickness).
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514653&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Vlad chapter 113 . 3/2/2015
+
+(English is not my native language. I beg your pardon for possible grammar or syntax errors. I did my best:))
+
+I've devised a plan for Harry to survive, flee or win if possible. There are some variations of the plan. Those will be descibed in process.
+
+Steps of the plan (from 'zero step' of course)
+0) Preparing for action:
+
+Harry uses his wand safely because it is pointing to the ground. He applies partial 'shaping transfiguration' to the soil beneath him to create a cavern (he did 'shaping exercises' in Chapter 104). (May be this transfiguration is not needed to be called 'partial').
+
+The form of cavern is a cup turned upside down to provide Harry a cover from bullets: he will move to the wall where bullets incoming from the hole in ceiling cannot reach him. The hole in cavern's ceiling might be needed to cast spells but it can be closed under the circumstances.
+
+Harry transforms soil where he needs cavern from bottom. He transfigurates earth in huge sheets of paper or cloth so it will soften his fall. This transfiguration is safe in distinction from transfiguring soil in a gas or liquid.
+
+1) Get away from fire line and create a distraction in one moment. Distraction is needed to hide the escape and for other reasons but causes enemy to fire.
+
+Getting away from fire line should be done unnoticed or it loses tactical advantage.
+
+So Harry slowly transfigures soil in paper (or other material).
+
+In very moment when transfigurated zone is high enough so earth under him collapses he uses Patronus Spell to create a Shining Sphere over the place he was standing. Enemies know that he used Patronus Charm but doesn't know that he is under ground now.
+
+2) More distraction.
+
+Harry commands Patronus Sphere to emit shining copies of himself running away in random directions. By this distraction some Death Eaters can harm each other when shining copies run between them. More important is that enemies will try to stop copies and this will give some strategic freedom. Enemies may think that this spell give invulnerability to other spells. By this reason and because of Magic Resonance Voldemort opens gunfire but he needs to shoot every copy to be sure that it is not Harry.
+
+I don't know how Harry should invent this tactical feature. May be "I should send message to many people. Why not to try do it at one moment by several Patronuses?"
+
+(Very VERY Risky plan: Harry may not create a cavern but try to run away among shining copies inside one of them, there is a ridiculously little chance that he escapes.)
+
+If splitting of Patronus or creating multiple of them is not allowed...(You can give part of your magic to Unbreakable Vow or to revive someone but you can't split your Patronus or create bunch of them - it is unfair.) Harry uses 'Accio pouch', patches hole in ceiling and makes Patronus Sphere slowly move to Hogwarts pretending that Harry is inside and protected. (May be he kilsl Death Eaters as I will write down the text.) When enemies (Voldemort) leave he climbs out of cavern ('shaping Finite Incantatem or reverse Transfiguration on paper') and uses Time-Turner if it makes sense. If portkey in pouch he can use it. Patronus can call some help (Mad-Eye Moody, Amelia Bones etc.)
+
+3) Here come options and variants. Harry may implement some or all of them.
+
+a) Kill Death Eaters.
+
+Bubblehead Charm, transfigure air in cavern in CO2 (Carbon dioxide) - this will prevent lighter gasses to fly into cavern, then
+
+\#1: transfigure air upon the ground in O2 (oxygen). More oxygen. Enflame. Death Eaters barbequed.
+
+or
+
+\#2: transfigure soils around in O2. Not too much. Sparks from spells shouldn't ignite air. Death Eaters breath this O2. It's in their body. 'Finite'. Death Eaters are dead.
+
+May be there another strategies.
+
+b) Summon The Sorting Hat by 'Deligitor Prodeas' (Harry saw Weasley twins to use this). This cannot hurt.
+
+May be Hat give him an artifact. May be even Gryffindor's Sword (because he brave enough: there are no Gryffindor's Heir's in canon). Thus Voldemort can be defeated: get rid of Death Eaters, then Harry makes Patronus Sphere to emit many big blobs of light. In one of blobs the Sword is levitated. It fly behind Voldemort, then cut off his head from behind. Or may be cut off Voldemort's limbs: arms at first, then legs. Harry don't want Voldemort to die: he will kept alive but incapacitated while all his horcruxes aren't destroyed. May be Voldemort can be put on drugs to prevent him even from thinking. Cutted off head can be freezed to prevent immediate death, then the head can be attached to some 'blood pumping apparatus' (Before world War II there were successful experiments of returning to life several heads of dogs for which clinical death hadn't become yet).
+
+c) 'Accio pouch'. ('Accio Mantle of Invisiblity'.) Portkey. Time-turner. Ask for help (Moody, Bones etc).
+
+So this is the plan. Hermione probably dies from Voldemort's Fiendfyre or Killing Curse.
+
+\*\*\*
+
+One thing to tink about. Dambledore had known that Defence Professor and Harry are Tom Riddles. He even asked Harry about Defence Professors plots (about dementor at least) and "Why Voldemort?". So it couldn't be surprise to him that Quirrell is Voldemort. Thus scene in Mirror's Chamber can be image of Tom Riddles' desire. Tom Riddle (both) wants to obtain the Philosopher's Stone, Tom Riddle (Harry) wants Dumbledore to arrive, Tom Riddle (Voldemort) wants Dumbledore to gone forever. There is a huge chance that Dumbledore is not lost. He wasn't in the Mirror I suppose.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514641&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Alafiya chapter 113 . 3/2/2015
+
+Could Harry attempt to convince Voldemort that he may not have been the subject of the prophecy? The prophecy doesn't describe who this 'He' is, it could be Voldemort himself or maybe Fred/George or someone else. Although assuming that the prophecy is about Harry is the best guess, it might not actually be. Harry may have been the one who decided he'd bring Hermione back at all costs, but it's Voldemort who does most of the resurrecting, arguably. What if Voldemort, with his new-found knowledge about Muggle sciences, causes the end of the world? Would proposing this in Parseltongue be a good idea?
+Prophecies have always been known to be vague, and trying to stop one could yield the opposite result.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514343&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />SPK chapter 113 . 3/2/2015
+
+I wissh to ssee how you ssacrifice your greatesst creation by trussting the otherss with itss fate.
+I wissh to ssee Voldemort and all what he representss winss at least thiss time.
+I wissh to ssee people finally get what they truly desserve.
+
+Here iss my ssolution to your final exam. It iss encrypted with 128bit rijndael algorithm and hexadecimalized. I will posst the key after you posst the next chapter. I hope it iss going to be the sshorter and ssadder ending, but I sseriously doubt you can do that. Let's ssee if I wass right or wrong afterwardss. In any casse both outcomess equally ssatisfy me.
+
+Cheersss!
+
+TiX9S4/9TacDH1dtpUSf2QO6dyVDhtwKo2zuXfguQpazE1cIzVs8Inmx6KQlFAZHK3o1PtEF3V/l
+IHTRS1sWjBjRkR8dqYiJxIjddLSxSiRuj55l43dspEx1PBtfnARClhyU/If11XbSinfMhOUomD
+NkKwG6dNj/dEX/0mlXA7w5nllpiDEclFfQ8cZwC3rhFKeD5RAWnzXxj8wJ2dQBQpTN09iriOrV
+DSqmHFIQyJoKvK99XXeoN7GU4H3gTuGfnduq4gMLSNMTprNty8IWN2uDqmYZ48HmipJ3UULrmQqg
+nHXisRVnaVg8xL6FPxhqrZfqUjcgX8XoqclX6dBN93nwBRkJdyXt9JxEs4YVNNtlOyKbrWLJO6oe
+lwhtpzKkDDlMbM/dQW5RP6Q1/JLReV9CE0DM2Bi0WFqiw6Odr5wlOxfh2dXxmeqQPe1/pGHd0QS
+CtyBvzKYXNNcLRcRElUrr1iS4Nd77pgnyTGV480VAra56YMYN98xOgpf3GBAQ
+
+1. copy and paste it to a text file
+2. run this
+\$ base64 -d message_file ccdecrypt
+3. enter the password that will be posted here tomorrow at 08:30 AM UTC
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514307&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Mac chapter 113 . 3/2/2015
+
+When harry revived Hermione he used part of his own "soul" effectively creating some type of horcrux presumable better due to the willing sacrifice of his own instead of another's, possibly creating some sort of durable horcrux that lets both survive so long as one part does. The "soul" in Hermione is either truly her connected to harry or just an extension of harry. Voldemort consequently made harry and or Hermione a second horocrux the "dark" way giving harry twofold protection. There are 3 possible scenarios. 1) Harry manages to connect his magic to voldemort's establishing that connection from the 4th book thereby destroying Voldemort but surviving to be rescued by Lucius Malfoy his supposed ally or the ministry after the backlash from the connection knocks out the death eaters and draws the ministries attention. 2) The death eaters kill harry but he survives due to his horcruxes and Voldemort lives. 3) The death eaters kill harry and Voldemort is killed through their connection but harry survives with his horcruxes. 4) (and least probable) Voldemort and harry unknowingly created a three way bond by resurrecting Hermione with Harry's riddle tainted soul, by creating a horcrux for harry/Hermione with the diary, and via Voldemort's and Harry's connection. The enchantments Voldemort used on Hermione transferred to harry through his accidental pure horcrux/soul bond with the patronus and when harry is attacked only AKs work. The AKs kill what isn't protected by the enhanced horcrux/soul bond aka tom riddle, and possibly the portion of tom riddle in harry leaving harry and Hermione to be rescued as stated earlier via Malfoy or a knockout magical backlash.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=6579532&amp;rwid=216514288&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514288&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/6579532/eledin" class="text_1">eledin</a> chapter 113 . 3/2/2015
+
+Short version: Harry doesn't need to escape. Hermione needs to escape and find someone with a Time-Turner.
+
+Long version:
+
+Step 1: Tell Voldemort that you have a secret, but worry that it has the potential to destroy the world and you need to check with Hermione first before you share it. This is true; the secret is partial transfiguration. It implies that the only limits on what you can transfigure are conceptual; using the same logic, you could transfigure things very far away, such as stars or the core of the earth. If that knowledge got out, and powerful but insane wizard could blow up the earth. However, it is also an incredibly valuable piece of information, and you want to save a loved one, but by the vow you just took you have to ask Hermione's advice first.
+
+Voldemort will probably be interested enough, and consider it a small enough risk, to wake her up, but take away her wand and anything else she might use, and probably make you communicate by writing to each other, having a Death Eater read it, and then immediately Obliviating him. But at least you have Hermione, the ability to move around a bit, some mode of communication, and more time. (You might be able to convince Voldemort to allow you to talk to Hermione, since the risk of the secret getting out is too high, but he probably wouldn't consider the risk worthwhile.)
+
+(This does technically fulfill "evade immediate death," but I assume you want more than just buying another few minutes. If not, this does the job.)
+
+Step 2: Hermione will not be attacked by the Death Eaters; Voldemort just ordered them not to under ANY circumstances, which was a mistake. She's the one that needs to run, not Harry. Once she escapes, she has six hours to get to someone with a Time-Turner, and can call in the cavalry to create enough chaos for Harry to escape. There is also someone with a Time-Turner in Hogwarts; assuming Harry now has infinite rationality powers, he can quickly deduce who that is by thinking about the Hermione and the Bullies arc, or at least deduce that Hermione knows who that is.
+
+So, Harry needs to create enough of a distraction that Hermione can grab the cloak and run (or just run, she's mostly invincible) that won't cause Harry to be killed on the spot (even a few seconds' delay is enough, since we're Time-Turnering, and once actions are set into motion that would create that timeline, they've already happened) and will specifically distract Voldemort for long enough that he won't give other orders/just Summoning Charm Hermione back (this assumes the Death Eaters are too slow to think of that, but if you're making the Death Eaters all individually smart too, this is a much harder problem). He also needs to communicate the plan to Hermione.
+
+To do this, there are two steps:
+
+2a) Communicate with Hermione
+This is tough, since you can't predict exactly what Voldemort's security measure on your communication with Hermione will be. If you can convince him that the discussion is too delicate to do over paper (or would just take too long) and that you and Hermione need to actually speak privately, great, although Voldemort's probably not going to go for that. If you're passing papers to each other, an option is to brush the paper with your wand and begin a transfiguration, with the last part to change being the words, which will only happen after the Death Eater reads and approves the message. The plan is for Hermione to let you teach Voldemort partial transfiguration, you create a distraction, and she runs and finds someone with a Time-Turner. They should still go back and forth for a while, so the Death Eaters will get stop paying as much attention and let their guard down a bit, and hey, even Voldemort is allowed to get bored. It might by a few fractions of a second, which are crucial when deadly spells are being thrown around. As you do this, begin a partial transfiguration on several small bits of the ground.
+
+2b) Distraction
+Hermione agrees, Voldemort's attention is on you as you begin to explain, Hermione isn't being watched too carefully by the Death Eaters. As you explain, you finish the partial transfiguration on several small parts of the ground into something that will spontaneously explode loudly and brightly, but not create an actual large explosion that will cause you to breathe in debris and get Transfiguration sickness. It explodes right in the middle of a sentence; you can even transfigure something that will take a few seconds to combust, so that you won't give away the exact timing of the explosion by flinching when you finish the spell. (Make sure they explode in series a few fractions of a second apart, and in various location in front of and behind the Death Eaters, if possible.) As soon as this happens, just throw yourself to the side to dodge the inevitable first wave of spells headed your way and shoot a Stuporfy at Voldemort, just to make him have to dodge and then dodge again. Then, just put up a shield and keep running and dodging, and possibly shooting at Voldemort. All you need is ten seconds, maybe less-just enough for Hermione to slip away enough so that she's far enough away that when the reinforcements the she is going to fetch arrive, she can't tell that they've arrived (which would create a paradox). This will trigger a timeline where she gets Time-Turnered backup. That backup arrives then, enough to hold off Voldemort and the Death Eaters for long enough for Harry to escape, and Hermione to not be followed.
+
+This solution requires a few things to work out:
+1) Convince Voldemort to wake up Hermione
+2) Convince him to let you talk to her, or of the communication security method mentioned above
+3) Be able to control a transfiguration of the paper as described (we know Harry's been practicing this type of thing, and he only really needs to transfigure a small part of the paper; not every work needs to be changed)
+4) Be able to partially transfigure parts of the ground while not looking at them or touching his wand to them. This is the closest this solution gets to previously unmentioned powers, but it's doesn't contradict anything explicitly stated that Harry can't do
+5) Not get hit by the first wave of spells
+6) Voldemort being distracted enough by Harry and the chaos to not turn his attention to Hermione for the first ten seconds
+7) No Death eaters disobeying their orders and incapacitating Hermione as she runs
+8) The time-travel system actually working like I think it does
+
+1 and 2 depend on Voldemort's mood and willingness to take small risks in return for valuable knowledge. Harry can probably use Parseltongue to convince Voldemort how valuable the knowledge is, and how unlikely it is that anyone else could ever discover it.
+3 and 4 seem consistent with Harry's previously described tranfiguration abilities.
+5, 6, and 7 rely on luck, but not THAT much luck, since Harry has the element of surprise and ten seconds really isn't that much time, even for Voldemort
+8 is, I believe, similar to Harry's prank on himself when he first got the Time-Turner; once someone is in a position to set of a chain of events that would lead to reaching a Time-Turner without using the Time-Turner, the Time-Turner can cause those events to happen.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=3004517&amp;rwid=216514273&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514273&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/3004517/Lord-Xaos" class="text_1">Lord Xaos</a> chapter 113 . 3/2/2015
+
+"But alas, I fear that Professor Riddle would not have found lasting happiness in Hogwarts."
+
+"Why not? "
+
+"Because I still would've been surrounded by idiots, and I wouldn't have been able to kill them," Professor Quirrell said mildly. "Killing idiots is my great joy in life, and I'll thank you not to speak ill of it until you've tried it for yourself."
+-Chapter 108, Answers and Riddles
+
+"Because I still would've been surrounded by idiots"
+
+"still would've been surrounded by idiots"
+
+"surrounded by idiots"
+
+There have been a number of solutions listed here, a lot which rest on Harry either somehow convincing Voldemort that the only way to stop the apocalypse is to let him go, or by using partial transfiguration in a clever way (somehow without being noticed) and escaping via some type of action scene.
+
+The general idea of those paths to victory are all way and good, however, I can't help but feel like they've missed the point.
+
+The Dark Lord wants to know what powers Harry has that cannot be learned eventually (hence why Science and the Patronus charm don't count).
+
+Harry wants to get out of here alive, without any hostage-friends being taken killed, and (ideally, because Harry SHOULD try to find an optimal solution on the radar even now) to get Voldemort to give up these silly dark lord sheenagens before he starts a brutal takeover of Magical Britain and all of the world. That's listed in order of importance, because let's face it, that last one is a really, really long shot.
+
+I can't help but think that what Harry is supposed to be doing at the behest of Voldemort, and what he wants to do might be interconnected somehow.
+
+"The Dark Lord could obtain that power by studying the same books as you, Potter. But the prophecy did not say, power the Dark Lord has not. Nor even, power the Dark Lord cannot have. She spoke of power the Dark Lord knows not... it will be something stranger to him than Muggle artifacts. SOMETHING PERHAPS THAT HE CANNOT COMPREHEND AT ALL, EVEN HAVING SEEN IT."
+
+-Chapter 86, Multiple hypothesis testing
+
+So. What are these wonderful powers? Even while learning Science and with it, a doorway to Rationalist thinking Voldemort does not already have, there are STILL some things which he CLEARLY cannot and will not do as a person, which hamstring him. His constant contempt for his fellow man.
+
+He seems sad. Broken. Looking into that Bureacrat's mind and what he thought of David Monroe and Dumbledore and Malfoy and Voldemort broke his spirit. That scumbug is his primary model that he keeps for the average human being. He does not think people can improve, at least not when they have been given any autonomy. It keeps in a state of "I'm-the-Last-Sane-Man" preparedness, but it also traps him in a miserbalist existence.
+
+He's so certain that nobody can change. And it shows in how he treats people.
+
+Harry Potter meets Snape: Confronts Dumbledore himself. Confronts that Snape is part of Dumbledore's innner circle. Has Snape apologizing for hurting first year students' feelings the next day.
+
+Harry Potter confronts Lucius Malfoy when the Malfoys are the prime suspect for killing Hermione: Gets the Malfoys to join him and sets up improved security for Hogwarts students.
+
+"David Monroe" meets Bureacrat scumbag: Uses Legilimancy, realizes that he will never win as David Monroe with people like these making up the Ministry, and DOES NOT expose the Ministry as inept, DOES NOT double down on his light side persona, DOES NOT do anything to change this.
+
+He just gives up and devotes his time to winning as Lord Voldemort. How sad.
+
+He taught Harry restraint in the hopes to that he'll learn not
+
+Harry learned restraint so as to stop hurting his friends. And that was the only lesson he needed to learn.
+
+He doesn't realize that passive aggressively pretending to lose and murdering them afterwards CAN ALSO CLOSE DOORS. They can also prevent you from learning the martial arts lesson and "winning that day."
+
+Even now. EVEN NOW! Lord Voldemort can't bring himself to trust what Harry
+
+UNBREAKABLY VOWED about not destroying the world to be enough to defeat the prophecy. Why does Voldemort have to cancel the Prophecy? Why can't Harry play, too? Harry isn't even in desperation to revive anybody or push the boundaries any harder! Getting Hermione back has reset all of his plans!
+
+What kind of world is Voldemort building, anyway? Is it even worth saving? Every person he kills, or otherwise "gets under control" is another door slammed shut.
+
+POWER VOLDEMORT KNOWS NOT: Harry has the power to make people Actually Do Better.
+
+WHY LET HARRY OUT OF THE BOX: None of the following require goodness from Lord Voldemort, only realizing a flaw in his own ability to influence people. For chrissakes, HE WAS PLAYING BOTH SIDES, AND HE COULDN'T MISMANAGE THE DEATH EATERS INTO LOSING BECAUSE HE ONLY EVER HAD IT IN HIM TO PLAY BY THE BAD GUY'S STANDARD ROAD TO VICTORY!
+
+"If Lord Voldemort says that something is to be done, people obey him and do not argue."
+
+If General Chaos suggests that something is to be done, people gleefully follow or completely disobey, but on the whole they are being effective at whatever it is they do. Every single one of them has heroic morale.
+
+A world where juvinelle prankster twins can destroy popular frauds in the newspaper.
+
+A world where the son of the most powerful Death Eater can go from wanting to rape Luna Lovegood to not wanting to let a muggleborn girl fall even when she is under the effect of featherfall.
+
+Or a world where...
+
+Lord Voldemort is a control freak, and his cruelty breeds nothing but more and more idiots. More scumbags trying to suck up to him. More "normal" people doing nothing. More followers who are afraid to contradict him.
+
+AND THAT LAST ONE IS GOING TO PREVENT HIM FROM BEING TOLD THAT HE'S ABOUT TO DESTROY THE WORLD, OR SOMETHING JUST AS BAD, UNTIL ITS TOO LATE, ONE DAY!
+
+Furthermore, Harry has the power to actually keep the Unbreakable Vow to be careful about
+
+not destroying the world, which I have doubts Lord Voldemort, who is still free to do so,
+
+could. Even if he took the Vow, it can only kill him once, so Voldemort would just screw
+
+up a SECOND time and this time destroy all that lives.
+
+Besides, because Lord Voldemort was brought back to life with the help of Harry Potter,
+
+the prophecy can still credit the Apocalypse to Harry even if Lord Voldemort, in trying to
+
+destroy Harry Potter, or some other decision made down the line which might be averted
+
+with another rationalist brain on the team, and together, they could Double the Tom Riddle Power than if Voldemort went back to playing solitaire.
+
+In conclusion, Harry has to convince Lord Voldemort not that he has a power unique to himself, but a power which Lord Voldemort cannot possess. Tom Riddle thinks that killing idiots is his great joy, but is it? Or is it simply venting after living
+
+The stupidity will continue, until someone can lead them to the light.
+
+The world Voldemort will create is one with more Sheeple, not less! One with more idiots, more scumbags who want nothing more than to milk the money from being second-best bad guy. Peons! Peons...EVERYWHERE!
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514270&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />bluetraveler chapter 113 . 3/2/2015
+
+\[Making no claim as to the originality of this solution.\]
+
+Harry should attempt to convince Voldemort that killing him will complete Trelawney's prophecy. Several compelling arguments that he can make, in Parseltongue, to convince Voldemort that the probability that killing Harry will destroy the universe is serious enough for it to concern him, particularly since he's otherwise immortal:
+
+"And the Dark Lord shall mark him as his equal, \[...\] But he shall have power the Dark Lord knows not... and either must destroy all but a remnant of the other, for those two different spirits cannot exist in the same world."
+
+- 'Either must destroy all but a remnant of the other'
+- Quantity or nature of the remnant is not specified, whether a Horcrux counts as a 'remnant'
+Argument to be made: some remnant of either Harry or Voldemort must remain so as not to trigger the consequences, detailed here:
+
+"HE IS HERE. THE ONE WHO WILL TEAR APART THE VERY STARS IN HEAVEN. HE IS HERE. HE IS THE END OF THE WORLD."
+
+There are a number of cases where magic has identified Harry as Voldemort or vice-versa (e.g. Marauder's Map, clause Voldemort includes in Unbreakable Vow); Harry should make the argument that any prophecies attributable to Harry may as well be attributable to the other Riddle. Failing to convince V of this, he should suggest a damage calculation:
+- Harry is already under Unbreakable Vow not to destroy the world; the clauses of that vow were designed by Voldemort, so Voldemort may be made to concede that he thinks that they are relatively, if not perfectly rigorous.
+- Even an exceptionally small, but credible probability of an absolute x-risk should outweigh an almost certain probability of increasing Voldemort's personal utility, especially from the perspective of Voldemort, who is effectively invulnerable to anything except such a scenario
+- Harry can argue this as a line of reasoning that may not have occurred to Voldemort because of his blind spot, described in ch 108.
+- Options may exist that will complete the prophecy without ending the world, but decide for certain which option is least hazardous, further discussion would be required
+
+With the objective of escaping immediate death, this strategy seems relatively effective.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216514023&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Guest chapter 113 . 3/2/2015
+
+I think Harry's best bet would be to persuade Voldemort to keep him alive, not because it would be a good act, but because it would be in Voldemort's own self-interest.
+
+Keeping in mind his ability of partial transfiguration, Harry could speak truthfully of an "unknown power" he could tell Voldemort how to master. He could truthfully say that noone else on Earth knows how to do it, and that it would take longer than 60 seconds for him to teach the method to Voldemort. So if Voldemort wants that secret, he needs Harry alive to teach it to him, at least for the time being. For further persuasion, Harry could point out the story of the dojo where Voldemort attempted to learn martial arts, and the folly of killing those who know something you wish to learn, especially when there is literally noone else that thing can be learned from.
+
+I'd like to think that this would meet your standard of 'evading imminent death', although I admit I'm not sure how long Voldemort would keep him alive once he mastered partial transfiguration. I have a different idea for how Harry would prove his own long-term value to Voldemort, but it is coming from a rather different direction, so for the sake of focus, I'll stick with what I've posted here, since I'm sure you have thousands of these to read. If you're interested in this further angle of persuasion, feel free to email me at .
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513956&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Guest chapter 113 . 3/2/2015
+
+Logically, killing Harry eliminates the possibility of other options, and it's conceivable that events have already been set in motion such that his death seals the fate of the world. A safer option would be to put Harry into temporal stasis (such as with the mirror).
+
+This seems especially possible since the story suggested Harry would aim to destroy death, and that idea is incarnate in the human patronus which just reversed death in a now unkillable girl. Her death motivated Harry's actions leading to this situation, and now part of his life and magic are inexorably contained within Hermione.
+
+With such uncertainty about the nature of Harry's apocalypse, it's a much better plan to render him unable to affect the world, but not totally beyond restoring if needed.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=4236049&amp;rwid=216513944&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513944&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/4236049/adad641" class="text_1">adad641</a> chapter 113 . 3/2/2015
+
+Whelp, let's have a go at this then. Starting off with the classic move:
+
+Lesser Poly-morph Any Object seems to be Harry's greatest asset available while standing stark naked with only his wand. Visualizing extremely thin strips of skin from his hand or leg going down into the ground he can transfigure across the dirt and up into brains and hearts of the 36 remaining Death Eaters and just outside their necks, making a nano-tube noose ready to slice their necks in case the bubble of venom next to their hearts didn't do the job when he punctured its membrane. Transfiguring the pockets of venom and nano-tube wire, he also sends out a filament of buckytubes up towards Voldemort's head. Surrounding it, he flagrantly sidesteps McGonagall's warnings about gases and transfigures solid hydrogen all around it, freezing it. As blood spills out in litres and Voldemort falls in his stylish black robes, Harry screams out Aguamenti, encasing Voldemort's head in ice.
+
+37 thuds later he has a bit of breathing room. Harry uses this to grab or Accio the stone from Voldemort's corpse. First step is preventing transfiguration sickness by touching the stone. For Step 2 he begins blatantly stealing Voldemort's resurrection spell for his own nefarious purposes. Using the handy ritual instructions Voldemort left him, he can cast the body-growing part of the ritual using a bit of his blood, hopefully working as with Hermoine and produces a dead muggle without the requisite blood/bone/flesh. Using the Patronus charm, he can banish the death of the dead Muggle and create another Harry-Tom.
+
+Grabbing the wands off the Death Eaters and handing them out to the newly minted Potter Persons, Harry can now mass produce Harry-Toms 37 times faster. He should now take the time to declare himself Potter Prime, Riddle Regent, and the \*\*Slim, Prim, Nth Dread Reformatter O' Joy\*\*! (An anagram of Harry Tom James Morfin Potter Riddle that would spread far and wide despite Prime's best efforts and which he would evermore regret.) After the obligatory chanting and applause at the Coronation and negligible but promising increase in the average IQ of Humanity, Potter Prime absconds with his pouch on one of Quirrell's severed limbs. Other wand-brandishing Lieutenant Potters follow suit, piling or hanging off of the strained broomstick enchantments on his other limbs and the enchanted rods pilfered from Voldemort's corpse (His corpse being carefully placed inside his pouch). Following them and heading out in all directions (though mostly towards their best guesses of Hogsmeade and Hogwarts) are a horde of naked Potters in search of wands and clothes.
+
+As soon as they exit the warded area, the Plethora of Potters will all simultaneously think of their steadfast determination to stand against the darkness, their indomitable will to protect, their righteous fury at Azkaban, and other such Warm-and-Fuzzy-with-a-core-of-Cuendillar thoughts to summon Fawkes in their time of need. Once he ditches Dumbledore in his moment of peril and joins Potter Prime the Protagonist the Potter Pals split ways, taking the Phoenix express to such interesting places as Ollivanders, the Evans-Verres residence, The Shop With Those Cool Tents And Other Undetectably Extended Items, Gilderoy Lockhart's, and quite a few off to Azkaban.
+
+The team sent off with the pouch to Gilderoy's house uses the information gleaned in an off-screen yet utterly canon conversation with Mad-Eye Moody to enlist his services defeating the greatest Dark Lord Magical Britain had ever known, and get credit for something he actually did. After a few false starts and memory gambits Lockhart agreed and obliviated the cooled barely-living body of Lord Voldemort.
+
+Back at Azkaban, the Potter Possey finally fulfilled Fawke's plea. After blasting away most of the Dementors with the might of Harry Hundredfold the small army makes Azkaban one of its bases of operations, utilizing Dementors as a defence and attempting to restore what humanity and comfort they can to the criminals and prisoners interred there. Along with this, they finally clothe themselves in Dementor's robes and feed Voldemort/Riddle Prime's wand to the Dementors. The Azkaban Assault team takes the name of Death Eater Eaters.
+
+Another part of the Potter Platoon take this time to cast bubble-head charms and set up camp on the Moon with their newly gained stock of Extendible Tents. They use the philosopher's stone to give permanence to even more transfigured clones. Harry Potters spread throughout the surface of the moon and create a civilization of cooperation and enlightenment, destined to live on and reach for the stars even if all on the Earth failed and Voldemort came back.
+
+Hermoine wakes up thoroughly confused.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=5715501&amp;rwid=216513922&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513922&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/5715501/Dread-Blossom-Swarm" class="text_1">Dread Blossom Swarm</a> chapter 113 . 3/2/2015
+
+Convince Voldemort to swear an Unbreakable Vow.
+How? Well I believe Harry can explain the following in Parsletongue.
+Voldemort has done things in the past that he later regretted, most notable delaying the wizarding war and not testing his horcruxes before imprinting Harry. There is no particular reason to believe that he won't make mistakes in the future, but there is a way to prevent that - swear an Unbreakable Vow to follow his CEV.
+This depends somewhat on the exact nature of how Unbreakable Vows work, but the existence of the Mirror of VEC proves that the Source of Magic at least understands the concept of CEV.
+Bonus points if he can somehow convince Voldemort to go back to the mirror or use the mirror as binder somehow.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513907&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />MrEaters chapter 113 . 3/2/2015
+
+The SIMPLE answer is that since blood of two non-related people was used to resurrect him, he gets blood poisoning during some clever stalling on Harry's part and collapses, convulsing on the ground, dying only a few seconds later. SCIENCE.
+
+But since that's probably not what you had in mind, here's my serious answer:
+
+The answer, of course, lies in the original work by J.K. Rowling.
+
+In the seventh book, Harry is faced with a similar situation, although his rational thinking part is completely absent.
+
+Assumptions (I haven't read the entire fanfic yet, I jumped to this chapter to take part in the exam after getting to chapter 70):
+1. Voldemort does not know that he accidentally turned Harry into a Horcrux.
+2. Harry is still that Horcrux. This makes sense in my opinion, as he can still speak Parseltongue, and without a bit of Voldemort's soul in him he wouldn't be able to, as Voldemort is the Heir of Slytherin, not Harry.
+3. Very useful, but not required: The six Horcruxes Voldemort actually made were all destroyed.
+
+So Harry, in an act to save his friends, says (in Parseltongue, of course):
+"There is one power you yet truly do not understand, and that is to know when it is time to die. Kill me now and you will know."
+Or something to that effect that makes Voldemort kill him directly.
+
+As was the event in the seventh book, Voldemort succeeds in destroying his second-to-last link in life. Harry is not killed, merely knocked unconscious for a few hours. Voldemort, who is not yet a full rationalist, does not think to double-check the result that Harry is dead. He leaves, taking his Death-Eaters with him, and Harry wakes up a few hours later, having figured out rationally what had happened, where he was, and how to return (without Dumbledore's help as was needed in the original book as Harry was an idiot in the books). Harry then can seek out Voldemort on his own terms and kill him when he's ready, if he wishes to.
+
+Note: Voldemort will probably quickly realize that he didn't actually kill Harry, and go after his family, friends, etc. He won't be able to do anything to them because Harry's intent to save his friends and family from suffering by sacrificing himself ala the original work by J.K. Rowling.
+
+This is the general solution. Finding the particular solution (that is, filling in the gaps with detail and such) I will leave up to you.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=6579658&amp;rwid=216513719&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513719&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/6579658/Not-Algernoq" class="text_1">Not Algernoq</a> chapter 113 . 3/2/2015
+
+Maximum dakka solution: Out of time and out of better ideas, and having concluded that it would be better to be dead than to live under an all-powerful Voldemort, Harry decides to perform a Dark ritual that sacrifices his Phoenix-core wand to create a Floo Network that connects the heart of every major sun with the heart of every other major sun simultaneously and thus turns the entire Universe into one gigantic hyperspatial supernova. Thinking better of it at the last second, and frantically partially Transfiguring a molecule-thick "cauldron" extending to the necessary item, Harry also sacrifices his Time-Turner, creating a supernova that extends through all of time as well as space.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=2874970&amp;rwid=216513679&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513679&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/2874970/Lord-Tangerine" class="text_1">Lord Tangerine</a> chapter 113 . 3/2/2015
+
+So, a naked, magical me against Voldemort and a bunch of Deatheaters, with only a few minutes to get out of the situation? Honestly, its not even a remotely fair contest. But, before I tell you the "viable solution," I would first like to point out a very important mistake on Voldemort's part.
+
+You see, Voldemort may be smart, but he sure as hell is no computer programmer, nor a logician. As such, he made a fatal error with the Oath he made Harry take, in that the terms of the oath themselves compel Harry to do his best in ensuring his utter destruction.
+
+Let me explain. First, the oath compels Harry to "take no chances" with the destruction of the world. Yet, "take no chances" is not the same as "take no unreasonable chances" - indeed, it leaves no room for error and compels action in all instances. But, to what end? (pun intended). This brings us to the second point - the term "world" is not a defined term, which means Harry would have to interpret it. Yet, any colloquial interpretation of the term "world" on Harry's part will lead to problems for Voldemort, and these problems get progressively worse the broader the term is applied.
+
+Aside from the strictly ego-centric interpretation (e.g., I am my world), one of the most, if not the most, narrow interpretations of the term "world" - thinking of Harry's "world" in terms of his relationship with other living human beings - would "merely" require the complete and utter destruction of Voldemort in all possible forms. You see, while ordinarily Harry might be inclined to give in to blackmail and nobly sacrifice himself so that his friends and family may live, the oath demanded of Harry to "take no chances" with the destruction of "the world." Because Harry can't be sure that Voldemort's (or DE's) actions won't lead to the destruction of everything he holds dear, i.e., "his world," he would be compelled to conclusively remove the threat.
+
+Things get progressively worse with broader interpretations. For example, if "the world" is meant to be "the world as we know it" or "civilized world," then Harry would be compelled to kill Voldemort by any means necessary, since Voldy's admitted dictatorial ambitions would most certainly threaten the world order as we know it. The same will be true if "the world" means "magical society;" however, if the term also includes muggle society (or especially if it means mainly or \*exclusively\* muggle society), then Harry may be compelled to either eradicate or bind all magic and magical beings in existence due to the potential threat the magic may pose to "the world" so as to "take no chances" with its destruction.
+
+Things may get even worse if we think of "the world" as "the planet." In this instance, Harry knows with close to a certainty that the Earth will eventually be destroyed by the Sun when it goes Red Giant. Thus... there could be only a few ways of Harry "taking no chances" here - from building a Dyson Sphere, to moving the Earth to a safe distance... to, of course, destroying the Sun as a potential threat. Doing any of these things would require the acquisition of at least limited immortality and a great deal of power, and would also require the elimination of all opposition so as to "not take chances" with the outcome.
+
+Thinking of the "world" as the "universe" presents similar problems in the context of the Heat Death of the Universe, which is inevitable unless Harry becomes a God capable of reversing entropy at a universal scale...
+
+The point is, none of these interpretations of the term "world" bode well for Voldemort - because all of these interpretations would, as a side effect, necessarily compel Harry to fight rather than let himself be destroyed.
+
+But how to achieve the destruction? While there are quite a few ways to choose from, if I were in that situation, I would go straight for the big (but-invisible-and-pretty-much-undetectable-until-you-are-paralyzed-and-choking-on-your-own-tongue) guns: Chemical Weapons.
+
+Yes, as you may have guessed, my opening move is as follows: Harry speaks in parseltongue to buy time and uses partial transfiguration to transfigure the ground and/or air into lethal quantities of any number of colorless, odorless(or nearly so), and absolutely deadly, fast-acting neuro-toxins. Offhand, VX, sarin, and soman nerve gasses are three solid choices that are capable of paralyzing and killing everyone in the general area (with the exception of Harry (due to him being able to wandlessly finite himself), Hermione, and, \*possibly\* Voldy in 60 seconds or less. However, if you do a little online research, you could find many other candidate substances that are colorless, odorless (and/or nearly so), capable of passing through skin and clothing (including latex gloves), and just as lethal as the first three in being able to rapidly pass through the blood-brain barrier, causing paralysis and death with even a microgram of exposure. Anything beyond one of these substances would be overkill but, if it were me, I would probably go with a variety of toxins because, let's face it, anything worth killing is worth over-killing...
+
+The next move would be a very rapid, physical attack on Voldemort - possibly using a coiled, transfigured monomolecular string(s) to shred him into pieces before he could so much as lift a finger. The easiest way to do this - if it were me - would be to simply wandlessly "finite" my glasses - which would really be transfigured ranged monomolecular tube-launching weapons in disguise - while looking at, and therefore "targeting" Voldy. (Come on, you have to admit that it is plausible Harry came up with such a weapon after the Troll incident. Sometimes things need killing quickly... Why didn't he use the "glasses weapon" on Voldy earlier, you may ask, instead of shooting him? Reflex, perhaps - finite takes time and requires aim. He also lacked the necessary motivation prior to the Oath). If "transfigured glasses weapon" seems like too much of a hack, keep in mind that, with time travel, effect can precede cause. Even if Harry, not being me, lacked the foresight to pre-transfigure such a weapon, he could always go back in time after Voldy is shredded and switch out his own glasses with the weaponized duplicates.
+
+Even if the glasses trick is STILL not allowed (come on!) I am sure Harry could transfigure a similar weapon using his wand - it would just be more difficult and require more time, and would require an inconspicuous target (such as nails or body hair, or even the wand itself, for example). The outcome (dead Death Eaters, shredded Voldy) would not change.
+
+After Voldy's body is dismembered, Harry should "finish him" by casting the Patronus to cause magical resonance with the Wraith, hopefully destroying the energy-based being and/or shorting out the resurrection stone (thus causing Voldy to be once again stuck in his horcrux network).
+
+The End ;)
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513613&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Jymn chapter 113 . 3/2/2015
+
+Ok. So, without looking at any other posts…
+
+We know from the troll and unicorn whose powers were given to Hermione, that being transfigured doesn’t kill you outright (it’s the transfiguration sickness afterward that gets you.) So, I think the best bet to keep Voldemort from coming right back via horcrux is to transfigure him into something innocuous such as a pebble, and then use the philosopher’s stone to make it permanent.
+
+Failing that, maybe a dementor’s kiss. That seems like more of a long shot, but if they actually consume the soul-as in change it into fuel-it might be different than normal death which just severs the soul, and therefore horcrux proof.
+
+Of course for either of those things Voldemort needs to be incapacitated.
+Assuming Harry can’t make a dementor appear out of thin air (Quirrel mentioned a ritual once using a rope that has hung a man and a sword that has slain a woman to summon death, but even if the specifics can be substituted, Harry making a new, instantaneous, functional, dark ritual on the spot seems a bit much)
+The only other weakness I can think of is the magical resonance with Harry. If Harry could touch him with just a tiny bit of magic… (when they were talking about transfiguring the toe ring they mentioned pushing and pulling magic around. It may have never been relevant to any other wizard how large his magical “bubble” is, but if Harry could extend his magic radius through force of will the way he wills magic into and out of transfigurations, that seems hard for Voldemort to dodge. Otherwise, any little spell like somnium would do.
+
+Hopefully the resonance will again result in unconscious snake and quickly recovering Harry. (It’s possible Voldemort has a new counter-measure, but if there was something he could do he would have done it before he even met Harry, unless he gained new information in Azkaban, but I can’t think what that would be)
+
+But there is the matter of the Death Eaters
+Voldemort said he “commands” their dark marks. Harry is Tom Riddle so I’m really hoping he can command the dark marks too. We don’t know how that is done, really. It’s wordless and wandless, but that’s for the best in Harry’s situation, and we know it’s probably as easy or easier than casting Avada Kedavra is for Voldemort, or he would have done that to the mutineer instead (since they were all just summoned via dark mark I don’t think he really needed to remind the others they existed. I’m hoping it was a hint for readers. But then I worry Voldemort is playing on a higher level, trying to get Harry to waste precious brain space trying to command them, but I digress) Harry could try just pushing magic at them and will-powering it. It worked on the dementors, after all. Now, the only known command is “be ripped apart,” and Harry wouldn’t want to do that, but defeating Voldemort would be worth the life of a death eater (or two, or six, or all of them). He’s already decided to stop playing batman rules. He could choose a death eater who has been identified so he knows it isn’t Lucius (as a favor to Draco). I think a death eater randomly exploding should be enough distraction if Harry casts somnium at the same second. Then the resonance will hopefully distract the death eaters from the whole “attack the boy who lived” thing) But that’s assuming “explode” is the only command he’s got. I’d expect “mark becomes searingly, crucio-level painful to be an option (for when the dark lord is disappointed in you but can’t be bothered to come by and crucio you in person) And that would be a split-second of Voldemort distraction plus helpless death eaters. I’m assuming the dark marks can’t be used imperius-style, because that would be overly convenient, but if they could, it would work splendidly.) -I guess you could say commanding the marks is a “new magical ability” which he is not allowed to develop… but, it isn’t new to Tom Riddle, and the Marauder’s Map says he is Tom Riddle, so I think it’s fair game.
+
+Once Harry’s got Voldemort resonanced unconscious, he has to grab the stone and convince the death eaters not to kill him. That shouldn’t be too hard since very few of them wanted Voldemort back in the first place. It would be nice to see Lucius step up and be useful. Then a death eater needs to transfigure voldemort into a rock or a piece of metal. Maybe titanium or something in case the destruction of the transfigured object somehow constitutes death and frees his soul. And then Harry can use the stone to make it permanent. (Or get a death eater to take Voldemort to Azkaban for a kiss-there are fast ways into Azkaban)
+
+Oh, and to stall for time, Harry can use the top level of his occlumency to slowly and carefully explain the higher level of the patronus charm, while he tries to use his dark side brain patterns to get commanding a dark mark or whatever all figured out.
+
+I worry Bellatrix Black is in play somehow but I really don’t know in what capacity, and she does have a dark mark.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513594&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Mahasim chapter 113 . 3/2/2015
+
+"I will not give you sssecretsss or power, becaussse I believe the chancce of the world ending increassses if I do. Alssso, potential for world'ssss end increasssesss if I die."
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513584&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Daniel Speyer chapter 113 . 3/2/2015
+
+My ending to HPMOR
+-
+
+Harry tried talking. He argued that the world was safer with him as a guardian than without it. He pointed out that prophecies were confusing things. He offered to help resurrect Salazar and Merlin. Voldemort wasn't impressed.
+
+But as he spoke, he was transfiguring. His wand was pointed at the ground and his bare foot was touching it. Soon a ring of the rock around his feet wasn't rock anymore. Then the hard part. The second transfiguration was just to make it bigger, but the shaping was the important part. Keeping the path in his head while he said sufficiently interesting things to hold Voldemort's attention...
+
+And when it wasn't getting any better he let it go. The ring of carbon nanotubes expanded rapidly at waist height. Even looking for it, Harry could barely see a thing. Beneath the moonlight glinted a tiny fragment of silver, a fraction of a line.
+
+It passed through the death eaters without slowing, and for a moment Harry thought without effect. Then the Death Eaters began to crumble (black robes falling) and blood spilled out in litres. Someone screamed.
+
+And Harry realized that he was the one screaming. Driving his transfiguration through Voldemort's body had set off their resonance. But he wasn't dead, and with any luck Voldemort was hit harder. He couldn't stand, but he crawled fast.
+
+He gathered his gear, including the all important time turner, and then grabbed the Stone and Map on general principles. He wished he could take Hermione, but the enchantments were set against that. He flipped the time turner.
+
+He couldn't.
+
+Anti-time wards. In which case there were also probably anti-apparition and anti-portkey wards. Harry needed to get out of those before Voldemort possessed a new body and caught him. How long did that take? He had no idea.
+
+But the information wouldn't change his plans anyway. He stood up, wrapped himself in the Cloak and ran for the edge of the graveyard. Was it his imagination that he felt something when he crossed the border? Maybe, but it cost nothing to check. He flipped the time turner.
+
+Harry paused to catch his breath. For almost the next hour, Voldemort would be securely in a body. If he could find and destroy the resurrection stone in that time, he'd be safe.
+
+He had no idea where to start.
+
+“What was I saying about us not being up to this?” his Hufflepuff side asked.
+
+“Good point,” Harry said.
+
+\*I am still going to save everyone.\*
+
+\*I am going to save everyone with help from my friends.\*
+
+EXPACTO PATRONUM
+
+“Go to Dumbledore. Not the one in the mirror. Tell him everything's at stake and I need him now.”
+
+The patronus went.
+
+Harry pulled on his clothing, then transfigured his shirt and slacks into kevlar and made it permanent with the Stone. As long as guns were in play, he wanted every advantage. He left his robe alone.
+
+As he finished, Dumbledore appeared in a flash of phoenix-fire. “What's happening?”
+
+“In a little less than an hour, Voldemort will steal the Stone and break free. I'll discorporate him, but that won't hold him long unless we can get the resurrection stone first. And he's decided to stop playing around like he did in the last war.”
+
+“And me?” Dumbledore asked.
+
+Harry looked down. He hadn't anticipated that question. He really should have.
+
+“I'm dead, amn't I?” Dumbledore said.
+
+Harry nodded.
+
+“Then I'd better make the best use of the time I have. Tell me everything; I'll obliviate myself later.”
+
+“That works?”
+
+“So long as I decide to do it now.”
+
+“I'm not sure I have time to tell you \*everything\*.”
+
+“Do you trust me?”
+
+“Yes,” Harry said, and was surprised to discover he meant it.
+
+“Then drop your shields and look me in the eye.”
+
+Harry relived the past few hours all at once. The concentrated emotion nearly overwhelmed him. Had Dumbledore spoken a single word of blame, or even of forgiveness, he likely would have curled into a ball right there.
+
+But the old man did neither. He pondered a moment and spoke: “I believe we're going to want Miss Granger with us on this quest,” and he silently shot off a patronus message.
+
+A moment later Amelia Bones appeared in the clearing, her time turner looped around both her own neck and Hermione's. Harry was pretty sure his time turner couldn't do that. Apparently there were perquisites to being head of DMLE.
+
+Dumbledore shared a heavy glance with both of them. Amelia nodded grimly, while Hermione seemed to shudder.
+
+“One hour to find and destroy the resurrection stone?” Amelia said, “It's been lost for centuries. And now You-Know-Who has gotten it more lost?
+
+Then Hermione spoke. She spoke slowly, softly, almost idlely. As if she'd gone past panic and straight out the other side.
+
+“You know, I'd always wondered why unicorns were classified as major magical creatures. They don't seem to do very much. But the senses... Headmaster, you're a virgin?”
+
+“Yes. I fell in love once, in my youth, unwisely. Ten million people died. In my head I know it wasn't really my fault, but I've never really been able to open my heart since.”
+
+“I'm sorry,” she said, and turning to Bones, “And you're -”
+
+“None of your business,” Bones snapped.
+
+“Of course. But my new senses are good for more than that. I can feel the horcruxes. They're dirty. Corrupt. Twisted. They're like bruises in my mind.”
+
+“We need the one that's a deathly hallow. It might feel kind of like this cloak,” Harry said.
+
+“Or this wand,” Dumbledore added.
+
+Bones looked at them in shock. Hermione only concentrated.
+
+“Got it,” she said. “But we've got incoming. Feels like he wasn't depending on the stone. He also set horcruxes on people with access to time turners. Looks like I can't catch all of those in time. They're here, and they're coming for the two of you. I guess it's up to me to get the stone.”
+
+“It'll be guarded by deadly traps,” Dumbledore warned.
+
+“Deadly to a mountain troll / unicorn hybrid? I doubt it. Fort up wherever you can. I'll handle this.”
+
+“How will you even get -” Harry started to ask, but a phoenix appeared on her shoulder and she was gone.
+
+“I'll go summon the cavalry,” Bones said, and disapparated.
+
+Harry turned to Dumbledore, “Does this mean the 'power the Dark Lord knows not' was just being friends with Hermione?”
+
+“It \*is\* completely beyond his comprehension.”
+
+\* \* \*
+
+Aftermath:
+
+“I would like to state for the record that it is after the Ides of May. Also, he bit me first. Furthermore, he had poisonous fangs at the time.”
+
+\* \* \*
+
+Further Aftermath
+
+Harry tweaked the wormhole generator one more time. Dumbledore stepped out.
+
+“I knew you would get me. How long has it been? What have I missed?”
+
+“About fifty years. There are some new flavors of candy.”
+
+\* \* \*
+
+Even Further Aftermath
+
+Pulling Atlantis back into the timestream was going to require a lot more energy than Harry could lay hands on through normal sources. He felt a little guilty about just taking what he needed, but it wasn't like anyone was really \*using\* Vega or Rigel...
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=938965&amp;rwid=216513575&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513575&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/938965/Jay-F" class="text_1">Jay-F</a> chapter 113 . 3/2/2015
+
+Here are the ideas which I think are feasible. After I list them I will propose a plan of action to implement as many of them as is feasible.
+
+\#1 Tell Voldermort about partial transfiguration and ask that Harry Potter’s life be spared, use Voldermort’s Parseltounge truth binding against him. He does not specifically exclude Harry/Tom Riddle from the people he offers to spare, also since Voldermort considers Harry and Tom Riddle to be separate asking for Harry to be spared might get around the implication in Voldermort’s statement that the people who could be spared are ‘others’. Harry would very carefully define himself to avoid Voldermort’s feeling that Harry and Tom are separate allowing him to ‘kill’ one of them.
+
+\#2 Work w/ Voldermort’s utility function and offer to go on a tour of the universe using magic to travel between stars. Intelligent conversation, no idiots, the stars. Early on in the story Voldermort states that he could be happy just floating in the stars forever. This is not an attempt to change him or his utility function, just to work with it as it exists.
+
+\#3 Transfigure ground into air, do not inhale while speaking in parseltongue to V given the car battery he previously he should be able to transfigure a few pounds of dirt which is an awful lot of air. Given the respective volumes of dirt and air a mass to mass conversion should result in lots of air which will spread rapidly and be inhaled by Voldermort and his death-eaters (or death inhalers as the case may be). As soon as his use of magic is detected or he can no longer keep exhaling he reverses the transfiguration putting small amounts of dirt in everyone’s lungs (which should be short term incapacitating and long term possibly lethal). Even if he fails and dies he should at least take lots of death inhalers with him which gives his friends and loved one a fractionally better chance against Voldermort. Since no wand movement is needed for transfiguration and he is pointing at the ground anyways this should be feasible.
+
+\#4 Apparently Harry has a gift for making rituals (as told by Professor Quirell) given the desperation of the situation if he can gain a tiny bit of time and space he could try sacrificing his mastery of a deathly hollow for two minutes of Dumbledore’s presence (since Dumbledore is now stuck in a situation which it seems like he might be summoned from).
+
+\#5 Die, then take over Tom Riddle’s horocrux network and posses someone to re-enter the game.
+
+The course of action I would propose is thus: \#1 tell Voldermort about partial transfiguration and ask to be spared. If he says yes: success! If he says no try \#2 and see if Voldermort’s utility function can be turned to less homicidal purposes, if yes than abscond with him to invent interstellar magical travel. If no and not yet dead then tell him another secret (just make something up that seems feasible, maybe something about carbon nanotube shields) while implementing \#3 and attempting to incapacitate/kill everyone breathing in the area. If this fails Harry promptly dies and can hopefully attempt \#5. If this succeeds than Harry should flee at all due speed enervating Hermione as he passes by if possible but that is not hugely important given how protected she is. Assuming he is not immediately cut down by someone who can function well with dirt in their lungs he should attempt \#4 while sprinting away saying something along the lines of “Nitwit, Blubber, Oddment, Tweak, mastery of death, invisible to its all-seeing eye, power to evade the end of all things. I give thee up to conjure Albus Percival Wulfric Brian Dumbledore, Albus Percival Wulfric Brian Dumbledore, Albus Percival Wulfric Brian Dumbledore” there is no real hope that this will work but if it did it would probably result in his salvation and it gives him something to do with his lips while he runs. If he escapes enough to work his way back to civilization then success! Otherwise he dies and can attempt \#5.
+
+Overall this course of action has a low chance of success but it is a non-zero chance and is the best I was able to come up with. In these circumstances with these restrictions and capabilities this is what I would do.
+
+P.S. this was done following the rules and no reviews or other HPMOR material was read while considering it. I enjoyed the exercise but sincerely hope we do not get a short sad ending.
+
+Thanks for writing,
+Jay
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513427&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />PLD chapter 113 . 3/2/2015
+
+Goal is to escape first. Plan depends on ability to use time turner.
+
+Lose. The first thing he needs to do is lose. Can use this as reason to drop the wand, if needed, and keep it in contact with skin and ground. Crying might help. Delay conversation as much as possible through longish explanations. If asked if he is betraying can say (“always” or “naturally” or “teaching hidden knowledge” (by example)) Voldemort cannot touch Harry’s wand. Partial transfiguration trick that was mentioned before, I think. Basically draw a connection (buckytube or the like to make it very thin/strong/ and very low volume so quick) between self (foot) and time turner. Surround clothes (cloak especially). Single turn. Bonus if can touch Hermione on alter to take her along for the ride. Double bonus if Potter snaps fingers right before disappearing.
+
+Next steps
+If gets back an hour, cloak on, take another 5 turns. Find Dumbledore for help. Possibly in mirror room. Confess all. Exchange self for Dumbledore as Voldemort too strong for Potter. (Who then becomes “the boy who lived…forever” :-) Albeit in a mirror) Dumbledore raises small army (Dumbledore, Moody, Bones, Battle wizards, etc.) Wait in graveyard for Potter to vanish. Anti apparition jinx. Shoot to kill Death Eaters. Voldemort not as strong without soldiers. Wide area anti broomstick ward/charm/jinx cause Voldemort to fall. Contain or kill. Buys time. Deal with Voldemort resurrection later. Note unclear if Philosopher’s Stone that mirrored Dumbledore threw away was real one. Possibly 2 or more floating around. Ie, Couldn’t you transfigure rock to Philosopher’s Stone and make permanent with the real deal? Perhaps Voldemort has duplicate Philosopher’s Stone with a fatal flaw.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=6579626&amp;rwid=216513385&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513385&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/6579626/adam-m-smith" class="text_1">adam.m.smith</a> chapter 113 . 3/2/2015
+
+Ok - here goes (forgive the rough train of thought). No magic, just Voldemort hoist by his own petard:
+
+The Unbreakable Vow now in place, Harry is forced to limit his destruction of the world to a low impact as possible, up to the ability for Harry to fulfill the intent of the Vow.
+
+Additionally, if Harry were to form a true intention to prevent destruction, then any action he takes that furthers his death - or Voldemort's success - will be prevented by the Vow.
+
+Therefore, Harry cannot share information that helps Voldemort, even if that offers a small chance of success over the certainty of Voldemort's smaller destruction.
+
+If he does not, then Voldemort will kill Harry, which is Very Bad(tm) for the fate of the world, according to Dumbledore and Harry's own estimation.
+
+Therefore, the Vow itself is forcing a future of destruction.
+
+This leads to the possibility of Harry being able to ignore the Vow in this regard, if his fully trusted friend agrees.
+
+He therefore is allowed to share info, if his friend agrees.
+
+Harry offers to Voldemort, then to tell him a secret, but explains - all in Parseltongue - that he must check with his friend first. In this case, only Quirrell will have the full context required to make this determination, and, unlike Hermione, Quirrell speaks Parseltongue, which is required to ensure that Harry is telling the truth.
+
+As Quirrell is dead, he suggests that Voldemort do the same trick with a self-Confundus again, turning himself into Quirrell for a time.
+
+Voldemort is, understandably, skeptical - but Harry assures him that (a) the Vow is entirely in effect and the letter and intent is being followed and that (b) the information is novel and incredibly useful (he is thinking of partial Transfiguration).
+
+So Voldemort self-Confounds into Quirrell. Post transformation, Harry quickly explains - in Parseltongue - to "Quirrell", which helpfully is not understood by any of the Death Eaters, the situation, and suggests that he use the sorcerer's stone to make the Confundus permanent, which he does.
+
+At this point, a variety of options present themselves to clean up the Death Eaters, including Quirrell acting as if the Confundus charm wore off and commanding them, etc.
+
+I also contend that the "form of the real Albus Dumbledore, as though he were standing just behind the Mirror and visible through it" was still very much a reflection and artifact of the mirror. Therefore, it's almost certain that Dumbledore isn't dead/banished, and therefore also that the Sorcerer’s Stone isn't actually the real stone. However, its effect was sufficiently similar to permanency to fool Voldemort, at least in the short term, so should still suffice to extend Quirrell's "existence". If the stone \*is\* real, then Voldemort is "gone".
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=2654797&amp;rwid=216513356&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513356&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/2654797/75th" class="text_1">75th</a> chapter 113 . 3/2/2015
+
+(PLEASE SEE DISCLAIMER AT BOTTOM.)
+
+This is another "Transfigure invisible threads" answer, but instead of trying to attack the Death Eaters directly, move them over to the Time-Turner, on top of it, and finally produce there the largest quantity of sulfuric acid you can create before it stops being a contiguous object. Whatever crazy effects happen when the acid eats through the shell onto the actual Time-Turner may be a suitable diversion.
+
+(Also, Harry doesn't even need to rescue Hermione, since Voldemort is clearly and truly dead-set on protecting her.)
+
+DISCLAIMER:
+
+I don't have a solution I'm really happy with. I've been too busy this weekend and today with parenting duties to do much thinking. I don't think I'm capable of producing a good "Convince Voldemort" answer, particularly one that's not already done. And I find myself helplessly drawn to partial Transfiguration solutions, especially since (1) Dumbledore said it may be Harry's critical advantage, and (2) you went to the trouble of giving him Transfiguration-shaping abilities at the \*last possible moment\* for them to be useful.
+
+And but so, long ago I predicted with 85% confidence that someone would break a Time-Turner to get out of a sticky situation, and given my lack of superior options, there's no way I'm going to fail to bring it up about the stickiest situation in the entire story.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=2404662&amp;rwid=216513347&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513347&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/2404662/StupidityNowOffersWisdom" class="text_1">StupidityNowOffersWisdom</a> chapter 113 . 3/2/2015
+
+Hahaha good job EY. Serious planning fallacy here, eh?
+
+I do think that the mirror simulation and AI box hypotheses are legit, so yeah.
+
+It started with Dumbles's alleged death and erasure from timespace, because the Mirror had him sucked into his simulated fantasy of being able to kill off Harry (and earlier, Dumbles). I think. And I think magical resonance would have pulled Harry into the Mirror with Quirrelmort.
+
+So ideally, Harry should be breaking either the fourth wall to exit the Mirror, or just destroying the Mirror from inside out by partially transfiguring a fingernail/hair into antimatter particles.
+
+Or so I would think.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=6579615&amp;rwid=216513211&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513211&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/6579615/sirlabreck" class="text_1">sirlabreck</a> chapter 113 . 3/2/2015
+
+(Mind that English is not my native language)
+
+This plan is wrong, by meta reading you are clearly not seeking an "action" plan. But in term of action plan, it is probably the most feasible and realist one I can come up with.
+
+1. Harry start talking about what he think he know of the prophecy. Raise the question of how sure Tom Sr. can be that the prophecy refer to him.
+2. At the exact moment where Tom Sr is slightly distracted by his answer, Harry transfigure an important amount of photon (very tiny small amount of antimatter).
+3. Harry immediately jump toward the True Cloak of Invisibility.
+4. Grab the cloak, use it and leave. Grabbing the Time-Turner if possible, optional.
+5. Once away, make immediate contact through his patronus with Mad-Eye.
+
+Harry has put time in the past in creative thinking to gain advantage on the battle field. Blinding enemy was done in the last army battle.
+
+Tom Sr doesn't know about partial transfiguration. A few micron grams of antimatter would make a pretty big explosion. Less would suffice for a flash bang. From memory, matter-antimatter reaction is mostly photon and particle decaying and emitting radiations.
+
+From the story, we can infer that unless the radiation immediately kill Harry, someone can heal him of the worse.
+
+Uncanny reflex or no, Tom Sr. would need to risk the magic resonance and is the only one who will think about the True Cloak of Invisibility and the Time-Turner. A semi-automatic would not be an effective solution to get a target without clear sight.
+
+The majority of Death Eaters are going to be disoriented, the rest are just going to shoot were they are pointing. Such a blinding would last for more that a few seconds.
+
+This doesn't rely on: new power, convincing Tom Sr of anything, defeating everyone or talking being critical.
+This can be devised in less that 60 seconds by Harry.
+This rely on precise timing and distracting enough Tom Sr.
+
+PS: My other plausible hypothesis involved guessing that the second level of transfiguration existed, that Harry can stall for enough time (5 minutes if the past warrant the future), that second level of transfiguration can bypass most limitation. Once there, Harry could have made himself transparent, grab the cloak and leave.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513209&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />wisterian chapter 113 . 3/2/2015
+
+Harry was counting the seconds automatically, and it wasn’t improving his mental state. The inside of his head felt as though his mental personalities were all shouting at the same time. Fifty-one, fifty, forty-nine... With a great effort of will, he managed to still the tumult in his head enough to concentrate on the problem.
+Define the problem, said Ravenclaw, what is the problem?
+The problem, replied Hufflepuff, is that in less than a minute we are going to die and there’s nothing we can do about it unless we start talking which we clearly won’t do I DON’T WANT TO DIE—
+Not helping, said Harry.
+Maybe we should start talking, suggested Slytherin, it would buy us some time, which by the way we desperately need.
+Hmmm… said Ravenclaw, Well, the only useful secrets we have are partial transfiguration and the patronus 2.0. Granted, we also discovered how to make the Sorting Hat temporarily sentient, but that one’s a bit of a stretch…
+BAD IDEA, said Gryffindor, VERY BAD IDEA. DO NOT TELL THE MASS-MURDERING PSYCHOPATH ANY SECRETS OF MAGIC. AT ALL.
+Thirty-three, thirty-two, thirty-one…
+We’re running out of time, observed Ravenclaw, and I don’t see you coming up with any clever ideas.
+I’m actually with Slytherin on this one, said Hufflepuff. We can’t do anything—world-saving or otherwise—if we’re dead.
+FINE, said Gryffindor, but we can’t talk about partial transfiguration. Unless you’ve forgotten that Voldemort holds the Stone?
+That’s okay, said Harry, I don’t think Voldemort could cast the True Patronus at present, so for now it is the least damaging of our admittedly very bad options.
+In the real world outside of his head, Harry Potter opened his mouth and began hissing about dementors and the rejection of death as the natural order. He thought about the words as they formed in his mind, but his mouth moved on autopilot as his mental conversation turned to other matters.
+Now we can focus on staying alive, said Slytherin. What does Voldemort want, and how can we exploit this knowledge?
+He wants to not die and for the world not to end, said Harry.
+A bit like us, observed Hufflepuff. So what do we do?
+The first obvious course of action, said Slytherin, is to attempt to hold the world hostage by threatening to destr—
+NO
+It was a sense of doom, although one utterly unlike that which resulted from the resonance. For one thing, this came from inside of himself, in the newly-formed pathways and directives that the Unbreakable Vow had carved into his brain. His speech faltered for a second before he continued, hoping that the momentary lapse could be interpreted simply as nerves.
+Okay… so “no” to that idea, then. Hufflepuff’s imaginary voice sounded ever-so-slightly shaken. Now what?
+We need to hurry this up, said Gryffindor, we are almost done explaining and I refuse to release another secret. Especially one related to transfiguration in any way.
+I suppose, said Ravenclaw slowly, that we could find a way in which we could be vital in preventing the destruction of the world. WITHOUT threatening to destroy it ourselves, it added hastily before the Doom could return. We already know that Voldemort will take no chances.
+That’s… not bad, actually, said Gryffindor. But how could the world possibly be destroyed at all?
+It will die eventually, of course, without intervention, said Ravenclaw, but other than that? Um, massive nuclear apocalypse, sufficiently large antimatter explosion, time paradox, falling into the sun… wait a minute… TIME PARADOX
+If the prophecy is averted, you mean? Asked Hufflepuff. Assuming it works on the same basis as the Time-Turner…
+DO NOT MESS WITH TIME, said Ravenclaw, and Harry could sense the rest of the imaginary personalities nodding in agreement. We don’t know the exact wording of this prophecy. It might be ambiguous enough to allow aversion in a less destructive manner than Voldemort seems to imagine. Anything is arguably better than messing with Time, since we don’t know what that would do, although it sounds suspiciously like something that would erase an old civilization from the universe…
+Speaking of time, said Slytherin, you’re out of it. If we’re all in agreement, then it would be in your best interest to speak now before Voldemort kills us.
+Harry took a deep breath. “Teacher, iss something elsse I think you should conssider…”
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513194&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />GauntletSpirit chapter 113 . 3/2/2015
+
+Well, I've been frantically flailing the past few days and as the deadline draws near have come up with exactly ZERO things that would get Harry out of this. ; Kid's stuck. The best I've been able to think of:
+
+-His glasses are still touching his face. Somehow transfigure them so that they filter harmful light out. Partially transfigure a bit of magnesium and light it, blinding everyone but himself.
+
+and/or
+
+-Transfigure the ground into a gas that can be inhaled, giving everyone except Hermione transfiguration sickness. Mutually assured destruction.
+
+Now, let's see what others have come up with. I've been dying to read the other reviews and see all the ideas.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=5534424&amp;rwid=216513107&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513107&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/5534424/lahwran" class="text_1">lahwran</a> chapter 113 . 3/2/2015
+
+I briefly pondered whether a death threat against the author would satisfy the rules. unfortunately, I'd have to be able to carry it out, and I am against death somewhere around as much as the author is, so more realistically I'd have to settle for torture. And I don't have that morally available to me, either, anyway.
+
+In-world, though, as far as I can infer, voldemort's goal seems to currently be reducing the risk of harry \*causing\* something that destroys the world - he does not appear to be concerned about harry's interests in \*preventing\* something from destroying the world. He also doesn't appear to have \_any\_ physical approach left to him - there are a few one-shot tricks he could try, as evidenced by the number of foolsW people suggesting them in reviews, but those would result in him getting killed. It appears that the only routes available to him involve saying something that is true from his perspective.
+
+If there were something bad that would happen if harry died, then he could use that. It would have to be bad enough to outweigh the potential destruction of the world, unless he can reduce the risk. So, my approach would be twofold:
+
+1. increase cost of killing: Tell voldemort: "the true nature of life-eaters is likely world-threatening, and threatening to your life if known," (it is), "and you will not be able to cast the defense without changing your \[utility function (substitute parseltongue)\], but the secret too easily discovered if you don't have prior knowledge to bias you" (holy crap it is; and this is what I expect to keep him alive, that it's a threat voldemort can't defend against and will need to), "and I am interested in staying alive to minimize death, especially under oath to not cause it, to teach others of how to defend against life-eaters". I do not expect voldemort would interrupt this much, except to question, and then harry can proceed to say the rest of the explanation once the interruption has passed.
+2. decrease threat of leaving alive: Tell voldemort: "I'm impressed by the restrictions of the vow, I don't think I could destroy the world now. I also don't think I could have before; I already avoided such things with all my heart, and understood the risk, since you warned me last. I don't know the full prophecy, but if my guesses from the partial prophecy are correct, then it is more likely to be about things that would appear to be destructive to those who do not understand, but are not damaging to any lives or experiences, such as siphoning stars for energy, and deep-core mining empty planets, such as earth after everyone has left."
+
+PS. if you use the bad ending, and I ever meet you, EY, I'm soooo gonna slap you. (Softly. With words.) And I'm making an active effort to optimize for meeting you.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=2833676&amp;rwid=216513084&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216513084&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/2833676/balancegrim" class="text_1">balancegrim</a> chapter 113 . 3/2/2015
+
+I'm not sure if my last review posted correctly. I wasn't logged in at the time so I will repost just in case.
+What is Hermione doing at this time? With the regeneration of a troll and the revivification of a unicorn she is probably awake and has been for a few minutes. maybe enough to take stock of the situation. If she makes or serves as a distraction then the situation could devolve into a fight. The death eaters have been told not to kill her and very few other spells would disable her.
+Harry is outmatched in a fight but has a few strong points. If any spell of his hits Voldemort, collides with Voldemort, or possibly if he just touches Voldemort then the resonance backlash would come into effect. Harry presumably knows a basic shield spell (which if we're going by the movies is wordless), or could transfigure a shield from the ground given a moment. Both of which should block a bullet or most spells.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216512972&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Cleepall chapter 113 . 3/2/2015
+
+Blah blah partial transfiguration blah blah explanation of time magic blah bla precommitment blah blah Harry figures out a way to survive the death of his body in 60 seconds. Whatever it is, other reviews have it covered. Every idea of my own, I have been able to find on reddit.
+
+I have been following this since god knows when, I can't even remember any more. Probably damn near the whole five years it's been running, five years of my life I have spent with anticipation of THIS updating in the back of my mind. I am not one of the people who reads this story for rationality, I read it because I love good storytelling, I love a good plot, I love made-up worlds with real imaginary people in them. And due to these shenanigans of yours, I have no idea how to feel about your story anymore.
+
+Stories aren't just stories. When an author begins writing, they aren't just arranging words in a pretty pattern. They are creating an entire new universe where the story happened. I am sure you don't need me to tell you this, or at least, I was sure, until this 'exam' of yours. Sir, you are NOT TAKING YOUR OWN STORY SERIOUSLY. In the universe you have created, your story already happened. If we, your readers, alter the words you write, that does not change what already happened in the universe of Harry James Potter-Evans-Verres.
+
+All stories have one true ending. It is the author's job to execute that ending to the best of their ability. By presenting this "final exam", you have turned the entire universe of your creation into an elaborate word problem, on a scale greater, but in essence identical, to the oh-so-hated questions that children get on their math tests.
+
+I implore you: ignore all solutions. Tell us what really happened in the world you have made, even if the true ending is shorter and sadder. I want to know what the true fate of Harry James Potter-Evans-Verres is, not what he would have done in an alternate universe.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216512905&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Cat chapter 113 . 3/2/2015
+
+So very many solutions saying stuff about partial transfiguration have been posted that I hesitate to inflict another upon the universe but, not having the patience to read through all of them to see if this particular variation has been proposed, here is a thing that I would do if I were Harry: offer to teach him the way to do this partial transfiguration stuff. As far as I can see, Voldemort will not accept anything Harry has to say that is not useful to him, and short of Harry ascending to godhood in the next minute, I don't see any physical action Harry could take that would not get him wiped from existence. The fact that Dumbledore considered the whole partial transfigure-thingy "power the Dark Lord knows not" might lend the option enough importance that said Dark Lord would allow Harry to live long enough to instruct him in the mysterious ways of timeless physics and conceptual limitations. This would buy Harry more time and a chance at life, which at this stage, is what Harry has the best hope of actually getting.
+
+Unless, of course, Voldemort would so very interested in a trick for making the Sorting Hat sentient that he would happily offer Harry his freedom in exchange for that precious bit of knowledge.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=6578654&amp;rwid=216512899&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216512899&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/6578654/Shazek" class="text_1">Shazek</a> chapter 113 . 3/2/2015
+
+"Wait, teacher! I proposse alternate path, different way to handle prophecy! You have no need to kill me, and I do not believe you dessire to do sso."
+
+Voldemort hissed in reply, his derision clear, "I ssaid not to wasste your time on thoughtss of esscape. Care you not for parentss? But I sshall humor you, a final time. What might you have thought, that I have not?"
+
+Harry tried as hard as possible not to let his terror show, sinking as deeply into those patterns of thought he had once called his dark side as he was able. Clarity tempered his fear. "I proposse bargain. You dessire, above all elsse, to avert prophecy? I do not know the wordss, but I fear you learned wrong lessson from lasst. You believe I will fulfill prophecy unknowingly, sshould I live, yess? Then bind me with new oath. Bind me to obey you abssolutely, with regard to prophecy. If prophecy might be fulfilled in ssome good way, you of all wizardss would besst see how, but sshould you kill me, you losse ability to ssteer eventss. If you agree to be bound yoursself to only usse oath in good faith, to prevent apocalypsse and ssteer events to the better, I will be sso bound."
+
+Voldemort did not move, his face stone. Then, slowly, he began to laugh, in his high, cold way. "You would bind yoursself to me? Become my sslave, in this matter? You appeal to my pride, sstudent. You have learned to losse. But I sshould think it ssafer to ssimply kill you here, though I might prefer otherwisse. Now, your ssecretss!"
+
+Desperation crept into Harry's voice, even through the hissing cadences of Parseltongue. "Pleasse, teacher! Though you did not undersstand nature of great creation sso well ass you thought, you were right, about the lasst prophecy. Sshape this one, ass you did the lasst! Fate iss not sso bleak ass may appear! You will never come to undersstand nature of life-eaterss alone, nor ssecretss of Patronuss. Together, we can do more than you alone! Bind me not to sslay you in truth, ass your cursse was meant to do. You have power to prevent threat of prophecy more ssurely with me alive than dead, it iss in your besst interesst!"
+
+The Dark Lord pondered. "You truly believe thiss, do you? Sso be it." And in human speech, "Mr. White, I have another task for you."
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216512898&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />PrioriIncantatem chapter 113 . 3/2/2015
+
+Priori Incantatem
+
+Imaginary figures made of smoke slipped out of Harry's wand even as his magic ran down through his body into the ground.
+"This is crazy," Slytherin complained. "We have to get \*all\* of them, if we miss even one we die, we should \*talk\* to him -"
+"He'll never let us live without at \*least\* an Unbreakable Vow not to oppose his conquest," Gryffindor said. And that was that. There would never be an amicable settlement between him and Lord Voldemort, for those two different spirits could not exist in the same world.
+
+"We're naked," Ravenclaw said suddenly.
+Gryffindor started laughing, heartily, not consumed with nervousness over the situation like the others were. "Funny, isn't it? Who would have thought that today we'd be standing butt-naked in front of Lucius Malfoy and Lord Jugson and all the Death Eaters on the Wizengamot? Everything about this situation is funny. The Dark Lord made sure we couldn't cast any spells, couldn't use any magic except the \*one\* power he knows not, the one power we've held in reserve all this time - and he \*asked\* to know about it! Well, he's about to see for himself what it can do."
+"It \*is\* funny," Ravenclaw said. "It's \*too\* funny. Things like that don't happen just for the sake of comedic coincidence!"
+Harry paused.
+"Keep Transfiguring!" Hufflepuff urged. "Leave the thinking to us, don't get distracted, you only have sixty seconds!"
+"He took our clothes, but not our wand," Slytherin said slowly. "That's two irreconcilable levels of paranoia."
+There'd been a sense of \*unreality\* to the whole thing, ever since Professor Sprout and \*that\* whole farce...
+Aloud, Harry said: "I notisse that I am confussed."
+Parseltongue. "Can we trust Parseltongue?" Hufflepuff asked.
+Parseltongue was a verbal interface for controlling snakes and a private language for Parselmouths, those two abilities \*sort of\* went together, \*and\* it was a curse that prevented the speaker from lying, and \*that\* was as crazy as a stone that makes you live forever \*and\* makes gold. Was there an underlying ability that tied it all together? There surely \*was\* a sufficiently complicated explanation if you were motivated enough, but should Harry expect -
+"Of course not!" Alastor Moody's imaginary voice barked from behind Harry, making him flinch. "Use your head, boy! Someone Confunded you to think you couldn't lie in Parseltongue, then Obliviated you!"
+Of course. It was exactly the same trick that Harry had used on Draco. Harry \*believed\* that he couldn't use Occlumency to fool himself, and that made it true.
+"And Voldemort doesn't know we know," Slytherin said. "How can lying help us?"
+"If you come up with a lie that sounds \*really really likely\* to work, we'll \*consider\* making Voldemort angry by testing this crazy hypothesis," Hufflepuff said. "The rest of you, keep thinking! Except you, you keep Transfiguring!"
+
+What else? What else didn't fit?
+"Voldemort used somebody else's torn-off arm to summon the Death Eaters," Gryffindor said. "That's an idea \*we\* had for maybe tricking them, hacking the system without putting Severus in danger. Why would the Dark Lord need to do it that way instead of just making a new Mark? Maybe it's not him?"
+"Table that," Hufflepuff said. "What else? What does he \*want\*?"
+"He wanted us to try to kill him," Ravenclaw said. "Except...that was one of the things that didn't \*feel\* right. It felt weird and overacted, and the supposed curse didn't make any sense. No one in class X can do Y to anyone else in class X, unless someone in class X does do Y to someone else in class X. Maybe he had a \*different\* reason for tricking us like that?"
+"Maybe. What else?"
+"I was going to say the story about Perenelle Flamel - everything else was him answering our questions, but he volunteered that story, which he had no obvious way to know and definitely had no reason to think was important to mention to us. But that was part of getting us to try to kill him, putting in our mind the idea of a student killing a beloved Defense, or rather \*Battle Magic\* Professor."
+Gryffindor furrowed his brow. "That still doesn't feel like a \*real\* explanation, any more than following Snape was a sufficient reason for him to be at the door, storytime is not what our mental model of Professor Quirrell would actually produce for that goal."
+"Anything else?"
+"Dumbledore was acting like an idiot," Ravenclaw said.
+"How DARE you!" Gryffindor bellowed. "He died because of \*your\* stupidity, and you're -"
+"And it's your job to make us all feel bad about that," Ravenclaw said. "\*My\* job is to \*notice\* that he was being \*stupid\*. His master plan relied on the world's greatest Occlumens not being able to fiddle with his own mind. It's fine for him to not think of the Confundus \*specifically\*, but \*honestly\* -"
+"His plan wasn't stupid if it \*worked\*," Hufflepuff said simply. "And it did work. Or it would have, if we hadn't screwed it up."
+"That reason Voldemort escaped wasn't us," Ravenclaw said. "It was the Cloak of Invisibility. Voldemort could have taken it from our pouch without our permission, and Dumbledore knew it, because he did it himself! And he knew that someone could guess that we \*had\* the Cloak of Invisibility without being told, because he did that himself too! Maybe Dumbledore isn't good at plotting, but he should have run this plan by Snape, then. Snape would have thought of what \*he\* would do if he were trying to get at the Stone, he would have thought of the Cloak \*instantly\*."
+"We \*were\* the reason Dumbledore \*died\*, though," Gryffindor said grimly. "He wouldn't have sacrificed himself for any other hostage."
+"Except Master Flamel," Hufflepuff mused. "Voldemort could have tried to \*capture\* Flamel instead of killing him. Dumbledore obviously thought it was important that Flamel stay awake past his evening, for our sakes."
+"Stay on point," Slytherin snapped. "What's going on with this whole situation? Maybe someone else could fake the sense of doom, there's probably lots of ways to do that, but whether it's him or someone else, what's the point, who benefits?"
+"You're not still trying to figure a way out with \*lying\*?" Gryffindor asked.
+"Let's not fight among ourselves," Hufflepuff said.
+Gryffindor shook his head. "Yes, yes. Well, obviously, he wants to see partial Transfiguration in action."
+"He doesn't \*know\* we have -"
+"Of course he does! The rest of you don't want to see it, but of \*course\* he captured Professor McGonagall and ripped her mind apart."
+"No." Hufflepuff was shaking from the thought, but his voice was firm. "It's the same as you said before, that doesn't feel like a \*real\* explanation, if he's already seen us do it in her memories then what does he gain by seeing it again?"
+
+The Transfiguration was almost complete.
+Slytherin grabbed Ravenclaw's arm. "Hey, you. We can obviously tap into his memories, that's where we got the locations of the Horcruxes, even though we didn't realize it. Try to do that again, cast the spell to make thirty-six -"
+"You're not \*serious\*," Gryffindor said, disgusted. "We don't have to \*kill\* them, we can -"
+"I will follow the path of the superhero as far as I can," Slytherin quoted. "But if I can't - if anyone dies, not just an Important Character like Hermione or Professor McGonagall but a single nameless innocent bystander who catches a Cutting Curse - then the gloves come off and the villains die as fast as possible. That's what you agreed to. And if we're going to kill them \*anyway\*, thirty-six pieces of us that make us immortal \*and\* are probably toxic to the Dark Lord would be a \*really nice side benefit\*."
+"Is \*that\* it?" Ravenclaw asked. "A test? A test of our intent to kill?"
+"It is a test," Hufflepuff said slowly, "but it's not Voldemort giving it to us."
+"Then who is, and \*what result do they want\*?" Slytherin said urgently.
+"Dumbledore gives tests," Gryffindor suggested. "At some of them are pretty weird, like setting fire to a chicken and trying to convince Hermione not to be a hero."
+"Both of those examples don't show that \*this\* is something Dumbledore would do," Ravenclaw said. "They show the opposite. The graveyard, the chanting obelisks, making what looked like a person explode - this is like something \*we\* would think of, or Professor Quirrell, or Tracey Davis. It's a lot like what we pulled on the bullies, in fact."
+"Which could mean the test is by someone who was there, or heard about it, and is making reference to it," Hufflepuff said.
+"But, wait, no one knows about partial Transfiguration, except Professor Dumbledore and Professor McGonagall. Do you think \*Professor McGonagall\* is behind this? I mean, really? This isn't a mystery novel, it's not the character you least suspect."
+This wasn't a mystery novel, the killer wasn't \*required\* to be someone introduced in the first act...
+
+Whoever was behind this wanted a particular result, just like they wanted Harry to try to kill Professor Quirrell. The story of Perenelle Flamel and Baba Yaga...certainly got Harry \*thinking\* about...
+
+Assume Dumbledore's death was staged. Look at what happened, ask who benefits. The effect on Harry was...complicated. It certainly made him feel \*bad\*, it made him feel...the way he would feel if Dumbledore died to save him...
+
+Somebody obviously knew about partial Transfiguration, McGonagall wouldn't have told anyone without Dumbledore's approval, only Dumbledore could tell someone, \*it had to be someone Dumbledore would confide in\*, but Dumbledore didn't confide in anyone - except, perhaps, his own teacher, the one who tested \*him\* this way, taught him to do that but Dumbledore himself was different, \*his\* tests were always gentle -
+
+If different observations seem to point in incompatible directions, it means the true hypothesis is one you haven't thought of yet.
+
+"I do have a power I've kept sssecret," Harry spoke aloud. "But you're tessting the wrong thing. My \*real\* power is that I wass able to \*think\* of it. Everyone elsse thought it
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216512896&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />A LEGIT SOLUTION chapter 113 . 3/2/2015
+
+This solution involves both dialogue with Voldemort in Parseltongue and the use of Harry's previously developed ability for PARTIAL TRANSFIGURATION. Aware that he cannot speak nor raise his wand, Harry has already arrived at the fact that he must extract himself from the current situation via free Transfiguration, as it is "all in the mind to begin with...No words, no gestures. Only the pure concept of form." As Voldemort does not know nor understand Harry's command over the concept of Transfiguration, he has not anticipated Harry's use of it in this situation.
+
+Nonetheless, Harry has to this point always needed to touch his wand to the object that he Transfigures. He has realized, while standing with his wand pointing to the ground, that this is not in fact a limitation on his use of Transfiguration: as he can already conceive of the timeless formulation of quantum mechanics, he is already aware that the wavefunction in position is a physical entity - moreover, that the wavefunction representing the present state is not localized to some physical object in the real world, but permeates reality. Therefore, there was really no need for Harry to ever bring his wand in contact with physical objects that he wishes to transfigure (and, nb, this is really NOT Harry learning something new, since it was stated in chapter 28 - he's just never explicitly put it to practice).
+
+At this point, let us consider that Harry now has full command over physical space, within the constraints of his ability to conceive alternate physical realities. Here's one way this might play out:
+
+Harry is limited now by how quickly he can transfigure things and how many objects he can transfigure at once. We will assume that the act of transfiguration is not overtly detectable, unless transfigured objects are explicitly examined (as Dumbledore had to inspect all transfigured objects in Harry's possession and did not notice the toe-ring). Assuming that Harry can only transfigure one object at a time, and that melting a person's brain would be noticeable (them falling, which would result in one of the death-eaters firing at him), Harry must incapacitate the death-eaters without them immediately outwardly changing. Assuming a reasonable knowledge of the anatomy of the human brain, Harry could very very briefly transfigure a thin shell of tissue surrounding the frontal lobe to hydrofluoric acid and then remove the transfiguration, resulting in the resection of afferents and efferents (thereby cutting off the lobe from the rest of the brain). This should keep the Death-eaters looking the same outwardly (at least while Harry quickly repeats this procedure on the rest of them); once finished, they should be pretty totally incapacitated with regards to doing anything harmful.
+
+Say Harry does this quick (and brief) series of transfigurations on the Death-Eaters. Depending on how much time it takes, he will either be finished with it in 60 seconds, or will have to continue doing it while in conversation with Voldemort.
+
+I'll get to the conversation with Voldemort shortly, but there still is the issue of Voldemort's gun, which I'll assume is an actual gun, and therefore subject to Harry's partial transfiguration (ie: more acid melting to jam or disable the gun).
+
+Despite all these transfiguration shenanigans, Voldemort most likely has a wide variety of clever and deadly techniques that he could use on Harry. So, to really get out of this situation, Harry will have to engage Voldemort intellectually - more than he ever has before.
+
+The argument Harry will make is as follows: Yes, he does have powers that Voldemort "knows not" (such as command over physical space, that would be very useful in combination with the Philosopher's Stone). These powers he obtained through the scientific method and through examination of assumptions that people have made in the magical world. The scientific method works great for individuals, but it works much better when multiple people attack problems together (or separately, and pool their results). Voldemort has been mistakenly fighting the previous war, and has not yet rationally adjusted to the fact that he is now truly immortal. As a true immortal, his biggest fear should now be boredom, which we already know to be a susceptibility of his (cue references to the great muggle existentialists). Harry can posit that it is highly desirable to Voldemort to obtain a true understanding of the magical universe, as both the process of gaining that understanding, and the endless application of it, would surely result in endless diversion for Voldemort (and those working with him). Essentially, Harry will admit defeat ("finally knowing how to lose") and propose joining Voldemort in a quest to understand magic, which he will (intend to) gradually parlay into the uplifting of all man (for the purposes greater numbers of people furthering the understanding of muggle science and of magic).
+
+Naturally, Voldemort will question Harry's actual ability more fully understand magic, at which case Harry will raise his wand, snap his fingers, and the death-eaters will stare dumbly at him while Voldemort demands that they shoot him. Cue escape or joining of Voldemort and Harry FOR SCIENCE.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=6578915&amp;rwid=216512820&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216512820&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/6578915/TacticalTunic" class="text_1">TacticalTunic</a> chapter 113 . 3/2/2015
+
+Harry uses partial transfiguration on the skin on his leg to destroy all of their wands and weapons. he then summons fawkes to escape. Given time, he uses his theory on phoenix travel to travel back in time significantly further than time turners allow. he observes the locations of every horcrux as they are being made. he also ensures that hjpev knows to meet with hermione. moments after harry disapears, an older stronger harry arrives, simultaneously destroys every horcrux and puts voldemort down
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216512789&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />Pencillum chapter 113 . 3/2/2015
+
+Harry can wordlessly cast the Patronus Charm, as proven by TSPE (Chapter 54). He should do this using the thought of rejection of death as a thing for anyone, in direct opposition to Quirrelmort's indifference in killing. This will hopefully allow Fawkes to arrive and teleport him to Azkaban, thereby allowing Harry to survive. If not, at least he blocked a Killing Curse (Chapter 54, again). If he does end up blocking a Killing Curse, continually cast Patronuses until he blacks out from magical exhaustion or the Death Eaters can't cast the Killing Curse anymore, whichever comes first. Obviously one scenario is more optimal than the other, but in either case, Harry has evaded "immediate" death.
+
+<a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216512779&#39;,%20560,%20510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" />230980982-023984 chapter 113 . 3/2/2015
+
+OK, so with one minute to midnight: the mirror WAS completed, Harry can self-reflect the way Voldemort doesn't seem to be able to, and any world that Voldemort wants to live (forever) in would be better defined by his Harry iteration, anyway. Plus, prophecies indicate backwards causality, so maybe the one thing that Harry can do that Voldemort can't is leave things alone when necessary? Don't mess with \[Time\].
+
+I think Harry gets let out of the box.
+
+<a href="https://www.fanfiction.net/pm2/post.php?uid=5328148&amp;rwid=216512724&amp;subject=re:+Your+review+to+Harry+Potter+and+the+Methods+of+Rationality" class="calibre6" title="&quot;Reply to Review&quot;"><img src="assets/61/34/images/image.png" title="&quot;Reply to Review&quot;" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/comment.png" /></a> <a href="javascript:var%20t%20=%20xwindow(&#39;https://www.fanfiction.net/report_review.php?reviewid=216512724&#39;,560,510);" class="calibre6"><img src="assets/61/34/images/image-1.png" class="calibre7" alt="https://ff74.b-cdn.net/static/ficons/error.png" /></a><img src="assets/61/34/images/image.jpeg" class="calibre8" alt="https://ff74.b-cdn.net/static/images/d_60_90.jpg" /><a href="https://www.fanfiction.net/u/5328148/wimseyfan" class="text_1">wimseyfan</a> chapter 113 . 3/2/2015
+
+There are already many solutions I like just fine, and I can't believe Voldemort would be so stupid as to try to avert the prophesy by killing Harry. He should just have Harry periodically and permanently put under with the Draught of Living Death, so long as Voldemort has power to do so. Voldemort will consider that once he's dead (no longer able to administer the potion), he won't care if the prophesy is fulfilled or not, so Harry can wake or die.
+
+I also can't believe the premise: I find hard to believe that Dumbledore would fall for the "surprise, I stole Harry's invisibility cloak, and here is a student you care about in the mirror" trick, which would have been the FIRST solution anyone would think of when they were thinking "how would Voldemort (who I know is coming) try to escape from my trap." So I'm in the camp that the Phil. stone is almost certainly not the true stone, and will backfire on Voldemort, or that they are actually presently in a mirror-alternate universe, or some other plot from Dumbledore. Only Voldemort's arrogance makes him believe that he won against Dumbledore so easily. Also, given Harry's justified paranoia, established in other chapters, I can't believe that he went into the trap with no more preparation than he did. So I think the cavalry should be coming, because Harry set it in motion before he left.

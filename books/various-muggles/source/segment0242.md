@@ -1,0 +1,323 @@
+<span id="seg-0242__seg-0242-aabeb61880"></span>
+
+<div id="seg-0242__s4-cf02869b10" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 4
+
+<div id="seg-0242__storytext-9c93142583" class="calibre4">
+
+Caitlin Cross arrived at the Symposium, flipped through her briefing packet, and asked to be shown to a potions lab before she'd even gone to the initial meeting. Fortunately, the lab came equipped with several seventh-year students to provide guidance and a plentiful supply of most of the listed potions to provide raw materials.
+
+Obvious experiments being obvious, she used one of the knives to clip a few hairs out of her pony tail and dropped them into some of the raw Polyjuice stock. She waited, observing carefully until it finished transforming into something that looked rather like grape juice but smelled like Coca-Cola. Only when her seventh-year lab assistant assured her that the stuff was ready did she sterilize the knife and make a small cut on her hand. Sure enough, after chugging down the grape-Coke, the cut was gone.
+
+In the notepad that she kept in her hip pocket she wrote: PJuice turns u 2 state when gave hair. Hm, state or condition? reset age? Heals. Myb 4 firemen/diver/hi-risks? Gv hr b4 risk, take PJ if hurt. Temp only - need dr when wears off. Eliminates bends? Puts air back in lungs of drowner? any issue w/long term? gen much hair 25, drink 4ever, stay young?
+
+Turning to her assigned seventh year, she demanded, "Will this stuff fix brain damage? Or regrow limbs? Does it clear out fatigue poisons? How about food-if you just had a big meal when you give the hair, are you full again when you drink the juice? How about-"
+
+The student's eyes started to get a little frantic as the questions poured out.
+
+o-o-o-o
+
+Brenda sighed; back at the Symposium with all the wizard experts around to explain things, this magic stuff had seemed much clearer. Now that she was actually coming to grips with it in the field...not so much.
+
+For the ninth time she had carefully crushed her Flitterby Moth into pulp, carefully added it to the cauldron, and carefully stirred it clockwise. For the ninth time, it had entirely failed to turn green, much less the later red and orange states.
+
+"Was I stirring too far on the outside again?" she asked hopefully. "Or...maybe it wasn't fast enough?"
+
+Her teacher shook his head. "I'm sorry, my dear," he said sadly. "As far as I could see, you did everything exactly right." He paused, then hurried on with clear intent to be encouraging. "I must say, I wish all my students were so dedicated! You've learned much more quickly than any of my first years!"
+
+Brenda slumped. Damnit. It had seemed like such a good idea-Muggles couldn't cast spells with a wand, but surely they could make potions? At least the simple potions, the ones that didn't involve wand work. After all, potions were basically just cooking, right? Only waaaay more useful. The Pepper Up Potion was a perfect example-it cured the common cold! Sure, it made steam shoot out your ears for a few hours, but who the hell cared? If you could modify it into something that cured malaria and make it in industrial batches it could save tens of millions of lives...but there weren't enough wizards to produce that much that with normal procedures, and the line of experiments she was running were leaning pretty strongly towards the 'Muggles can't brew potions' camp, which meant that automation wouldn't work.
+
+She wondered idly if the problem could be the equipment, or perhaps the teacher? Malinmort Pennybristle was a ridiculous name for a ridiculous man; he spoke with a nasal precision that sounded less like a British accent and more like an American stereotype of a British accent. His hat was an enormous puce puffball with a green yarn fringe, he was thin as a scarecrow, he wore a paisley longcoat, and his shoes looked like he'd stolen them from backstage at a clown show. Despite all that, he was an accredited potions master, albeit at a third-rate school in Dover, and the equipment and ingredients were all brought directly from his classroom. He'd already demonstrated that he could use them to produce a Pompion potion that would successfully turn a rat's head into a pumpkin for a few hours.
+
+"Hmph." She glowered at the stupid cauldron and its completely non-green contents. "This is irritating. The cauldron doesn't matter; you can make a potion in a cauldron or an Erlenmeyer flask, although I can't do it in either. You can make potions using ingredients that I prepared. You can make potions using ingredients that I both prepare and add. I can't prepare potions even if you prepare and add the ingredients and I just do the stirring. So, it comes from...the stirring? Really?"
+
+"I'm terribly sorry, my dear," he said. "I did warn you. Without a magical presence, I don't think it's possible for you to perform magic, even something like potion-making that doesn't require a wand."
+
+She sighed. Magic was just so aggravating! Powerful, clearly functional, fascinating, but more aggravating than first year students!
+
+"All right, there's one more thing I want to try," she said. "I'll hold the spoon, but you move my hand in the correct pattern, all right? Don't touch the spoon, though. I want to see if magic is conductive. Oh, and you'll need to prepare and add the ingredients as well; I want to keep this to one variable."
+
+When they'd started working together, she'd spent a good ninety minutes trying to explain the scientific method to him. He'd paid attention, nodded at all the right parts, and then at the end he'd asked "Now, these variables that you're putting through the trials-does it matter if they're wild, or will farm-raised ones work?" She'd had to look at him for a minute to see if he was messing with her; he wasn't. Eventually she decided it was a better use of time to just black-box the whole thing; he had no problem doing whatever crazy thing she wanted as long as he got paid. Come to that, his time was costing her lab out the wazoo, so it was better not to waste any of it trying to cram four hundred years of scientific discovery into a brain that was, in many respects, from a medieval society-and wasn't that just a charming thought? A bunch of enormously powerful physics-breaking wizards who still believed in feudalism.
+
+He listened to the directions, shrugged, Vanished the contents of her cauldron, and happily prepped another batch of Bouncing Bulb, foxglove, and Flitterby Moth. (She'd been terribly embarrassed when she'd accidentally called it 'Fluttershy' in the beginning; fortunately he didn't get the reference.). Once everything was ready, he took her right hand in his and stirred as he dropped ingredients in with his left. She locked her eyes on how he was stirring, determined to engrave every motion on her brain so she could reproduce them perfectly.
+
+Fifteen seconds later, she had a cast iron pot full of water, plants, and some mooshed-up bugs. There was nary a trace of green anywhere, much less red or orange.
+
+"Huh," she said, staring at the cauldron. "Have to admit, I thought that would work. Okay, one more: this time, you hold the spoon and I'll stir."
+
+One more Vanishment, preparation, and experiment. She reproduced the pattern of his stirring as exactly as she could manage and...voila. An orange potion.
+
+"Goddamit," she said in disgust. "Really? As long as you're holding the the spoon, that's enough?"
+
+As it turned out, he didn't even need to be holding it. Pinching it between the very ends of two fingertips was fine. In fact, any sort of physical connection was sufficient so long as it would allow him to, in theory, stir with proper energy and control. He could stir the potion with a spoon, a ruler, or a spoon taped to a ruler. He could not stir it with a piece of thread, or a spoon taped to a piece of thread. It didn't matter if she was the one actually causing the motion. It didn't even matter if his hand was completely still, as long as he could have stirred the potion in theory. When she experimented with a plumb bob on the end of a long-handled spoon she discovered that it didn't even matter if an inanimate object was causing the motion. It just mattered that he was physically touching the object being used to stir, and had a solid enough connection that he could have caused the stirring had he desired.
+
+"Thank you, Professor," she said. "I need to go write all this up and figure out the next round of experiments. Could we meet again next month-say, on the third?"
+
+"Of course, my dear," he said with a bright smile. "It was a great pleasure; I'll look forward to doing more of these experiments of yours-I haven't worked on potion discovery since my thesis, it was good fun to get back to it."
+
+She opened her mouth to object that they weren't trying to discover new potions, they were trying to discover the rules behind potion-making...and then closed it again. Right, feudal brain. Instead of arguing she just politely agreed and ushered him out before dropping into her desk chair and turning on the word processor. *Observations on the Principles for Preparation of Alchemical Substances by non-Wizards* had a nice ring to it.
+
+o-o-o-o
+
+"Good afternoon, Doctor de Gray," Harry said as he walked in. "Do you have a moment? I was hoping to hear how the experiments with troll blood were going."
+
+"Harry, I told you you can call me Aubrey," he said. "The guy who gets the grant gets to skip the 'Doctor'. Grab a seat. And, to answer your question, the experiments are...going. Initial results were positive; add troll blood to a mouse and it starts spontaneously regenerating, even from limb removal."
+
+"I take it they didn't remain positive?" the young man asked.
+
+Aubrey shook his head. "Nope. After a few hours the mouse spontaneously develops cancer pretty much throughout its body and usually needs to be euthanized the next day. We're working on it.
+
+"We've been kicking around some other ideas, though. I was reading through the Journal of Cryptozoology about the latest studies on unicorns and dragons. Neither of them seem to have a natural end to their lifespan, and I saw something about this Voldemort guy partially resurrecting himself by drinking unicorn blood. Is that true? I can't tell with this wizarding stuff what's real and what's a joke."
+
+Harry nodded. "Yes, that was real. It did bad things to him, though-he was basically possessing Professor Quirrell, and he couldn't hold the possession full time. He would periodically lose control and the body would go into this zombie state. And it didn't work indefinitely-he told me that he would have eventually died anyway."
+
+Aubrey blinked. "He told you? When?"
+
+"Day before yesterday," Harry said. "The unicorn blood was actually the reason I came by; I thought it might make a good stabilizer for the troll blood. Looks like you already thought of it, though."
+
+"Day before yesterday. Didn't he die…a while ago?" Aubrey asked faintly.
+
+Harry nodded and pulled a stone from inside thin air next to his belt. "This is the Resurrection Stone," he explained. "It can be used to recall any spirit that you've got a close connection to." He saw Aubrey's mouth opening and beat him to it. "And yes, that could include Doctor Erdös, if we had someone who knew him well."
+
+Aubrey stared off into space for a long minute.
+
+"Huh," he said.
+
+Aubrey stared off into space for another long minute.
+
+"Huh," he said again. He shook himself, coming back into focus. "Okay, for now I'm going to ignore the apparent existence of a hyperspace pocket near your belt, not to mention this whole 'speaking to the dead' thing and the implications of life after death, resurrection, and the possibility of an actual God. Let's just finish the bit about unicorns, dragons, and trolls, and then I'll have about a sagan questions for you. Now, the obvious thing to me is if we can get some unicorn blood that doesn't have those side effects. The bit that I read made it sound like it was killing the unicorn that was the problem, not drinking the blood. So, I was wondering…"
+
+o-o-o-o
+
+A small steel ball hurled through the void; the far gone railgun that had sent it blasting up through the sky and out into space had given it more speed than any bullet mankind had ever invented, yet it barely seemed to move against the backdrop of the stars.
+
+A flash of fire next to the ball and the void was no longer empty; the ball hurtled on, uncaring.
+
+Like the Titan he was named for, Hyperion the phoenix wasn't bothered by little things like vacuum or sleeting radiation. His person, on the other hand, was much squishier, so Joel was thoroughly swaddled in the best spacesuit that NASA could create.
+
+He felt himself burn up from the noisy cargo room at Kennedy, and he felt himself burn down somewhere so silent that he could hear the blood in his veins. He kept his eyes tightly closed while taking several deep breaths. It hadn't gotten any easier with repetition, but at least he'd gotten faster so he wouldn't have to be here as long. One more deep breath and he made himself open his eyes.
+
+The universe fell away in front of him, sending him tumbling head-over-heels down a bottomless black shaft with tiny lights in the walls. Everything was silent except for his own breathing and blood, which served only to remind him of what would happen if his suit ruptured-it would be what Peri had shown him the night he came: eyes freezing, cold vacuum sucking the air out of his lungs and burning them like ice cream too long in the freezer. He wouldn't explode, of course-that was just sloppy research on the part of Hollywood. No, instead he would freeze solid and tumble endlessly through cold blackness until all the stars burned out and every last proton in the universe decayed….
+
+He locked his eyes on the satellite under his hand and fought the panic attack down. Peri leaned down and rubbed his head along Joel's fishbowl helmet, but it didn't help much. The phoenix couldn't sing in vacuum and he couldn't touch Joel through the suit, but at least he was there, another living presence in the vast lonely emptiness.
+
+The satellite was designed to be easy to set up: unfold the solar panel 'wings', check that they were locked, push the button to do a diagnostic, wait while the computer ran a starchart match and verified that it knew its location. If the green light came on he was cleared to return home. If the red light came on he should re-check the wings and re-run the diagnostic. If it came up red again, bring the thing home. No matter what, he'd be burning home in no more than four minutes, even with the time necessary to pick up the railgun bullet.
+
+The diagnostic and starchart matching took just under a minute. He'd done this three times a week for the last four months, and each time had been the longest minute of Joel's life. Lockheed was ramping up production on the satellites; soon he would be deploying one every day, then two, and eventually they had talked about the possibility of lobbing fifty per day. The astronomers wanted as many nodes as they could get in order to increase the resolution on their Space-based Very Long Baseline Array. One of them had excitedly told him that they'd be able to view exoplanets with newspaper-reading resolution, once Joel had deployed "just a few thousand" nodes. He'd nearly thrown up on the man's shoes.
+
+The green light finally came on. He sighed with relief and tapped Peri; again they burned up, and then burned down floating alongside a small steel ball with the number "193" etched on the side. It seemed odd to him that they needed to recover this particular bullet, but he hadn't cared enough to ask; he'd been too focused on the fact that it would mean another half-minute or so floating in blackness.
+
+Joel reached out and picked the ball up, then took a deep breath. This was the hard part; he needed to seem calm and excited when they burned back. If the people at NASA knew about his rapidly-developing agoraphobia they'd never let him go out again, and humanity would stay trapped on Earth. A few more years, a few more nodes in the Array and they'd be able to see exoplanets in enough detail that he and Peri could burn there. At that point he'd never have to be in free space again. He just needed to keep it together until then.
+
+When he finally felt like he wasn't going to throw up in the next few seconds, he tapped Peri on the shoulder to signal readiness. They burned back to the safe solidity of Mother Terra, Joel still clutching the railgun bullet that had been their location marker for the satellite deployment.
+
+o-o-o-o
+
+Wizards were suddenly the most desired Guests of Honor at conferences around the world; they were generally mobbed, so Ben was quick to buttonhole Mrs Dilby when he saw her standing briefly alone in the con suite.
+
+"Hi Mrs Dilby," he said. "Quick question for you, if I may: the potion recipes that I've seen have all been designed for small batches-a handful of this, a pinch of that. Is there any reason they couldn't be scaled up? Could you make a few thousand gallons at a time if you multiplied the ingredients but kept the proper ratios?"
+
+"I'm afraid I don't know," she said. She looked less like a nigh-omnipotent defier of common sense and more like a soccer mom: comfortably middle aged and a bit stout, her hair still nut brown with just a fleck or two of gray, and smile lines etched into her face. For whatever reason, she made Ben think of his Nana pulling trays of chocolate chip cookies out of the oven.
+
+"I explained to the conference organizers that I'm just a housewitch," she said. "I did quite well on my N.E. , but I haven't done any actual research. They didn't seem to mind, though." She thought about it for a moment, then added. "We did make larger or smaller batches for the N.E. , actually, although nothing like what you're talking about. Still, I can't think of any reason you couldn't do it...although what you would want a thousand gallons of potion for, I'm not sure. And it would be very expensive; every potion depends on some magical ingredient and there aren't that many unicorns, dragons, mandrakes, or whatever around."
+
+Ben blinked. "So, it's a question of scarcity?" he asked. "If you had enough of those ingredients, you could make as much Pepper Up or whatever as you wanted?"
+
+She nodded. "I expect so. You really should check it with an actual potions master though."
+
+He smiled and seized her hand, pumping it up and down. "Thank you so much, Mrs Dilby. You've been extremely helpful!" With a final slightly crazed smile he rushed off, digging his cell out of his pocket. as he went.
+
+"Hi, Dad, listen, are you still on the board of that biotech firm? I need to confirm a couple things, but if I'm right there's a goldmine just sitting here, and we'll need to move fast before someone else grabs it. Get your lawyers on the phone and tell them to start prepping some patent forms and option assignments. I'll take thirty percent equity and arrange all the necessary personnel and resources, in the meantime, tell your team to buy up all the cloning equipment they need for mass production of both animals and plants."
+
+"Damnit," Charles (never 'Chuck', thank you) snarled, throwing his pen down in disgust. "The things have cells and there *is* DNA in them, so why can't we get a clean sample?"
+
+"Try this," Ben said, holding out a tiny bottle full of a golden liquid. "It's a potion called Liquid Luck; you take it and everything goes right for you. This is enough for twelve hours, but be really careful with it; this little bit cost two million dollars, it takes six months to make, and there's only one guy who can do it."
+
+Charles took the flask gingerly and held it up to the light, examining it from all angles before poking gently at the glass stopper. "If it's this valuable, why in the world were they stupid enough to put it in a container shaped like an upside-down teardrop?" he asked. "With a stopper that doesn't fit any tighter than a perfume bottle?"
+
+Ben shrugged. "Wizards." It had become the universal answer to 'why is \[stupid thing related to magic\] the way it is?'
+
+Charles sighed in disgust. "Any side effects I should know about?" he asked. "Steam from the ears, nose hair growing to my feet?"
+
+Ben hesitated. "Slughorn said that it didn't create luck, it just concentrated it. However much good luck it gives you, you'll have an equal amount of bad luck later, and the bad luck will often last longer because it's being pulled from across a long stretch of time to concentrate in that one short stretch where you're using the potion."
+
+Charles frowned. "Hm." He thought about it for a moment, then shrugged. Pulling out the stopper, he touched it to his tongue, handed it back to Ben, and picked up the deck of cards he kept on his desk as a fiddle-toy. Hands moving with practiced ease, he shuffled once and then dealt four bridge hands. When he flipped them over it was to reveal one hand of spades, one of hearts, one of diamonds, and one of clubs. Charles's hand was spades, and in all four cases the cards were arranged by number with the high cards on the right.
+
+"Well, it works," he said. He gestured at the carefully-preserved unicorn tissue samples on the table and said "I'm going to wait and see what the fallout is from dealing bridge hands before I try to select one group of viable cells from billions of non-viable ones."
+
+Ben grimaced at the delay, but couldn't argue.
+
+o-o-o-o
+
+*Experimental Protocols for Safe Usage of Felix Felicis in Cryptozoological Cloning* became the most-referenced paper of 1995. It was sixty-seven pages long, most of it focusing on the details of the cloning process. All the bits related to the protocols-in other words, the bits that anyone actually cared about-could be summed up in a few short lines:
+
+1\. Have an expendable lab assistant drink the stuff; a viable blastocyst is not worth a divorce, house fire, car accident, and false arrest for pedophilia.
+
+2\. People dying of terminal cancer are a good choice for expendable lab assistants; try offering money to their surviving family in exchange for their help.
+
+3\. Death row inmates are not a good choice for expendable lab assistants.
+
+4\. Ferchrissake, if you absolutely must use death row inmates, don't give them more than you absolutely need to; it turns out that enough luck causes manacles to fall off and guards to spontaneously develop narcolepsy.
+
+5\. Whomever you get, train them carefully on what you want them to do *before* you give them the Luck; you want to reduce the amount of luck they need so that they can hopefully survive the backlash.
+
+6\. Be absolutely certain your expendable lab assistants haven't already used the stuff in the past twelve months, as the fallout can trash your lab.
+
+7\. Once they've done whatever you needed them for, get them the hell out of your lab and don't let them within three kilometers of it for at least a fortnight.
+
+8\. After using them to succeed at low-probability tasks, tell them to buy a ton of lottery tickets in order to bleed off some of the bad luck. It probably won't actually save them, but it will reduce the collateral damage.
+
+Everyone referencing it was doing so for those few lines; the fact that Professor Davidson's lab had successfully cloned a unicorn was pretty much missed in the furor.
+
+o-o-o-o
+
+"It's a fascinating offer," Slughorn said politely. "However, I'm afraid I must decline. Felix Felicis is my most profitable product; I'm not interested in ruining my own monopoly"
+
+Elon leaned back in his chair, carefully projecting 'relaxed and affable.' "Professor, you haven't heard my offer yet," he said.
+
+"I'm afraid it really doesn't matter," Slughorn said. "I'm flattered by your interest, but there's simply nothing that would be worth giving up such a valuable sec-"
+
+"Fifty million Galleons," Elon said calmly.
+
+Slughorn blinked. "I beg your pardon?"
+
+"I'm offering you fifty million Galleons," Elon said, leaning forward and resting his elbows on his knees. "Twenty thousand just for coming down and letting us do the filming, the rest if your information allows us to make a successful production batch within two years. In addition, I'll throw in one half percent of all net proceeds derived from the product for the next ten years. Plus, if we succeed in the production batch I'll give you my personal phone number and those of Bill Gates, Steve Jobs, and President Clinton."
+
+Slughorn leaned back in his chair, looking poleaxed. "I...ah…" He stopped, took a deep breath, and continued more steadily. "I would need appropriate paperwork, of course. And evidence that you really can provide what you claim; it seems a bit farfetched."
+
+Elon nodded and reached into his expensive leather briefcase. It had cost a month's rent that he couldn't really afford, but it was necessary for the illusion.
+
+"Here you are," he said, handing over a sheaf of paper. "This isn't the final contract, just a letter of intent. It simply says that, contingent on appropriate legal agreements, you will make a good faith effort to help us create a process for the industrial production of Felix Felicis in exchange for the remuneration I've already mentioned. If you sign it, I'll have a few of my lawyers come by in order to work out the details to your satisfaction. You'll note that I've already signed; I'm committed to this venture if you are."
+
+Slughorn picked up the paper, read it carefully, checked to make sure that both copies were identical, and then flicked his wand to summon an inkwell and quill so that he could scrawl his signature at the bottom.
+
+"Excellent," Elon said, collecting one of the copies with studied casualness. "I'll have my lawyers owl you some suggested times within the next couple of weeks. I look forward to working with you, Professor." He shook Slughorn's hand firmly, strode out the door, and hopped in the back of the rented limousine.
+
+He'd have to hurry if he was going to make his plane, and there was a lot to do on the way. It was a long flight back to America's west coast, but Sand Hill Road was probably the only place he'd be able to get his hands on a few million pounds quickly enough to live up to his end of the deal. In the meantime, he needed to hire some lawyers. And he should probably call Stanford and tell the Registrar that he was dropping out. After that he needed to figure out how he was going to get personal phone numbers for Steve and the two Bills..
+
+o-o-o-o
+
+"Could you explain that again, please?" Horace said. Ever since the Statute of Secrecy had collapsed, he'd been trying to get his head around all this Muggle science. Chemistry was fascinating, as were physics and mathematics; in preparation for today's experiment he'd done enough reading to understand the concept and basic mechanisms of video cameras and the other equipment he saw. Despite all that, he couldn't for the life of him understand why they wanted him to wear something as ridiculous as this.
+
+"We'd like you to wear this motion capture suit," Susan told him, smiling brightly. "It'll allow us to record your movements very precisely so that we can study them later."
+
+Susan had been introduced as a 'program manager', but that was clearly hogwash. Program manager, as he understood it, was a position of responsibility; it was very unlikely that a...twenty-one? twenty-two? year old girl would have the job. It was even less likely that she'd be doing the job while wearing three-inch heels, carefully-applied makeup, perfume, and a labcoat with three undone buttons. No, she was clearly a handler here to keep him at ease and cooperative.
+
+Non-Slytherins were so cute when they tried to be manipulative.
+
+Still, he wasn't complaining; she was easy on the eyes and seemed smart enough that she'd be an engaging conversationalist. In fact, he was impressed by this whole setup-given that Mr Musk wasn't much older than this girl, Horace had been pretty certain that he was offering things he couldn't deliver. The fact that he'd said his lawyers would owl 'within the next few weeks' was the clincher-if Musk really were what he claimed to be, he would have been champing at the bit to tie things down as quickly as possible.
+
+Still, the ability to make Felix in large quantities would be priceless beyond measure; it was reasonable to believe that, with that letter of intent in hand, Musk would be able to secure the funding he needed, so Horace had decided to take a flyer on the boy. Sure enough, the paperwork had come through. He'd hired his own Muggle solicitors to go over it and they'd assured him that it was ironclad, so he'd signed. And here he was.
+
+'Here' was a Muggle chemistry lab, all the equipment removed to make room for the dozens of cameras and instruments that were set up to record every facet of how he brewed Felix Felicis. When he arrived, they'd been finishing their investigation of the cauldron that he'd provided; they'd measured its thickness with a micrometer, taken multiple samples of the metal, and attached sensors all over its surface. The ingredients and tools had received similar levels of intent study. And apparently he himself would be subjected to equal scrutiny.
+
+Horace looked at the skintight green suit with the ping-pong balls sewn to it, and then looked at the cameras. With a sigh he asked, "Do you have somewhere that I can change?"
+
+o-o-o-o
+
+"Hi Harry," Aubrey said, glancing up from his microscope as his young patron arrived. "I'm sure you're here about the unicorn blood, so let me save you the question-bad news first. Unicorn blood causes behavior changes, making the mouse alternate randomly between aggressive, lethargic, and depressive. It also dies in about eighteen hours, but there's no physical cause that we can identify. Good news: when we give unicorn blood to a mouse with troll blood in its system, the cancer doesn't appear before the unicorn blood kills the mouse, but the mouse still retains the regeneration effects of the troll blood.
+
+"I'm still holding out hope that unicorn blood that wasn't taken by force won't have the negative effects. Any luck with the Queen?"
+
+Harry shook his head. "Not yet, but I'm still working on it. Dumbledore's on my side, and he's trying to convince Hagrid. Hagrid's thick as a brick, but he's the best magical-animal handler Dumbledore knows of, and he's apparently good with unicorns. If we can get him to agree to be the caretaker of the herd and to only bring in ones who are willing to give a little blood to help, then maybe we can make it work."
+
+"Okay. Well, keep working on it. Let me show you the data, I think you'll be interested."
+
+o-o-o-o
+
+"Good evening, I'm Peter Jennings and you're watching ABC World News Tonight. Tonight's top story: Elon Musk, the world's newest and youngest billionaire, has just confirmed success at producing a thousand gallons of the 'Liquid Luck' formula.
+
+"Liquid Luck, also known as Felix Felicis, provides the user with supernaturally good luck for a short time, enabling success in very unlikely projects. This is then followed by an equal amount of bad luck; the amount of bad luck the user receives after performing extremely unlikely scientific procedures is frequently lethal, causing a widespread and heated discussion among ethicists and lawmakers.
+
+"Until recently, the formula was considered too advanced to be produced by any but Britain's Professor Horace Slughorn, widely regarded as the most gifted alchemist in the world. As with most advanced alchemical preparations, it's necessary for a wizard to use their wand during production; the complex wand movements have, until now, been the primary barrier to production by the general wizarding population. Last year, Musk patented a process for controlling a wizard's hand and arm movements using a robotic sleeve. Early this year he successfully applied the process to automate the successful brewing of Liquid Luck by any wizarding individual, even young school children.
+
+"The formula requires six months to brew, but Musk announced today that there would be no more for at least two years, as the team was forced to use up most of the world's supply of commercially available occamy eggs to produce this batch. Occamies are a rare and aggressive bird native to India and the Far East, and no breeding or conservation program has been successful to date. Musk is currently in talks with the Oxford genetics team who last year managed to clone a unicorn and successfully bring it to term.
+
+"At a press conference earlier today, Musk announced intent to begin work on electric cars and inexpensive rockets. When asked why such niche fields, Musk replied…."
+
+o-o-o-o
+
+"Good news, Aubrey," Harry said with a smile. "I finally got the Queen to sign off on a herd of unicorns for experimental purposes. Hagrid's out trying to find unicorns who are willing to donate blood every fortnight or so in exchange for good care."
+
+Aubrey's smile lit up his aquiline face. "Excellent! Any idea when we can get the first samples?"
+
+Harry shrugged. "It depends on Hagrid, really. I had a thought, though-you saw that article about how Professor Davidson cloned a unicorn, right? Suppose we could get the blood from unborn unicorns, early enough that they don't have a fully developed brain-if they aren't sentient yet, they can't object and it wouldn't hurt them, so would that count as a willing donation? If not, maybe we could produce unicorn blood ourselves, from unicorn stem cells."
+
+Aubrey raised an eyebrow in interest. "Hm. That's assuming that unicorns have stem cells, but the fact that Davidson was able to clone them suggests that they do. I'll reach out to him and get his thoughts on the idea."
+
+o-o-o-o
+
+The agoraphobia had only gotten worse as the years went by. At the start of each deployment, Joel had taken to burning from NASA to a meadow in Tibet so that he could spend a few minutes listening to Peri sing before doing the actual spacewalk. When the job was done they would burn back to the meadow so that he could calm down before going back for the next load. In order to explain the time gaps he'd told them that Peri needed some rest between trips when they were burning as frequently as this.
+
+Dad was getting more and more upset as time passed and the panic attacks got worse. By now, Joel couldn't sleep through the night on his own; unless Peri sang over him all night, he always woke up screaming with the merciless emptiness tearing at his nightmares. Dad kept wanting to tell the folks at NASA, kept assuring Joel that John and Davis and Will and Karen were all good people, that they'd understand and get him the help he needed so that he could do the missions without the trauma.
+
+Joel had produced the NASA rulebook and put his finger on the section that said any astronaut showing signs of agoraphobia was to be grounded immediately. Peri had called, wordlessly asking both of them if they really meant it, if they believed the reward worth the challenge. Both of them had bowed their heads and stepped up to the wheel again.
+
+"My sacrifice is the dreams," Joel had told his father, early on. "Your sacrifice is letting me make my sacrifice." It had sounded less hokey in his head, but it was heartfelt. His father recognized the sincerity in the words and, reluctantly, accepted the message.
+
+o-o-o-o
+
+Today was solar power satellites. The array that he and Peri had already put up was beaming down over a gigawatt of power already, and Joel was scheduled to put up fifty more satellites in the next six months; the thought made him sick, but the idea of a United States (and, later, a world) that didn't need to burn coal or oil...well, he was feeling too sick to be actually excited about it, but it was enough to make him continue "squiring the phoenix", as Dad liked to put it. Dad was weird.
+
+o-o-o-o
+
+"Okay, the results came back on the new wand protection gear, and it looks like it works," Pat said. "As long as we leave a two-millimeter area at the tip of the wand uncovered, the thing can be used and will still survive in lunar conditions for at least twenty-four hours of constant exposure. Indefinitely, as long as it gets a rest in normal conditions every few hours."
+
+The wand had been a problem from day one. It obviously couldn't be inside a skintight suit and still be used, and it turned out that the suit gloves were thick enough that Hermione couldn't use the wand while wearing them. They'd removed one glove, put a seal around her wrist to maintain suit integrity, and built a hardened cylindrical extension around her arm so that she could hold the wand inside the extension.
+
+And then it turned out that the magic considered "inside a full-enclosure suit" to mean "can't effect any spells outside the suit."
+
+They'd shortened the extension so that the last couple inches of the wand were sticking out through a seal. Testing in a low-pressure chamber indicated that the seal would hold pressure, so they gave it a try. Hermione had bounced up to the moon and done a Wand-Lighting Charm-the simplest, fastest spell they could come up with-then bounced straight back. After that there had been steadily longer trips as they'd experimented with different techniques for using magic in space development.
+
+Brooms, it turned out, were way better than lunar rovers or bouncing along like the Michelin Man. Hermione hated using brooms on Earth, but on the moon she loved it. Falling felt like no danger at all in the reduced gravity, and the view across the lunar surface and out into space was breathtaking.
+
+In all the heady excitement of revolutionizing space travel, they'd forgotten to consider the effects of repeated vacuum exposure on ten and three quarter inches of vine wood and dragon heartstring. The vacuum desiccation of the heartstring had ruined the wand and left Her Majesty's Government obliged to shell out ten thousand pounds in order to commission a replacement-apparently wand-makers did not care to repeat a previous product unless their objections were buried under a nice thick layer of Galleons. Thereafter, testing had been done with cheap knockoffs.
+
+"In addition to the wand protection, we've also finished production on a new suit," Pat continued. "Which was only necessary since Ms Granger has been so inconsiderate as to outgrow yet another one." He mock-glared at her, drawing a laugh from everyone else at the table.
+
+"Sorry, Pat," she said with an unrepentant grin; growing up around the Space Agency folks had worn a lot of the nervous formality off of her. It was a nice change from the stilted little girl who had first walked into his office and nearly killed herself with an unscheduled lunar jaunt. "If it's any comfort, Mom says I've probably topped out."
+
+"Speaking of finishing things," Dan said. "The rovers have finally finished the survey of the alpha site, and it looks perfect for the settlement. The overhang on the cliff is completely solid so we don't have to worry about thermal differential causing a collapse anytime soon. Calculations show that even on dayside the facility will stay in the overhang's shade, so we don't have to worry about heat protection.
+
+"One minor glitch; In the process of the survey, one of the rovers got stuck in a pothole; Hermione, any chance you could run up after lunch and pop it loose? Also, the Facilities team is anxious to start getting the shelters deployed; we were tentatively planning that for next month. Will that work around your exams?"
+
+She shook her head. "Sorry, Dan, I'm going to be revising that entire month, and then Ron and I are going to Italy with my parents. We won't be back until after summer hols. Going up after lunch is no problem, though."
+
+"Not even one little run before the exams?" he wheedled. "Just pop up with a team so they can set up a few instrument stations…?"
+
+"Ignore him," Pat told her. "Enjoy the holiday. Say hi to your folks for me, and tell Ron that if he does anything inappropriate I'll drown him in liquid nitrogen."
+
+o-o-o-o
+
+Frank stared, wide-eyed, and then nudged his brother. When Rob glanced over, he pointed at the two gorgeous identical twin supermodels farther down the bar. "Isn't that Cindy Crawford?" he asked. "I didn't know she had a twin. Holy crap, I need to get her autograph."
+
+Rob glanced over and snorted. "Nah, it's just a couple of 'Juicers. Don't bother."
+
+Franked stared at him, puzzled. "What?"
+
+"You haven't heard about this?" Rob asked. "Yeah, it's the Big New Thing, apparently. A lot of celebs have started selling their hair online. You buy some, buy some Polyjuice potion, and boom, you can be a movie star for a night. I hear that Harrison Ford hired a wizard to use a Hair-Regrowing charm on him so he could shave his head eight times a day. There's so many Harrisons walking around now that his hair is selling for, like, two bucks an ounce."
+
+"Huh," Frank said. "I don't suppose Richard Dean Anderson is selling his, is he?"
+
+Two weeks after discovering the existence of Juicing, Frank received ten strands of Richard Dean Anderson's hair in the mail. He had by far the best Jack O'Neill costume at the con.
+
+Three months after discovering the existence of Juicing, Frank discovered cross-Juicing. It was eye-opening to see the differences in how Frank Thompson, Cindy Crawford, and Fran Drescher were treated on the streets of New York. It was another three months before he was willing to go home with a guy when he was being Cindy, but the experience was even more eye opening. After Cindy and Harrison reverted to being Frank and Pat, they spent the rest of the night drinking Malbec and talking about what they'd learned from their various experiences of cross-Juicing. A year later they were married.
+
+o-o-o-o
+
+It's amazing what can get into peer-reviewed journals. Even more amazing is the impact an apparently minor prank can have.
+
+*Statistical Correlations between Meyer-Briggs Types and Aesthetic Qualities of Polyjuice Potion* sounded nice and innocuous. Personality types were mostly a curiosity, right? Unfortunately, a young undergrad with a sense of humor read the paper and posted a parody of it online. Sarah Jaynes assumed that *Character Analysis by Polyjuice: Honesty, Responsibility, and Marital Fidelity as Correlated with Expressed Similarity to Snot* should have been a completely obvious joke, but her humor was a little too deadpan for the mass media. The parody went viral and soon it was being discussed on serious news programs. Three months later, some corporations were requiring applicants to donate hair for a Polyjuice Potion, and then refusing them employment if the resulting potion looked, in Sally's words, "like boogers or cat puke." It would take eight years for the first lawsuit to reach the Supreme Court.
+
+------------------------------------------------------------------------
+
+***Author's Note**: Squiring the Phoenix will be moving to a once-every-two-weeks schedule.*
+
+</div>
+
+</div>

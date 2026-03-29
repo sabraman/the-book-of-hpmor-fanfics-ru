@@ -1,0 +1,163 @@
+<span id="seg-0685__seg-0685-606070e06c"></span>
+
+<div id="seg-0685__s3-dd33a084ba" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 3: The Halo Effect
+
+<div id="seg-0685__storytext-9c93142583" class="calibre4">
+
+*Call for fanart! If you feel up to it, I'd love to see some fanart of my fanfic of a fanfic. If I see any before I release chapter eight, I will select my favorite (contactable) fanartist to get a cameo in chapter nine.*
+
+*Brief author's notes and a tentative trigger warning have been added to chapter one.*
+
+------------------------------------------------------------------------
+
+At King's Cross Station, near Platform 10, a group of people in strange robes were gathering and mingling – mostly teenagers, with a few adults and a few children. Two of the youngest, both girls, sat on a bench.
+
+"And that's how I realized that we're all living inside of an ancient Atlantean mirror," said the platinum blonde.
+
+"Hmm," said the redhead. This was a complete disaster. Luna was very nice, but Ginny was doubtful that she could even learn to reason. She was intensely devoted to a future as a Seer, and this permeated her thought processes. The line in her mind between her prophecies and her speculation about her prophecies was nonexistent. Ginny was fairly certain that, even on the topic of Divination, Luna was doing it wrong; she had read about Seers and prophecies long ago and none of that matched up with anything Luna had displayed. Her family was well-known to be superstitious, owing to the Quibbler, and believed in all sorts of magical hoaxes. ...but if she could be brought to Harry's camp, anyone could, and so there was still merit in remaining close to her. "I said earlier that you should read Harry James Potter-Evans-Verres' series, the Methods of Rationality. I still stand by that."
+
+"You talk about Harry Potter a lot," said Luna.
+
+"He's a prominent thinker and is involved in many current events," said Ginny.
+
+"There's a boy you should meet," said Luna. "He already went to the platform and got on the train; I showed him where to go."
+
+"Harry Potter?" said Ginny, quietly.
+
+"No," said Luna, "but close. His name is Colin Creevey. He's a first-year, like us, about our height, blond. Muggleborn, but carries a magic camera he bought at Diagon Alley absolutely everywhere. You should look for him." Diagon Alley had been uneventful, except for an occasion when the family accidentally took a shortcut through Knockturn Alley and a homeless layabout had taken the opportunity to try to pawn off a cursed necklace on them. Ginny's parents, of course, used it as an opportunity to deliver a lecture about the dangers of unknown magical artifacts - "They can be even more dangerous than unknown Muggle artifacts!"
+
+"Alright," said Ginny, and smiled. It was just like her mum had said; she was making plenty of friends already. And think of the devil, there mum was trying to show Ginny how to pass through the barrier safely. "I already know, mum, I've seen my brothers do it every year."
+
+------------------------------------------------------------------------
+
+Cedric Diggory was in a compartment of the train that contained several fifth year Hufflepuffs, mostly boys. They were discussing Gilderoy Lockhart, their new Defense Professor, when Cho Chang walked in.
+
+"I've found several discrepancies in his record," said Cedric.
+
+"Whose record?" said Cho. Cedric's head swiveled around, and lit up when he saw Cho; they had become close over the summer and had written each other many letters.
+
+"Cho!" said Cedric. "We were just talking about Professor Lockhart, the new Defense Against the Dark Arts instructor."
+
+"Oh no, not you too," said Cho. "Have you been reading the Quibbler?"
+
+"No," said Cedric, pointedly, "and I'm quite certain that Professor Lockhart exists, thank you. There are just some details about his past that don't add up. No more than last year, though, so it's not necessarily bad. Light background checks for Defense Professors are a Hogwarts tradition at this point; the question is just whether their hidden plot is for good or for evil."
+
+"I'm sure if Lockhart has a hidden plot it's for good," said Cho. "Have you heard about all of the things he's done?"
+
+"That's exactly the problem," said Cedric. "He's done too much in too short of a time, without reasonable explanation. If he had performed one unexpected heroic act, that would be perfectly normal. But within the past year, he has performed over a dozen seemingly unrelated heroic acts, claiming that he simply stumbled upon people in need of his help during his travels. By the power of Bayes, we can determine that there are far more worlds resembling ours where there's some secret explanation underlying all of Professor Lockhart's exploits than worlds resembling ours where it's all some coincidence. Some kind of trickery is involved."
+
+"Gilderoy Lockhart is an honest man," said Cho, at least a bit offended.
+
+"How do you figure?" said Cedric.
+
+"Have you read what he's written?" asked Cho. "Have you seen him speak? There just aren't any liars that good."
+
+"Cho, are you listening to what you're saying?" said Cedric. "It's ridiculous. Of course there are perfect liars out there, just like there are perfect Occlumens. You know that. You're supposed to be the Ravenclaw here." Cho frowned. "Are you accounting for the halo effect?"
+
+"What?" asked Cho.
+
+"The halo effect," repeated Cedric.
+
+"I don't know what that is," said Cho.
+
+"There's a series of articles you really need to read," said Cedric. "They're called the Methods of Rationality."
+
+"Oh, that newsletter that Harry has?" said Cho. She smiled.
+
+"Yes," said Cedric. "It's very insightful. I think you'd get a lot out of it." Well, if Cedric was recommending it this strongly, Cho would have to see what the fuss was all about. She didn't agree with Cedric about everything, but he was in the folder in her brain labeled "worth listening to".
+
+------------------------------------------------------------------------
+
+Colin Creevey was traveling from compartment to compartment, never sitting down, taking pictures of anyone and everyone he saw on the train, from a very confused Draco Malfoy to the Chocolate Frog struggling to make its way out the window with one of its legs bitten off. The countryside went by and large unphotographed; it looked nice but it wasn't magical. Finally, though, he stopped, because somebody spoke to him (and not even to ask what he was doing, this time!), a red-headed girl who caught him as he was boarding yet another car.
+
+"Colin Creevey?" she said.
+
+"Yes?" said Colin.
+
+"I'm Ginny Weasley," she said. "Luna Lovegood told me about you."
+
+"Oh, the girl at the station!" said Colin. "Then you must know that I'm Harry Potter's biggest fan." The girl frowned.
+
+"Um," said Ginny. "No. I am. And he prefers to go by his full name, Harry James Potter-Evans-Verres." Now, Colin frowned. What an idiot he had been to ignore that most of the other children there had had eleven years to learn about every aspect of the magical world, not just one summer. He probably wasn't the best at or the most of anything.
+
+"Oh, really?" said Colin, hoping to save face, but knowing it wouldn't end well.
+
+"Yeah, really," said Ginny. "What type of animal temporarily killed Harry's best friend?"
+
+"Mountain troll," said Colin, and he sat down; Ginny followed suit.
+
+"What's the third Method of Rationality?" said Ginny.
+
+"Noticing confusion," said Colin, surprised to be growing more satisfied as Ginny grew more desperate. She struggled to come up with a third question.
+
+"Which of the following three things hasn't Harry done," started Ginny. "Led an army, frightened a Dementor, spoken to Voldemort."
+
+"It's got to be 'frightened a Dementor'," said Colin. "They're extinct."
+
+"Only as of this summer," said Ginny, smiling, victorious. "The answer was 'spoken to Voldemort'." Colin looked like he was about to cry, and at that point Ginny realized her mistake. "I'm sorry! I'm sure you'll learn more about him. You've only known about magic for a few months!"
+
+"Will I ever catch up with you?" said Colin.
+
+"Harry was raised by Muggles and he's a long ways ahead of us," said Ginny.
+
+"But he's Harry Potter," said Colin.
+
+"And you can too," said Harry, strolling into the compartment.
+
+"What?" said Colin.
+
+"I'm not saying you can literally be me," said Harry. "There's a one-Harry-Potter-limit. But when I walked in you were dismissively saying 'but he's Harry Potter' to imply that something or another was out of the reach of anyone else. And that's not true. Anybody can do pretty much anything I've done, if they put their mind to it. You just need to use the Methods of Rationality. And sometimes take some extra electives – and you can't get those until your third year – okay, there's definitely some stuff I've done where I had the advantage. But don't count on that. Assume everything is possible and the question is just how."
+
+"Are you going to sit down here?" said Colin.
+
+"No," said Harry. "Just passing through." He turned to Ginny. "Hmm... let's see... red hair and a hand-me-down robe. Are you by any chance a Weasley?"
+
+*He's so smart*, thought Ginny, and she nodded.
+
+"I knew it," said Harry.
+
+"Ginny," said Ginny. "Nobody's quite like you, Harry James Potter-Evan-Verres."
+
+"Hey, that's my full name!" said Harry. "Nice! But you can just call me Harry. Or Harry Potter, if you want to be formal."
+
+"Alright, Harry Potter," said Ginny.
+
+"And even if nobody's quite like me, everyone's at least mostly like me," said Harry. "And all of the really important parts, the parts that make us human."
+
+"I want to be Sorted into Ravenclaw, just like you," said Colin. "Because the search for knowledge is what makes humans higher than other animals."
+
+"The other Houses have important qualities, too, though," said Harry.
+
+"As long as I don't go to Slytherin," said Colin. "Like You-Know-Who and his You-Know-Whats."
+
+"Slytherin is actually my favorite House after my own," said Harry. "Ambition and social behavior are also attributes that set us apart from animals. I was nearly Sorted there, you know."
+
+"I'm hoping for Slytherin – just kidding! - Ravenclaw, myself," said Ginny. Harry blushed.
+
+"And Gryffindor and Hufflepuff are nice, too," said Harry. "It's important to stand up for what you believe in, and altruism is central to my worldview. If one of the Houses was inherently better than the others, then there'd be no point in having four of them. You just have to pick the one you think is the best fit for you. And with that, I think I'm off." Harry left, and Ginny stared at the empty space he left. There was a faint "bloody 'ell, it's 'arry Potter!" from the next compartment over.
+
+"Well, I don't know what House I'm going to go to after that," said Colin.
+
+"It seemed like you'd thought out going to Ravenclaw pretty well," said Ginny.
+
+"Yeah, but didn't you hear all of those good things he said about the other Houses?" said Colin. "He even said Slytherin was his second-favorite House. Maybe now that You-Know-Who is vanquished and his followers have been killed or humbled, it's the best House."
+
+"He even had nice things to say about Gryffindor and Hufflepuff," said Ginny. "Total neutrality. It's like he didn't want to unfairly bias us. Awfully nice of him. Maybe he should have gone to Hufflepuff." Ginny laughed, to make clear that she wasn't serious, and then laughed some more, to make clear that she understood how awkward her previous laugh had been, and then she stopped, to avoid getting trapped in a perpetual-laugh-cycle.
+
+"Trying to minimize the halo effect," said Colin. Ginny looked at him, very carefully.
+
+"Okay," said Ginny. "You can be Harry's second-biggest fan."
+
+------------------------------------------------------------------------
+
+"Draco?" said Luna, working her way through the crowded, otherwise completely-Slytherin car as the train came to a complete stop at Hogwarts' station. A greasy older boy named Lesath sniffed her hair as she squeezed past, which she did her best to ignore; she tried to tell herself that he was just checking her for Wrackspurts, even though she knew it wasn't true. She finally found and threw her arms around the Last Scion of Malfoy, who squirmed to get away from her, but said nothing, half in distress and half in confusion. "I'm so sorry to hear about your miscarriage. But it'll be okay." And with that, she left to find Ginny*.*
+
+</div>
+
+</div>

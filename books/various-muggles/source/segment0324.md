@@ -1,0 +1,288 @@
+<span id="seg-0324__seg-0324-1dc4e79aec"></span>
+
+<div id="seg-0324__s15-fae38f4be9" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 15: Liberate Tutemet Ex Inferis
+
+<div id="seg-0324__storytext-9c93142583" class="calibre4">
+
+The last chamber was illuminated in lights of soft gold, and the stone walls were of gentle white and faced with marble.
+
+In the center of the room stood a simple and unornamented golden frame, and within the frame was a portal to another gold-illuminated room, beyond whose door which lay another Potions chamber; that was what Harry's brain told him. The Mirror's transformation of light was so perfect that conscious thought was required to deduce that the room inside the frame was only a reflection, rather than a portal. (Though it might have been easier to intuit if Harry hadn't been invisible, just then.)
+
+The Mirror did not touch the ground; the golden frame had no feet. It didn't look like it was hovering; it looked like it was fixed in place, more solid and more motionless than the walls themselves, like it was nailed to the reference frame of the Earth's motion.
+
+From behind, the golden frame appeared solid, showing no reflections, and at the Professor's request, Harry finally removed his invisibility cloak. Upon seeing that the Mirror stayed in place, the Professor breathed a sigh of relief and entered the chamber alongside the five witches, careful not to allow himself to be reflected. He examined the frame from the sides and waved his hand dismissively.
+
+Upon the center of the golden back had appeared a sequence of runes in no known alphabet, black absences of light in small lines and curves, arranged in a level horizontal row.
+
+"How old is this Mirror?" Harry said in almost a whisper.
+
+"Nobody knows, Mr. Potter." The Defense Professor reached out his fingers toward the runes, a look of something like reverence on his face; but his fingers did not touch the gold. "But my guess is the same as yours, I think. It is said, in certain legends that may or may not be fabrications, that this Mirror reflects *itself* perfectly and therefore its existence is absolutely stable. So stable that the Mirror was able to survive when every other effect of Atlantis was undone, all its consequences severed from Time." The Defense Professor let his hand fall.
+
+Even in the middle of everything else, Harry felt the awe, if that was true. The golden frame gleamed no brighter than before, for all the revelation; but you could imagine it going back, and back, into a civilization that had been made to never be... "What - does the Mirror *do,* exactly?"
+
+"An excellent question," said Professor Quirrell. "The answer is in the runes that are written upon the Mirror's golden frame. Read them to me."
+
+"They're not in any alphabet I recognize. They look like randomly oriented chicken-scratches drawn by Tolkien elves."
+
+He tried obvious tricks like looking at the runes upside down or backwards, then he tried some degree of frequency analysis to see if it was a simple substitution cipher... but his train of thought was interrupted by Pinkie Pie fastidiously scrutinizing the letters, then declaring with confidence, "I show not your face, but your coherent extrapolated volition!"
+
+It clicked.
+
+She was right. A chill ran down Harry's spine. As he examined the runes closer, he found he was able to extract meaning from them when previously there had been none. It still wasn't in any language he could recognize, but it was meaning. '*noitilov detalo partxe tnere hoc ruoy tu becafruoy ton wo hsi'.* Harry knew what the rune for noitilov *meant*. It meant noitilov. And the next runes said to detalo the noitilov until it reached partxe, then keep the part that was both tnere and hoc. And somehow, both Harry and the Professor believed her translation was right, and that belief felt like knowledge.
+
+The Professor stared at her in silence, the look on his face inscrutable.
+
+Pinkie shrugged, "What, you can't read *∑∫ỹriȱŋ* Runes?"
+
+Applejack cocked an eyebrow, "Pinkie, I don't think *any* of us canread Alleria Runes."
+
+Fluttershy examined the runes as well, comprehension dawning on her, "No, Applejack, it's '*∑∫ỹriȱŋ*'. Don't you remember when Twilight hosted that seminar on Ancient Equestrian Languages? We each picked one or two, you learned how to write in *Zebasi*, remember?"
+
+"Oh yeah, the farming folk! Let me guess, Pinkie, you learned all of them?"
+
+Pinkie nodded, nonchalantly, and gave an off-hand "Mm-hmm."
+
+The Professor was ignoring the chatter, and whispering to himself, "Yes... Your extrapolated volition... The Mirror displays you with what you *actually* want, not with what you *say* you want." He turned his attention up towards Harry, "I have wandered the world and encountered many stories that are not often heard. Most of them seemed to me to be lies, but a few had the ring of history rather than storytelling. Upon a wall of metal in a place where no one had come for centuries, I found written the claim that some Atlanteans foresaw their world's end, and sought to forge a device of great power to avert the inevitable catastrophe. If that device had been completed, the story claimed, it would have become an absolutely stable existence that could withstand the channeling of unlimited magic in order to grant wishes. And also - this was said to be the vastly harder task - the device would somehow avert the inevitable catastrophes any sane person would expect to follow from that premise. The Mirror's most characteristic power is to create alternate realms of existence, though these realms are only as large in size as what can be seen within the Mirror; it is known that people and other objects can be stored therein. It is claimed, for example, that phoenixes came into our world from a realm that was evoked inside this Mirror."
+
+Harry was frowning, despite being impressed at the scope of the Mirror's power. Professor Quirrel began to frown at Harry's frowning. "What is it?"
+
+"It's just... well... The Headmaster and I had something of a confrontation, an argument. And he showed me, in no uncertain terms, using a Phoenix, of all things, that he would be the one to remove the Stone from the Mirror."
+
+"I *see,*" said Professor Quirrell. "Oh, dear. I wish you had thought to mention this to me a good deal earlier. This eliminates an entire class of hypotheses. You see, the other great difficulty of the Mirror is that the rule by which it treats those reflected will disregard external forces, such as False Memories or a Confundus Charm. The Mirror reflects only those forces arising from within the person themselves, the states of mind they arrive at through their own choices; so it is said in several places. Dumbledore has access to some unusual power of Divination; that much I deduced long ago. He made too many nonsensical moves, and the paths by which they worked out in his favor were too ridiculous. So if he somehow knows that he is the one to remove the Stone..."
+
+"Um, Professor?" Harry raised his hand, and then realizing how silly that was, put it down quickly. "About that. In his effort to defeat Lord Voldemort, the Headmaster read every single entry in the Hall of Prophecy."
+
+Silence.
+
+Ringing, almost unending silence.
+
+"Sounds boring," Rainbow Dash yawned.
+
+The Professor did not react to this piece of information, at least not outwardly, and simply said, "I see," He paced around the perimeter of the Mirror's reflect and continued to speak. "The Mirror's instructions cannot be shaped to react to individual people. So it is not possible for Dumbledore to command this Mirror, 'only give the Stone to Dumbledore'. Dumbledore cannot state, 'Only give the Stone to one who wishes to give it to Nicholas Flamel'. There is in the Mirror a blindness such as philosophers have attributed to ideal justice; it must treat all who come before it by the same rule, whatever rule may be in force. Thus, there must be some rule for reaching the Stone's hiding-place which anyone can invoke. And yet, if prophecy has foretold..."
+
+"Arguendo," Harry said. "We're not sure what's necessary to retrieve the Stone. Ignoring the bit about prophecy... by the rules you state, a *sufficient* condition should involve Albus Dumbledore in a state of mind where they believe that the Dark Lord has been defeated, that the threat is over, and that it is time to take out the Stone and give it back to Nicholas Flamel. We aren't sure which part of that person's state of mind, let's say Dumbledore's, will be the necessary part but under those conditions, Dumbledore's entire state of mind will be *sufficient.*"
+
+"Reasonable," said Professor Quirrell. "So?"
+
+"The corresponding strategy," Harry said carefully, "is to mimic Dumbledore's state of mind under those conditions, in as much detail as possible, while standing in front of the mirror. And this state of mind must have been produced by internal forces, not external ones. Thereby fulfilling both the rules of the Mirror and Dumbledore's insight into the future of seeing himself remove the stone."
+
+The Professor was nodding intently. "But how are we to get that without Legilimency or the Confundus Charm, both of which would certainly be external - ha. I *see.*" Professor Quirrell's ice-pale eyes were suddenly piercing. "You suggest that I Confund *myself,* as you cast that hex upon yourself during your first day in Battle Magic. So that it is an internal force and not an external one, a state of mind that comes about through only my own choices."
+
+The Professor stood a moment in calculation, then commanded Harry to put on his Cloak of Invisibility. "There is no way beneath the heavens that the Mirror is not meant as a trap. That is to say, it's a trap for Lord Voldemort. Only it can't be a trap for him personally. It is a trap for some generalizable quality of Lord Voldemort that triggers it. And so when the Confundus Charm expires, and the Mirror observes the deception, I believe that will be, in Dumbledore's mind, what you call 'sufficient' conditions to Voldemort's state of mind. After all, Dumbledore would only consider one person clever enough to bypass both the Mirror and what is foretold by Prophecy."
+
+Without conscious awareness, Harry was frowning hard at the Mirror's golden back. "What are you getting at?"
+
+"Or perhaps two people... Lord Voldemort, and you. If he sees that you were the one who retrieved the Stone, or at least that you had a hand in the plot, he would, I think, be very disinclined to spring whatever trap has been lain. So you must stand by my side, ready to reveal yourself at the proper moment. The rest of you," he gestured at the witches, "may observe from behind the Mirror."
+
+Then Professor Quirrell pointed with his wand, and a shimmering circle appeared around where Harry was standing on the floor. This, Professor Quirrell said, would soon become a Greater Circle of Concealment, by which nothing within that circle could be heard or seen from the outside. Harry would not be able to make himself apparent to the false Dumbledore by taking off the Cloak, nor by shouting.
+
+Then Professor Quirrell's robes became black tinged with gold, such robes as Dumbledore might wear upon a formal occasion; and Professor Quirrell pointed his own wand at his head.
+
+Professor Quirrell stayed motionless for a long time, still holding his wand to his head. His eyes were closed in concentration.
+
+And then Professor Quirrell said, "*Confundus.*"
+
+At once the expression of the man standing there changed; he blinked a few times as though confused, lowering his wand.
+
+A deep weariness spread over the face Professor Quirrell had worn; without any visible change his eyes seemed older, the few lines in his face calling attention to themselves.
+
+His lips were set in a sad smile.
+
+Without any hurry, the man quietly walked over to the Mirror, as though he had all the time in the world.
+
+He crossed into the Mirror's range of reflection without anything happening and stared into the surface.
+
+What the man might be seeing there, Harry could not tell; to Harry, it seemed that the flat, perfect surface still reflected the room behind it, like a portal to another place.
+
+"Ariana," breathed the man. "Mother, father. And you, my brother, it is done."
+
+The man stood still, as if listening.
+
+"Yes, done," the man said. "Voldemort came before this mirror and was trapped by Merlin's method. He is only one more sealed horror now."
+
+Again the listening stillness.
+
+"I would that I could obey you, my brother, but it is better this way." The man bowed his head. "He is denied his death, forever; that vengeance is terrible enough."
+
+"It is time to give back the Philosopher's Stone," said the man who thought he was Dumbledore. "It must go back into Master Flamel's keeping, now."
+
+Listening stillness.
+
+"No," said the man, "Master Flamel has kept it safe these many years from all who would seek immortality, and I think it will be safest in his hands... no, Aberforth, I do think his intentions are good."
+
+"Destroy it?" said the man. "Maybe. I am not sure it *can* be destroyed, or Master Flamel would have done it long since. I think, many times, that he has regretted making it... Aberforth, I promised him, and we are not so ancient or so wise ourselves. The Philosopher's Stone must go back into the keeping of the one who made it."
+
+And Harry's breath stopped.
+
+The man was holding an irregular chunk of scarlet glass in his left hand, the size perhaps of Harry's thumb from fingernail to the first joint. The sheened surface of the scarlet glass made it seem wet; the appearance was of blood, suspended in time and made into a jagged surface.
+"Thank you, my brother," the man said quietly.
+
+And then -
+
+"No, Ariana," the man said, smiling gently, "I fear I must go now. Be patient, my dearest, it will be soon enough that I join you in truth... why? Why, I am not sure why I must go... when I hold the Stone I am to step aside from the Mirror and wait for Master Flamel to contact me, but I am not sure why I need to step aside from the Mirror to do that..." The man sighed. "Ah, I am getting old. It is well this dreadful war ended when it did. I suppose there is no harm if I speak to you for a time, my dearest, if you wish it so."
+
+The man who thought he was Dumbledore was mostly nodding patiently, sometimes replying to his dearest sister. Sometimes the man cast an uneasy look to one side; as if feeling a strong impulse to go, but suppressing that impulse with the great patience and politeness and concern for his sister that Professor Quirrell imagined Albus Dumbledore having.
+
+Harry saw it the instant the Confundus wore off, and the man's expression changed, becoming again the face of Professor Quirrell.
+
+And in the same instant, the Mirror changed, no longer showing Harry the reflection of the room, showing instead the form of the real Albus Dumbledore, as though he were standing just behind the Mirror and visible through it.
+
+The real Dumbledore's face was set, and grim.
+
+"Hello, Tom," said Albus Dumbledore.
+
+A presence invaded the air around Harry, a crawling sensation all over his flesh Professor Quirrell's magic passed very close to his skin. The Cloak of Invisibility was torn away from him, and the shimmering black Cloak flew away from him, to his left. Professor Quirrell caught it, and swiftly drew it over himself; in less than a second, he had pulled down the Cloak's hood over his head and disappeared.
+
+Albus Dumbledore staggered, as though some essential support had been removed from him.
+
+"Harry Potter," the Headmaster breathed. "*What are you doing here?* "
+
+Harry stared at the image of Albus Dumbledore, on whose face utter shock and utter dismay were warring.
+
+"Headmaster, listen, this is my fault," Harry spoke with urgent warning. "The Professor is dying. I can't let that happen. I know what you showed me, and I know this is cheating, and I know you probably disapprove. But the Stone exists. I understand its limitations, I know that it can't be used to save the world, but it can at least be used to help save *one life!*"
+
+Dumbledore was shaking his head desperately. "No," said Albus Dumbledore. "No, no, *NO!*"
+
+Into the hand of the Albus Dumbledore flew from his sleeve his long, dark-grey wand, and in his other hand, as though from nowhere, appeared a short rod of dark stone.
+
+Albus Dumbledore gazed distantly spoke, "Listen to me, and know that *I speak not only to you*." During the pause, Harry looked nervously to his left, where he assumed the invisible Professor still stood. "There is a prophecy that begins, '*ON THE LONGEST DAY OF THE THOUSANDTH YEAR, THE STARS WILL AID IN HER ESCAPE, AND SHE WILL BRING ABOUT NIGHTTIME ETERNAL.'* This branch of the prophecy has already come to pass, but the prophecy itself continues."
+
+The words of the prophecy that Dumbledore uttered carried with them an inexplicable ring of *truth*. The diction, the pacing, the very presentation made it clear which words were Dumbledore's own and which were those laid down by the Prophets of old, as plainly as if it were written text that had been italicized. As he spoke, the sense of power that prickled across Harry's skin grew increasingly oppressive and uncomfortable.
+
+"It foretells that '*the Decimation will be at hand, in this time, wands will turn to sticks in the hands of the will-workers*' and that '*the very stars in the heavens will be torn asunder'*. And it speaks of an '*unlikely friend who has tempted the one marked by lightning'.* That friend must '*bring the stone through the gate thrown open by the one who is Bound by the Dark Lord'."*
+
+The building sense of power rose to an unbearable peak. Dumbeldore's form began to waver, to crumble away; he struggled to speak his final thoughts, which were clipped and distorted. Harry could only make out the words "redemption" and "magic." In his last moments, Dumbledore threw both the wand and the rod violently aside, and with that, both the sense of power and Dumbledore's form faded into dust.
+
+The Mirror returned to showing the ordinary reflection of a gold-lit room of white stone, without any trace of where Albus Dumbledore had been.
+
+------------------------------------------------------------------------
+
+*Sydney, Australia*
+
+Dumbledore observed the tearful reunion from a respectful distance; Bellatrix Black, Lesath Lestrange, and Narcissa, Lucius and Draco Malfoy, temporarily blind to the rest of the world, content in that one small moment to simply exist in each other's company.
+
+The reverie was soon interrupted by the small voice of Lesath, whose attention was focused on Albus Dumbledore. "Is that... is that normal?" Dumbledore's head was lashing back and forth at an unnatural speed, as if shifting through dimensions, through time.
+
+Draco looked up, slowly in confusion as Dumbledore spoke to someone a world away. "Harry Potter," the Headmaster breathed. "*What are you doing here?"*
+
+A brief pause. Dumbledore was shaking his head desperately. "No," said Albus Dumbledore. "No, no, *NO!*"
+
+Albus Dumbledore looked at Draco and spoke intently, "Listen to me, and know that *I speak not only to you*. There is a prophecy that begins, '*ON THE LONGEST DAY OF THE THOUSANDTH YEAR, THE STARS WILL AID IN HER ESCAPE, AND SHE WILL BRING ABOUT NIGHTTIME ETERNAL.'* This branch of the prophecy has already come to pass, but the prophecy itself continues."
+
+Draco turned and looked nervously as Bellatrix Black. The words of the prophecy that Dumbledore uttered carried with them an inexplicable ring of *truth*.
+
+"It foretells that '*the Decimation will be at hand, in this time, wands will turn to sticks in the hands of the will-workers*' and that '*the very stars in the heavens will be torn asunder'*. And it speaks of an '*unlikely friend who has tempted the one marked by lightning'.* That friend must '*bring the stone through the gate thrown open by the one who is Bound by the Dark Lord'."*
+
+Dumbeldore's form began to waver, to crumble away; he struggled to speak his final thoughts, which were clipped and distorted. Draco could only make the words "redemption" and "friendship." In his last moments, Dumbledore threw both the wand and the rod violently aside, which disappeared to a place unknown, and with that, Dumbledore's form faded into dust
+
+The room was now empty, except for the extended Lestrange-Black-Malfoy family. The only remaining trace of Albus Dumbledore was a pair of artifacts that lay on the floor: An ornate ring set with a brilliant sapphire, engraved with a stylized set of goat horns, and a delicate glass necklace; a collection of five or six interconnected bubbles.
+
+Draco immediately recognized the nature of the artifacts, they were tokens of Forbearance; the Transfigured and therefore eternally preserved bodily remains of Wizards from families who still respected the ancient customs, held in abeyance until the heirs of Atlantis could carry them to the eternal day-night. It was an enchantment powered by an unending chain of Magic, passed down from heir to heir, scion to scion, a web reinforced through the bonds of the interconnected families and friendships of Wizardkind. He had long stared at the collection of objects on the mantle of the Malfoy family Oblatorium, and the ring and necklace carried with them the unmistakable touch of that same magic.
+
+No Wizard family of honor would allow such magic to fail, even if it had belonged to their worst enemy, even if Albus Dumbledore had not redeemed himself by returning Narcissa Malfoy to the world of the living. Draco kneeled down and quickly began to chant the ritual,
+
+*Listen to the wind blow, down comes the night*
+*Running in the shadows, damn your love, damn your lies*
+*Break the silence, damn the dark, damn the light-*
+
+He did not have a chance to complete the ritual, however, as the objects faded to dust underneath his fingers.
+
+Somehow, though, Draco did not experience a feeling of loss or hopelessness as he should have. Inexplicably, he felt a great sense of joy, of love, of reunion and hope.
+
+------------------------------------------------------------------------
+
+*The End of Time, or, The Beginning of Time*
+
+Blackness.
+
+Nothing but blackness.
+
+No.
+
+That was not strictly accurate. Black implied a color; in the additive sense, it implied the presence of *all* colors.
+
+This was nothingness.
+
+Nothing but nothingness.
+
+No.
+
+There wasn't *Nothing*. Somewhere in the distance, Albus Dumbledore could *hear* something. Despite there being no substance through which to carry sound waves, despite having no corporeal body with which to intercept those vibrations, he could *hear*.
+
+He could hear the distinct sound of music playing.
+
+*Was that… David Bowie?*
+
+No, not David Bowie. The music was familiar, but the voice... the voice was definitely not David Bowie. The voice was, in fact, quite off-key and pitchy.
+
+"*Though nothing, will keep us together... We could steal time, just for one day! We can be heroes, forever and ever. What d'you* - Sweet Faustian Bubbles, how long have you been standing there listening for, you little interloper?"
+
+The singing presence instantiated suddenly. It, like Dumbledore, did not have a corporeal form, but it was definitely *there*.
+
+"I was banished here moments ago, from my perspective." Dumbledore spoke through his non-existent vocal cords, "Though from yours, I suspect that I have always been here and that I will always be here."
+
+"Oh, posh. Why does everyone assume that Time works like that? You and your silly linear brains! Of course, Time has a direction here! How else would you be experiencing this conversation? It's not a straight line, of course, it looks a bit more like this."
+
+A scrawling, loopy collection of lines instantiated in the nothingness, which when all was said and done, looked strangely like a stylized, cursive signature of the name "Jeremy Bearimy". A dot appeared over the "i", which then expanded in size until it encompasses the entirety of their non-existence.
+
+"And we... are here. On that dot."
+
+There was no longer nothingness; it had been replaced by infinite *everythingness*. Which, as it were, was not that different from nothingness, at least until Dumbledore turned around and saw that the disembodied voice now had a tangible form:
+
+A tall, lanky *creat*urethat looked like a patchwork amalgam of a dragon, a horse, a lion, an eagle, a goat... And that was just what Dumbledore was able to count.
+
+"You can call me Discord. You must be Albus Dumbledore. Or, at least, you must *have been* Albus Dumbledore. But now..." Discord looked around in confusion. "Where are you? Oh, gosh, what a rude host I have been! Giving myself tangibility and leaving you to the depressing confines of abstraction."
+
+Discord snapped his finger, and Dumbledore appeared, not as a human wizard, but as a unicorn with a slate-gray coat and a prodigious beard. His new form seemed strangely aged, and on his hindquarters, a symbol was emblazoned: a deep cobalt spiral, decorated with several stars in a shade of gray lighter than his coat.
+
+"Much better," Discord crooned. "Much better than a voice floating in mid-air, and certainly loads better than a withered old man with a questionable fashion sense. I mean, squashed mushroom hats, really?"
+
+Dumbledore observed with mild amusement, "I daresay that this form seems a trite more noble than the body I inhabited mere minutes ago."
+
+"That's the spirit! Now, we won't be alone for too long, a great Transmigration is about to begin. I'm a quite busy pseudo-deity, you know? So much time, so little to do! Wait. Strike that, reverse it. I've got a world to create. Two worlds, really, but we'll save that little spoiler for a later chapter, huh?"
+
+Dumbledore smiled pleasantly with his new body, "I, too, have all the time in the world."
+
+"Yes, I suppose you do. Now look, in a few thousand Bearimies, you're going to have to do me a really, really big favor. So I'm going to do YOU a favor now. I know better than anyone that eternity can be dreadfully *boring.* So..."
+
+With a dramatic flourish, Discord waved a claw and the pure white everythingness around them split horizontally into two. He lifted his paw upwards, and the top half faded to a deep, midnight blue: the horizon and night sky of this new land. The fingers of his paw and claw twittered in the air as he waved them all around, and stars began to populate the night until there was a universe of constellations above them.
+
+Dumbledore looked upwards. "It is quite beautiful. I had often told myself that I wished I had more time to simply look up to the heavens and stargaze. It seems you have granted that wish for me."
+
+Discord rolled his eyes heavily, "Really? You think the 'favor' I'm doing for you is giving you a sky full of stars to stare at for all of eternity? Try doing that for a Bearimy or two and tell me how interesting you think it is." Discord paced around in a huff, searching through the stars for something. "Sheesh, can't a Draconequus get a bit more credit than that? I mean, really. Stargazing? I'm of half a mind to chuck you back out where you came from!"
+
+Discord trailed off as he scanned the sky intently, and Dumbledore waited patiently. Finally, Discord found what he was looking for and stretched his arms into the sky, which obligingly elongated to an absurd length. After a few moments, they began to quickly retract and it was clear that Discord was holding a pair of stars.
+
+Holding them delicately like two eggs, he cracked each against the ground and gently tore them apart along the resulting fracture. A pair of figures flowed forth from the now-torn stars: firstly, a grey pegasus with a messy blonde mane and a mark upon her flank in the shape of bubbles. And secondly, a goat with deep blue fur and an imposing set of curved, majestic horns. Currently, both appeared to be sleeping soundly.
+
+Dumbledore's eyes went wide. "Are these...?"
+
+Discord smiled, genuinely. "Yes. Now listen, you have no idea how much work that took, so don't get any ideas about asking for more, at least for the time being. I've got a plan in place, in fact, that's what you're going to help me with eventually. But for now, I need to prepare the house for our other guests. Of course, they won't have nearly the same recollection of the past as you three, so do be patient with them." Before Dumbledore was able to ask any further questions about this cryptic warning, Discord gave him a brief "Ta ta!", snapped a claw, and winked out of existence.
+
+The two sleeping figures began to slowly open their eyes, adjusting to their new forms in this new land. The goat was the first to fully rouse himself, and he stood up and looked at the unicorn in front of him.
+
+"Albus?"
+
+"Aberforth..."
+
+"Well, I'll be damned. You did it, you held on to me. I thought you said that ritual was rubbish, for daft, fool purebloods." Aberforth spoke with a grin.
+
+"I have learned, in my old age, that there are many things that at first do not appear to make sense, and it is wise to not dismiss them."
+
+"Wise words, because not a damned bit of *this,*" he looked down at his goat-form. "makes sense. Although, I'm quite fond of this little beard here." Aberforth admired the tuft of fur growing beneath his goat chin for a moment but was unceremoniously interrupted when he was tackled by the newly-awoken pegasus, who gripped him in a tight hug.
+
+"Aberforth! Albus!" she squealed with delight. "Look at me, I can fly!"
+
+Ariana Dumbledore zoomed back and forth between the two of them in pure delight. "I knew you'd do it, Albus, I just knew you would! Oh, this is so exciting! Come on, let's go play!"
+
+Albus Dumbledore bathed in the profound sense of joy, of love, of reunion and hope, and patted his sister on her newfound wings. "Yes, Ariana. I suppose we have some time to play. I suppose we have all the time in the world."
+
+</div>
+
+</div>

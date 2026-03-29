@@ -1,0 +1,85 @@
+<span id="seg-0446__seg-0446-74ed99d403"></span>
+
+<div id="seg-0446__s6-bc6df459c2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 6: Lucius Malofy
+
+<div id="seg-0446__storytext-9c93142583" class="calibre4">
+
+11:25 pm, June 18th, 1993
+
+Lucius Malfoy woke up in a jolt. He opened his eyes, and saw a smirking Severus Snape towering over him. He looked around haltingly at the obelisks and farmland graveyard.
+
+Lucius remembered being forced to be the binder of the Unbreakable Vow, and pointing his wand at the Boy-Who-Lived, whom the Dark Lord seriously believed might destroy the world. Then the Dark Lord and the Potter boy had had quite an interesting conversation in Parseltongue, where apparently none of them considered the possibility that someone else might understand that language as well.
+
+If Lucius did not feel so upset about losing much of his magic, he might have some sharp remarks on the arrogance of both the Potter boy and the Dark Lord.
+
+But as Lucius had listened to the hisses, he had found that what costed most of his magic was not some bad joke on the Dark Lord's part. Both natural Parselmouths had honestly believed that Harry Potter might really bring an end to this world, possibly using muggle science.
+
+Lucius knew something about muggle science, like the book that Harry Potter lent Draco with pictures of muggles on the moon. When the news that Draco almost died from the blood-cooling charm arrived, Lucius almost went mad. He remembered the horror when he came home and found all his house elves stunned and oblivated, as he ran and called for Narcissa, as he found nothing but burning marks in their bedroom. If it were not for the crying Draco in the cradle, he might have went mad that day. It was like that nightmare all over again. But his boy was OK, and was at home.
+
+However, Lucius did need to know what happened at Hogwarts. And his boy, who once told him everything, refused to really talk. He knew this was a sign of growing up, but he could not risk losing Draco and not knowing. With broken heart, he administered Draco three drops of Veritaserum. And Draco talked, and talked. Compared to what Draco had said, the ravings of lunatics in St. Mungos made much more sense. How could muggles become more powerful than wizards? How could they arrive at the Moon where no wizard had ever landed, using "science"? And blood - according to some weird muggle theory, there was no difference between a pureblood and a muggleborn? All because of how many wizarding children squib couples had? How could that be true? It was a widely known fact that muggleborn couples littered more squibs. And as for squibs giving birth to wizarding kids, who knew whether the filthy female squibs had cheated on their useless squib husbands? Stupid wizards who did not mind producing bastards were still much better than squibs. When Lucius pointed those out to his son, Draco was quite shocked. Lucius sighed: a clever boy as Draco was, he was still too young and gullible, and he did not fully understand the adults' world yet. Yet, although the flaw in the Boy-Who-Lived's blood theory brought Lucius some comfort, the whole moon thing still seemed to be true.
+
+Lucius glanced at the moon uncomfortably.
+
+And then the Boy-Who-Lived threatened the Dark Lord with a massive explosion that could kill everyone.
+
+Lucius was confused, but guessed it might have some moon thing in it. The pictures on that devilish book Harry used to seduce Draco away from him did show huge fire coming from the end of a rocket…
+
+And Lucius' world swirled and he thought he saw his own headless body fell to the ground.
+
+Then everything went dark.
+
+Dark until this moment.
+
+Lucius pushed himself up to a seating position, one hand instinctively went to check his neck, the other fumbled for his wand and failed. As he looked around, and saw himself on an altar that looked quite similar to what his master had created, and it was in a graveyard much smaller than the place he lost consciousness, and there was also the smirking black-haired man, whom Lucius trusted slightly above average. Lucius had no choice but to ask: "Severus, my friend, what happened?"
+
+Severus answered in his broken Parseltongue: "*You d-died, and I rev...revived you.*"
+
+Just as Lucius' brain went blank with the shocking news, Severus waved his wand, and said: "Tempus."
+
+"11:26 pm, June 18th, 1993" appeared in front of Lucius.
+
+Lucius wanted to cast the time revealing charm himself to verify, but found that the once simple charm that he could cast without a wand or a word when he was half asleep failed on him. He had to concentrate and cast again: "Tempus."
+
+"11:26 pm, June 18th, 1993" popped up again.
+
+Lucius swallowed down the hard news, and then realized something worse than his own death: Draco had been an orphan for more than a year. Mr. Macnair, Draco's godfather, was torn into pieces in his open rebellion against the Dark Lord. And Mr. Avery, Draco's fallback godfather...was probably dead as well. And his boy had been a toy for Lord Potter to try his brainwash techniques for more than a year now, that was, if he was lucky. Otherwise…
+
+Lucius did not really want to think what might have happened otherwise.
+
+As if reading Lucius' mind through his perfect occlumency barrier, the towering black-haired wizard hissed: "*No v-worry. Nar-cisssa isss alive, with Draco now.*"
+
+Lucius' mind went blank again.
+
+As Severus began to recount the story on Narcissa from the *Daily Prophet* in human language, rejoice and relief almost overwhelmed Lucius. Lucius knew that Narcissa's death was Dumbledore's fault as well as his own. He had brought danger home, he had blindly trusted the ancient wards in Malfoy manor, and he had failed to protect Narcissa. He had left the burning marks in their bedroom as a reminder of both his hatred towards Dumbledore and of his own stupidity. Now knowing that Narcissa was obliviated, and was sent to live in Australia as a muggle, though his brain could generate hundreds of ways how this could be used against House Malfoy, Lucius still could not suppress his gratitude towards Dumbledore and the Boy-Who-Lived.
+
+Then there come another big question: why did Severus revive him? True, Severus had been his ally, and they probably trusted each other slightly more than average. But why such trouble? Any similar reason as why the Dark Lord revived the Granger girl? Prophecy or something?
+
+Even though he probably would not get a true answer, Lucius had to ask: "Severus, my dearest friend, why did you resurrect me?"
+
+Lucius deliberately asked in human language, so that his savior with a wand could choose freely whether to answer it in truth or not.
+
+To his shock, Severus answered in Parseltongue: "*P…Pl…Prefer you to li-live than die.*"
+
+Lucius had no idea Severus treasured their "friendship" so much, or at least, to the extent that the black-haired man could honestly say that he preferred Lucius alive. Whatever the other man's hidden motives were, Lucius knew he needed to be really grateful. Plus, the other wizard was much stronger than he was now, and had a wand at hand.
+
+Lucius knew the ways to thank someone who had just saved your life from the brim of death, but he had no idea how to thank a possible true friend who revived you more than a year after you died. And since he had been dead for quite some time, Lucius guessed he no longer had a lot of resources and powers he once wielded.
+
+\-*True friendship, is that what Severus desired? I guess I can offer him that, at least to the extent of my friendship with Walden Macnair. But friendship alone seems too empty and vague. This half-blood's eyes did light up when he saw gold. That I think I still have some. And he may desire glory and fame, I have heard him talked about Order of Merlin once or twice. Giving him an Order of Merlin was no trouble at all before I died, but now it may require some serious plotting. Well, perhaps only money for now, and an Order of Merlin, First Class later as a surprised gift.*
+
+Lucius was no fool. He knew he had dangerous enemies, and had planned for Draco accordingly. He had bought properties in other parts of the world, and had set up some secret vaults in Gringotts' oversea branches. Some of the Malfoy wealth would be available to Draco upon Lucius' death, some would only be known to Draco as he came of age, and some would go to Draco's vault in a monthly basis. Lucius quickly recounted the contents of the secret vaults that Draco didn't know yet, and decided the Mexico City one, which had one hundred thousand galleons, sounded too much like an insult to people in Dumbledore's faction (which Severus had apparently convinced the Boy-Who-Lived that he was in), and the Rome one, which contained something he did not want Severus to know. So, the Tokyo vault.
+
+Lucius made sure shock and gratitude was shown on his face and eyes, and hissed: "*Sseveruss, there iss no word that I can desscribe my gratitude toward you. You are my ssavior and true friend. Noble and Most Ancient House or not, House Malfoy recognizess itss life debt to you. I know money iss nothing compared to what you have done, but that can certainly make life a little bit eassier. I have a ssecret vault in Gringottss, in Tokyo, two hundred and fifty thousand galleonss in it, available to anyone with vault number and proper passsword. The vault number iss 122, and the passsword iss,*" Lucius paused, and then continued, "*Cor meum esst intra portass tuass, Draco Meum.*"
+
+The black-haired wizard smirked upon hearing the vault part, then raised his brow slightly as he heard the probably too sentimental password and Draco's name.
+
+\-*Well, how can a half-blood possibly know what lies in the "my heart stays with you" statement?*
+
+</div>
+
+</div>

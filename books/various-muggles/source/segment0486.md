@@ -1,0 +1,171 @@
+<span id="seg-0486__seg-0486-97d2e81060"></span>
+
+<div id="seg-0486__s15-fae38f4be9" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 46: Space Travel Pt III, Lord Slytherin's Favorite Morning Radio
+
+<div id="seg-0486__storytext-9c93142583" class="calibre4">
+
+I would like to thank my beta, Kuilin.
+
+------------------------------------------------------------------------
+
+7:22 am, July 21st, 1993
+
+In his new secret chamber in Hogwarts, tuned in for his favorite "radio channel (as the current wizards called it)" from "Harry Potter's" headquarter office, Lord Salazar Slytherin sat in a couch whose comfort level just didn't exist in his time, and enjoyed his breakfast: a roasted tomato, baked potatoes, and fried eggs. Salazar found the novel food items, - such as tomatoes and potatoes, which were unknown to the Europeans back in his time, - quite pleasant to eat.
+
+Again, Salazar felt that locking himself up in the Mirror was the best decision he had ever made. Of course, Salazar didn't just mean the food and furniture, he was primarily referring to the powerful magic he learnt in this new era - for example, the one that "Harry Potter" was currently telling the unicorn girl what Lucius revealed to him.
+
+Although Salazar was dissatisfied by Lucius' failure in Draco's linguistic education, he did have to credit Lucius for his intuition and human skills for figuring out the hypothesis that the improved Patronus could interrupt the death magic that had once made Grindelwald invincible. However, the need for a magical item that transcended life and death as an intermediary was definitely not Lucius' original idea. Salazar was quite sure of that, because, well, he himself was the one who actually thought of it during the so-called "brainstorm" with Severus last night.
+
+After guessing out this important secret, Salazar wanted to test whether it was true as quickly as possible. Unfortunately, Salazar didn't have any wand that was made of the heart of a human being at hand, but he knew where to get one.
+
+To be honest, it was a bit embarrassing for Salazar to temporarily borrow a gift that he gave to his descendants without notifying the rightful owner, especially, when another descendant - who also happened to be the owner's godfather - was watching. Salazar had to hiss to Severus to promise that he would return the wand to little Draco the moment he was done, so that Severus would stop looking at him in that way.
+
+The Boy-Who-Lived had kept two dementors in Hogwarts as a Voldemort killer, so these unpleasant creatures became safe and convenient lesser substitutes for Death himself. Salazar and Severus slipped into the room where the dementors were guarded by two Auror trio, and Salazar knocked down all the Aurors in one blow. Salazar grabbed one of the cages containing the dementors, and Apparated back to his new secret chamber together with Severus.
+
+With Severus getting ready to block the dementor anytime if things went wrong, Salazar tried to give the dementor mental commands. After a number of failures, Salazar observed a horrified magical twitch from the dementor when he was determined that he would protect the world from being destructed by the Muggles, as if the shadow of death was trying to refuse this possibility. Salazar thought for a while, and then tricked his mind into another mentality: *Shadow of Death, you know the advanced Patronus can banish you, so help yourself by lending me some of your power, or you won't exist.*
+
+Salazar did feel a bit of death magic the dementor was reluctantly streaming toward his way then. However, even if Salazar knew he could transform the death magic into neutral magic with Armand's heart, still fresh and sort of "alive" after so many years, contacting such dirty magic was still highly uncomfortable.
+
+Salazar signaled to Severus to let him use his Patronus to block the dementor for a while, so that Salazar would be able to think. With Severus' bright ball of Patronus, the death magic the poor shadow of Death was still streaming toward Salazar was blocked. Severus seemed to be uncomfortable upon the contact, while the empty cloak representing death rolled and twisted painfully in the air.
+
+\-*Ah, the stream of death magic can be blocked by our version of improved Patronus. Therefore, the better Patronus wielded by my crazy descendant and the unicorn girl must be more powerful toward this kind of magical streaming.*
+
+Salazar thought for a while, then signaled Severus to stop. Salazar pointed the Malfoy family wand toward the death magic stream, and willed it to absorb the death magic. Salazar felt death magic entering the wand, and the wand - or Armand's heart - screamed that it resented the dirty magic. Salazar waved the wand to cast "Lumos". A bright light ball larger than the head of a troll rushed out of the wand, and Severus quickly dodge away from the should-be-faint light ball dashing like a cannon shell. The light ball smashed into the opposite wall, and several pieces of shattered stone slabs flew out from the surface of the magically reinforced solid stone wall.
+
+Severus asked in disbelief: "*Iss that a Lumoss?*"
+
+Salazar mentally willed the dementor to stop, and looked down at the wand in amazement, and, err -
+
+Severus' eyes also turned to the Malfoy family wand.
+
+To Salazar's great embarrassment, the oak wand carefully maintained by generations of Malfoys over the past one thousand years had developed quite some visible cracks.
+
+\-*Damn it! Oak is for life and affinity to magic, while yew is the proper container for death.*
+
+Salazar quickly examined the core of the wand, and found that Armand's heart was luckily unhurt. Realizing Severus also noticed the cracks, Salazar hissed awkwardly: "*I am an exceptional wand maker. Shall repair and improve it before returning it to little Draco. Wrong type of wood. I shall not usse it again.*"
+
+Severus paused for a while, and then commented: "*Impresssive magic.*"
+
+While Salazar was busy repairing and improving the Malfoy family wand with magic that he invented after he made this particular wand, he started to wonder if he had been too soft to his descendants.
+
+\-*I have probably told Severus too much, and Draco may later discover that the wand becomes better. Maybe the Stone can't fix softness caused by old age.*
+
+"*Sso, iss thiss the ssecret?*" Severus examined the wall, asking.
+
+Salazar was glad that Severus was clever enough to omit the awkward part of tonight's experiment, so he explained to the descendant whom he was determined to memory charm soon: "*Probably the German guy ussed a different mentality, making a deal with Death through a life eater or ssomething like that, while* I *threatened it.* *I ssupposse, having a trade can render the magic flow more controllable, while my method would drain a dirty creature out of exisstence in sseveral minutess. I need to work on the detailss of thiss for a while, in casse I need a power boosst for a short period ssometime later.*"
+
+After Salazar properly managed the dementor and the Auror trios, he and Severus turned the Time-Turner twice and sneaked toward Draco's bed chamber. All this time, Severus seemed to be in some sort of emotional conflict.
+
+"*What?*" Salazar asked.
+
+Severus reluctantly answered, "*The Boy-Who-Lived hass promissed to reduce Luciuss' prison time by one hundred yearss, in casse Lucius figuress out the ssecret. I know Luciuss deservess every minute of hiss ssentence, but -*"
+
+"*You want to tell Luciuss thiss ssecret?*" Salazar asked in disbelief.
+
+Severus was quite embarrassed, "*I -*"
+
+Salazar sighed inwardly: *I do hope my descendants are friendly toward each other, but this is too much. Did Lucius treat his bastard brother so well, that after Severus brought Lucius back from death, Severus still feels that he needs to get a shorter prison sentence for Lucius? Although I think Lucius should be rewarded, instead of being locked up for killing Muggle-lovers, this -*
+
+Salazar then realized three things that he needed to do: *First, I need to get a heart willingly taken out from someone's chest; second, I'd better undermine Severus and Lucius' loyalty to the so-called "Boy-Who-Lived", so that they won't stick to this crazy descendant after I reveal the truth to them; and third, I have to test and see if this crazy descendant would try to make a deal with Death, and I shall kill him the instance he prepares the ritual.*
+
+*-Hmm, I should put something on the Death Stick, so that I shall be notified if it absorbs any death magic.*
+
+*-No, to be safe. I should link the Death Stick to my set of triggers on the Mirror, so that once my crazy descendant tries to sacrifice a lot of lives, and to transform death magic to other types of magic with it, all Riddles would be locked up in the Mirror.*
+
+*-Yes, this would be Riddle's first and possibly only test. If the younger Riddle - or anyone else, for that matter - decides to kill a lot of Muggles to gain infinite power, according to what Severus explained to me several times, and what I now conjecture, may lead to Muggles to use the ritual weapon. Therefore, I should modify the trigger on the Mirror, so that if any wielder of the Death Stick tries to make a deal with Death, they would be locked in Time.*
+
+Then, another idea came to Salazar: *As a matter of fact, since the younger Riddle already incorporated the Shadow of Death a part of the set of triggers to lock himself up (with my help, of course), by threatening them, I should further threaten the dementors, so that if anyone tries to make a deal with Death by mass sacrifice - not only restricted to the use of the Death Stick - he or she would be locked up in Time. Hmm, this magic would take me a few days to perfect, but it is definitely doable.*
+
+"*Alright, let'ss go to the sso-called Ministry of Magic after returning the wand to little Draco, and talk to Luciuss.*" Salazar hissed.
+
+Severus' eyes opened wide in amazement and gratefulness.
+
+With Severus leading the way, Salazar breaking the sham of magical wards in the Ministry of Magic like a breath (with a few exceptions in DMLE, which took Salazar a few minutes), they sneaked into the temporary holding cell in no time.
+
+After stunning Lucius - in case the blond made some unwise moves - Salazar woke him up. Lucius seemed to be first confused and horrified by the situation, but after Salazar removed his previous memory charm, realization began to show on Lucius' face. All of a sudden, Lucius shot Severus a grateful look.
+
+Salazar didn't want to pander on the question that how much the blond had guessed out. He cursed his softness again, and asked with a straight face: "*Luciuss, what do you think of the matterss of yessterday?*"
+
+Salazar knew Severus was mouthing "speak truth" behind his back. Since this would help with their conversation, Salazar ignored it.
+
+Lucius then revealed what he thought of before he fell asleep, that Grindelwald's eagerness jumped up after he saw the Granger girl's Patronus, and the ritual might be tempered with the powerful life magic.
+
+To Salazar's amazement, what Lucius got from reading Grindelwald was quite accurate, while Severus and Salazar himself only got this point from experiments with a dementor.
+
+\-*Good boy, Lucius. Grandpa Salazar shall reward you for this.*
+
+Salazar pulled out a newly made hat from his pouch, and put the hat on his head. Salazar could feel the excitement and happiness flowing out of the wizard behind him the moment he took out the hat, and Salazar annoyingly admitted that he was spoiling his descendants again.
+
+Salazar sighed inwardly, put the hat and a gold coin on the ground, and casted "Avada Kedavra" toward the hat. A few incantations later, Lucius became much harder to kill.
+
+When Salazar packed the hat and the gold coin up, he allowed Severus to explain the situation to Lucius. Of course, Salazar interrupted at the last part, and only revealed the proper segments of the secret to Lucius.
+
+To Salazar's delight and slight embarrassment, Lucius proved that he was much sharper in human stuff than Severus was. The blond took in a breath, and said: "*Lord Sslytherin, there iss no word that can expresss my gratitude. If there iss anything that I can do for you, pleasse do assk. For example, I ssupposse, a new wand might prove handy for the tassk? It would be my great honor, if my heart can be ussed for thiss great purposse.*"
+
+\-*Oh, Lucius is clever. I didn't insinuate that oak was not proper for the ritual, nor did I mention that I broke and repaired Malfoy family wand in my experiment. Hmm, I suppose Lucius wants to make sure that Draco always has the Malfoy family wand at hand, so he proposed that I should make a new one with his heart. And he probably also wants me to feel guilty.*
+
+The irritating part of the matter was, although Salazar had made sure that Lucius couldn't be killed by something such as losing a heart, one of his initial aims to be here was to obtain Lucius' heart, and he knew exactly what game Lucius was playing, Salazar still felt a bit of guilt toward this sneaky descendant.
+
+"*Wha-* "Severus hissed in horror, and then quickly said, "*Ssalazar, you have made me a horcrux ass well, sso I -*"
+
+Although Salazar did predict that Lucius had the highest probability of getting maimed or killed by either Grindelwald or one of the Tom Riddles, he couldn't rule out the possibility that either Severus or himself would be in a better position to undergo the unpleasant process of handing out the heart before Lucius did, so he said: "*Nah, don't fight for thiss now, whichever of the three of uss here needss the usse of the Sstone for other reasons firsst winss. And now, Luciuss, I shall memory-charm you, sso that you would reveal certain ssecretss to the Boy-Who-Lived, and ssee if he keepss hiss promisse.*"
+
+\-*And to see how "Harry Potter" treats the friendship between his subordinates.*
+
+A few hours later, Salazar was in his new secret chamber, listening to the younger Riddle's moral dilemma.
+
+The "boy" said: "Hermione, I need to tell you more about what I think happened with Lucius, before I can tell you what occurred to me around 3 am this morning, so that you won't be overwhelmed by my grand plan. I think the 'Patronus can interrupt the death ritual' part is probably Lucius' original idea. Actually, it is quite obvious in retrospect, and Lucius is an expert in reading human. However, I suspect that Severus told Lucius the second part, or at least he gave Lucius hints on it, then he memory-charmed both of them, so that Lucius can get a reduction in prison sentence."
+
+The self-righteous unicorn girl replied with some moral nonsense, just as Salazar expected.
+
+The young Riddle sighed: "Hermione, the problem is, we don't have any evidence, and Lucius did figure out the similarity between the Malfoy family wand and the Elder wand himself, so my guess isn't really well grounded. I would only assign it with at most seventy percent probability. And OK, Hermione, you can scream to me now, for I - , err, maybe I have read too much books with the high level villains giving orders to their subordinates in elusive ways, and while dealing with Lucius, I subconsciously lead myself into it. Well, when I talked to Lucius about his mission to weasel out Grindelwald's biggest secret, I asked Lucius to 'by any means that neither endangers the world, nor carries a prison sentence more than two years, figure out why Grindelwald had been invincible'. Back then, I was thinking on bribery, Confundus, or some other minor infringements of law. Therefore, even if my guess is correct, Lucius has figured it out by being friends with Severus - which is entirely legal - I am still responsible for getting him an one-hundred-year deduction in prison sentence. And by the way, I have also promised Lucius that in case he figures out Grindelwald's secret, I will not allow anyone to charge him with any other past crimes that didn't involve the death or permanent mental damage to sapient beings. Yeah, I am trapped by my own words this time. I should have realized that someone like Lucius Malfoy will definitely abuse any loopholes, and next time, I would be more careful with my promises with anyone."
+
+While the self-righteous half-unicorn uttered more nonsense, Salazar thought: *What? The younger Riddle does feel obliged to keep his words?! Hmm, judging from Severus' and Lucius' first interactions with me, I thought Tom Riddle was entirely unworthy of a leader of any kind. Is the younger Riddle acting this way, because he thinks this fits his current mask? This is madness beyond my imagination.*
+
+The younger Riddle accepted the Granger girl's critic, and said: "My major concern is, how should I treat the friendship between Severus and the Malfoys? Whether Severus is innocent in this incident or not, he probably did give the riddle containing the secret of the true Patronus to Lucius. I realize that Severus is probably more loyal to the Malfoys than to me, and he probably has some problems with withholding information from people he really likes. I suppose, from a human perspective, there is nothing wrong with holding your friends and godson in a higher position than the leader you serve because, err, because you don't want the world to be destroyed by the leader, I guess. And since I have never announced any rules, nor has Severus ever formally sworn loyalty, I can hardly call it betrayal even if Severus did leave some hints to Lucius. Hermione, when I made up a hypothetical scene in my head, that by not telling you some secret, you are, say, ten percent more likely to die, I would probably tell you some hints about the secret even if I know the secret might be dangerous. And in another entirely hypothetical scene, - Hermione, I know you would never do what Lucius did - say, you are found guilty for, err, causing severe head injuries to innocent bystanders in an unavoidable situation, I would definitely cheat the system in order to get you out of jail sooner. Hermione, I know this might be unfair to you, but you are the reason that I am not You-Know-Who, and we both know You-Know-Who's decision to dismiss Severus' request for Lily's life to be spared had lead to, could you tell me what should I do with Severus and Lucius?"
+
+\-*Ha, tossing your hard decision to your subordinates? What a sham! Godric never did this. However, what does "you are the reason that I am not You-Know-Who" mean? Does this horcrux of Tom Riddle really think that he is an independant character? Did Tom Riddle make some original discoveries with horcrux that he didn't tell Nagini? Could he really cut off only pieces of his character from himself as some religious mudbloods suggested, that making horcrux was splitting your soul, and you could cut some characters off from yourself?*
+
+Salazar remembered that Severus once said Tom Riddle grew up in a Muggle Catholic orphanage, therefore Tom Riddle did know Muggle religion, and he could very well shape his inventions according to some ideas he learnt when he was young.
+
+Just as Salazar began to wonder what would happen if this younger Riddle did contain most of the "good" characters of the original Tom Riddle (which the original one clearly didn't have much), the unicorn girl finished her hesitation, and said: "I am OK with the fact that Lucius and Severus are friends. And since you said you probably would do the same things for me, I guess I shouldn't raise my moral bar too high for Severus. Telling Lucius the riddle on the true Patronus might be acceptable. However, if your guess is right, this means Severus' moral standards aren't that high. Severus Snape joined the Death Eaters when he knew they were evil, and I am sorry Harry, he only abandoned his cause because the life of the woman he loved was threatened. He might have changed during the years he served Dumbledore, but he left us the first instance he thought Lily's death was revenged, to seek power of his own - not that there is anything wrong with it, you even encouraged him to do so. I don't want to raise the moral bar too high, but on the other hand, Mad-Eye stayed, - even after he regained his youth and his leg. Mad-Eye probably has never thought of resuming his dream to become a top wizard, he just stayed and protected us and the Stone. And I know, with the Russian textbooks and secrets, both of us agree that Severus is probably more useful than Mad-Eye. If Severus did leave hints to Malfoy, then Mad-Eye is definitely more trustworthy than Severus. Mad-Eye serves you because he is doing the right thing, while as you said, Severus serves you because he doesn't want the world to be destroyed. I don't mean that Severus is serving you for a *wrong* reason, but his reason isn't as *right* as Mad-Eye's, neither are his moral standards. Therefore, my suggestion is, first, let's try to find out what indeed happened. If that isn't possible, well, although due procedures call for us to assume that people are innocent unless proven guilty, we do need to observe Severus and Lucius more closely. As for Malfoy's prison sentence, let's defer the decision until we know what happened, or after we know it is impossible to know the answer, or, at least, after we know whether they are the true secrets of Grindelwald's invincibility."
+
+Salazar almost seethed in fire: *To "know it is impossible to know the answer"? You can use this excuse to defer it forever. What a detestable power-hungry mudblood bitch! You know the world is safe only when all Riddles are locked in Time, while you and Draco are assigned to be in charge. If Draco is going to hold you responsible for the younger Riddle's words to get Lucius the reduction in prison sentence, you may use the younger Riddle's guess today as an excuse to drive Draco out of power! And, is this why the younger Riddle ask this self-righteous Mudblood half-unicorn? So he has an excuse not to give Lucius his commutation? Or that he* wants *the Mudblood to have a weapon to deprive Draco of his power and/or his Father? Probably, this younger Riddle isn't the embodiment of the good characters of the original Riddle after all.*
+
+The younger Riddle hesitated for a while, and then said: "Hermione, yeah, you are right in a way. We do need to try out Lucius' ideas, and try to figure out what indeed happened, before deciding anything. I don't assume Grindelwald has left a written instruction manual lying anywhere, so we need to figure out the details ourselves. By 'ourselves', I mean Severus, Mad-Eye, you, and I. Unfortunately, Severus and Mad-Eye have quite a long list of things to figure out now. Moreover, I will have more urgent matters that would occupy their time very soon."
+
+\-*Hmm, deferring difficult decisions. I guess he is just pretending to be good.*
+
+"OK, still on the current matter. From what might or might not happen yesterday, I notice that there is some severe problems with our current organization. First, our organization doesn't have any formal rules besides 'don't destroy the world' and 'obey Harry Potter', so that everyone is running on the rules of their own. This seems to be the general condition for most wizarding groups, but you and I should know better. And I suppose, Mad-Eye's rules are quite different from that of Severus', and that may be one of the reasons why they fight so much. Hermione, you and I need to make up some rules. Since Lucius is so good at abusing any loopholes, Draco and Lucius should be the ones to examine the rules for loopholes, and I can hold them responsible if anyone abuses the rules in ways that they should have thought of; Mad-Eye is good at security stuff, so he should be the one to safety-check everything; you should check on the moral stuff; and I should check the sanity of the rules."
+
+Salazar listened to Harry's analysis of his organization, and found it quite reasonable. Lord Slytherin had lead wars against enemies many times, but he had never quite thought the organizational stuff as thoroughly as this younger Riddle did. Abusing the loopholes by subordinates? Sure. Salazar clearly remembered what an expert Armand was at this - even better than Salazar himself. However, Salazar had never thought of letting Armand criticing all the possible loopholes of the rules to be made.
+
+Harry continued: "Moreover, we are in severe shortage of manpower - we rely on Severus and Mad-Eye on almost anything of real importance. I know we can trust Professor McGonagall's integrity, but since she is not a perfect Occlumens, so I can't tell her much of anything. The same goes for Professor Lupin. Kingsley Shacklebolt is a perfect Occlumens, but we don't know him much beyond Mad-Eye's words, and his current job to protect the Muggle Prime Minister is of vital importance as well. Besides them, the Order of Phoenix doesn't have any competent and clear-thinking wizards. I mean, Mr. and Mrs. Weasley are relatively powerful, but they are more like, you know, Ron, instead of the twins. Mrs. Malfoy and the Tonks are potential allies, but none of them is a perfect Occlumens, either. In the long run, we need to set up a training program, probably lead by Severus and Mad-Eye, so that we can train our people to be perfect Occlumens, while I can teach them on the rationality stuff, and you on the morality rules. More importantly, in the rules that we are about to make, we need to include how to recruit new blood into the Order of Phoenix."
+
+Salazar found that he had never thought methods to train and recruit new bloods as thoroughly as the younger Riddle did.
+
+\-*Riddle's previous organization, the Death Eaters, was not organized any better than what Godric and I did back in the old days. How come that this younger Riddle has so many better ideas? Oh, of course, Comrade Shakhov had gotten some thirty thousand wizards working for the same Muggle government organization , and it didn't collapse until nine years after his death, which performed much better than the Death Eaters did after the older Riddle disappeared for the first time. Shakhov might have left some hints on how he ruled Russian wizards in the textbooks. I haven't finished reading the textbooks yet, there are too many new concepts there. Severus is reading that stuff faster than I do, and I constantly need him to explain things to me. Hmm.*
+
+\-*Moreover, by "rules", does the younger Riddle mean the oath that you throw into the Goblet of Fire, or hit with the Hammer? It surely sounds like it.*
+
+Salazar decided that he needed to read the Russian textbooks faster, and to gain access to either the Goblet of Fire or the Hammer.
+
+Just as Salazar began to wonder whether the Hammer was still in Moscow, the younger Riddle changed the topic, and revealed a great idea that almost made Salazar jumping from the couch.
+
+\-*Going to the Moon, so that you can bypass the Interdict of Merlin?! I shall definitely help with this cause.*
+
+And the Boy-Who-Lived continued to reveal another great idea: "As for the origin of magic, Grindelwald has indicated it might have something about the Mirror and the Stone. I formulated some guesses on this subject this morning. Muggles and wizards alike have pretty much searched the entire planet, but nobody has ever found any ruins of a civilization that is greater than ours. However, there is the Mirror and the Stone, both are definitely way beyond Merlin's power. After I thought of the Moon idea, I just began to wonder if the Mirror and the Stone were from an alien civilization, that was millions or even billions of light years away from us, or even from another Universe. And when that civilization collapsed, the makers of the Mirror sent the Mirror and the Stone toward the stars, and they somehow landed on Earth many years ago. Since there are wizarding folks in almost every race, and legends from every civilization talked about lost civilization, I suppose they landed before homo sapiens left Africa. Well, since there are both magical plants and magical animals, they might arrived when all lives on Earth were single cells, and the Mirror and/or the Stone managed to 'tell' the story of a lost civilization to human beings afterwards. And there is also the possibility that our Earth is not the only planet where the Atlanteans left messages, and there might be other Mirrors and Stones on other planets - or still drifting in the Universe. Or maybe, the Atlanteans left other forms of messages somewhere - leaving everything to a single Mirror or a single form of messenger was way too risky. Therefore, by developing magic that can send us to the space, to explore other planets, suns, and galaxies, we might collect more relics, and know more about the Atlantis in general."
+
+*-Oh, this is such a wonderful idea. I shall spare the younger Riddle's life just for this contribution to all wizarding kind.*
+
+*-Ah, wait, there is a test that I can run along the way. Hmm, I need to plant some hints in Severus' head now.*
+
+</div>
+
+</div>

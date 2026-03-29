@@ -1,0 +1,347 @@
+<span id="seg-0121__seg-0121-2d0ad1d999"></span>
+
+<div id="seg-0121__s4-cf02869b10" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 4: Swept Up, Pt 2
+
+<div id="seg-0121__storytext-9c93142583" class="calibre4">
+
+Chapter 31 1/4: Swept Up, part 2
+
+Fight Day: T -20 minutes
+
+Harry slid his ring into his pouch and turned to address his soldiers.
+
+"Sunshine will have nothing to gain by attacking us or the Dragons early, and we don't have any incentive to attack first either. Professor Quirrell may call a draw if no one attacks at all, so there will be pressure on Draco to attack first. He'll probably send out scouts, because he always sends out scouts, and then attack for real. I don't know who he'll attack first; it would be great if he attacks Sunshine, and then comes after us with whatever he has left, so Murphy's Law indicates that he'll probably attack us first. And then we'll have to deal with whatever General Sunshine has waiting for us.
+
+"Lieutenant Nott, when the gong rings, take your soldiers out and set up the ambush we discussed. If the Dragons send high value targets with their scouts, especially Goyle, shoot them in the back after they pass. Otherwise, we'll handle them, and you just stay hidden until the main army arrives. Then approach and hit Goyle from behind. Everyone else, once you get into the air, assume the cylindrical defensive formation, swarming to prevent anyone from counting us, and remember general orders \#1 and \#2 and your tactical training.
+
+------------------------------------------------------------------------
+
+T -20 minutes
+
+The Dragon Army stood at attention as Draco spoke, "As you know, the average first year student cannot effectively fight from a broom, and Dragon Army has a significant advantage in flying skill. Chaos Legion's General Potter, Mr. Nott, and Miss Brown are all very skilled on brooms, as are Mr. Weasley and Miss Bones of the Sunshine Regiment. However, Mr. Goyle is by far the best of our class on a broom, and many among us are more than a match for anyone in the other armies. In a fair fight, I would expect us to defeat both Chaos and Sunshine even if they work together."
+
+A few days earlier, Draco had actually had to walk away from where his army was practicing so they wouldn't see how upset he was. Out of 24 soldiers, including himself, 8 of them, again including himself, had spent a significant amount of time either playing quidditch with friends and family or taking professional lessons (all presumably intending to try out for the house teams at Hogwarts starting second year). Those soldiers had readily shown the ability to substitute a wand for throwing, catching, or batting, and would make a formidable force for the coming battle. The other 16... would hopefully also prove useful.
+
+Draco continued, "However, that means we can expect them not to fight fairly. Both of their armies have been training heavily for this battle, but our spies haven't determined their plans. I don't know what tricks they will produce, so fight conservatively and be aware that unexpected things will happen. Expect that, somehow, what looks like an easy score will turn into an ambush. Let the battle be a slow war of attrition where the most skilled at flying and aiming hexes will decide the battle. Those of you who are skilled have instructions to target the skilled members of the other armies. Those of you who are less experienced are to stay disciplined, try to take out the unskilled masses of the other armies when possible, but be ready for new orders when targets of opportunity arise." For example, serving as human shields or flying into obvious traps to see what happens, he added silently.
+
+"Captain Goyle will be taking four soldiers and flying toward the Sunshine Regiment for a very important scouting and stealth attack mission. Goyle, you are allowed to take out their soldiers when you can do it safely, but let me be clear: I'm not asking your team to take out their army alone. Your priority is to learn their strategy and tactics; reducing their numbers when convenient is a secondary goal." Gregory nodded in acknowledgement, but still clearly wasn't happy with this role.
+
+"Captain Boot will similarly be taking four soldiers toward Chaos Legion. He and one of the others are to stay far back to ensure they can return safely with the important information they will collect. The other three of you are to approach the enemy, do a quick attack run and then return. If you have an opportunity to stay longer and inflict some damage, feel encouraged to do so. Otherwise just get back here."
+
+------------------------------------------------------------------------
+
+T 0
+
+A gong rang out and 72 brooms rose into the air.
+
+Gregory and his subordinates headed out at a speed that made him grind his teeth. Why was everyone *so* slow? But the boss wanted this done carefully, so that's what they'd do.
+
+Finally, they saw the enemy. They were clearly headed to join the Chaos Legion, despite Zabini's lies. Most of them were barely visible in the distance, while Granger herself, with only a couple of Hufflepuffs, were much closer, far behind the rest and clearly unable to keep up.
+
+"You two", he said, gesturing at the two slowest, "take them out, then catch up with us. We're going to intercept the main force of their army." He didn't hesitate before spinning around and accelerating toward the Sunnies in the distance while two soldiers almost fell off their brooms trying to follow and the other two grinned evilly and moved to take on the Sunshine general.
+
+A minute later, they caught up to the Sunshine Regiment. Strangely, there were only about a dozen of them. And Weasley and Bones were missing; there must be another group further ahead. This was terrible discipline: the army should never have been allowed to break up like that. Gregory called to the others, "move in, fire at the four in the back, then turn and retreat. If none of them follow you, turn back around and do another attack run." He then veered right and dropped to skim the treetops, narrowly avoiding the tallest branches.
+
+Tigers weren't considered a very Slytherin animal but they were Gregory's favorite: the power, the speed, the lethality, and most of all, the ability to patiently wait, unseen, until the right time to pounce; they're everything a good Slytherin should be. After four Sunshine soldiers turned and chased his two Dragons (who had, of course, missed every shot, which had been painful to watch) he silently waited, until they had all passed him, then pulled up behind them. Less than a minute later, all four had been eliminated; Daphne, Parvati, and two whose names he couldn't recall.
+
+He glanced back and saw the remaining eight or ten had turned to face him. He was tempted to ignore his orders and take them all on alone, but controlled himself. This was a good decision, he decided: he saw movement up ahead that appeared to be Chaos Legion, possibly close enough to send reinforcements before he could finish and depart.
+
+He glanced the other way and saw... Granger and her other soldiers approaching? How incompetent and useless could his other two soldiers have been? They had a perfect opportunity to defeat some of the least skilled broom pilots he'd ever seen, from behind, no less, and had somehow managed to fail. In that moment, Gregory understood the angry look General Malfoy got sometimes, when someone didn't follow his plans correctly. Then his eyes widened in surprise as he realized what had happened. He called to his two remaining soldiers, "come on, we're leaving now. We have to report back to Dragon Army".
+
+------------------------------------------------------------------------
+
+T -6 days
+
+Blaise's eyes lit up. "Ooh, I know the opposite of people protecting you: we use you as bait."
+
+The Gryffindors and Hufflepuffs in the group looked appalled, but Hermione was interested, "Give me some more details."
+
+"Well, we could start with a group of us flying in some direction just above the trees, with you and me and a few others falling behind like we just can't keep up. Then, when someone attacks, our best fliers, who were just below us, dodging trees out of sight, fly up and ambush them."
+
+Hermione nodded, "I like it; that sounds promising."
+
+Blaise continued, "And we should probably head toward Chaos Legion as soon as possible. They're not likely to be a match for the Dragon Army, so they won't want to deplete their forces attacking us first. We can probably put Chaos between us and the Dragons and then hide until the Dragon Army finishes them off. Our best chance will be to pick off the survivors while they're trying to regroup."
+
+Hermione nodded again.
+
+------------------------------------------------------------------------
+
+T 0
+
+Theodore Nott lead four additional soldiers quickly away from the rest of Chaos Legion. When they could barely recognize them as people, rather than flying green blurs, they descended into the canopy, resting on branches where they were camouflaged but still had a relatively unobstructed view of the sky. It was only a minute or two later that they watched the Dragon Army scouts fly overhead.
+
+They called out names as they recognized the Dragons. "No high value targets, they won't last long", Theodore concluded. "We wait here until Dragon's main attack force arrives."
+
+They watched quietly as the scouts flew on. They saw a flurry of activity and a large number of red flashes before everything settled again and three dots moved off of the battlefield. "Defeated in detail", Theodore noted, smiling.
+
+------------------------------------------------------------------------
+
+T 5 minutes
+
+Terry Boot rushed back to General Malfoy, and quickly reported, "Chaos Legion is holding position over their starting location. It looked like they were just flying in a couple of circles at different altitudes. The others flew right up to the formation and got shot pretty quickly. It looked like more people were firing more accurately than I expected, so they may be more skilled than we had believed, but it was a straight-forward fight with no traps or secret weapons."
+
+While Terry was talking, Gregory arrived and waited impatiently for him to finish. "Sunshine Regiment is moving to join up with Chaos Legion. They had their army broken into two groups; they made it look like their less capable fliers were falling behind, but they really had their best people hidden in the trees below them. I lost two soldiers to that trap, but I took out four from their lead group."
+
+"Okay, we know where the battle will be, but we have conflicting data about whether they're working together. We'll have to assume they are, and that we'll see Chaos Legion alone, only to have Sunshine Regiment pop out of somewhere when we're least prepared for them. Everyone stay on the lookout and remember your assignments." Draco had thought over various tactics and decided to simply have his best soldiers pair up and attack the best people in whichever army he was facing. The other soldiers were also nominally assigned to these teams, but Draco was mostly hoping they'd follow and block spells meant for the group leaders.
+
+------------------------------------------------------------------------
+
+T 7 minutes
+
+Harry circled over his army, trying to watch every direction. He had instructed his soldiers to alert everyone as soon as they saw movement, but, of course, it was ultimately his responsibility. He thought he caught a glimpse of movement from the direction where the Sunshine Regiment had started, but turned his head and saw nothing. That direction should have been quiet; logically, the Sunnies could not benefit from provoking an early confrontation with Chaos Legion, but of course everyone doesn't always behave logically. And Harry didn't believe Hermione would have agreed to work with Draco but, now that he knew it wasn't unthinkable for her, he had to consider the possibility.
+
+His thoughts were interrupted by several people shouting. He glanced down and saw they were pointing in the direction of Dragon Army. Sure enough, he saw a group of over a dozen green dots in the distance. "All hands to battle stations! This is not a drill! Merlin says execute general order \#1 when Lieutenant Nott's team attacks Goyle."
+
+------------------------------------------------------------------------
+
+T 8 minutes
+
+Draco kept his eyes on Harry while his army slowly approached the Chaos Legion defensive formation. The Dragons flew in formation with their battle groups, with the groups lined up side by side. Goyle was on the right, Crabbe on the left, and Draco in the center. The Chaotic soldiers occasionally fired, but were still too far away to be a threat to even the least skilled of his soldiers. Draco tried to fight down the feeling of optimism: it didn't appear that General Chaos had prepared a trap because his soldiers were all basically hovering there, waiting to be cut down. He had to keep reminding himself that this was Harry Potter, so the appearance meant nothing. He was mildly surprised when the majority of Potter's army turned and appeared to retreat, half curving slightly left and the other half right. He was less surprised when someone yelled "five attacking from behind!" He turned to see Goyle luminos one of the attackers while dodging fire from the others and trying to chasing down Theodore. Knowing what was coming next, he yelled "Finch-Fletchley, help Goyle. Everyone else, eyes forward." Immediately after, he was forced to dodge several shots converging on him. Seven Chaotic soldiers, including General Potter, were charging straight at his line. He returned fire at Potter, but didn't have time to aim carefully and his shots were easily avoided. The Chaotic soldiers flew right through his line without slowing down.
+
+Draco spun around, but saw no one. Before he had a chance to find them, he saw what the other two groups had planned: they were flying along his line firing sideways, one group moving from left to right in front and slightly below them, while the other was moving from right to left, behind and below, putting his army in a crossfire without risking friendly fire. And somehow they all appeared to be shooting competently while dodging his army's return fire. He lined up a shot and eliminated Neville while ordering "break formation and attack". He saw red light falling from above and desperately rolled out of the way, allowing him to look up from below his broom before rolling back upright and angling upward. Potter's group had climbed above him and had managed a crossfire from three directions at once.
+
+------------------------------------------------------------------------
+
+T -6 days
+
+"The rest of us are going to try some other things... come over here so I can demonstrate... I want you to hold your wand against the broomstick in your forward hand, like this. Now try to fly the same course the way you normally would, except call luminos whenever you're pointed at the tree on the right or at the ground here." He drew a circle in the dirt with his shoe. Luckily, the luminos spell required no specific wand or hand movements, which was the only reason he had been able to cast it quickly enough to catch Gregory in the first battle. In between watching people dive, spin, or fall into the water, he had tried holding his wand against the broom in various ways and discovered that the spell was not particularly picky.
+
+Five minutes later, Harry could see various levels of dizziness and nausea in people's faces, but the target tree was bright, almost appearing to be on fire. The area on the ground had only a few red spots on it, but the people waiting in line for their next turn had been hit by an improbable number of 'misses'.
+
+"Okay, stop, let's try something else. Hold your wands sideways in your rear hand, like this. Now, you'll fire sideways and you can fly in a circle around a target and keep hitting it. This will mostly be effective against targets moving much more slowly than you, but I predict we'll have some opportunities to use it. You clearly want to fire at other people rather than stationary targets and I want to encourage that. I want one person to fly slowly in a straight line to the other side of the lake and then back. Another person will fly higher and faster, trying to circle the first person and light them up as many times as possible. Then the target goes to the back of the line, and the attacker becomes the new target. Questions?"
+
+"Is the target allowed to fire back?" Dean asked.
+
+"Of course. It's no fun if the attacker doesn't even have to dodge."
+
+Another few minutes later, Harry had them join the others joined in the running mock battle, which spread to cover most of the lake. They were clearly more limited, having to fly directly at someone to attack, but there were pre-existing solutions to that problem...
+
+------------------------------------------------------------------------
+
+T -2 days
+
+"Because most of you need to keep both hands on the broom to fly effectively, you'll have to hold your wand against the broom with your forward hand, in either the forward-firing or sideways-firing configurations we practiced. It restricts wand movement enough to prevent you from casting most spells, but it's good enough for luminos, which is the only spell you'll be using.
+
+"Some of our opponents will be more skilled, but many will not be. They're likely to copy our tactics as quickly as they can. Luckily, muggles have been fighting battles with aircraft, with similarly oriented weapons, for a long time and have invented lots of air combat maneuvers we can use.
+
+"For example, there's a maneuver called an Immelman Turn, which isn't usually a great tactic because it briefly puts you in a vulnerable position, but I think it'll make a nice surprise opening against Draco, before he catches on. Basically, when you're flying forward, you pull up into a vertical climb, let gravity slow you down, and finally flip over into a diving attack. Combined with some distractions, I'm hoping we'll get an opportunity to catch them off guard when we attack them from above."
+
+------------------------------------------------------------------------
+
+T 9 minutes
+
+Harry smiled; first round was bloody, but relatively successful. His 'gunships' had taken out three or four dragons, and his 'fighters' had caught another four or five, though about six of his own people were out of the battle, including Theodore, who never had a chance against Gregory with only four soldiers backing him up. Harry dodged a well-placed shot and regrouped with the others for their next move.
+
+Draco yelled "They're holding their wands against the front of their brooms so they can steer and fire at the same time. Try doing the same if you can't fly and attack otherwise. You have your targets. Go, go, go."
+
+Harry smiled again as he overheard Draco's command and turned to Dean and Seamus, "You ready to keep Draco off my back?" He shot away, angled to the right, while Dean and Seamus moved left. Draco, predictably, went after Harry. Wayne flew alongside Draco while Padma followed Dean and Seamus. Padma, a quick learner, attempted to shoot them while holding her wand against the broom, but having no prior practice with this method was a significant handicap. Along with the fact that Dean and Seamus were flying a fast and tight clockwise turn that she couldn't match.
+
+Harry generally followed a left turn while attempting to move in other directions as randomly-appearing as possible. Until he heard Draco curse and glanced back, seeing him retreat while Wayne, haloed by a red glow, slowly moved away from the battle. Harry flicked his wand back and shot Padma as Dean and Seamus passed behind him.
+
+------------------------------------------------------------------------
+
+T -2 days
+
+"Because those aircraft can't defend themselves or attack from every angle, they typically work in groups. We'll work together in squads like before, but you'll need to be able to leave your squad and rejoin another quickly when necessary. When we're on offense, we'll use delta formations: the main attacker flies in front, then others are behind them, to the right and left, and so on, so everyone has a clean shot forward and can shoot anyone who gets behind the leader. Yes, Lavender?"
+
+"So it's a V shape? Can't we just call it a V formation?"
+
+"No, it's a delta formation. Anyway, the leader will pick a target and fly at them, and everyone else will follow and help. If anyone approaches from the sides or from behind, the closest soldier or soldiers leave the formation and attack them. The goal is just to make them leave the main formation alone so they can continue attacking, so if they run away, just rejoin the nearest formation.
+
+"And the main defensive formation we'll use is called the thatch weave. Basically, split into two groups, fly away from each other, then curve back, cross each other's course, then separate and curve back again. When someone's chasing the other group, you turn harder and it leaves you pointed at the people behind them on the next pass, so you can shoot them down.
+
+"There are some other neat moves you can do on your own, but that one's the most important."
+
+------------------------------------------------------------------------
+
+T 11 minutes
+
+Tracey executed what would have been a Pugachev Cubra, if magic brooms didn't make the description "supermaneuverable" laughable when applied to vectored-thrust jet fighters. While pursued by two Dragons, she held her wand against her broom pointed to the right, then pulled up and hung on to the now vertical broom which nearly stopped in midair. She promptly shot the first soldier, who was unable to avoid overshooting past her right side. The other was able to turn to the left in time, but she was already spinning the broom to the right about its axis and shot him before pitching the broom back to horizontal and accelerating off in the opposite direction from which she'd started out.
+
+Lavender flew passed Harry and announced, "Hey, I'm joining your delta-V thingy. Goyle broke mine."
+
+Delta-V equals exhaust velocity times the log of total mass over dry mass, Harry's mind supplied before he could stop it. There was something important about rocket propulsion that he needed to think about, maybe about whether brooms are really reactionless, or- He dodged a red beam. No time for magical physics now, his formation was playing chicken with Crabbe and Goyle.
+
+The two groups sped past each other with no hits, but the Dragons managed to maneuver behind the Chaotics. Harry saw that Draco was also closing in on Tracey, while Terry Boot had Allen Flint on the run.
+
+"General Order \#2", he yelled. The members of Chaos Legion simultaneously released long transfigured streamers, and the Dragons pursuing them, being forewarned of Chaotic tricks, universally pulled up short to avoid them. Of course, none of them knew how to enchant the streamers to do anything useful, and anything they could do with them, using either technology or magic, would probably be banned by the rules for this fight. But it was enough to make the Dragons hesitate, as intended.
+
+------------------------------------------------------------------------
+
+T 12 minutes
+
+Ron and Susan fired at a pair of Dragon soldiers. No one had seen where they'd come, but the soldiers had noticed their appearance in time to dodge and counter-attack. The Sunnies immediately turned and retreated.
+
+Draco watched his people chase Ron and Susan as they fled. They were gaining slowly as the Sunshine soldiers dodged repeatedly. "I expected better from Sunshine", Draco wondered aloud. "They don't fly as well as the Dragon soldiers. And why would Granger send two brooms to attack all of Dragon Army and Chaos Legion? Quick retreat was their best case scenario. That doesn't make any sense; what were they thinking? And especially why attack now? We're still inflicting heavy casualties on each other."
+
+------------------------------------------------------------------------
+
+T -6 days
+
+Blaise continued, "We can probably hide until the Dragon Army finishes Chaos Legion off. Our best chance will be to pick off the survivors while they're trying to regroup."
+
+There was unanimous agreement on this point.
+
+"Maybe most of us could just use the brooms for transportation, then get into positions on the ground", Anthony suggested. "Anyone flying down through the trees would get slowed down and be less maneuverable, so we might be better off there."
+
+"What do you guys know about guerrilla warfare?" Hermione asked.
+
+"Gorillas fight wars? That's terrifying." Hannah answered.
+
+"No, it's not... never mind" Hermione continued. "Anthony gave me an idea. If most of us are on the ground, then we can send a couple of soldiers on brooms to approach Chaos Legion and Dragon Army while they're fighting, attack quickly and then run back into the trees. If anyone follows, the rest of us light them up."
+
+"Something like that will take a lot of speed. And that's why racing brooms are the best", Ron concluded proudly.
+
+"Hm", Hermione said thoughtfully.
+
+------------------------------------------------------------------------
+
+T 13 minutes
+
+After aborting an attack run on Harry and Tracey, Draco looked around for the two soldiers who had gone after the Sunny brooms. He a feeling they were done for today.
+
+A large dark shape rose from the trees below the battle.
+
+"What the hell is wrong with her?", Draco exclaimed as the shape became clear.
+
+"Crap... that's actually kind of awesome", Harry said as he and Tracey stared at the canopy.
+
+------------------------------------------------------------------------
+
+T -6 days
+
+"Hm", Hermione said thoughtfully, "What about the, what was it, Cumulus 500? What should we do with that?"
+
+"We could drop heavy things on the other soldiers", Daphne suggested. "Though Quirrell would probably object to that violating his claws-sheathed-dominance-contest rule."
+
+"We could uproot some trees and build a fort", Ernie said. "That's more like what it was designed for: moving large things a long distance and putting them in the right places."
+
+"It would be nice to have some cover, but I can't imagine that going quickly or turning out well", Blaise responded.
+
+"And I don't know if professors would like us doing that to the forest", Hermione added. "What about people: if we carried extra soldiers they could freely aim and fire without worrying about flying?"
+
+"They'd be slow; easier targets than usual", Susan answered, then shrugged. "But maybe not as easy of targets as they'd be on their own."
+
+"It just seems not right though", Ron added.
+
+Blaise grinned evilly, "Good idea, Ron." Ron turned to him to ask the obvious question but flinched instead.
+
+------------------------------------------------------------------------
+
+T 13 minutes
+
+The object was basically half of Sunshine Regiment. Ernie piloted the Cumulus 500, from which a series of straps suspended an additional nine soldiers on swing-like fabric seats. If swings had 5-point harnesses, anyway. Sunshine had apparently spent five minutes thinking about flight safety, unlike the average wizard.
+
+"Hermione actually built a magical aircraft carrier!" Harry exclaimed. "It looks like a very non-optimal tactic for this battle, but still, points for style."
+
+Everyone briefly paused to watch what the carrier would do. Gregory, Vincent, and another Dragon promptly began an attack run.
+
+"Merlin says don't attack Dragons who are fighting Sunshine Regiment", Harry yelled. "We could gain an advantage against our strongest enemies that way, but at this point both Chaos Legion and Dragon Army are in danger of depleted each other's forces and letting Sunshine Regiment actually win", he explained to those nearby.
+
+The three Dragon began firing while still at a significant distance, knowing that the extra-large target couldn't dodge quickly. By the time they reached a more believable attack range, almost all of the Sunshine soldiers were glowing red, except for Ernie, who had been shielded. Then the Sunnies drew their wands and opened fire. Gregory dodged the massed fire and escaped, and Vincent narrowly managed to follow, but the third soldier was caught unprepared.
+
+"So they're just blatantly going to cheat? That's not very Sunshine." Lavender commented.
+
+------------------------------------------------------------------------
+
+T -6 days
+
+Blaise grinned evilly, "Professor Quirrell said luminating the pilot or broom takes them out of the game. *Passengers* aren't brooms or pilots, so they're immune to luminos. They have to be stunned or something else. And some of them could put shields around the pilot and broom. Imagine if Draco flew in, carefully aimed and shot someone, and then they shot him right back despite taking a direct hit. I'd love to see the look on Draco's face."
+
+Ron replied, "*That's* definitely not right. Malfoy's *mine*."
+
+------------------------------------------------------------------------
+
+T 14 minutes
+
+"They're not really flying brooms, are they?" Harry asked rhetorically. "Seamus, I want you to circle them at a safe range and call 'somnium' frequently. Don't actually cast it; you might hit Ernie or another pilot. You're just there as an obvious explanation when they start getting stunned. Lavender, fly up that way to a hundred meters above them, then put your shadow right behind them (so they'd have to look backward and stare at the sun to see you) and dive straight at them. Sleep-hex as many of them as you can, but don't take any shots that you think you might hit Ernie. Then luminate Ernie or the broom when you pass close to them."
+
+Draco fired one last shot at Ron's back before turning around and returning to the main battle area. Seeing two of his soldiers chase Ron or Susan and not return had been quite enough so he called out for Vincent and Justin to let Susan go as well. He smiled as he watched Vincent quickly reverse course then chase down and eliminate Allen.
+
+------------------------------------------------------------------------
+
+T 16 minutes
+
+Harry was alone at the moment, Tracey and Dean having heroically 'sacrificed' themselves by flying directly into Gregory's flight path to stop him from shooting Harry. At point-blank range, it was impossible for Gregory to miss, but simple conservation laws (mass and momentum mostly) prevented them from disappearing out of his way after they'd been eliminated. They were thus able to physically impede his path for the few seconds Harry needed to get clear.
+
+Unfortunately for Harry, Draco and Vincent weren't particularly busy, and immediately changed course to converge on him. Deprived of wingmen to assist him, Harry decided to play his last trick. He pulled up and accelerated to his top speed, climbing straight toward the sun, knowing his pursuers wouldn't be able to precisely target him.
+
+He then turned over in the highest g turn where he could safely hold onto the broom. He cast contego in front of the broom to both deflect incoming fire and act as a windshield during his powered dive. He guessed he had only 100 or so milliseconds to register the shock on Draco's and Vincent's faces as he blew past them.
+
+Harry impatiently waited thousands more milliseconds before pulling the cord on his transfigured parachute, which roughly jerked him backwards, allowing him to look up as he rapidly slowed down. He had deliberately made the material thin enough that he could look through it to see two silhouettes approaching, backlit by the bright daylight, while he remained hidden in the parachute's shadow.
+
+He unclipped the harness and arbitrarily picked the one on the left, shooting Crabbe the instant he flew around the edge of the chute, then dodged around the chute himself, looking back and giggling as he saw Draco firing and also hitting Crabbe.
+
+Harry's main apprehension before this battle had been facing Gregory Goyle, broom superman. He'd actually kind of been hoping for a chance to fight one-on-one with Draco. He gained altitude and waited for the parachute to drop into the trees, knowing Draco could currently see where he was and wanting a relatively fair fight. Then he saw saw Lavender caught between Gregory and Susan and quickly thought about where he was needed more.
+
+At that moment, he heard Ron yell "Malfoy!" and raced off to try to reach Lavender. It looked like Justin would get there first.
+
+Ron and Draco charge directly at each other, deviating only to dodge. neither willing to turn away and end up in the defensive position. Finally, Draco scored a direct hit, but was confused to see Ron smiling broadly. He looked down and saw he had been hit as well. Ron apparently noticed at the same time because they simultaneous yelled "Dammit" and "Bloody hell" as they made synchronized turns away from each other and flew toward opposite ends of the forest.
+
+Gregory watched Draco fly off for only a second before making his decision. Several times now, soldiers he had personally been leading had been caught by Sunshine tricks, and he was starting to take it personally. He may have also been somewhat jealous that Lavender had had the chance to defeat half their army basically single-wandedly. But the opportunity to take on the whole rest of that army alone was just a happy coincidence. "Justin", he called, "go after her", as he fired a shot at Susan, who turned and retreated, yet again. After taking a moment to eliminate Lavender, he accelerated out and took a position 30 meters to Justin's right. When Susan dropped through the canopy, Gregory dropped to just over the ground, cut left, and slowly approached the Sunshine ground force, watching for red flashes.
+
+Then he saw then, arranged in a half circle, concentrating fire on Justin, who was dodging and hopelessly trying to escape. Gregory adjusted course to approach them from behind. It may have all been in his head, but pretending to allow his annoyance to help power the spell seemed to allow him to cast somnium more frequently than he ever had before. Four Sunnies were asleep before they located him, including Hermione, Blaise, and Anthony. He easily dodged around a few trees while stunning the next four. He quickly counted in his head and determined that Susan was the last of them left. She had gotten off of her broom for some reason after they had shot Justin, and was now desperately rushing to get airborne again. Gregory let out a low growl and paused for a second, timing his final somnium for just before Susan's feet left the ground. As a result, she launched about six feet into the air before arcing back down and crumpling onto the ground.
+
+Harry rushed toward Terry, who was close behind Seamus, but he was too far away. He watched Seamus invert and loop downward in a split-S. He could have gotten a few good shots at Terry halfway through the turn, but due to a combination of his current skill and the g-forces he was pulling, he couldn't lift his wand hand from the broom. Terry easily angled down and eliminated him seconds before Harry got within range.
+
+After lighting up Terry Boot, Harry pulled up and scanned the area. Everyone else seemed to be off the field, or at least glowing and landing. Except... movement to his left. He dodged a pair of red bolts of light, "Crap. Goyle.", he thought. "I should've known he'd still be around. And of course I'm out of tricks."
+
+Harry accelerated and dove into the trees, weaving around branches and blindly firing backwards. He couldn't turn around, but knew Gregory was still close, based on how narrowly the incoming shots were missing. Harry didn't dare slow down or turn enough to let him catch up further. Gregory had already seen the full range of combat maneuvers; Chaotic soldiers had put them to good use evading him as long as they had.
+
+Harry cast wingardium leviosa on a small tree branch, recently fallen enough to still be covered in leaves, and brought it behind him as a shield, risking a quick glance backward. He saw Gregory 20m behind him, already landing two hits on the branch. Precious seconds ticked by as Harry ran through the list of spells he'd read about as quickly as he could, looking for something he could use. He was constrained to spells that were safe and was explicitly disallowed to cast anything other than luminos on Gregory or his broom.
+
+He had one viable idea: cast ventus to blow leaves and dirt up and behind him. It wasn't great but it was the only feasible action he could think of. It wasn't technically casting magic on anyone, and was much less dangerous than what they were already doing. He carefully studied the rapidly approaching section of forest ahead of him, knowing he would only get a fraction of a second from this distraction.
+
+He saw a tree with an especially wide trunk and approached it while continuing to weave. Four seconds out, he cast ventus, blowing debris at Gregory. Two seconds out, he cast a sticking charm between his left hand and the broom, the spell he'd learned earlier that week to keep his glasses from falling off during high-g maneuvers. He reached the tree trunk, pulled into a climb, and barrel-rolled around the trunk, placing himself opposite Gregory, who he briefly saw dropping his wand hand from where he'd raised it to shield his eyes.
+
+Harry shot into open sky and looking backwards, targeted the area next to the large tree where Gregory should be visible any millisecond. A shadow appeared at the treeline, Harry called "Luminosluminosluminosluminos...".
+
+------------------------------------------------------------------------
+
+T 30 minutes
+
+Harry awoke some time later. The first thing he noticed was that his left shoulder hurt. Opening his eyes, the second thing he noticed was that he was over ten meters above the canopy, hanging from his broom. The third thing he noticed was that his wand did not seem to be present.
+
+Harry was confused; if everyone else was out, the battle should be over and someone should be helping him get down. If any enemies were left, he was an easy target and should have been taken out and someone should be helping him get down. He decided he could figure out what was going on and yell at people later; first he had to get control of the broom. He muttered, "note to self: learn wandless magic ASAP. Also, in the mean time, affix wand to some kind of bungee."
+
+His first few attempts to reach up and grab the broom with his right hand failed, and if his left arm had ever had the strength to do a one-armed pull-up, it certainly didn't at the moment.
+
+After thinking for a moment, Harry started to swing himself from side to side, eventually raising his right arm high enough to grab the broom. This caused the broom to shoot forward.
+
+By shifting his weight carefully, Harry gained enough control over the broom to slow and lose altitude. His feet caught a tree trunk and he quasi-rappelled down. After his feet touched the ground, and he was able to get seated correctly on top of the broom. He flew slowly back toward the large tree, spotting his wand surprisingly quickly, although, now that he thought about it, straight, polished pieces of wood were very uncommon in this forest.
+
+After recovering the wand, Harry cast *finite incantatem* on his left hand, and finally released the broom. He winced as the pins-and-needles feeling reached his brain, and, exhausted, decided to lay on the ground and take a nap before returning to the castle.
+
+Just as he closed his eyes, he heard cheering. Re-opening his eyes, he saw Chaos Legion on their brooms descending to the ground around him. Without moving he asked, "what took you guys so bloody long?"
+
+Neville answered, "Professor Quirrell said an army couldn't win unless at least one soldier was conscious and holding a wand. We decided to wait for you to recover and see if you could get down on your own rather than accepting a tie."
+
+"Oh. That sounds like Quirrell. You made the right choice... So I got Goyle, then? I never actually saw him get hit."
+
+"You hit him a few times, actually. Including once in the face. He was pretty annoyed. Come on, let's get back to the castle", Tracy said, helping Harry back onto his feet.
+
+------------------------------------------------------------------------
+
+"Harry", Professor Flitwick called. "Do you have a moment?"
+
+Harry stopped, turned, and approached. "What is it, Professor?"
+
+"The seeker for Ravenclaw's quidditch team is expected to be too ill to play in the next match, if not longer. After today, it looks like you're currently the best flier in Ravenclaw. Normally, first years aren't allowed on the house teams, but given the special circumstances involved, I think an exception can be made for a match or two. Are you interested?"
+
+"Uh, why aren't first years normally allowed to play?"
+
+"Well, mainly because they're usually not good enough to compete with older students, but the game is also potentially dangerous. There are occasional injuries."
+
+"I'm sorry, professor, but I'm going to have to pass. I'm somewhat concerned by a game that's too dangerous to let 11 years olds play, but that wouldn't stop me if I thought it was important. Mostly, with everything else I have going on, I'm not sure I have the time to learn the game and prepare for matches. Also, from what I've learned about quidditch, it doesn't seem like a very well-designed game. I don't really see the attraction."
+
+Flitwick chuckled. "Between you and me, I think that's the smart decision. I don't get quidditch either, but it's a tradition at Hogwarts, and as a Head of House, it's part of my job to recruit for it. It's not a coincidence that Ravenclaw doesn't win at quidditch very often."
+
+</div>
+
+</div>

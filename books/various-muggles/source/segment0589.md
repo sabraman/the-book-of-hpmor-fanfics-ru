@@ -1,0 +1,247 @@
+<span id="seg-0589__seg-0589-ca7d49cf11"></span>
+
+<div class="calibre4">
+
+<div id="seg-0589__chapter-3-c160dcb9d6" class="calibre4">
+
+**June 15th, 1992, 9:00 A.M.**
+
+They had just sat, after she had sworn friendship to Harry. The sun rose higher over the forest, deep green shading lighter as they both thought and talked. Hermione kept moving around and seeing what different actions felt like. She just felt… powerful, and perfectly poised. Like running across an icy roof five stories up wouldn’t be such a big deal anymore. But how to find that out without actually falling, that would be the thing...
+
+“I really do want to do science again,” Hermione said, after a time. “We’ve got so many things to test about my abilities, why not test everything, and just have fun with it? I want absolutely no head-thumping if things don’t go your way, Mr. Potter,” she said with a grin. “Let’s even invite Draco once he gets back, and I promise not to make it all metaphorical again. That was really quite silly of us, wasn’t it? But for now, I just want to know how fast I can *run*.” She grinned wider than maybe she had ever grinned before. It just seemed to happen.
+
+Harry was just opening his mouth to answer her, when there was an oddly patterned knock on the door. “Cloak,” he whispered to her, and she pulled it out while giving him a *look*. He just nodded, and she trusted he would explain everything soon. She pulled the cloak out of her pouch, and disappeared. Harry stood up, and left the balcony, and she invisibly followed him.
+
+“Enter,” Harry said, in a surprisingly intimidating voice. Hermione wondered how he had learned to do that.
+
+An older boy came through the door. His robes were trimmed in green, and Hermione judged him to be in his fourth or fifth year. “My Lord,” he said, and Hermione blinked. The Slytherin continued, “my housemates are plotting against you, the other orphans. They doubt your story of the Dark Lord’s defeat. One said that you were the only wizard who has made a habit of doing the impossible, and also the one who benefits the most from the events as you told them. Another has doubts based on the idea of a ritual calling for 36 sacrifices, which would be extreme indeed, Lord. They are planning to confront you and the girl. They were masked and hooded, with disguised voices, but there were seven there, other than myself. Seven of Slytherin, Lord.”
+
+“Thank you, Lesath,” Harry said, distantly, and Hermione noted the ease with which he put on the mask of a Slytherin master plotter. He really had been spending too much time with Professor Quirrell.
+
+“You have done well today,” Harry continued. “Was there anything more?”
+
+“My Lord, I know I should not, but thank you for not killing my mother,” the boy said slowly.
+
+As Hermione’s eyes widened, Harry merely said, “I had nothing to do with the deaths of anyone that day--”
+
+Lesath quickly responded, “Of course, My Lord,” and bowed slightly before ducking out the door.
+
+Hermione swept off her cloak - *her cloak -* and asked, “What was that all about?” not even trying to keep the incredulity out of her voice.
+
+Harry looked deservedly sheepish, she thought. “Um… I told myself I wouldn’t take advantage of him, but then, after you… after the troll, I realized I could have asked him for help, and I didn’t think of it. I was an idiot. So, I’m going to help him as I can. He’s had a messed up life, but I’m not going to refuse his help, you know.”
+
+Hermione knew her confusion was showing on her face. “I mean, what was going on with the ‘My Lord’ thing. You did say you weren’t going to be the next Dark Lord, you know. And I fully intend to hold you to that, Mr. Potter.” She just tried to keep her face steady as she continued. “Walking around with hooded minions calling you *Lord* is dangerously close to recidivism, you know.”
+
+“Oh. That,” Harry said hesitantly. “Yeah, I see how that looks a little peculiar. So, just before the Azkaban breakout last year, he begged me to free his parents. Bellatrix Black and Rabastan Lestrange. He’d heard I could do anything, you see.”
+
+The bitterness in Harry’s voice was shocking, and she realized again just how much he thought he had to fix everything.
+
+“He spat at me when I told him I couldn’t. It was heartbreaking, really.”
+
+Hermione took a slow breath as she considered this. “You know, you keep trying to take responsibility for other people. Not just for that boy, but for everyone. Like when you tried to change Padma. It’s just not healthy at all, trying to fix everything yourself. Particularly when you’re manipulating people into doing what you think is right. That is especially not okay, Harry.”
+
+Harry had an oddly pained look on his face as she said that, and he answered, “I thought I was being clever with Padma, and yes, I have realized that I went too close to the Dark Side with that one.” His eyes dropped to his hands for a moment. “So often, Voldemort thought he was being clever when he was just being empty. So thank you for letting me know that I came too close to that, this year. I know, I’m not Voldemort, but thank you for not letting me get too close.”
+
+As he continued, the sudden vulnerability disappeared, like he had put on a well worn coat again, after briefly taking it off. “I do wish I could just fix everything right now, though, because people are *dying*. People shouldn’t have to die, and I know that’s not my fault, but I can finally do something about it, when nobody else can. That means I need to act as quickly as I can, so that no one else needs to die.”
+
+She could hear the steel in his voice, the determination, and she knew that this was a moment when she would have given up on persuading Harry to listen to her, in the past. Before, she would have called it Harry’s Dark Side, and let it be. But this idea of Harry’s, that he was the only one who could bear the responsibility of managing the problems of the world, well, no one, not even Harry, should carry that burden. How to say that so he could hear it, was the difficulty. Too often, in the past, her words had pushed him into a certain rigidity of thinking. Harry talked about having an open mind, but he didn’t always question his own assumptions.
+
+“You told me about that room Dumbledore had,” she said, after a moment. “Of all the deaths that he blamed himself for. Don’t do that to yourself, Harry. When you take responsibility for the whole world like that, it’s as if there’s a piece of you in your own version of that room, where there’s nothing but blame for the lack of perfection. If you want to end death, make it not be a thing that happens anymore, I’ll give you all the help I can. Now that I’ve actually come back from death, that doesn’t seem horribly daunting, like it would have before. And since I’ve literally been resurrected, it seems callous to deny that kind of thing to anyone else who doesn’t want to die. I mean, before, I probably would have listed out all the problems that we’d cause, letting everyone live forever, but now that just seems like putting all my effort towards thinking of all the reasons it’ll never be solved. Entirely self-defeating, I think. If we start getting overpopulation or food shortages, we’ll solve those problems as we need to, assuming that magic won’t easily solve them for us. Just, don’t make everything your responsibility. Don’t put too much pressure on yourself, Harry. I worry that you’ll break.”
+
+Harry grinned at that. “Well,” he said, “I do work best under pressure, but I can’t really tell you more than I’ve already said about that night, not until you can keep Mr. Bester out of your mind. I really need you to keep saying things like that, though, so thank you. And I really, really need your help with… well, everything, so thank you for that as well. But I got sidetracked there. You’d asked me about Lesath.”
+
+Hermione was frankly astonished that Harry had taken that so well. But thinking about it as he continued on, she realized that as much as she had changed by coming back, Harry had been changed by the weeks that she had missed as well.
+
+“When Black broke out of Azkaban, Lesath just assumed it was me. He told me later. I couldn’t really dissuade him. He wouldn’t listen, when I told him that I had nothing to do with the breakout and when I told him I wasn’t his Lord. He thought I meant he shouldn’t acknowledge any connection between us publicly. Some people are too Slytherin for their own good, I guess. But, well, I couldn’t just tell him to go away.”
+
+Hermione was about to respond to that, when suddenly a silver cat appeared in front of Harry, and spoke to him in the Headmistress’ voice. “Mr. Potter, are you available for a consult? An applicant for a professorship would like to meet you, and after that I have a rather unusual problem, and I could use your rather unusual perspective on the matter.”
+
+“Thank you, Headmistress, I’d be happy to help,” Harry said. He really was getting much better at the whole politeness thing, she thought. “I would be able to meet you shortly, but if it’s anything, um, really important, I’ll need to bring Hermione with.”
+
+She blinked as she heard that, surprise warring with confusion within her as Harry continued. “She’ll need to be around in case I have any, um, dumb ideas, or start getting too clever.”
+
+And astonished surprise had just won. Harry really had grown, quite a bit.
+
+As the patronus returned to the Headmistress, Harry looked over and addressed Hermione. “I was reminded recently that you usually give me good advice, especially about the big stuff. Are you okay coming with?”
+
+It took her a moment to respond to that. Beneath her astonishment, she could *feel* that she was still getting used to… To actually thinking of herself as an equal to Harry, instead of wishing she *could* be. It was a wish that, she could see now, hadn’t helped her to actually become his equal. It had spurred her along, yes, but it had fed a resentment that she really didn’t need anymore. “Thank you, Harry,” she finally said. “I would be honored.”
+
+The silver cat returned and asked, “Does Miss Granger wish to join us?”
+
+Harry relayed her agreement, and the patronus disappeared again. Once it had returned, the Headmistress’ voice continued on.
+
+“I am glad to hear it, Mr. Potter. The applicant that I have just interviewed for the Defence position has, in fact, requested to meet both you and Miss Granger. I was utterly unable to describe the both of you succinctly, and so she would like to meet immediately, if convenient. And after that, we shall speak of the other matter I mentioned. And Mr. Potter,” the cat continued, “I will not prevent you from reporting any strange senses of doom, but please do remember that Hogwarts requires a competent Defence Professor this year as well. I haven’t changed the password yet, but you’ll remember it, yes?”
+
+Harry said that he did, and the cat disappeared for a final time. Harry turned to her. “Before we go, she is applying for Defence, so let’s be careful what we say about the Dark Lord, OK?”
+
+This reminder of Hogwarts Normal reaffirmed to her exactly how much Harry had grown up in just two months. That explained the astonishing changes she had already noticed, but she didn’t want to feel like she always had to run to keep up with Harry Potter.
+
+Then she realised she could probably run a whole lot faster than him. Really, now she thought about it, it had been her that had really egged on the competition they’d had throughout the year. It didn’t have to be that way. They could both be the smartest people in Hogwarts, that could be alright.
+
+As her world slowly shifted, Hermione answered Harry. “I’ll just tell the truth of what I remember about the graveyard, if she asks, without mentioning anything about knowing you were involved. And I won’t make eye contact, I’ll just look at her chin when I need to. She could be a Legilimens, after all. Or, she could be completely innocent and normal, for a witch, anyway. Speaking of which, do you think the curse on the Defence position is broken now, since you’ve defeated You-Know-Who again?”
+
+Harry thought for a moment. She could tell that it was an interesting question for him, he would usually answer more quickly than this. Finally he said, “Snape said that the Dark Mark hadn’t faded, I suppose that’s weak evidence for a no, but I have what’s possibly stronger evidence for a yes that I can’t tell you about yet… I have no idea, really, especially since we don’t know exactly how the curse was worded. Interesting. I suppose we’ll have to keep an eye on her just in case.” He sighed. “And I’d hoped to get in at least a week of just studying before things became utterly and completely mad again.”
+
+------------------------------------------------------------------------
+
+**June 15th, 1992. 10:30 A.M.**
+
+The Headmistress’ office was a lot quieter, today. Apparently Minerva McGonagall had made some progress on her oft repeated promise to silence all the fiddly little things that Dumbledore had left her. Harry wondered, though, if the office would ever be truly silent. There were at least a dozen devices that were still making noise. Oddly enough, this was more distracting than the cacophony Harry remembered from his previous visits here. With an effort, he directed his attention towards the Headmistress and her guest. They had both just stood up from their chairs by the desk, and the young woman applying for the Defence position looked absolutely tiny next to McGonagall. Her skin was pale, and her hair was black, and yet where the light hit it, tiny patches shone in blue, green, or dark purple. She was blinking repeatedly, as if she were trying to adjust her eyes to a sudden bright light. She wasn’t quite as short as Hermione or himself, and she was much taller than Flitwick, but she was so small and slight that she looked much younger than she probably had to be, to be a serious candidate for the Defence position.
+
+*Shzzup. Shzzup. Meerp.*
+
+*Good defensive weapon*, he thought, ignoring the odd noises that surrounded him. *Makes the enemy underestimate you, and when you do attack, they’ll never expect it.* He noticed after a moment what a strange and unsettling first impression that was, and filed his confusion for later, when he’d have time to think about it. But he did have the distinct sense that something was dangerous here, as if that was what one of the little fiddly things did, gave off an aura of danger that was entirely different from the sense of Doom that he had felt from Professor Quirrell. More fiery, for one. There was, in fact, a new device on a table, near the Sorting Hat’s coatrack. It looked like a small, pink egg, and it occasionally twitched, slightly. Although, an innocuous seeming device that gave off a feeling of burning death and destruction didn’t seem like the kind of thing Dumbledore would leave for his successors.
+
+*Voom. Voooom. Vooom.*
+
+The Headmistress herself interrupted his thoughts, and said, “Mistress Miralecha, I would very much like to introduce to you Mr. Harry Potter and Miss Hermione Granger, the two brightest academic stars Hogwarts has seen in this century, and perhaps in the last as well. I am certain you will all get on like a house on-- quite well indeed, I mean to say.” The Headmistress looked oddly sheepish for a moment, before recovering herself, and turning to Harry and Hermione. “We have discussed that you are both quite ahead of the usual start of second-year curriculum, and if you do truly intend to take your OWLs in just a few months, you will be even moreso by the beginning of term. As such, I have suggested you be given tutoring sessions instead of normal classes, and Mistress Miralecha asked to meet you both at that point in the interview.”
+
+Turning to Harry and Hermione, McGonagall continued. “Mr. Potter, Miss Granger, I would like you to meet Mistress Miralecha, who is applying for the Defence Position, and for Head of Slytherin House. Past experience has unfortunately biased Hogwarts against allowing a first-year Defence Professor to apply for a Head of House position,” she said, with a glance and a nod at the shorter woman, “but I have been persuaded to give Mistress Miralecha a chance to apply, at least. We do, of course, require a competent Defence Professor, and even though she did not study at Hogwarts, Mistress Miralecha has quite impressed me with her knowledge and abilities. And of course, anyone who can teach Defence at Durmstrang without losing a single student is greatly to be respected.”
+
+The young woman inclined her head slightly, to acknowledge the compliment.
+
+“Very pleased to meet you,” Harry said, and Hermione did the same.
+
+*Hmmmn. Hmmmmmn. Hmmn.*
+
+“I am very pleased to meet you both as well,” Mistress Miralecha said. Her voice was soft and musical, with a trace of an accent that Harry couldn’t quite place. “You may indeed be quite far ahead of the other second-years, and we will discover by just how much when you do take your OWLs, but I am quite confident that I can design a curriculum to challenge nearly anyone. Be aware that I intend to hold you to the pace that you set for yourselves in studying for your OWLs. After all, why should anyone do less than their capabilities? There is far too much of that attitude abroad in the world already. Is this an acceptable condition for your Defence tutoring?”
+
+Harry nodded, inwardly very grateful for his time-turner all over again. With any luck, this coming year would be calmer than the last. This Defence Professor couldn’t be literally Voldemort again, and Moody was still checking in on Grindelwald every few months, so that seemed like a safe assumption, plots against him notwithstanding. “Yes, I think it is. As long as we’re not being asked to do anything that will harm us, I can handle that. Hermione?”
+
+*Fweeep. Fweep. Fweeeeep.*
+
+“That sounds good to me.” She had an intense expression on her face, which reminded him of the conversation just this morning, when she’d asked him for a bazooka. She looked excited at the challenge put before her, and ready to face anything.
+
+“Wonderful!” the young woman responded. “I had expected that to be the case, but you never do know. You have both already shocked the Magical World, quite appropriately, I would say. Some quite desperately need the occasional shock to the system.” She paused, and seemed to consider them for a moment.
+
+“The Boy Who Lived and the Girl Who Revived. Yes, I can see it now,” she continued, with a contemplative tone. “Generals of two of the most popular and innovative armies at Hogwarts, astounding magical and academic talents, and vanquishers of the most terrible Dark Lord in living memory. An interesting pattern, that. I suppose it may be too much to ask, but do either of you remember anything about how the Dark Lord was defeated?”
+
+*Zheeng. Zheng. Zheeeeng.*
+
+Harry arranged his face into a quizzical and thoughtful expression, while inwardly admiring the construction of the question: it did not imply anything about who had actually defeated Voldemort, either time. Just what level was that gambit on, though? As he considered the question, he adjusted his threat level assessment of the young woman upward a notch.
+
+Hermione answered first. “I just remember waking up in a strange graveyard with the smell of blood in the air and You-Know-Who’s hands around my throat. After just being eaten by a troll. It was all quite disorienting. They say Harry saw it, though,” she said, and glanced over at him.
+
+“I did,” Harry said. He had rehearsed what to say with Moody, since he was bound to be asked more than once. “I was at the Quidditch game, and my scar started hurting, and then it was like someone was hammering a nail right into my forehead, and I started to see things, and hear… a horrible voice.” He didn’t need to fake the emotion in his voice, only tweak it slightly. The betrayal still stung like an open wound, but that wouldn’t do, not quite. “I saw the Death Eaters die, V-Voldemort spoke a word and their heads all fell off. The deaths, the blood, somehow it renewed him, gave him back his full strength, tied his soul to the world again. But Hermione followed him back. I don’t know how, I don’t know why he stole and preserved her body, but,” he grinned over at her, “I am glad you came back.”
+
+*Fzzzz. Fzzzzzz. FZZZZZZZZZZZ.*
+
+“I’m glad too, Harry,” Hermione said, with a small smile.
+
+“Anyway, when Voldemort saw what had happened, that Hermione had come back, he tried to strangle her, and then he exploded. That’s what I saw, that night. And I don’t remember anything from eleven years ago, but I expect you’ve heard the story.”
+
+Mistress Miralecha inclined her head. “As you say, Mr. Potter. You wouldn’t happen to have heard which word he spoke, to kill the Death Eaters, I mean?”
+
+Harry outwardly shuddered, and cursed behind his habitual Occlumency barriers. That detail seemed to not fit, in some way he couldn’t explain. The story that he had improvised two nights ago seemed more problematic the more he recited it. He kept the shakiness in his voice as he responded. “It sounded… wrong, somehow. Something no one could say with a normal human mouth.”
+
+The young woman looked thoughtful a moment, then spoke. “He may have discovered the lost wand of Salazar Slytherin, then. There are other possibilities, of course, but he was always quite fond of his gifts as a Parselmouth. Given that as a possibility, it is even more of a relief to see him defeated. With Slytherin’s wand, he would have been formidable indeed.”
+
+Harry blinked, exactly the way that a Harry who had never heard of any legendary wands at all would have. Inside his Occlumency barriers, he made a note to research Slytherin’s wand. He wondered, though, if her response was just to make him think that she was going along with his story of events, while she could in fact see clearly through all the holes in the story. *What level are you playing at, Mistress Miralecha?*
+
+“On a lighter topic, the record of your and Miss Granger’s generalship both speak for themselves. I confess, I was surprised to hear that your Professor Quirrell had given such responsibility to First Years, but he certainly chose and encouraged all of you very well indeed. The entire Wizarding World was watching Chaos, Dragon, and Sunshine. It was diverting in a way that few things are, in my experience.”
+
+The world-weariness in that last sentence clashed audibly with the apparent youth of Mistress Miralecha, and as Harry reviewed the last few minutes of conversation, he belatedly increased her threat level another notch. *Okay,* he thought, *what would it mean if she knew that Voldemort couldn’t have decapitated all the Death Eaters at once?*
+
+*Mrer. Mrer. Mrrrrrrrr,* came the answer from a cube that appeared to be covered in pink hair.
+
+“I would have liked very much to have met Quirinius Quirrell,” the Defence applicant continued, as if she hadn’t just been interrupted by a pink device that sounded like an engine stubbornly refusing to start. “There are too few competent instructors in magical battle, and I would have liked to have discussed several things at length with him. Ah, well. He did much to restore the reputation of Slytherin’s House, which I feel has been quite unfairly maligned in recent years. What did you both think of your former Defence Professor?”
+
+As the young woman had spoken about Professor Quirrell, Harry had judged it safe to let the depth of his pain and loss show on his face. After she asked her question, he breathed in deep, and let out a sigh.
+
+“I was particularly close to Professor Quirrell,” he said, “We were very much alike, in some ways. I miss him, and I hate that he’s gone.” Harry was not looking at the ring on his finger. Internal Harry felt the urge to look, but he was very intentionally resisting. “But, he died well, protecting us all from Voldemort,” he continued, and Internal Harry felt a knife twist within himself at the lie, “he was more than a teacher, he was a friend and a mentor. It hurts again every time I remember that he’s gone.” *And that it was all a lie.*
+
+*Freeow. Freeow. Frrwerrrppp!*
+
+Harry felt a hand on his shoulder, and turned to Hermione. “I’m okay. Thank you, but I’m okay, really.” She smiled encouragingly back at him.
+
+She spoke herself, then. “I didn’t know Professor Quirrell nearly as well as Harry did. He was intimidating. Scary, even, I thought. For a while there, I was convinced that he was a Dark Lord in disguise. But Harry’s right, he did end up dying well. He protected his students until the very last.”
+
+Harry awarded himself several hundred points for not reacting in shock to Hermione’s utterly accurate assessment of Quirinius Quirrell. He allowed himself a slightly puzzled frown of disagreement at her comment, after which he focused on his breathing until Mistress Miralecha spoke again. No matter which level she was working at, it would not do to draw attention to that comment with a denial.
+
+“Cunning and ambition are sometimes mistaken for darkness, I have noticed. Of course, the reverse is also true in some cases. Well, either way, it seems I have indeed missed an opportunity in not meeting your Professor Quirrell. Many of us are plucked from this life entirely too soon, and too few of us get the opportunity that you have had, Miss Granger. Use it wisely.” Her voice was entirely calm, as if she were discussing nothing of particular emotional impact.
+
+Hermione looked down at her hands. “I intend to,” she said, with a quiet intensity.
+
+Mistress Miralecha smiled slightly, as she continued on. “I have long believed that no one should dwell overlong on the past. I can see that you both have quite the future ahead of you, no matter what happens. At some point soon, we will need to discuss your goals for your Defence tutoring, but that can wait until another meeting, if I am hired on. And I see no need to continue asking you revealing questions. I do have the advantage of both of you. I have, after all, read so much about you both in the British newspapers, and I am a non-entity in Britain. Is there anything you would like to ask of me?”
+
+Harry pretended to think while he continued to recover from what Hermione had said, and from his memories of Professor Quirrell and Lord Voldemort. Hermione herself responded after a few moments. “The Headmistress said you had taught very successfully at Durmstrang. You must have had a good reason for applying for Defence at Hogwarts instead of continuing on there.”
+
+The young woman nodded in response. “An insightful observation. I did indeed have a good reason for moving on from Durmstrang. It is, you see, a school with quite a few ideas that are exceedingly old fashioned, to say the least. Although I was quite effective at keeping order in my classroom, and at actually teaching my students, the administration took issue with the fact that I was unwilling to use torture as punishment. They stated it differently, of course, but that is what it came down to. We had quite the disagreement, and I decided in the end, that it would be best to leave the whole thing behind me. What is it they say, a case of irreconcilable differences? Yes, I think that describes it best.”
+
+*Nreeeek. Nreeeeek. Yoww.*
+
+Harry had managed to think of a question by then, and he took advantage of the relative silence after a slowly spinning green triangle had ceased to shriek like a cat in heat to ask it. “What impression did you get from what you read about us in the newspapers?” That should be interesting to hear about, anyway, as well as being a distraction from the comment about Dark Lords that was still weighing on Harry’s mind.
+
+“Well, the discerning reader knows to adjust for the agenda of the author, of course. And so, I was not too disturbed by the more colourful things that have been said about the two of you. The *Daily Prophet* says much, you see, and only some of it is actually true. Although it did publish a retraction for only the second time recently, soon after Lucius Malfoy publicly stated that Miss Granger had nothing to do with the attack on his son. Quite exceptional, indeed.”
+
+Hermione had started when the young woman had made reference to her trial and arrest, but when Harry gave her a questioning glance, she returned with a weary smile and a slight nod.
+
+*Vooop. Vooop. Vooooooop.*
+
+“And the *Quibbler* is rarely true,” Mistress Miralecha continued, with a wry grin, “though often quite entertaining. It is a shame, isn’t it, that those are the only two options for British witches and wizards. One would think that someone in that business would be interested in the truth. But perhaps I am being naive, as they say.
+
+“A few months ago, Mr. Potter, I was able to discern that you had made an enemy of Lucius Malfoy, and then, rather astoundingly, transformed him into a friend. I will not ask how you managed this. Your plots are, of course, your own. In the midst of that affair, there were reports that you had frightened a Dementor in front of the entire Wizengamot. This seems rather more improbable than any other report of your actions. I do not consider your supposed betrothal to Ginerva Weasley, because, of course, that matter led to the first printed retraction in the history of the Daily Prophet. But I will not belabour the point. Suffice to say, all reports of you and Miss Granger that reached me did nothing to dissuade me from the opinion that you were both exceedingly interesting individuals. I confess, I find my goals are served best by anonymity, but your methods are also your own, of course.”
+
+Harry's brain rapidly downshifted from considering the subtle implications of the young woman's previous words as he listened to this rather blunt summation. He had, of course, known that there existed smart individuals in the wizarding world who could piece together and unravel all the stories about him, given the time, but to hear it all at once and so succinctly was still rather shocking. He really did need to raise the level of his game.
+
+“If I could ask you a question, and return to my first line of inquiry briefly,” the young woman said, and Harry's inner observer was briefly consumed by terror as the conversation swung back around towards Voldemort. Hermione’s comment about Professor Quirrell was too close to the truth, and Mistress Miralecha seemed cunning enough to guess who Quirrell really was. “Tell me, Mr. Potter, Miss Granger,” she continued, “what do you make of this?” And she opened a pouch at her side and wordlessly withdrew a rolled newspaper that quite obviously wouldn’t have naturally fit within. Harry silently took it, and braced himself as he unrolled it and discovered that it was a copy of the *Quibbler*.
+
+*Mreerr. Mreerr. Mreerr.*
+
+He was also feeling an odd desire to find a can of Comed-Tea. This information from the future still didn't quite prepare him for the headline, which read:
+
+**Dark Lord He-Who-Must-Not-Be-Named Vanquished by Tom Riddle, Brought to True Happiness Through Quidditch!**
+
+Harry somehow managed not to choke on his own saliva.
+
+A voice said, “Huh?” in surprise. Harry stared at the paper for what felt like a thousand years, as his brain stayed utterly silent. The same voice said, “But that’s not true, I saw, he touched Hermione and exploded,” and the part of Harry that knew exactly how the Dark Lord had been defeated belatedly recognized that voice as his, or rather, the voice of a Harry who knew little of the Dark Lord, and nothing of Tom Riddle. He wordlessly passed the paper to Hermione, who took it, tilted her head slightly as she read, and was silent for another thousand years. Finally she said, “That makes less sense than usual for the Quibbler. How is that even possible?”
+
+“Indeed. One wonders who could possibly be writing such as this, and exactly how askew their view of this admittedly strange world is. Or perhaps it would be best not to know. Mr. Potter?”
+
+“I don’t think Quidditch would make the Dark Lord happy,” Harry’s mouth slowly said, independent of his brain. “I haven’t heard anything about him ever being happy. Just, murderously rageful, really. Could I have a chair? I need to think about this a while. And would somebody silence the rest of those things, please?”
+
+*EEEeeek. EEEeeek.*
+
+Harry collapsed into a hastily conjured squishy chair, and let his brain regroup. He was dimly aware of Hermione in a chair that had appeared next to his, and of the Headmistress’ voice, sounding oddly distant.
+
+“Unfortunately, Mr. Potter, those are the devices that have proven resistant to my attempts to silence them. Otherwise, this office would be quite calmer, and more suited towards thinking.”
+
+*mmBloop. mmBloop. mmBloop.*
+
+“May I?” asked Mistress Miralecha. At McGonagall’s nod, she pulled out her wand and muttered something in a language with far too many consonants at each of the still-noisy devices in turn. They fell silent, one by one, with each sharp twist of her wand. All except the last, which looked like a miniature see-saw tilting back and forth, and which went ‘EEEEEE-ooooooo-EEEEEEE-oooooo’ as it moved. She gave a thoughtful “Hmmmm,” paused a moment, and then cast a second Charm at that one, and the noise diminished to a barely audible whisper.
+
+*<span class="small">‘EEE-oooo-EEE-oooo’</span>*
+
+“Thank you very much, Mistress Miralecha. Please report back here tomorrow morning to discuss the terms of your employment.”
+
+“Thank you, Headmistress. It was a pleasure to meet you, and I look forward to the coming year. And it was wonderful to meet you both as well, Mr. Potter, Miss Granger. Shall we meet tomorrow at, say, three in the afternoon, to discuss your lessons?”
+
+Harry stood up and said something in agreement, and was dimly aware of Hermione doing the same. He shook the young woman’s hand just before she left, and it took him a moment to fully process two strange things. Her hand was shockingly warm, not quite enough to burn, but entirely too close. The other was more elusive, and it kept slipping out of his mind, but he was reminded of something he’d read years ago, about a theory that the custom of the handshake developed so that two strangers could prove to each other that they weren’t carrying any weapons. Why that idea was so unsettling now, he didn’t know. And his brain kept hiccoughing and sputtering through its disjointed worries about just exactly what the new Defence Professor had discovered of himself and Hermione.
+
+*<span class="small">‘EEE-oooo-EEE-oooo’</span>*
+
+He shook his head, and realized that he was still holding the Quibbler. He *really* didn’t want to read that article right now. That had been a test, and he felt like he’d only just skated by with an Acceptable. Maybe even with a minus after. But his brain didn’t want any more shocks just yet.
+
+“Well,” he said, into the entirely novel silence, “We’ll need to let Moody know that he’ll be invisibly watching our meeting with the new Defence Professor.”
+
+*<span class="small">‘EEE-oooo-EEE-oooo’</span>*
+
+“Indeed,” said the Headmistress. “I will inform him myself.”
+
+“Aren’t you both being a little paranoid?” Hermione asked.
+
+“Miss Granger,” McGonagall responded, “I am certain that once Mad-Eye learns what has transpired, he will insist. She is the Defence Professor, after all. And she seemed to guess something, or am I mistaken, Mr. Potter?”
+
+“It seems quite likely. Well. Madame Bones did say that my behavior made certain things obvious to anyone smart enough who was paying attention. I guess I’ll just have to be especially cunning if I want my secrets to stay secret.” Harry felt a grin forming on his face. “That shouldn’t be--” He cut off speaking as he realised what he was no longer feeling. “Did either of you notice a sense of fiery doom while she was here?”
+
+The Headmistress sighed. “I suppose it was unavoidable that it would be another interesting year, wasn’t it?”
+
+*<span class="small">‘EEE-oooo-EEE-oooo’</span>*
+
+“Well, I liked her,” Hermione chimed in, “She seemed much nicer than Professor Quirrell, and I didn’t feel any doom of any sort.”
+
+“Well then. Do I want to know what the other-- Wait,” Harry interrupted himself again. “LUNA LOVEGOOD IS ACTUALLY A SEER?!”
+
+</div>
+
+</div>

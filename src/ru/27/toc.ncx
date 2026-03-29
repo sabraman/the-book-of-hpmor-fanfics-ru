@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="a173f21e-2d13-4ffd-a44b-592528a17dd9" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>27. Following the Phoenix</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 81: Taboo Tradeoffs, Pt 3</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 82: Taboo Tradeoffs, Final</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Chapter 83: Following the Phoenix, Pt 1</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s3.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>Chapter 84: Following the Phoenix, Pt 2</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s4.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Chapter 85: Following the Phoenix, Pt 3</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s5.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Chapter 86: Following the Phoenix, Pt 4</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s6.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Chapter 87: Perspective, Pt 1 - Distance</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s7.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>Chapter 88: Perspective, Pt 2 - Planning</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s8.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>Chapter 89: Updating Beliefs, Pt 1</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s9.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>Chapter 90: Updating Beliefs, Pt 2</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s10.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>Chapter 91: Updating Beliefs, Pt 3 – Aftermath</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s11.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>Chapter 92: Little Children Grow Up, Pt 1</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s12.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>Chapter 93: Little Children Grow Up, Pt2</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s13.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>Chapter 94: Nihil Supernum, Pt 1</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s14.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>Chapter 95: Nihil Supernum, Pt 2</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s15.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>Chapter 96: Nihil Supernum, Pt 3</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s16.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>Chapter 97: Nihil Supernum, Pt 4</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s17.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>Chapter 98: Nihil Supernum, Pt 5 – Aftermaths</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s18.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Chapter 99: Day of the Dementors</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s19.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>Chapter 100: Lost Innocence</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s20.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>Chapter 101: Knowing the Enemy</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s21.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>Chapter 102: The Muggle War, Pt 1</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s22.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>Chapter 103: The Muggle War, Pt 2</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s23.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>Chapter 104: The Muggle War, Pt 3</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s24.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>Chapter 105: The Philosopher's Stone</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s25.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>Chapter 106: The Muggle War, Pt 4</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s26.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>Chapter 107: The Muggle War, Pt 5</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s27.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>Chapter 108: The Muggle War, Pt 6</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s28.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>Chapter 109: Negotiations, Pt 1</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s29.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>Chapter 110: Negotiations, Pt 2</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s30.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>Chapter 111: Negotiations, Pt 3</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s31.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>Chapter 112: Negotiations, Pt 4 – Aftermaths</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s32.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>Chapter 113: Endings and Beginnings</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s33.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>Chapter 114: The Deathly Hallows, Pt 1</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s34.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>Chapter 115: The Deathly Hallows, Pt 2</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s35.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>Chapter 116: The Man Who Lived</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s36.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>Chapter 117: Epilogue</text>
+      </navLabel>
+      <content src="19/OEBPF/content/s37.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

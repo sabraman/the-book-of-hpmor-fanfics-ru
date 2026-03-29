@@ -1,0 +1,362 @@
+<span id="seg-0856__seg-0856-939ff59f9c"></span>
+
+<div id="seg-0856__s7-090d0d6647" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 7: The Return of Lord Voldemort?
+
+<div id="seg-0856__storytext-9c93142583" class="calibre4">
+
+Updated 1/27/2012
+
+*"Harry Potter's nearly a Dark wizard himself."*
+
+**=ooo=**
+
+"*Lord Voldemort*?" Monroe said, astonished by the accusation. "*Me*? I'd like to hear how you worked *that* one out, Potter!"
+
+"Oh, I plan to explain," Harry replied. "You're either Voldemort, disguised to look like someone else, or you're possessed by Voldemort and being forced to act on his behalf, I haven't quite worked out which it is yet."
+
+Monroe looked down at himself, tightly bound by coils of rope around his torso and legs. "Am I going to have to lie around like this while you explain?"
+
+"Oh, are you uncomfortable?" Harry asked, sneering. "How rude of me!" He took out his wand and waved it in Monroe's direction. Monroe rose upward, and Harry floated him over to a nearby plump chair, upholstered in a garish purple material. Harry flicked his wand, dumping Monroe unceremoniously into it. "Comfy now, Monroe?"
+
+Monroe looked around. The room was square and not very large; there was a door opposite the fireplace. Incongruously, a third wall contained a set of elevator doors. Besides the chair he was in sat another chair, this one in red and gold cloth, and an equally garish-looking divan across the room from him. "Where are we?" he asked.
+
+"This," Harry waved an arm to indicate the room, "is the entry way to where my wife and I live." He pointed with his wand toward the door. "It's protected with just about every possible spell I could come up with. Only myself, my wife, and a few friends can get through that door to our apartment. Obviously, you're not one of my friends, so if by some chance you do get free, I advise you not to try escaping through that door."
+
+"Any time you're ready to back up your claim that I'm Voldemort," Monroe said, in a flat tone. "I'm all ears."
+
+"You're not going to enjoy the result if it turns out I'm correct," Harry warned him, dropping into the chair next to his. "I can't allow Voldemort to be set loose on the Wizarding world again."
+
+"It seems like I remember the Wizarding world was certain he was dead, once upon a time," Monroe added matter-of-factly. "And that included you — I remember reading it in the *Prophet* years ago."
+
+"I *was* certain," Harry declared. "I faced him with the Elder Wand, one of the Deathly Hallows, and beat him — deflected his Killing Curse back on him. He hit the ground a dead husk."
+
+"And yet you maintain that, somehow, *I* am Voldemort —"
+
+"— or possessed by him," Harry said, clarifying his position.
+
+"Whatever," Monroe shrugged. "I'm still waiting for your proof. Isn't there some kind of spell you can use to tell whether I'm really someone else?"
+
+Harry had taken out his wand again as Monroe was talking and was idly rolling it between his fingers. "There's a spell that the Ministry uses to determine if someone has been possessed. They developed it specifically to test whether Voldemort had somehow taken over someone else after Quirrell was killed. For a while, being tested was pretty much mandatory if you wanted to work at the Ministry. Even Hermione was tested before she began working there after she left Hogwarts. Well, let's see what happens." Harry pointed his wand at Monroe and uttered several words. After several moments of silence his expression turned from anticipation to something between relief and disappointment.
+
+"Bad news?" Monroe asked, sardonically.
+
+"You're not being possessed by any being the spell can detect," Harry said, looking a bit chagrinned. "But that only supports my initial hypothesis — that you somehow *are* Voldemort!"
+
+"Voldemort's body was destroyed when he tried to kill you back in 1981," Monroe pointed out.
+
+"There are rituals to recover ones original form," Harry countered. "There were steps taken to counteract those rituals, but Voldemort may have anticipated them and taken steps to ensure he would have the proper materials if he needed them."
+
+"But it seems like he didn't avail himself of those rituals," Monroe went on, "since you destroyed Quirrell along with Voldemort when you two dueled.
+
+"Quirrell's body was taken over by Voldemort," Harry confirmed.
+
+"So where was he in the ten years between 1981 and when Quirrell appeared to take the Defense position at Hogwarts?"
+
+"We never learned the answer to that — Quirrell kept almost every detail of his life after attending Hogwarts secret," Harry said. "Perhaps in the same way *you* claim to have done — with a modified Fidelius Charm, which is one reason why I think you're him."
+
+"That's not much to go on," Monroe pointed out. "I think you're reaching."
+
+"You *would* say that if I was right about you," Harry riposted. "But there are more reasons."
+
+Monroe raised his eyebrows inquiringly. "Such as?"
+
+"Such as your single-minded determination to get an interview with me over the past several months," Harry answered immediately. "I did everything but turn you down flat to get you to give up. Yet you kept calling and showing up trying to get in to see me."
+
+"So would *any* good journalist," Monroe snapped, exasperated. "That's no reason to think I'm some evil Dark Lord, for Christ's sake!"
+
+"By itself, no," Harry agreed. "But there's also —" a statue on the mantelpiece suddenly began flashing, distracting Harry. He stared at it for a moment, surprised, then muttered. "Damn."
+
+"What?" Monroe followed Harry's gaze to the statue. "What's that mean?"
+
+"It means trouble," Harry said, standing up. He reached into a back pocket and brought out a small bag. Reaching inside, he brought out his Invisibility Cloak.
+
+Monroe eyed the Cloak warily. "Oh hell," he muttered. "Does that mean what I think —"
+
+"Shut it," Harry cut him off sharply. He pointed his wand at the journalist and Monroe slumped over, unconscious. With another flick of his wand Harry raised the man in the air, then threw the Invisibility Cloak over him. A final flick dropped the man into the chair he'd been sitting in. Harry reached over and turned a lever on the fireplace to the "on" position, and green flames erupted in its hearth. Stepping out of the fireplace, Ginny Thomas nodded at Harry. "Sorry to bother you," she said, looking around the room as she stepped toward him. "I guessed that you might have gone home since you haven't been back to the office yet."
+
+"What do you need?" Harry asked her, without preamble.
+
+Ginny blinked, taken aback by his abruptness. "Your appointments for the afternoon —"
+
+"Cancel them," Harry said. "Tell them I'm not feeling well."
+
+"We can set up a phone conference," Ginny suggested, "if you don't feel well enough to be at the office."
+
+"No," Harry shook his head. He faked a cough, then turned back to her. "I'm going to lie down as soon as you leave. Let Hermione know I'm home sick, but it's not serious enough for her to come home —"
+
+"Are you sure?" Ginny looked concerned. "You hardly ever get sick, Harry. Maybe you should let them check you out at St. Mungo's —"
+
+"*No*," Harry said again, more sharply. When Ginny looked startled, he tried to look regretful. "Look, I'm sorry," he told her. "I'm just feeling like I need to lie down for a while. That's all it is. If I'm still not feeling well by the time Hermione gets home, we'll go to St. Mungo's. How's that sound?"
+
+"Okay, I guess," Ginny said, uncertainly. "I'll, uh — I'll head back to work, then." She turned back at the fireplace, but stopped and looked at him again. "Why was the Floo Damper on?"
+
+"What?" Harry said, looking at her blankly. "Oh, I guess it was, wasn't it. That's why you signaled me."
+
+"Well, *yeah*," Ginny said, with a bit of exasperation. "Otherwise I couldn't get through, could I then?" She gave him an odd look. "Why would you turn off the Floo Damper if you were feeling sick?"
+
+Harry shrugged. "I dunno, I don't remember doing it. Must've been more out of it than I thought." He smiled at her. "Good thing you came by — Hermione might not have been able to come home tonight until I woke up." A thought suddenly occurred to him, and a frown passed quickly across his face.
+
+"Yeah," Ginny said, slowly. She turned toward the fireplace again, then stopped once more. "By the way, have you heard from that Monroe fellow again?"
+
+Harry raised an eyebrow at her. "That journalist? As a matter of fact, he showed up at the shop today."
+
+"Really?" Ginny acted quite surprised by this. "How could he get into Diagon Alley? He's a Muggle!"
+
+"Apparently not," Harry disagreed. "He bought a wand from Bill and walked into Weasleys' just like a real wizard. And he was able to use the wand to cast spells — I tested him to be sure."
+
+"What were *you* doing there?" Ginny wanted to know. "You haven't come by the shop in years."
+
+"Just overdue for a chat with the boys," Harry shrugged. "We lost track of time; when we came down to the shop, Monroe was there talking with Verity, Angelina and Luna."
+
+"So what happened?" Ginny asked, anxious to hear details.
+
+"Not much," Harry demurred. "I brought him back here, then told him I didn't appreciate him trying to play me for a fool by pretending to be a Muggle, and sent him on his way. I don't think we'll be seeing *him* again, after all the times he's been Obliviated." He gestured toward the elevator doors. "Well, I hope you don't mind taking care of things at work while I'm resting — you can use the elevator down to the offices, if you prefer."
+
+"Oh — of course," Ginny smiled at him, then walked over to the elevator. "You know I want your job someday, by the way," she said as she walked past him.
+
+Harry laughed. "It won't be long before I'm ready to give it to you!" They both nodded at one another again, then Ginny took out her wand and waved it at the elevator doors. After a few moments they opened, and Ginny entered. She turned and nodded a final time at Harry, then pushed a button inside the elevator.
+
+Harry watched as the doors closed, and for several seconds after. He then turned back to the chair where Monroe's invisible, unconscious form was. He pulled off the Cloak then pointed his wand at the man. "*Innervate*," he said, and Monroe's eyes blinked as he returned to consciousness.
+
+He looked up at Harry. "Got rid of her, then?" he asked, with a shrewd smile.
+
+Harry stared at him a long moment. "You're not really helping your case, you know. If you were only pretending to be unconscious while listening in on my conversation, I might chalk that up as further proof that you're Voldemort."
+
+Monroe chuckled. "I'm just having you on a bit," he said. "It wasn't hard to guess that your secretary might be looking for you in the middle of a workday afternoon. But I didn't know for sure until you just confirmed it."
+
+"I haven't confirmed anything," Harry retorted. "You have no idea who was just here, do you?" Harry was looking directly into Monroe's eyes as he asked this.
+
+Monroe shrugged. "We can go with that for now," he agreed. "Especially since, if I guessed correctly who was just here, you'll use it against me."
+
+Harry's wand flicked, and the ropes fell away from Monroe's body, dissolving to nothingness as they fell. "It looks like you're going to see more of my home than I anticipated at first," Harry said. "I don't want to remain here in case anyone else decides to come calling. I can't leave the Floo Damper closed now or they'll be suspicious of that."
+
+Monroe stood slowly. "If you don't want me to see this place, I can just leave," he suggested.
+
+Harry shook his head. "Not a chance. Besides, I thought you'd want to stay anyway, to disprove whether you're Voldemort."
+
+"The onus is on you to do that," Monroe pointed out. "You're the one making that claim — you're the one who has to back it up."
+
+"Then I insist you remain," Harry replied. "So I can do so."
+
+"Fine by me," Monroe said. "Because you're wrong."
+
+"We'll see," Harry muttered, then went over to the door leading out of the room. His wand made several complicated motions toward it, then he turned and made another series of motions at Monroe. Finally his wand stopped moving, and Harry opened the door.
+
+"You're protected from the defense wards now," he told Monroe. "But stick close to me — if you get too far away, you'll be immobilized."
+
+"Don't trust me, eh?" Monroe grinned.
+
+"Nope," Harry said, and gestured for the journalist to follow him.
+
+**=ooo=**
+
+The corridor leading away from the entry opened into a larger room, one that seemed to be a living area, though it looked more like a library to Monroe — the walls were covered in shelves filled with what looked like thousands upon thousands of books. There were a couple of comfortable-looking loungers with a small table between them, with books stacked haphazardly on it. Monroe didn't see a television, but there was a piece of furniture that looked like a television stand positioned in front of the two lounge chairs.
+
+Harry led Monroe through this room toward one of the shelf-covered walls. He gestured with his wand as they came close and a section of shelves opened inward, exposing another corridor. "You sure love your secret passapges, don't you?" Monroe said with a trace of irony in his voice.
+
+"Hogwarts spoiled me," Harry replied. "Follow me."
+
+The corridor, lit by a ceiling that glowed with magical light as they entered, sloped upward as Harry and Monroe walked along it, ending at a formidable looking door that took Harry several passes with his wand to open.
+
+They stepped into a strange, circular room, one with a dozen doors along the walls. As soon as Harry closed the door behind them the room began to spin, faster and faster until the doors were just blurs. Monroe watched this activity with some apprehension — what was Potter up to with all this, and when was he going to settle down and start trying to prove his claim?
+
+The spinning finally slowed and came to a halt. At once Harry called out, "Interview Room," and one of the doors flashed red momentarily. Harry walked over to that door and opened it, gesturing for Monroe to enter.
+
+The room was small and nearly bare, with only two wooden armchairs inside facing one another. The walls, floor and ceiling were flat white; even though there were no visible lights, the room seemed to have its own illumination, just as the corridor did.
+
+"Interview room?" Monroe was looking around, shaking his head. "This looks more like that interrogation room at the Ministry," he scoffed. "Am I going to end up stuck to one of these chairs, like I did there?"
+
+"We won't need to resort to that, I hope," Harry replied. He gestured to one of the chairs. "Have a seat."
+
+Monroe deliberately sat down in the other chair. "Suit yourself," Harry said, and took the first chair.
+
+"So, what's your evidence?" Monroe asked, as Harry slid his wand into a pocket.
+
+Harry sat back, regarding Monroe for some time before he answered. "Do you know how much information I was able to dig up on you over the past day?" he asked.
+
+"No idea," Monroe said. "But it shouldn't be difficult for someone with your resources to hack into both government and private databases and find information on me."
+
+"It wasn't," Harry agreed. "But your background information turns out to be rather dodgy."
+
+"How's that?" Monroe challenged.
+
+"Your history in Britain only goes back to 2010, when you were sent here from America by the publishers of *Singularity Today* to help research background material for a series being written at the time," Harry said. "You were hired on by the magazine afterwards, somehow skirting the residency requirements of foreign nationals, and turned out a few pieces for the mag every year until late 2015, when you began pestering me for an interview."
+
+"Sounds pretty sinister," Monroe cracked, his cheek resting on one arm propped on his armchair. "I guess that proves I *am* Voldemort, then?"
+
+"There's more," Harry went on. "It's back in America that your history really gets dodgy. You accepted a job at Paragon Publications, in 2010, but before that, information about James Monroe becomes rather tangled. The only information I have on James Monroe that gets close to matching you has you born on July 31, 1980, in Kansas City, Missouri, attending Kansas State University between 1998 and 2004, graduating with dual Bachelor of Science degrees in Software Engineering and Computer Science from the College of Engineering. That doesn't seem like a path that would lead to being a journalist, I have to say."
+
+"Stranger things have happened," Monroe commented, still leaning on his hand. "Is that what you're offering as 'proof' I'm really Voldemort?"
+
+"No," Harry replied. "But that *same* James Monroe is still in America right now, working for a company in Kansas City, the same company he's been working for since 2005. And you and he look identical to one other."
+
+"So, that just makes him my doppleganger," Monroe shrugged. "Obviously, I can't be him if he's still in America. And there's no reason to think I stole his identity."
+
+"I'd agree with that," Harry said, "if you were still just a Muggle. But wizards have a lot more options in the identity department than Muggles do, and now that you've been revealed as a wizard, I have to consider those options as well."
+
+"It's going to be quite a leap from me finding out this morning that I'm a wizard, to proving that I'm Voldemort and that I stole this identity from a Muggle six years ago and have lived as Muggle all that time, only to walk into the lions' den at Weasleys' Wizard Wheezes and risk blowing everything," Monroe argued.
+
+"Quirrell did lots of things that, in hindsight, were indications of his affiliation with Voldemort," Harry pointed out. "I always felt an aura of doom about him, such that I could never get closer than a few feet from him before it became nearly overwhelming."
+
+"And yet you and I have spent hours within a few feet of one another," Monroe said, a triumphant gleam in his eye. "Does that not disprove your claim?"
+
+"It doesn't help it much," Harry admitted. "But I have to assume Quirrell (and therefore Voldemort) felt it as well, and that he would have taken steps to negate that feeling, if at all possible, if he's back. That way, I wouldn't feel threatened."
+
+"It sounds like you're coming up with *ad hoc* reasons to explain away the disparities between me and Voldemort," Monroe said, icily. "Isn't that something a rationalist is supposed to avoid?"
+
+"Not really, in this case," Harry disagreed. "During the interview, and afterwards, neither I nor Malfoy detected that you were a wizard being passed off as a Muggle. There was a trace of magic about you, but I knew Ginny had Obliviated you — that's what I thought I was detecting. And Malfoy, at the Ministry, ignored it because he knew (or guessed) that I'd Obliviated you as well. You might have maneuvered Ginny into doing that to disguise the fact that you were disguised."
+
+"That sounds more like rationalization than rationality," Monroe sneered.
+
+"Well, I do have a final test," Harry added. "So it's still a matter of rationality, assuming you're willing to take the test."
+
+Curiously, Monroe looked interested rather than apprehensive, an affect that vaguely bothered Harry. Could Voldemort have somehow foreseen what he intended to use on this man, and taken steps to counter it? That *was* beginning to sound like rationalization, Harry realized. He would have to watch that — such muddy thinking could also interfere with the deeper plans he had, plans that were themselves nearing culmination.
+
+"Whatever this test is," Monroe said. "I'll do my best to pass it."
+
+"You won't have to do anything, the test will work with or without your consent. I'll be back in a moment." Harry opened the door and left the room, leaving Monroe alone and staring after him.
+
+**=ooo=**
+
+The fireplace swirled with emerald flames, and Ginny stepped out of them and into the office where Fred, George and Ron anxiously awaited her return. As she shook soot from her red hair, Fred asked, "Was he there?"
+
+Ginny nodded. "He had to turn the Floo Damper back on so I could get through. He said he wasn't feeling well and was there to have a lie down. Said he didn't know how the Damper got turned off."
+
+"But what about Monroe?" George pressed. "Was *he* there?"
+
+"Harry said he'd brought him there, then let him go," Ginny answered. "He wasn't in the room as far as I could tell, but Harry might have had time to put him somewhere else. He's got three whole floors in that building, you know."
+
+"We could check with the Ministry," Ron suggested. "See if they were still watching for Monroe to walk out of that building."
+
+"Dunno if that'll matter now," Fred muttered. "At least as far as Harry and the Ministry are concerned — they were worried he was telling secrets to a Muggle. If Monroe is really a wizard, especially an American one, they might want to have words with *him*, though. He should have at least notified the local magical government when he took up residency here."
+
+"Unless someone Obliviated him and brought him over here without his knowledge," George hypothesized. "But it's hard to imagine anyone but a Dark wizard doing that to another wizard. Maybe some American Dark wizard wanted Monroe out of the country, and dumped him here with false memories of himself as a Muggle."
+
+"Could that be what Harry is trying to figure out?" Ginny asked. "You know he can't resist a mystery. Plus, if a Dark wizard's involved he can get really intense…"
+
+Fred and George both nodded, distracted. Harry was predictable that way — the disaster with Quirrell at the end of his first year had made him quite wary of such things. So far as they knew the Quirrell-Voldemort fusion had been dealt with in the final days of Harry's first year at Hogwarts, with Quirrell dead and Voldemort's ghost banished from existence. The next six years were pretty much normal until Harry's final year, when he became brooding and secretive, and his relationship with Hermione soured. Ron had taken up with her then, a dream come true for him, until the following fall when Hermione began attending a Muggle college instead of going to work at the Ministry, as Ron had. Ron had appeared to shrug their breakup off as if it were no big deal, just the way things turned out, but contrary to what Luna believed, Ron *did* earn the five N.E.W.T.S. needed to join the Auror Training program, largely in part with Hermione's help during his final year. After their breakup, however, Ron dropped out of Auror Training and went to work with his father in the Misuse of Muggle Artifacts Office, part of the Department of Magical Law Enforcement, where he was when he met Luna Lovegood once again and began seeing her regularly.
+
+"Bollocks," Ron said suddenly, frowning. "Harry Potter's nearly a Dark wizard himself. Dumbledore barely kept him out of it — that's why he spent so much time with Harry his last year at school!"
+
+"You're wrong about Harry," Ginny said fiercely, getting in Ron's face to argue with him. "The work he's been doing has been to *help* people, including Muggles, live better lives! You don't know what you're talking about, Ron!"
+
+"Yeah, you *would* defend him, wouldn't you?" Ron snapped at her. "You're still in love with him!" He pursed his lips and made an exaggerated kissing sound, mocking her.
+
+Ginny's face turned almost as red as her hair. "And you're still in love with —"
+
+"Cut it out!" George said loudly, cutting off her retort. "Stick to the problem at hand, you two!" Ginny and Ron both glowered at each other, but they backed away from each other with no further comment, pointedly returning their attention to Fred and George.
+
+"What d'you want to do, then?" Ginny asked, bitingly. "Go back to Harry and make him tell us what's going on? Or maybe you want to get Malfoy involved again?"
+
+"Come on, sis." Fred looked offended at her final suggestion. "Malfoy's been gunning for Harry practically since his daddy bought the Head Aurorship for ickle Draco. What he doesn't know can only be in Harry's best interest."
+
+"Besides," George added, "if we're going to anyone other than Harry, it's going to be someone with *real* leverage on him—" both Fred and George grinned evilly, and said in one voice "— his wife."
+
+**=ooo=**
+
+Harry was gone for several minutes, long enough that Monroe had started to worry that he'd be left alone for hours. And without his wand, which was a serious no-no in the Wizarding community — you didn't take a wizard's wand from him without good reason. Only an agent of the Ministry of Magic had the right to confiscate a wizard's wand, and Harry Potter-Evans-Verres was *not* an agent of the Ministry, so far as Monroe knew.
+
+He also had the feeling that Potter was watching him, somehow, from somewhere outside this room, waiting to see what he would do if left alone long enough. It made Monroe want to stand up and pace around the room, though he'd resisted doing that so far; there was no telling what Potter would read into *anything* he did.
+
+The door to the room opened and Harry stepped in carrying a glassful of water. "That took longer than I expected," Harry said, apologetically. "I thought I'd see if you wanted some water, since we're out of Pepsi."
+
+"Water's fine," Monroe said, extending his hand toward it, but Harry lifted the glass above his head and poured it over him. Monroe jerked as the cold liquid spilled over him, then glared up at Harry.
+
+"What the *hell*?" he shouted. "What'd you do *that* for?"
+
+"Just a little test," Harry said, calmly. His wand was out and pointed at Monroe. The glass vanished from his hand and he stepped back, watching Monroe closely. The journalist was now wet and angry, but nothing else had changed about him.
+
+"That 'water' was from Gringotts," he said. "It's known as the Thief's Downfall — goblins use it when they suspect someone of being deceptive. It washes away all enchantments and magical concealment. If you had been Voldemort, it would have revealed you in your true form."
+
+"And what if I'd been possessed, as you also suspected?" Monroe snapped, shaking water out of his hair.
+
+"The Thief's Downfall would have canceled the possession spell, separating you and Voldemort," Harry answered.
+
+"What if he didn't need a spell?" Monroe wondered. His anger had already dissipated. Using the goblin anti-deception water had been brilliant on Potter's part. "Couldn't his soul just slip into me and take me over somehow?"
+
+Harry looked annoyed at the question. "There's no evidence that souls even exist," he said shortly.
+
+"Then how do you explain Horcruxes?" Monroe asked, his eyes locked on Harry's.
+
+There was silence in the room for quite a while.
+
+"How do you know about Horcruxes?" Harry finally asked.
+
+"It's part of the curriculum at the Salem Institute," Monroe said.
+
+"But you said you attended Hogwarts," Harry objected. "Your memory confirms you were *here*!"
+
+"But I never said I attended all seven years here," Monroe answered. "I went back to America at the beginning of my third year, to attend school there. By the end of my second year, I realized that the Ministry had a stranglehold on the magic being taught at Hogwarts, especially defense magic. The Defense professor they provided for our second year confirmed *that*. My parents and I researched schools that had a more progressive outlook on wizard education, and we landed on the Institute.
+
+"The advanced Magical Defense classes went into detail about techniques used by Dark wizards to render themselves invulnerable from harm, or extremely durable," Monroe continued. "Wizards can create a phylactery, what you'd call a Horcrux, to store their life force, or soul. Part of that advanced training includes a magical agreement with the head of the school not to divulge information about such magic to wizards who haven't had such training. Most of the schools in Europe, including Hogwarts, haven't taught anything about Horcruxes in many decades, even the 'iffy' schools like Durmstrang."
+
+"If that part's true," Harry argued. "You shouldn't have been able to say anything about Horcruxes in front of me."
+
+"Except it's pretty obvious you already know about Horcruxes," Monroe told him. "Since you believed I was Voldemort, who was supposedly destroyed in 1992 along with Quirinus Quirrell."
+
+But Harry had turned away, deep in thought. When he turned back to Monroe, he had a calculating expression. "Did the Salem Institute teach you anything about an ancient spell called the Interdict of Merlin?"
+
+"A few things," Monroe answered. "It's a spell that Merlin created near the end of his life, possibly as a response to what he saw as an unchecked proliferation of powerful magic brought about by schools like Hogwarts. He was afraid that wizards would become ascendant over Muggles, whom he thought had more potential than their magical counterparts.
+
+"The Interdict affected Britain, Europe and most of Asia Minor — essentially the extent of the world as Merlin knew it at that time. It seems to be slowly expanding as well; most of the Americas are covered by it now, and most of Asia as well. There are very few places left on Earth it hasn't reached yet."
+
+"Examples?" Harry prompted.
+
+"Antarctica, most likely," Monroe suggested. "The Interdict seems to spread in response to magical activity, and I doubt many wizards have traveled there. But that may be moot now — there are almost no ancient books left that contain spells affected by the Interdict."
+
+"But do you think those books, if some could be found, could be read and understood if the wizard went to Antarctica?" Harry pressed.
+
+"Probably, for a while," Monroe agreed. "But using magic in Antarctica will cause the Interdict to spread there as well, and no one has tried to figure out how quickly the Interdict renders old spell books unreadable."
+
+Monroe was giving Harry an odd look. "I'd have thought that you would have known all this already, Potter."
+
+"I did," Harry nodded. "I just wanted to check your knowledge against mine. Why do you think we haven't been able to duplicate some of those ancient spells. After all, just because we can't glean the information from old books doesn't mean we can't re-invent a spell that was used long ago."
+
+"It may not be that simple," Monroe disagreed. "One of my teachers suggested that the Interdict worked like a Fidelius Charm, but if a wizard hadn't passed on his powerful spells to an apprentice before he died, his death would cause the knowledge of that spell to be lost forever. Once the last wizard died before passing on any powerful spells he or she knew, those spells can no longer be known as long as the Interdict is in effect."
+Harry was nodding. "That's what I think as well — all my research points to that conclusion."
+
+"What did your teachers say about it?"
+
+"The Interdict of Merlin is one of the unspoken subjects at Hogwarts, along with Horcruxes and a few other bits of Dark magic," Harry said. "While the Interdict isn't itself Dark, nobody wants to point to Merlin as the reason why we're losing knowledge about spells — he's almost a sacred figure here in Britain."
+
+"I guess I understand that," Monroe nodded. "But he's not quite *that* revered at the Salem Institute."
+
+Monroe was still giving Harry an odd look. "An hour ago you were almost ready to kill me," he said, "if you'd been convinced I was Voldemort. Now it seems like you've done a complete turnabout."
+
+Harry had a wry look on his face. "I wasn't really that convinced you were Voldemort," he said. "There was a possibility, but only a bare one. But I was interested in how you managed to make everyone at Hogwarts forget you, and why no one has ever mentioned you in the twenty-five years since I began going to school there. That modified Fidelius Charm is very complicated magic. Did your parents help you with that?"
+
+"No," Monroe said. "I designed it myself, in my sixth year at the Institute—mostly as a challenge from a teacher in my Advanced Spell Design class. She told our class that certain spells, like certain potion ingredients, were not miscible."
+
+"She's not exactly wrong, there," Harry said, dryly.
+
+"True, but she didn't think the Fidelius and the Memory Charms could be put together to any good effect. She was hard to convince, too — when I turned in my paper showing how to do so, she only gave me a B." Monroe shrugged. "So I cast the spell on myself. It made for an interesting final year, since everyone in school could talk to me but nobody, not even the teachers, talk or write anything about me."
+
+Monroe chuckled, a bit ruefully. "I became a non-entity at the Institute. In a way, my teacher was right, since that wasn't a very positive experience. My transcript at the Institute is incomplete, because no one could add to it after I cast the spell. The teachers couldn't even grade my homework assignments!"
+
+"But I was able to discuss my interview with you with the Weasleys," Harry said. "Did you cancel the spell? But — if that was true," he realized even as he asked the question, "I would have remembered you at Hogwarts!"
+
+"I modified the spell," Monroe said. "I made the Fidelius effective from 2010 back to my birth, so that anyone who'd met me after I came to England would know me only as a journalist from America."
+
+"Pretty complicated magic," Harry said. It was almost a compliment, coming from him.
+
+"So now what?" Monroe wanted to know. "Are you done with me yet? Do I get to go free?"
+
+"If you want," Harry said. He took out his wand and pointed it at the door; a loud *clack* sounded and the door swung open a few inches. He took Monroe's wand out of his pocket and handed it to him. "Sorry for taking this," he said. "I didn't want you leaving before we had a chance to talk. Now, unless you're anxious to go back to your Muggle job of writing for *Singularity Today*, there's something you can help me with, if you're interested."
+
+Monroe stood and walked over to the door, but turned and looked at Harry again. "I can't go back to that job," he said. "You know that as well as I do. If I'm a wizard, I should try to get integrated back into wizarding society."
+
+"I agree," Harry nodded. "That's why I'm asking for your help."
+
+"What do you want help with?" Monroe asked.
+
+"I want you to help me bring about the Magical Singularity."
+
+</div>
+
+</div>

@@ -1,0 +1,91 @@
+<span id="seg-0383__seg-0383-d88638334b"></span>
+
+<div id="seg-0383__s8-535ef5ca16" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 8: Omake – Till Death Shall Fall
+
+<div id="seg-0383__storytext-9c93142583" class="calibre4">
+
+It seems like the previous chapter didn't make it completely clear that it was the last one, so just to be clearer: this story is over. I do not intend to write any further, partly because I don't actually know what happens next but mostly because I don't think whatever happens next would be as interesting to write about. If you're following this story to see what happens: sorry, you won't find out. I don't even know.
+
+As an apology, have an omake. This is a bizarre theory I came up with for what happened when Voldemort tried to kill Harry at Godric's Hollow. While it has been thoroughly and comprehensively falsified (and wasn't ever really plausible to begin with), I still like it.
+
+------------------------------------------------------------------------
+
+The three of them stood there in silence, their minds twisting in doubt and in fear.
+
+They were none of them cowards; some would say that they were among the bravest wizards who had ever lived. Not in the sense that they did not fear Death, for they feared it terribly. Not in the sense that they would charge heedlessly into danger, for they would not. But in the sense that they would never shy away from a task, however far beyond them it might seem. They would not let their little fears master them, they would not turn aside when there was a foe they needed to face.
+
+And yet, there came a point when they looked back on the years of effort they had spent, and looked forwards at the years they had left, and they saw the hand of Death rising inexorable, and they knew that they had not done enough.
+
+In a story, this would have been the darkness just before the dawn. In a story, they would have reached deep inside them for every drop of strength they possessed, and in a moment of glory they would have found their answer.
+
+But to expect that would be foolishness. To find power that they did not already possess would imply that there was some strength they had for some reason been holding back before, some plausible idea or some promising plan that they had not already tried.
+
+And the Brothers Peverell had long ago accepted that they did not live in a story.
+
+But, at length, one of them spoke, and said: "What if we..."
+
+------------------------------------------------------------------------
+
+**currentDate = 19811031;**
+
+**membersOfHousePotterLiving = 2;**
+
+"Lily, take Harry and go! It's him!" shouted a man's voice. "Go! Run! I'll hold him off!"
+
+Then the other voice spoke, high-pitched like the hiss of a teakettle, like a brand of metal cooled to liquid helium temperatures and laid on every part of the body. And the voice said:
+
+*"Avadakedavra."*
+
+**membersOfHousePotterLiving = 1;**
+
+"Not Harry, not Harry, please not Harry!" screamed the woman's voice.
+
+"Step aside, woman!" said the shrill voice of burning cold. "For you I am not come, only the boy."
+
+"Not Harry! Please... have mercy... have mercy..."
+
+"I give you this rare chance to flee," said the shrill voice. "But I will not trouble myself to subdue you, and your death here will not save your child. Step aside, foolish woman, if you have any sense in you at all!"
+
+"Not Harry, please no, take me, kill me instead!"
+
+"Very well," said the voice of death, now sounding coldly amused, "I accept the bargain. Yourself to die, and the child to live. Now drop your wand so that I can murder you."
+
+There was a hideous silence.
+
+Lord Voldemort began to laugh, horrible contemptuous laughter.
+
+And then, at last, Lily Potter's voice shrieked in desperate hate, *"Avada ke-"*
+
+The lethal voice finished first, the curse rapid and precise.
+
+*"Avadakedavra."*
+
+A blinding flare of green marked the end of Lily Potter.
+
+And the boy in the crib saw it, the eyes, those two crimson eyes, seeming to glow bright red, to blaze like miniature suns, filling Harry's whole vision as they locked to his own. The wand came up, and the cold voice began, *"Ava-"*
+
+**immediateThreat = True;**
+
+**pLethal= 0.997;**
+
+**IF (immediateThreat == True && membersOfHousePotterLiving == 1 && pLethal GREATER THAN engageThreshold ) THEN ...**
+
+------------------------------------------------------------------------
+
+And, ordinarily, that would have been the end of it. Lord Voldemort was a powerful wizard indeed, a master of the Dark Arts armed with the last lore of Salazar Slytherin. But the wards that protected House Potter had been laid upon their bloodline by the three Brothers Peverell themselves, to ensure the continuation of their line, to ensure the completion of their Quest though it should not come for centuries. And into those wards had been poured magic and lore beyond reckoning, with years of labor from three of the wisest wizards to live in an age when magic was strong, to shield and preserve their descendants until Death should fall. Before them, all the Dark Lord's power was as a child with a schoolboy's Charm against a trained battlemage. Oh, the art of Horcrux was an intriguing one, but it was one that had been thoroughly ravelled by that makers of these wards, and one that it was well within their power to break.
+
+Ordinarily.
+
+But his strength and his lore, his Dark magic and his Horcruxes, were not the only protections upon Lord Voldemort.
+
+**membersOfHouseGauntRemaining = 1;**
+
+</div>
+
+</div>

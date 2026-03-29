@@ -1,0 +1,139 @@
+<span id="seg-0458__seg-0458-917f9fffc1"></span>
+
+<div id="seg-0458__s18-0dc2921934" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 18: Answers
+
+<div id="seg-0458__storytext-9c93142583" class="calibre4">
+
+5:57 pm, June 24th, 1993
+
+Third Private Meeting, Hermione, Answers
+
+After Hermione's laughter finally dwindled down to giggles, Harry wiped his eyes dry, "Five days ago, Professor Snape revived Lucius Malfoy using the same ritual the Dark Lord used to revive you. Or, at least, both Severus Snape and Lucius Malfoy seriously believe this narrative, as verified by Parseltongue. I've got one more test that we can run a few hours later, but my current test results seemed to confirm at least part of the story."
+
+Hermione gaped at Harry's statement.
+
+Harry went on to recount the story Severus told him about that night, Severus' theory on revival, and about the revival of Lucius. After finishing the story, Harry began to explain the tests he did. "First, I asked Professor Snape to show his patronus. Since you were able to resist the Dark Lord's temptations, I thought you would be a good observer for this test. It seems that Professor Snape knows part of the secrets in the true patronus charm, mostly the part pointed out by Voldemort plus some of his own deductions. Secondly, I asked him if he knew anything else that could go wrong. It appears that Professor Snape knows that your ability to heal came from an unicorn and a troll. The unicorn part is pretty obvious just from your look, but not the troll part. The knowledge about the troll and the true patronus can't come from Lucius, who only came to the graveyard later."
+
+\-*And Severus knows about the horcrux as well.*
+
+"So there is a high probability that Professor Snape was indeed there, observing the whole scene, though the Time barrier set up by the Dark Lord, or something else, prevented him from coming near or doing anything. And later that night, when he had every opportunity to take the true Stone and run away, he returned everything to me, and only took the duplicates of the Stone and the instruction manual." Harry showed Hermione the dull-looking red glass. "We can test to see if this duplicate can indeed extend transfiguration on a small item longer for a limited time in a few hours, but I guess we already got some conclusions. Correct me if I made any mistakes in my reasoning, I think we proved that Professor Snape did observe the scene, and though he is maybe a little bit shrewd, he is a good person deep down, or, at least he is someone who can resist great temptation."
+
+Hermione thought for a while, and nodded.
+
+"And about the test I let you run with your patronus, well, I have tested all the supposedly dead Death Eaters a few days after that night, just to check if they are really dead. It appeared that the transfigured Dark Lord confused my patronus; the dead ones made the patronus looked sad; and Bellatrix, who was on the run and might have some anti-patronus charm on herself, made my patronus wandered around aimlessly. One year ago, Lucius appeared to be dead-dead instead of transfigured-horcrux-dead to my patronus, or so it seemed at that time. I am sure Moody used other methods to check on his own as well. Therefore, Lucius was quite likely to be dead one year ago, or until Moody last checked." Harry reasoned. "Now, it is possible that Professor Snape figured out how to revive someone with well-preserved heads from the Dark Lord's instruction manual, and from the things he heard. Since he only had an inferior duplicate Stone, he couldn't stabilize Lucius' form, so they had to come to us."
+
+Hermione blinked, and asked, "Or?"
+
+"Or, Lucius had an improved version of horcrux or something alike, and Professor Snape revived him from there. These two modified each other's memories afterwards, or they had someone else do it, so both of them could truly believe what they said in Parseltongue." Harry said slowly, "But I don't really see the point for Professor Snape to lie about the revival process. I can go and ask Professor Snape to revive another Death Eater that he said he preserved, and verify if he could do it. Moody can check the altar Professor Snape used and everything related. So that's one of the reasons why I chose to believe Professor Snape."
+
+Harry's inner critic timely offered, *it is also because we want to revive mother and father and everyone else, therefore we wanted to believe him. For what was worse, we even wanted to believe his hair theory, which was obviously ridiculous. We should be sentenced in Rationality Prison for eternity for wanting to believe something like that after all this time.*
+
+Hermione pondered the question for a while. "Well, I can't offer any good reason for Professor Snape to lie about the revival, either. I am sure Moody can propose some ideas. And you talked with Lucius Malfoy as well?"
+
+Harry nodded. "Yes, the whole conversation between Lucius and I was in Parseltongue. And here is the strange thing, Lucius Malfoy practically told me that memory charms could fool Parseltongue, but the effects of memory charms might be different from real events. Lucius told me that his first possible kill was when his tutor memory charmed him into believing a captured muggle killed his mother, so that he could hate the muggle enough to use the killing curse. He wasn't even sure the entire thing happened, and he still felt it extremely difficult to cast the killing curse in his first Death Eater raid under Bellatrix's wand point."
+
+\- *And it is very hard to decide if Lucius was really being cooperative, or if he was playing the game one level higher than I am.*
+
+"He also defended himself in Parseltongue, saying that he didn't kill as many as people say he did, while he just told me that even Parseltongue could be fooled by memory charms." Harry sighed.
+
+"So as to create plausible deniability?" Hermione asked.
+
+"Or Lucius was offering truth to the best of his knowledge. I admit that I am confused. We need to draw a chart for this." Harry reached into his pouch. "Paper and pencil. First, let's have the variables and assign possibilities. I assume Lucius doesn't want the world to come to its end, let that be 99.9%. The probability that Lucius loves Draco is, 95%, maybe? Or he is an amazing actor, 5%. The probability that he wants to secure Draco's position, or promote him, hmm, let's say 90% in total, and 10% for he wants power for himself. Within the first category, Lucius may want to alienate us so that Draco can be number two -"
+
+\-*Ha, if Lucius knew Voldemort made a horcrux for Hermione from Severus, he was probably the one who told Severus there was a rumor about horcruxes might be ominous for offsprings, or he did it by memory charms to let Severus think he heard it somewhere else. He expected Severus to tell me this, so I would be careful not to have kids with Hermione, and I would try to stop Hermione from having kids until everything got settled out. He might think that's a way that he can keep Hermione and I apart. Hmm, I can certainly verify if there is indeed a rumor and when the rumor came out by myself.*
+
+Harry's inner critics interjected. *Are you sure you are not in the wishful thinking mode again? You wanted to believe horcruxes are OK to have, as long as you don't kill others for it yourself. Plus, it wasn't that likely for Severus to tell Lucius the details of that night. Lucius had to guess about the details of the ritual, remember? And don't forget the unknown effect of unicorn blood on childbirth.*
+
+Hermione also obtained a pencil from her pouch, and started to help drawing a Bayesian chart while Harry recounted some of the things Lucius said in their conversation.
+
+Just as Harry began to explain his discussion with Lucius on prison sentence, Hermione put down her pencil, and looked at Harry in the eyes. "Harry, I have a question. I understand that Lucius and you needed to agree on a plausible story and so on, and I am happy that he will be tried as himself. However, why did Lucius Malfoy confess his sins and negotiate his prison sentence with *you*? Instead of Madam Bones or anyone in the Department of Law Enforcement? Plea bargains should be negotiated with prosecutors, Harry. And determining the years to be served in prison by a Death Eater is not a war decision, so it should undergo the due legal process."
+
+"Ahh… " Harry opened his mouth.
+
+Harry didn't think of that. Apparently, nor did Lucius, nor Severus, nor Draco. Maybe this was the way how things were always done in the wizarding world, where people with real powers negotiate deals behind closed doors. Lucius successfully deduced - or Draco just told him - that Harry was behind Madam Bones. Guessing out this part wasn't hard after all. Therefore, Lucius wanted to reach a deal directly with Harry.
+
+"Harry, this scares me sometimes, you know." Hermione said in a flat tone.
+
+"But - well, OK, you're right." Harry admitted reluctantly. "But I don't think I could let Lucius tell Madam Bones his reason for shorter imprisonment. Lucius was the binder for the Vow, I can't let Madam Bones know about the Vow, or the Prophecy that I may destroy the world. Even if only 0.01% of the people potentially saved by the Vow can be attributed to Lucius, he still saved 2.4 million people."
+
+Hermione retorted. "But you said Lucius was forced by Voldemort to do it, he didn't volunteer. And Lucius Malfoy wanted to put me in Azkaban, Harry. Azkaban with dementors!"
+
+"That's true, but -" Now Harry's inner selves were conflicting between his care for Hermione and that for Draco. He sighed. "As I told you, the Dark Lord thought my game with Draco might lead to Lucius' moves against me, so he wanted to remove Lucius from the gameboard and alienate Draco from Lucius. The Dark Lord framed you in the attempted murder of Draco, called for the Azkaban sentence, and planned to present iron-clad evidences saying that Lucius did it to exile or imprison Lucius. Lucius, well, I guess he was evil enough to fall into the Dark Lord's trap, but some fathers who were not as evil as Lucius might also fall into the same trap. And after the Dark Lord murdered you, with some tricks from my part, Lucius reached a deal with me, became an ally, and carried out his part of the deal pretty well as far as I know. I guess that was part of the reason why the Dark Lord chose Lucius as the binder. So, at least, I am partially responsible for Lucius becoming the binder, and Lucius did try to do some good things before he died."
+
+"You still know Lucius is evil, and you respect law and justice, right?" Hermione asked.
+
+"I do. I just -" Harry stuttered.
+
+\-*I just don't want to hurt Draco anymore. Draco almost lost his father when Voldemort tried to frame Lucius for the attempted murder, because I played my little games with Draco; then Draco did lose his father, because I killed Lucius; and now, for the third time…*
+
+"Hermione, there is," Harry gulped, "Draco. You know what the last year was like for him. I feel like - I don't want Draco to lose his father again, and I also need to make sure justice is served."
+
+Hermione looked at Harry in the eyes, and argued reasonably. "That's exactly why you shouldn't be the judge here, Harry. I would understand if you want to treat Lucius Malfoy as the father of a friend, help him get lawyers, and you can testify in front of Madam Bones or the Wizengamot that what he said in Parseltongue is known to himself to be true. You should hand the legal process to professionals, so that you can be the friend who will help Draco to make sure that his father will get a fair trial. Just don't use your Boy-Who-Lived and Line of Merlin Unbroken power to force any leniency."
+
+\-*Ahh…*
+
+That, that didn't occur to Harry, either. All of a sudden, the Boy-Who-Lived's face brightened up a bit, and his voice lighter, "Hermione, you are right. I didn't think of it. Yeah, after due legal processes, I can sort of let Madam Bones consider some reason to reduce Lucius' term, say, his escape and lost of magic had contributed a little bit in the prevention of world destruction by the Dark Lord's remnant."
+
+Hermione gave Harry a disapproving look.
+
+"Or, I will say that it was something that she is not to know, but Lucius was forced to sacrifice much of his magic to save quite a number of people, which is true as well." Harry thought of another reason.
+
+"By the way, maybe we should ask Madam Bones to excuse herself from this case, because she has a conflict of interest, since her brother's whole family were murdered by Lucius." Hermione's brows frowned a bit. "Who in the Department of Law Enforcement doesn't have a conflict of interest? It's really hard to find someone considering Lucius' criminal history."
+
+Harry felt a huge burden had been taken off from his shoulder, now he could defend Lucius as he liked. "I haven't tell you this part yet. Lucius said that Karkaroff led the raid on Madam Bones' brother's family, Bellatrix led the one on Monroe family, and he said he wasn't in either of those. He denied all sex-related crimes as well."
+
+"What? Why? Are you sure he didn't memory charm himself or have someone else do it?" Hermione asked.
+
+"I'm not sure," Harry answered. "But he did offer a very good explanation, sort of. Remember that I told you the Dark Lord intentionally made his enemies more worthy? I guess the slaughter of the Bones family that only left Madam Bones and Susan unscathed was one such event, where the Dark Lord wanted to have a cunning and powerful witch who hated him enough. When Lucius was given such an assignment, Lucius just refused to create a powerful enemy like that, and managed to weasel out. Well, if my guesses are correct, few of Lucius' victims have any powerful family members left alive to pursue justice."
+
+Hermione paused and frowned. "That explanation does make some sense, but it somehow scares me more than the ruthless random killings people say he did."
+
+\-*No, it isn't. A sane and cunning enemy like Lucius tries to control the damage, or not to cause damage unless necessary; while a crazy or stupid one may be easy to defeat, but you have no idea what they might do. The evil and sane dark wizards like Voldemort and Lucius would try to prevent world destruction; a stupid or negligent villain, or "hero" for that matter, may not be able to suppress their curiosity, and just press the "Do Not Press, otherwise World Will End" button anyway.*
+
+Harry sighed. "Hermione, maybe I have too high a standard, sometimes, I just hoped all our enemies, or all people, are half as sane as the Dark Lord, or even half as cunning as Lucius. Just think of this, if the whole revival thing goes public, and it is indeed as easy as Professor Snape originally thought, that one hair is enough, what would happen? I bet some negligent idiots will just try dangerous things that they would not usually try, and cause great damage to themselves and to the world. Remember what happened when we made the Stone available to everyone? We set up a queue system where people who wants to be younger and looks better can sign up on it, and the Hospital will do whatever they like when it is their turn and when the Stone is not in need for real lethal conditions. However, within less than one month, we saw an influx of witches and wizards who conducted free transfiguration on themselves, or did something equally stupid to themselves, so that they could have a real lethal condition that needed to be fixed by the Stone, and to have the nose they liked, or teeth they preferred at the same time. Several idiots did this multiple times, because they wanted to try different noses, or skin tones, or something like that. Several people died before they could get to the Hospital. They wouldn't die if they just waited in the queue and let professionals do it, or if they didn't know the Stone existed. When the news that high officials from all over the world are working on a law to imprison the idiots who did stupid things to themselves multiple times, the number of people in emergency just increased, because they wanted to get better looks before the law was passed. That's how stupid and reckless people can be if they think they have some sort of safenet, even when they still know that they can really die. Think what would happen when they know a single hair can revive them."
+
+Hermione paused to think, and shuddered.
+
+*The world may not be ended by some smart villains, just by some reckless idiots, or by some arrogant heroes like us.* All parts of Harry agreed on this particular topic. *We need to rationalize the mind of everyone before we make revival publically available.*
+
+"So anyway, we need to figure out a way to let people learn to be rational and careful, whilst not destroying the world in the teaching process." Harry sighed again.
+
+Hermione nodded in agreement.
+
+"Hermione, there is one more thing about Lucius that I need your opinion." Then Harry explained how Lucius would be quite useful in the dealing of international politics, and how Lucius' mind could be used to predict other dark wizards' movements. "The international politics stuff, I may be able to figure it out within a few years, the real problem is how to predict the thoughts of dark wizards. Dumbledore had difficulty in understanding Voldemort, Moody said he had difficulty predicting Lucius, Snape hadn't thought of the danger of the Stone and the revival ritual before Lucius pointed out to him, and I need to go into my dark side to predict Voldemort's moves. Oh, well, maybe I am only able to predict sane or semi-sane dark wizards. Two years ago, when I just met Draco, catering to fools were part of his instincts; while I was unable to lower my standard to do that, and maybe that's still who I am. So my guesses for Lucius Malfoy is that, he has a better understanding of the dark wizards' minds and the stupidity and other characteristic fallacies of common people. I wonder if we can use Lucius for these purposes."
+
+Hermione fell into silence. Harry knew Hermione was in the same type of dilemma as he was. Lucius Malfoy was a calculating dark wizard and cold-blooded murderer himself, and was an expert in the exploitation of common people's stupidity, negligence, fear, greediness and other human flaws by generations of practise. These might be quite handy in the time being. However, such abilities of Lucius were objectionable in Hermione and Harry's moral systems, and both of them wanted to rid such things from human nature in the future. Plus, the trustworthiness of Lucius was a big pending question.
+
+After a while, Hermione said with a frown. "Let's finish the Bayesian chart first, then we will have some standards to estimate how trustworthy Lucius is. We will figure out some ways to verify our prediction, and go from there." Hermione continued drawing on the paper, and said. "OK, I can think of one big question now: did Lucius modify his memory about the number of murders he committed? Professor Snape was a Death Eater, and he might know something about the murders Lucius denied, unless his memory was modified as well. Let's have Professor Snape on the chart as well."
+
+\-*Well, Karkaroff is probably not that reliable as a witness, neither is Severus. The majority of Death Eaters in Nurmengard hardly remember the birthday of their kids. Letting Severus revive Quirrell might be a solution, but that will create more problems than solving them. And Bellatrix Black, I wonder how to catch her.*
+
+Then a horrible idea came to Harry.
+
+\-*What would Voldemort/Harry do after being trapped by horcruxes hidden in obscure places?A cunning man as Voldemort was, he might not rely on one plan to work. Linking his Version 2.0 horcrux system to the Resurrection Stone, and put some horcruxes in more obvious places, might not be his only improvements. He might entrust some of his horcruxes to Bellatrix as well. Since Voldemort is not dead, Version 2.0 horcruxes do not work now, but the Version 1.0 horcruxes do.*
+
+\-*What order would Voldemort/Harry give to Bellatrix?*
+
+\-*Guard my items well and hide yourself well while I return to my true body. If a certain item is activated, physically touch it, put your heart and soul to it. Otherwise, wait for a certain amount of time, if you are not contacted, trigger another set of items. Say, a Version 1.0 horcrux made just before I tried my hands on the Stone. And little Bella, I also have some knowledge that I need to temporarily store in your mind, but you are not to use them or think of them except to pass them back on to me. Or simply, just guard my pet snake really well, and don't look at it in the eyes.*
+
+"Harry, what's your idea for testing Lucius' trustworthiness? You are awfully quiet." Hermione asked while drawing a line between "Snape modified Lucius' memory" and "Snape lied about resurrection ritual".
+
+Harry's voice was unsteady as he said the sentences. "A ticking bomb of a lesser version of Voldemort returning. Once I began to throw away some of my previous assumptions, I didn't even need to sink into my dark side to see it. Voldemort might have entrusted some of his horcruxes to Bellatrix, and gave her an order when to trigger them unless contacted. One year seems to be a good waiting period to me. We need to find Bellatrix Black, very soon."
+
+Hermione put down her pencil, hand shaking a little. "Harry, are you 99% sure that neither Lucius nor Professor Snape wants You-Know-Who back? If so, we should ask them to think as hard as possible on how to find Bellatrix Black."
+
+Harry looked at Hermione sadly. "Yes, we should. I will also ask Moody and Madam Bones, and I will sink into my dark side as well. Wake me up if I don't come back in fifteen minutes."
+
+Then, under the watchful eyes of his most trusted female companion, the Boy-Who-Lived sank fully into his dark side, wondering where Voldemort's most devoted female follower would be.
+
+**The next chapter will be up at 6 pm (EDT), 04/15/2015**
+
+</div>
+
+</div>

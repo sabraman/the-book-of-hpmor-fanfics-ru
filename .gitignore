@@ -1,0 +1,13 @@
+build/
+books/*/build/
+*.epub
+
+__pycache__/
+*.pyc
+.venv/
+
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

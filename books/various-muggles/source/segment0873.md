@@ -1,0 +1,477 @@
+<span id="seg-0873__seg-0873-b1184c766a"></span>
+
+<div id="seg-0873__s24-88b8b0c4d2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 24: The Monroe Connection
+
+<div id="seg-0873__storytext-9c93142583" class="calibre4">
+
+*Updated* 1/25/2013
+
+=ooo=
+
+"I have to say," Harry remarked dryly, though his blood had gone cold at Voldemort's last words, "that killing me would be a very *bad* choice." He tried to move his head but Voldemort's enchantments still held it firmly in place. At least he could speak…
+
+Voldemort looked amused. "I would expect no other response from you, Mr. Potter," he remarked, his wand still pointed at Harry.
+
+"Because you're not thinking it through," Harry continued. "Killing me is going to unravel your entire plan." He just hoped he could support his *own* reasoning — the ritual that had given him perfect recall of all his memories had taken away half his intelligence; rational thinking was no longer as easy as it had been for the past 36 years of his life.
+
+"No, Mr. Potter," Voldemort disagreed, shaking his head slowly. "You are quite incorrect. It will be quite simple to integrate your death with the others that have occurred over the past two days." He gestured toward the curled-up figure of Hermione Granger-Potter-Verres-Evans, who lay unconscious on the floor next to Harry's chair. "When Hermione awakens in a few minutes, she will reach for the wand that is hidden on her person and attack whomever is nearby, believing they were her attacker. The person she attacks will be *you*, Mr. Potter, as you attempt to bring her back to consciousness after awakening from a Stunning Charm Ginny Thomas managed to cast on you before retreating from your apartment. The curse will be lethal at close range, though she will not cast the Killing Curse, of course — she is likely incapable of casting that spell in any case. Afterwards, regaining her full faculties, she will realize that she's unwittingly killed you and will turn herself over to the Ministry and resign her position as Minister of Magic.
+
+"Her resignation will clear the way for Draco Malfoy to temporarily become the Minister of Magic, after which he will be elected to the position in his own right, given the Most Noble and Ancient House of Malfoy's financial resources and notable lack of ethics in matters of politics. Ginny Thomas, meanwhile, will have made arrangements to surrender personally to Draco Malfoy, and they will meet at her private apartment. At that time I will possess his body and alter Ginny's memories to conform to the new scenario." He inclined Ginny's head toward Harry, inviting a response.
+
+"It sounds pretty plausible," Harry admitted, and found that he could move his head again. He rolled it to either side, loosening his neck muscles. "But it's not going to work."
+
+"Come now, Mr. Potter," Voldemort said, a hint of disappointment in his voice. "You're going to have to do more to convince me than simply disagreeing with me."
+
+Harry lifted his head, gesturing toward his apartment at large. "There is an undetectable detection spell on this apartment that sets off an alarm at the Ministry if someone dies in here. Malfoy and the entire Auror Office are going to converge on this place with wands drawn, expecting the worst. They know only I, Hermione, and a few close friends have access to our residence, and if they suspect I'm here, they'll come down on this place like a herd of nundus."
+
+Voldemort stared at him for several seconds, then slowly smiled. "Very clever, Mr. Potter. Your mind is as opaque to me as ever; this supposedly 'undetectable' charm may or *may not* be in place here in your apartment — I would have to leave immediately after your death or risk being caught by the Aurors. It will upset my plans if Malfoy arrests Mrs. Thomas before she is ready to meet him."
+
+Harry nodded. Was Voldemort going to change his mind about killing him, or would he come up with another scenario where Harry would end up dead?
+
+"There is another option, of course," Voldemort mused. "I can simply Obliviate *all* of your memories, leaving your wife to take the blame."
+
+"Assuming that would even work on me," Harry countered, "With the enhanced memory I have now. If a False-Memory Charm didn't work, what makes you think an Obliviate will?"
+
+"You are not helping yourself, Mr. Potter," Voldemort pointed out. "If I cannot Obliviate nor False-Memory Charm you, I can still curse you with a spell that would prove fatal in a short but not immediate amount of time, giving me an opportunity to depart in a more leisurely fashion." He smiled evilly. "Perhaps even a Blood-Chilling Charm…"
+
+Back near the end of their first year at Hogwarts Hermione had been accusing of casting a Blood-Chilling Charm on Draco Malfoy during a duel that was supposedly held in secret in the trophy room of the school. Draco had been found there, near death from the effects of the charm, and had been taken to St. Mungo's after being stabilized. The fact that *Professor Quirrell* had found Draco and stabilized him before Flooing him to the hospital wasn't lost on Harry at the moment. The Defense Professor at Hogwarts in the years before Harry started there was always a suspect in any strange or illicit activities, and that year had proven to be no different.
+
+"Very funny," Harry murmured, unsmiling. "The problem is, without Harry Potter's own testimony, the scenario you've envisioned is so unlikely that no one will believe it without significant corroboration."
+
+"Your testimony would *confirm* the allegations made by Ginny and Hermione," Voldemort countered. "But it is by no means essential. The Wizengamot will accept the results of Veritaserum interrogations, just as they always have."
+
+"*They* probably would," Harry conceded. "But the Auror Office under Minister of Magic Hermione Granger is much more discriminating these days. They will want confirmation, not merely testimony, especially testimony that could be given under false pretenses. Malfoy and his Aurors will scrutinize every detail of this case before they come to any conclusions — the idea that I would kill someone like James Monroe in a jealous rage is so out of character for me that they will have to suspect something like memory tampering or the Imperius curse has been used on Ginny or Hermione." One of the benefits of a science-aware Malfoy in the Auror Office had been his drive to do the best job he was capable of, even if it was only to make himself look good. The Auror Office had ironically benefitted from Malfoy's self-interest.
+
+"By that time," Voldemort pointed out, "I will have had my meeting with Head Auror Malfoy, and he will no longer have any doubts about the credibility of Mrs. Thomas's or your wife's testimony."
+
+"But that's not up to Malfoy alone," Harry countered. "The three most senior Aurors must now reach a consensus on the validity of the evidence when a wizard has been killed. Even if Malfoy considers the matter closed, two other Aurors will have to back him up before the case go to the Wizengamot."
+
+Voldemort looked bemused. "So they are finally learning to think before they act," he muttered, almost to himself. He focused on Harry once again. "So, Mr. Potter, if killing you isn't an option, and false memories can't be implanted in your brain, do you have any suggestions?"
+
+"You could counter the Memory Enhancing ritual," Harry said at once. "So that the False-Memory Charm would work. That is," he added, with a trace of hesitancy, "assuming you have a counter curse for the ritual. It was pre-Interdict magic — it could be irreversible."
+
+"No magic is irreversible, Mr. Potter," Voldemort said. "It's merely a matter of what you are willing to sacrifice to achieve the desired outcome." He stood, pacing back and forth several times before looking at Harry once again.
+
+"It can be done," he said, quietly. "But the cost will be significant, especially for someone going into Azkaban, to which you will undoubtedly be sentenced."
+
+"What is the cost?" Harry asked, calmly.
+
+"You will be weakened physically," Voldemort replied. "You will be only half the man you are now as far as your strength and endurance are concerned."
+
+"And what of my intelligence?" Harry asked, keeping any hesitancy from his voice this time.
+
+"Unchanged," Voldemort told him. "It will not return to what it was before, if that's what you were hoping, Mr. Potter. Dark rituals are not very forgiving when it comes to restoring lost abilities."
+
+So, he could get rid of the memory enhancing magic, so Voldemort wouldn't be forced to kill him, but he would only be half as smart and strong as before. Not a very good tradeoff, Harry thought to himself, but it would still give him time to figure a way out of this. If he could.
+
+"If my only other choice is death," Harry said plaintively, "I think I'll take my chances."
+
+Before Voldemort could reply, however, they both heard a soft gasp, like a baby taking its first breath. Harry turned his head, straining to see over the edge of his chair, but was held fast by the Body-Bind spell still on him. Voldemort stood, crouching beside him as he put a hand over Hermione's mouth. "She is beginning to come out of the Hibernation Charm," Voldemort said. "A rather inopportune moment, unfortunately." He stood, taking out his wand, and made complicated patterns in the air above her. Returning to his chair, he regarded Harry silently.
+
+"What did you do to her?" Harry asked tensely.
+
+"Just a Sleep Charm that will take effect as she becomes conscious," Voldemort replied. "We don't need her awakening during the Memory Enhancing counter-ritual, and it will take some time to perform that."
+
+Harry nodded, mollified. There was only one other thing he needed from Voldemort before he threw himself under the bus of lost intelligence, strength, and freedom. "Before we do the ritual and you have the Wizengamot throw me and Ginny into Azkaban, I want you to tell me something."
+
+Voldemort tilted his head slightly, looking interested. "Mr. Potter, you know one of my rules is 'don't brag,' yet I sense you are about to ask me to do just that."
+
+Harry would have shrugged except his shoulders were immobilized. "You're going to False-Memory Charm me, and I suspect Obliviate me as well — I don't know how I'm going to manage to remember anything you tell me, given that I'm literally going to be only half the man I was a few days ago."
+
+"You underestimate yourself," Voldemort replied, which was something Harry hadn't heard in a while. "However," the Dark Lord continued, "I can make sure that whatever I tell you will be beyond your reach after the counter-ritual is completed and your memories are appropriately modified. What is your question?"
+
+"Where and how did you manage to survive unnoticed since you were supposedly defeated back in 1998?" Harry asked. "And why," he continued, "did you kill James Monroe? If you'd left him alive you could have modified his memories to provide additional testimony against me."
+
+"That is more than one question, Mr. Potter," Voldemort noted matter-of-factly. "However, as I am already violating one of my rules in telling you anything at all, and the questions you've asked have a related answer, I believe I can provide a suitable response."
+
+Voldemort sat back in his chair, spreading his arms in a gesture of *here-I-am*. "As to where I have been these past 18 years," he said, smiling. "I have always been *here*."
+
+Harry stared at the Dark Lord for a full half-minute before replying. "Inside — Ginny? You're…lying."
+
+Voldemort's expression was opaque. "*Am* I, Mr. Potter? Is that fact so difficult for you to grasp?"
+
+"It's *impossible* to grasp!" Harry shook his head. "After I took your diary away from Ginny Dumbledore made sure there were no lingering — traces — of you inside her. I've had the diary since then, and when Dumbledore and I destroyed it in my sixth year that should have been the end of that Horcrux!"
+
+"That *was* the end of that Horcrux, Mr. Potter," Voldemort agreed. "Your mistake was not destroying it immediately upon finding it. I had already had most of that school year to forge a bond with Miss Weasley. After all," he smiled knowingly, "the function of a Horcrux is not merely as a phylactery — I am almost surprised you haven't yet learned that."
+
+"There's a surprising dearth of material on the subject," Harry said, tightly. "You've made sure of that. The book you stole from the Restricted Section of the Library — the scroll from Borgin and Burkes. I presume those were your sources? The rest is vague hints and rumors spread among dozens of other books and scrolls, but nothing giving real information or instruction."
+
+"Indeed," Voldemort nodded confirmation. "It would have been a fool's errand, trying to remove every reference to Horcrux from every library in Wizarding Britain, for that might have fostered suspicion needlessly; as it was, it did not escape old Dumbledore's attention. But then, he never trusted me."
+
+"With good reason," Harry muttered.
+
+There was silence for some time between them.
+
+Harry finally spoke. "Do you intend to tell —"
+
+"Have you not already guessed, Mr. Potter?" Voldemort's eyebrow went up in mild surprise, but was replaced by a cruel smile. "Ah. I forgot — your mental faculties are not up to what they were just a few days ago. Let me explain, then.
+
+"Even Dumbledore did not know the full extent of a Horcrux's powers. He had the one book in the Library that gave instruction on its creation, but that author's knowledge was derivative," Voldemort continued. "The scroll at Borgin and Burkes, however, explained all — to those who could avoid the curses that had been laid upon it. Neither Borgin nor Burke had ever tried to read it, though it sat on the shelf in their shop for years before I came to work for them. I suspect even Dumbledore himself would have had trouble discovering its contents, had he known of its existence."
+
+"You can stop patting yourself on the back any time," Harry muttered.
+
+Voldemort chuckled. "You must allow me to enjoy my bragging at least a little bit, Mr. Potter. After all, this is the first time I've done so since manifesting my presence openly in Mrs. Thomas's body."
+
+"Whatever," Harry snorted. "Get on with it."
+
+"Well, to the heart of the matter, then," Voldemort went on, briskly. "Creating a Horcrux is a two-part process. The first part is to enchant an object using a ritual. It has never been given a name, but we might call it the Horcrux Ritual. Most of the spell can be performed ahead of time — it requires several hours to prepare the object — but it is sealed with the life of a human."
+
+"I knew that much," Harry told him, still revolted by the idea itself. "Though the statues of the Founders at Hogwarts said murder wasn't necessary."
+
+"Probably true," Voldemort agreed. "A death was probably incorporated in the original ritual because it evoked strong feelings and emotions, and that strengthened the caster for the next part of the process."
+
+Wait a minute. "Hold on," Harry was staring at Voldemort, perplexed. "Why would you say that? Committing murder is what is supposed to split the wizard's soul, so they could bind part of it into the object to create the Horcrux."
+
+"Oh, surely, Mr. Potter, you don't believe all those stories about souls and so on, do you? I thought you were more intelligent than *that*."
+
+=ooo=
+
+Harry's mouth opened, then closed, several times before he shut it at last, then sat staring at Voldemort in disbelief. "I don't suppose I do," he said at last, slowly. "But if you *performed* the ritual, and more than once, then you must believe that is what's happening when you — *kill* — the v-victim when you cast the spell."
+
+"Tom Riddle believed it," Voldemort said, with an almost sheepish expression on his face. "But it has been a long time since those days, and I have gained quite a bit of knowledge and…insight…since then. Some of that relates, indirectly, to your friend Monroe. However, if you've heard enough, I can begin the ritual to remove your memories and be on my way to meet with Draco Malfoy."
+
+"No," Harry said softly. Whatever he could do to delay that would be to his advantage. "Go ahead."
+
+"The next part of the process," Voldemort continued, as if resuming a college lecture that had been interrupted by an impertinent student, "is to place part of yourself into the enchanted object. That is done by evoking the Patronus Charm and causing it to move into the enchanted object, making it into a Horcrux."
+
+There was another stretch of silence.
+
+"Okay," Harry said, disbelievingly. "Now you're just messing with me."
+
+"I assure you I am quite serious, Mr. Potter," Voldemort said, a trace of irritation in his voice. "We have too much to discuss for me to 'mess with you,' as you put it."
+
+"But that can't be right!" Harry demanded. "The Patronus is a spell of the Light! Dark wizards can't even *cast* it!"
+
+"That is a useful fiction, Mr. Potter," Voldemort declared. "One that has been told and repeated time and again for centuries, if not millennia. "You have heard, no doubt, that a wizard thought incapable of casting the Patronus will succeed when the need is great; for example, when confronted with a dementor?"
+
+Harry nodded. Dumbledore had told him that in his first year. "But… to cast a Patronus right after *killing* someone… are you saying you actually did that?" Voldemort nodded. "But what — what happens to the Patronus afterwards…?"
+
+"It becomes part of the Horcrux, and completes the ritual," Voldemort explained. "Have you never considered what a Patronus really is, Mr. Potter? It is an image of your innermost being, made corporeal by your magic. It can even speak with your voice."
+
+"But not much," Harry protested. "Not more than a sentence or two."
+
+"It is only an image of you," Voldemort said. "But it is still *you*. That is what you bind up in a Horcrux — not a bit of your imaginary soul, but an image of who you are. It is more than a ghost, which is nothing but an afterimage of a dead wizard. It is more than the living portraits that wizards create, seemingly possessing intelligence but which are not really sentient, or conscious."
+
+Harry was nodding slowly. The idea had surprised him, because he had believed Voldemort incapable of casting a Patronus, but for some time he himself had been unable to cast one. That had gnawed at him, cut into him, made him feel…wrong…on several levels. The first Dementor he stood against had nearly ended him, that day in January of 1992, had taken nearly everything from him that made him human. He'd remembered for the first time his mother Lily's desperate plea to save her son, and the fool's bargain the Dark Lord had offered her: herself to die, and her son to live. Except that James was already dead, and Lord Voldemort would have no reason to keep the bargain after Lily was gone. With desperate hate she tried to cast the Killing Curse on Voldemort, but he cast the spell more quickly than her, and she had died.
+
+Remembering that had broken Harry, had left him empty and falling into hate and despair. Worse, when he'd fallen his wand had landed near the true-forged titanium cage that held the Dementor, within inches of it, and it had continued to feed upon him through his wand, though he was far from the Dementor itself, until Professor Quirrell had Flitwick Summon Harry's wand to him. But even that did not dispel the black anger, the hate, the desire for killing and blood and death that held him even as Dumbledore's phoenix, Fawkes, attempted to sooth him with phoenix song and Dumbledore forced chocolate down his throat. But he would not be soothed, he remembered; he'd fully intended to kill everyone there once he'd recovered the strength to do it — even Dumbledore. Perhaps even Quirrell, if the Defense Professor had opposed him. It would be difficult, but not impossible, especially if they weren't expecting him to do anything but lay there eating chocolate.
+
+Then Hermione had kissed him. That completely unexpected action brought him back from the precipice he'd teetered on, willing himself to fall into and give himself over to the Darkness. Instead, he'd pushed her away, shouting "*I told you, no kissing*!" A moment later the phoenix song finally touched his ears, and he was Harry again.
+
+Then, after he'd recovered, he went back to the cage where the Dementor was, and destroyed it. His corporeal Patronus was not in the form of an animal, but a man, the human animal, the *rational* animal, and when he (and it) had comprehended what the Dementor was, it could stand before him no more.
+
+Harry jolted when Voldemort suddenly spoke quietly. "You've been quiet for some time, Mr. Potter. Remembering your own Patronus?"
+
+How could he have guessed that, Harry wondered. Had his Occlumency guards slipped momentarily? "Just… wondering how Hermione is doing," he said at last, feeling like it was a lame deflection, though she had just been in his thoughts. "It's been a while since you…"
+
+"She is breathing normally now," Voldemort volunteered. "I can see her chest slowly rising and falling. She is merely sleeping now, until I awaken her."
+
+"I have a question," Harry said suddenly, to take his mind off Hermione and keep the conversation going about Patronuses and Horcruxes. "Why did you kill if you knew it wasn't necessary for the creation of a Horcrux?"
+
+The Dark Lord sat back, regarding Harry silently for some time. "You remember the spell I cast for you a few times during your first year, the stars." It was a statement, not a question.
+
+"I remember it." Standing in the middle of starry space, surrounded by the universe. Harry had searched for that spell in hundreds of old books of magic over the years. He'd wondered it if had been a spell Voldemort learned from Salazar Slytherin's Monster, but why would Slytherin care about such a spell?
+
+"Have you ever wondered where Lord Voldemort found such a spell?"
+
+"The Monster," Harry answered immediately. It was a guess, but it he'd never come across it in any of the books he'd combed through. Slytherin's Monster seemed the logical alternative.
+
+But Voldemort shook his head. "I learned it from Monroe."
+
+"What?" Harry said, automatically, to cover his confusion, but his perfect memory suddenly recalled there was another, older Monroe. "You mean David Monroe?"
+
+"Indeed."
+
+"You killed him too, I'd wager."
+
+"In a manner of speaking," Voldemort replied, cryptically. "He also killed me."
+
+Harry blinked, then smiled humorlessly. "Not well enough for it to take, apparently. I'm surprised you would even admit such a thing."
+
+"At one time I would not have," Voldemort agreed. "But I've…grown…since my days at Hogwarts. My first time at Hogwarts, that is, when I was a student there. What do you know of David Monroe?" he suddenly asked.
+
+"He was the last heir of the House of Monroe," Harry answered. "According to Ministry documents Moody once showed me, he reappeared in 1971 after being gone for 25 years. Before that the House of Monroe had been thought destroyed, by you murdering all of its heirs, and your movement of 'Death Eaters' were increasing in numbers and power. His father, Blaise Monroe, was one of the few voices in the Wizengamot that would speak openly against you, and he was found murdered shortly after David returned to Britain, before the elder Monroe had the opportunity to openly admit David was his son."
+
+Voldemort was nodding. "Yes. I had thought myself rid of them until the younger Monroe returned and claimed his place in the Wizengamot as Lord Monroe. After twenty-five years, I had thought him dead and forgotten."
+
+"He was a student at Hogwarts about the same time you were, wasn't he?"
+
+Voldemort smiled, but the expression held no mirth. "He was, if anyone could be described thus, my nemesis at school. He started a year after I did, sorted into Gryffindor, and we took an instant dislike to one another.
+
+"Blaise Monroe was his father, but his mother was a Muggle that Blaise had a brief affair with. We Slytherins delighted in pointing out that he was a bastard. In return, he made it his business to meddle in our plots and activities." Voldemort seemed almost to brood as he said this. "He somehow learned that Tom Riddle framed Rubeus Hagrid for the opening of the Chamber of Secrets, in 1943. When he went to Headmaster Dippet, however, the headmaster believed Monroe was trying to unfairly discredit me — given the choice between myself and Hagrid, Dippet preferred to believe that oafish half-giant opened the Chamber, not me."
+
+"So you got away with the death of Abigail Myrtle, and with the knowledge Salazar Slytherin placed within the Basilisk," Harry finished.
+
+Voldemort smiled a self-satisfied smile. "Monroe swore he would make sure I would never again ruin anyone as I had ruined Hagrid. His skill at magic was close to mine but most of his time at Hogwarts was spent in my shadow — I heard he was nearly chosen as Head Boy in his seventh year but Aldous Lupin was chosen over him, probably at Dippet's request. I, meanwhile, was working at Borgin and Burkes, acquiring various and sundry items of interest for those two old cheats — until I came across the scroll in their possession describing the powers and abilities of a Horcrux.
+
+"I had already created two Horcruxes, the diary of T.M. Riddle and the ring of Marvolo Gaunt, and I had no intention before then of spreading myself any thinner, for three is a magically powerful number." Voldemort leaned forward, staring intently at Harry. "But that scroll taught me things about Horcruxes that no other book or scroll contained, and its author suggested a rather ingenious use for the Horcrux Ritual, one I confess I would never have thought of on my own."
+
+Harry leaned forward as well — or rather, he tried to, though the Body-Bind spell only let him incline his head toward Voldemort. "And what was that?" he asked.
+
+"Patience, Mr. Potter," the Dark Lord deflected the question. "I will answer that shortly, but for now we must travel forward a quarter of a century, to when David Monroe thrust himself back into my affairs."
+
+"Never mind that you had murdered everyone in his family except his father by then," Harry coldly pointed out.
+
+"Indeed," Voldemort seemed to ignore the tone of Harry's retort. "I was quite enjoying the cat-and-mouse game I was playing with the old man, making him wonder when and how I would come for him. He believed his manor was impregnable. It wasn't, but it would have been too easy to kill him there. I thought the last of an Ancient House deserved a more fitting end. I killed him as he attempted to enter the Ministry for a meeting of the Wizengamot, to speak against me once again." Voldemort sighed with reminiscence.
+
+"I read the Ministry documents," Harry said again.
+
+Voldemort's expression turned hard. "You may imagine my displeasure when it was later announced that David Monroe had returned from abroad only a few days earlier, and that his father had updated his will acknowledging him as his son."
+
+"I'm sure you were furious," Harry murmured dryly. "How is Hermione doing?"
+
+"Still breathing," Voldemort replied, curtly, without glancing at her. "Please don't distract me while I talk, Mr. Potter — I may decide not to make you the offer I plan on extending to you, as a one-time courtesy."
+
+Harry sighed. "You've been full of surprises so far today, Tom," he said, tiredly. "You've been positively gabby about yourself, and how you're offering me courtesies? I am shocked."
+
+Voldemort laughed, a dry cold chuckle that did not fit the face that showed his amusement. "Of course my intentions are not completely selfless. But I will offer you an alternate solution to losing half of both your strength and intelligence, and spending the rest of your life in Azkaban prison."
+
+"You already did make an offer," Harry reminded him. "But as involved killing me, I can't say I'm much interested."
+
+"Another alternative, then," Voldemort clarified. "Your memory would remain intact, and your intelligence, while still not up to its original level, would be higher than it is now."
+
+Harry tilted his head as an alternative to a shrug. He couldn't imagine making a deal with the man who'd tried to kill him more than once while he was still in school, but he could use the time. "What's your offer?"
+
+"I must finish my story about Monroe first," the Dark Lord said. "By the end of it you will see that what I offer is a very good opportunity for you to remain free and in better condition than you are now."
+
+"Go ahead," Harry said. "I'm not going anywhere."
+
+Voldemort chuckled, then composed himself and began. "After Monroe revealed himself to the Wizengamot I stalked him for some time, looking for an opportunity to strike. It was important that I find him quickly and end the Monroe line — my followers were few, and I felt that ending an Ancient and Noble line that spoke so vehemently against me would draw more to me.
+
+"Monroe, however, was clever — and as it turned out, had become quite a skillful wizard. I sent some younger Death Eaters to fight him, to see how he would handle them. He dispatched them easily, and his influence in the Wizengamot increased. I knew I could not let that stand, so I sent a message directly to him, to challenge him to single battle. He accepted and we met at an agreed-upon place, each using our own Portkeys to arrive at a random distance from one another, to ensure that we were both alone."
+
+"So you and Monroe fought," Harry said, slowly. "And obviously, you won —"
+
+"Not so obviously, Mr. Potter," Voldemort said.
+
+"Uuunnnhnh…" Harry almost thought he'd made that noise. But Voldemort had straightened suddenly, staring at the floor next to Harry's chair.
+
+"Interesting…" the Dark Lord murmured. "She awakens…."
+
+"Let me help her!" Harry said instantly, struggling to rise in spite of the Body-Bind. Voldemort raised an eyebrow, but took out a wand and flicked it at Harry, who bolted out of the chair, landing next to Hermione, who was moaning softly. "I thought you put her to sleep!" Harry cradled her head. Her body was no longer frozen, but she could barely move, it seemed.
+
+"I did," Voldemort replied mildly. "Apparently she really wanted to wake up." Harry was checking her wrist, then her neck, for a pulse. There was one, just barely, but it was thin and very weak. He looked up at Voldemort, his expression fierce.
+
+"So *help* her!" Harry shouted. "You don't want her to die, do you? Won't that screw up your plans for us?"
+
+"As you will," Voldemort shrugged. He pointed his wand at them and said, "*Rennervate*." Hermione jerked like she was shocked; her eyes flew open, unseeing, and she reached unerringly into her robes, withdrawing a wand which she started to point at Harry. The automatic reaction when she awoke, Harry realized. At a gesture from Voldemort's wand, however, Hermione's flew from her hand.
+
+Harry snatched it out of the air, then lunged toward the Dark Lord shouting "*Stupef* —"
+
+He fell on his face. His legs *jiggled* — they'd been hit with the Jelly-Legs Jinx. Voldemort laughed, cruelly and heartily. "Ah, Mr. Potter, you are *so* predictable when you are desperate!" He flicked his wand and the wand flew out of Harry's hand, caught by the Voldemort. He flicked his wand again, and a chair in a corner flipped back onto its legs and slid over next to them as Hermione shook her head and sat up, finally fully conscious.
+
+"Ginny? *Harry*?! Where have you *been*? When did you two get here? I was —"
+
+"Hold on," Harry said sharply. He turned back to Voldemort. "We need to continue our conversation alone."
+
+"Wait — *what*?" Hermione looked shocked. "What were you and Ginny talking about?"
+
+"ThatsnotGinny," Harry said, speaking rapidly. "ItsVoldemorthestakenoverGinn ysbody — *owww*!" He rubbed his side where the Dark Lord's Stinging Hex had caught him, giving Voldemort a furious look.
+
+"Since Mrs. Granger-Potter has seen fit to awaken during our conversation," Voldemort said, giving her a cold smile. "I think she should hear it as well, even if she won't remember anything afterwards."
+
+"After what?" Hermione said, shrilly. "You're not —" she jerked as her mind finally caught up with what Harry had said. "You're — not — Ginny!"
+
+Voldemort smiled. "Ginny is here somewhere," he corrected her. "Just not in charge of this body at the moment. At the moment your husband and I are in the midst of a conversation about my old friend Monroe and our battle."
+
+"You fought James?" Hermione's eyes were wide with shock. "Where is he? What — what happened?"
+
+"Not that Monroe," Harry said, his voice low. "The one he supposedly killed in 1971, the one that made him so popular back then. James is —" Harry shook his head, unable to continue.
+
+"Oh, no…" Hermione whispered. Her eyes locked on Voldemort. "*You* *killed* *him*? You bastard! What did he ever do to *you*?"
+
+Voldemort's face was expressionless. "Nothing but present an opportunity which I exploited. The same way I exploited your trust in Ginny by having you show her your husband's 'Bat Cave'."
+
+Harry jerked in surprise. He'd have leaped to his feet if he legs weren't as soft as taffy. "You showed Ginny the Bat Cave?!" How could she do that?! She knew that he'd only shown it to her and one other person. And that other person was now dead.
+
+"I —" Hermione looked at him helplessly. "She —" She didn't know what to say. "I — I thought I could trust her! I mean, it's *Ginny*!" She looked anguished. "I *thought* it was Ginny!"
+
+Voldemort *giggled*. "Yes, one of my better performances that day, I must admit. You were almost *begging* to show it to me, my dear."
+
+Harry summoned the herculean effort necessary to put that revelation behind him. "Alright," he muttered. "Moving on, then. You were about to describe the battle between you and David Monroe."
+
+"Indeed. Mrs. Potter, would you have a seat?" Voldemort pointed with his wand to the chair behind her. Hermione glanced slowly at the chair, then at Harry and back to Voldemort, trying to take in everything around her without seeming to do so.
+
+"I would not advise trying to attack me or escape," Voldemort told her, in a cold, matter-of-fact tone. "Your husband is defenseless and unable to move, and I can incapacitate both of you in less than a second." He looked at Harry. "And you will never hear…the *rest* of the story."
+
+Harry turned to her. His head moved a fraction, side to side, warning her off of trying anything for now. It would be a desperate chance at best. They needed some kind of lucky break. His eyes moved to the chair, indicating she should sit.
+
+Hermione sat down very slowly, looking at Harry all the while. There wasn't much she could do anyway — her wand was no longer in its hidden pocket in her clothing. As her weight rested on the seat of the chair, fingers reached out from the arms and front legs, grabbing and holding her in place. She squeaked involuntarily, but made no other sound, only looking at Voldemort with loathing.
+
+"Now, to continue," Voldemort resumed; Harry wondered if he detected a hint of impatience in the voice, as if the Dark Lord was anxious to finish his tale and make Harry the offer he had obliquely promised earlier. "I shall not trouble you with the details of our battle — needless to say, we both fought brilliantly. Monroe was nearly my equal in Defense; time and again he managed to evade or deflect my curses, and when I finally tired of the game, I cast the Killing Curse at him, at point-blank range.
+
+"To my very great surprise, I missed."
+
+"He *dodged* your Killing Curse?" Hermione asked, before Harry could say anything. "Harry's told me you could cast it in less than half a second."
+
+Voldemort raised an eyebrow at Harry. "Ah, you remember that, Mr. Potter? But of course you would *now*."
+
+"What's that supposed to mean?" Hermione asked suspiciously.
+
+"Nothing," Harry said quickly, but he had a sinking feeling Voldemort wouldn't let it drop.
+
+He didn't. "Your husband found a way around the Interdict of Merlin, Madam Minister," the Dark Lord said, smiling cruelly. "One of the spells he learned was a Memory Enhancing Ritual, a spell that gave him a perfect memory."
+
+Hermione blanched. "What was the ritual's sacrifice?" she asked, tremulously.
+
+"Half his intelligence," Voldemort said flatly. "That's why he's not thinking as fast as you might expect him to."
+
+"Oh, Harry…" Hermione said, sadly. "I'm so sorry —"
+
+"It's done," Harry cut her off, inwardly raging at Voldemort. He'd hoped to spare her that knowledge as well as what he would have to do to avoid being killed by Voldemort because he could no longer be Obliviated or False-Memory Charmed while the spell's effects were still active. Voldemort could remove the ritual, but at the additional cost of half his strength. And if he didn't find some way out of this mess he was going to end up in Azkaban for killing Monroe, along with Ginny who was accused of murdering three Aurors. "What happened after you missed?" he growled at Voldemort, hoping to get off the current topic.
+
+"We exchanged more curses, and Monroe cast a combination that damaged my heart. As I fell I cast a Cutting Hex that split him open from crotch to chest, and we both fell to the ground, mortally wounded.
+
+"Now you might wonder at how I managed to survive this predicament," the Dark Lord murmured. He reached into his robes and produced a wand. "This was my first wand, the wand I bought from Ollivanders in 1938." He held it up for Harry and Hermione to see. "Yew, thirteen and a half inches long, with a phoenix feather core."
+
+Hermione was looking at it curiously in spite of the fear she felt, seeing it in Voldemort's hand. "I've never seen Ginny with that wand."
+
+"She never would have shown it to you, even unknowingly," Voldemort replied. "While she was herself she never knew of its existence." The Dark Lord turned to Harry. "One of the spells I learned from Salazar Slytherin's Monster was a way to link my conscious mind with an object that had had the Horcrux Ritual cast upon it. Normally, when you create a Horcrux it stores only an image of you at a point in time, as I did with the diary and Marvolo Gaunt's ring. With the spell I learned from the Basilisk, however, I could always be linked with that Horcrux, and could move myself between my body and that object."
+
+"What does that *mean*?" Hermione asked, aghast at the idea.
+
+"I can guess," Harry said grimly. "Even if *you* were killed, if your wand was a Horcrux it could only be destroyed by Basilisk venom or Fiendfyre, and you made sure the Basilisk was dealt with after you took Slytherin's knowledge from it. Am I wrong in thinking that you could influence people who touched your wand, just as Ginny was influenced by you during the time she had your diary?"
+
+"Yes, quite," Voldemort nodded, a cold smile on his lips. "I learned that my wand had been kept by Dumbledore after Quirrell's death in 1992, and I was able to take control of Ginny, having her make her way into Dumbledore's office one day when he was away, and into that room of black pedestals and silver light, where he kept the spoils of his adventures. My wand — *this* wand — had been placed there after my defeat, and while my diary still had a measure of control over her, you suspected Ginny was being manipulated, somehow; I knew I would have to give up the diary, so I determined to get my wand back and maintain my control of Ginny. I Transfigured a replica of my wand, using Salazar's magic to make it permanent, and left it in place of mine."
+
+Hermione was shaking her head, her eyes wide with horror. "You mean you were in control of Ginny *all that time* since her first year?"
+
+Voldemort almost looked offended. "Of course not, Mrs. Potter. I had no wish to operate out of the body of an eleven-year old girl! I had her give the wand to a more suitable, shall we say, body donor."
+
+Harry and Hermione's eyes locked for a moment. It had taken six more years for Voldemort to return after Quirrell's defeat, but he *had* returned, and in a form that no one could have suspected hid the Dark Lord.
+
+He returned in the body of Percy Weasley.
+
+Percy, who'd left Hogwarts in 1994 as Head Boy, had secured a post at the Ministry of Magic working for Cornelius Fudge as his personal assistant. By the time Fudge had worn out his usefulness to the Malfoys and was replaced by Rufus Scrimgeour, Percy had become an undersecretary in the International Magical Office of Law, and Scrimgeour had put him on track to become Senior Undersecretary to the Minister himself in a few more years. If Harry and Dumbledore had not realized that there were still Horcruxes out there tying Voldemort to the material world, he might have gone on to become Minister.
+
+After Percy left Hogwarts he estranged himself from his parents, brothers and sister; it had seemed strange at the time, but in retrospect it made sense. He kept no close relationships, throwing himself into his Ministry work and building up a network of contacts in the Ministry, where he was well-regarded as a hard worker and brilliant at his job. His mother Molly had fretted and cried over his aloofness, continually nagging her husband Arthur to invite Percy home for dinner, but the younger Weasley refused all of his father's overtures.
+
+Harry was ready to leave Hogwarts by the time he and Professor Dumbledore puzzled out the riddle of the resurrected Quirrell. Quirrell's body was still in the Department of Mysteries, carefully watched by the Unspeakables for any sign of movement or life. It would still be there except that Hermione had had it removed after she became Minister, having it placed in an unmarked grave somewhere in Albania. Now, Harry realized, it made sense how "Quirrell" could have come back in Percy Weasley's body.
+
+Voldemort's wand.
+
+But there were still unanswered questions. "You still haven't said what happened after you and Monroe were both mortally wounded in battle with one another," Harry reminded him.
+
+"Ah, yes," Voldemort nodded. "It is important you know this, Mr. Potter, since that knowledge is relevant to the offer I will make you."
+
+"What offer?" Hermione asked, looking back and forth between them.
+
+"Patience, Mrs. Potter," Voldemort told her. "You will hear, soon enough. As I have so far recounted, both Monroe and I were grievously wounded. My heart would not last much longer, and he was bleeding out; even though he managed to slow the bleeding with magic, he could not stop it without dittany or specialized potions. But he would die happy, he told me, because I had been stopped.
+
+"Imagine his disappointment, then, when I told him that I would *not* die, that I had gone further than any other wizard in my quest for immortality. He would not believe me until I told him of Salazar Slytherin's knowledge, knowledge I had gained from the Monster of Slytherin decades earlier. I began to cast a spell that would draw his life from his body and use it to heal my own damaged form.
+
+"Monroe fought me, even then," Voldemort told them. "He held onto life longer than I would have thought possible. I began to fear that my heart would give out before I would be able to heal it. Then Monroe did something that surprised both of us.
+
+"'Riddle, you foul, Dark creature,'" he said to me, "'what will a spell of Light do to your Horcrux?!'" He cast his Patronus, an eagle that flew directly at me, as if I were a Dementor to be repelled by its form. I held up my wand to defend myself, but the Patronus flew into it and disappeared. At that same moment Monroe's life slipped from his body into me, and my heart was restored.
+
+"But something else had happened to me. It was as if my and Monroe's minds had merged, like mutual Legilimency run amok. Everything he knew, I knew as well. We had become one person."
+
+"That's unbelievable," Harry said. "It's *really* unbelievable! Patronuses can't do that! They're under the control of the person who cast them — they can't be constrained or held against the caster's will!"
+
+"Have you ever cast your Patronus into an object that's had the Horcrux Ritual performed on it?" Voldemort asked. Harry didn't answer. "No, I'm sure you haven't, Mr. Potter. You've only ever used your Patronus on Dementors, haven't you?"
+
+"You would know that," Harry growled. "You saw me destroy one."
+
+Voldemort nodded. "I suppose in a way I should be grateful for that, Mr. Potter, for that Dementor did tell me that it would hunt me down someday, for depriving it of its sustenance — you."
+
+Harry snorted laughter. He had never heard a Dementor speak — not even the one at Hermione's trial that Harry had used to show the Wizengamot that he could scare a Dementor into retreating from him. They couldn't speak—what wizards thought they heard were words plucked from their own minds by the fear and despair induced by the Dementor's presence.
+
+It occurred to Harry that he *really should have* destroyed all of the Dementors at Azkaban before now, because he had managed to deduce what Voldemort planned to offer him. "You want me to send my Patronus into your wand," he said, flatly. "To join to you like Monroe did."
+
+Voldemort nodded. "Very good, Mr. Potter — I wasn't certain you were keeping up. It would be quite advantageous to have a perfect memory, and our overall intelligence would not decrease very much; both Monroe and I were quite brilliant, and even at half your intelligence you have a keen and agile mind."
+
+"Harry," Hermione said quietly, though he could hear the tenseness in her voice. "Tell me you are not thinking of doing anything of the sort."
+
+Harry was frowning. "What about Ginny?" he asked. "What can you do for her?" Hermione's mouth fell open.
+
+Voldemort was shaking his head slowly. "Three murders, Mr. Potter. And of three *Aurors*. It will be impossible to manipulate the Ministry to ignore those three deaths. Ginny could just as easily be guilty of Monroe's death, and of trying to kill you as well, if you decide to join with me. Draco can remain the Head Auror for a while longer, and your considerable wealth can be used to, shall we say, direct policies advantageous to the pureblood families of the Wizengamot and the Wizarding community."
+
+"Hermione will remain as Minister of Magic?" Harry asked.
+
+"There will be no reason for her to resign as long as you are willing to cooperate with me — with us."
+
+"You and Monroe?" Harry said, for clarification.
+
+"*And* Quirrell," Voldemort added. "Did you not wonder at his role in my return?"
+
+Harry shrugged. "I thought you had simply taken over his body as some point before you arrived at Hogwarts, like you did Ginny's."
+
+"Quirrell," Voldemort informed them, "was quite interested in the Dark Lord's exploits, especially what happened to him after he attempted to kill a young Harry Potter and disappeared, seemingly destroyed. He suspected, as few wizards did, that the Dark Lord had found a way to tie himself to the physical world. His investigations eventually led him to Godric's Hollow and the remains of the Potter house. The burst of magic that had incinerated the Dark Lord's body had also broken the Fidelius, and his remains had been removed, but his wand had never been found — it was assumed destroyed by the same power that reduced him to a burnt corpse.
+
+"But Quirrell believed otherwise, fortunately," Voldemort went on. He searched the ruins of the Potter home *very* carefully, and found the wand buried beneath the remains of a wall that had toppled over on it."
+
+"And you rewarded him by possessing his body," Harry muttered.
+
+"I rewarded him by giving him the option of joining with me," Voldemort demurred. "An offer which he accepted eagerly."
+
+"But Quirrell couldn't produce a Patronus," Hermione objected.
+
+"Of course he could," Voldemort replied shortly. "When you met him we had already been joined for some time; he knew better than to admit he could produce a Patronus. Now," and Voldemort's gaze returned to Harry, "are you willing to join yourself to me, Mr. Potter, so that we can continue to improve Wizarding Britain?"
+
+Harry sat silent for nearly a minute before holding out his hand. "I'll need a wand to produce a Patronus," he said, quietly. Hermione caught her breath, not believing what she was seeing.
+
+"Of course," Voldemort said. He reversed his wand so the handle was toward Harry, holding it out toward him. Harry's hand moved toward the wand…then stopped. He withdrew his hand, looking at Voldemort's wand.
+
+"I don't think I'm going to touch your wand," he said, shaking his head. "I suspect that you would be able to exert a lot of influence over me once I did."
+
+"Your suspicions are warranted," Voldemort nodded, withdrawing the wand. "But I have my own suspicions, and putting any wand in your hand other than mine would be a powerful incentive for you to try and escape your current predicament."
+
+That was true. Harry had seen Voldemort's offer as a way to get his hands on a wand and make a break for it. If the Dark Lord hadn't held out his own wand, it would have been the perfect opportunity — he would have had to reach for another wand while Harry would have one in hand. But Harry couldn't take a chance that he could resist the influence the Horcrux wand could have over him.
+
+"I suppose I have to refuse your offer, then," Harry said. "Even though it means Ginny and I will go to Azkaban." He turned to his wife. "You're going to have to be strong, Hermione. You have to find a way to remain Minister of Magic after all this goes down, *don't* let Draco Malfoy take over —" His voice cut off suddenly as Voldemort gestured toward him.
+
+"Enough of that, Mr. Potter," the Dark Lord ordered. "In any event, she won't remember any of this conversation, so anything you say here will be moot."
+
+Hermione began to speak but she suddenly slumped in her chair, asleep. "It is too bad you continue to resist me, Mr. Potter — we could have been a formidable opponent with your abilities added to our own. You were merely lucky before —"
+
+"Twice before," Harry reminded him. "I beat you at the end of my first year and again just before I left Hogwarts." He shook his head sadly. "All the things you were capable of back then — it's a shame you remained a Dark wizard. You know, I never found that spell you said Monroe taught you, the one…"
+
+Harry stopped. A number of disparate memories were coming together in his brain. If Voldemort could move his consciousness between a body and one of his Horcruxes…
+
+"Pioneer 11," Harry said suddenly, his voice a near-whisper. "You told me you snuck into NASA and cast a spell on the golden plaque that would make
+
+it last a lot longer than it otherwise would. You performed the Horcrux Ritual on it!"
+
+Voldemort was actually grinning. "I had already created three Horcruxes by then, but the idea that my consciousness would move outward into space, forever, was too enticing to ignore."
+
+"And that spell —" Harry prompted, dreading the answer. "The spell that showed the stars…"
+
+"An alternate form of possession," Voldemort replied. "One in which I allowed you to see through my senses rather than me taking over your mind. That was what was so draining, Mr. Potter — not the movement between my mind and the Plaque Horcrux."
+
+Harry shuddered. "I can't believe I actually enjoyed that — that *aberration*."
+
+"I have learned from *my* aberrations, Mr. Potter," the Dark Lord replied. "A pity you have not." He waved his wand at Harry. Everything faded to black.
+
+=ooo=
+
+The Most Ancient Hall of the Wizengamot was filled well past its capacity. Many more wizards that those fifty or so souls who were its Lords and Ladies had found their way into that Most August Place. Wizards from across Britain, Europe, and even Scandinavia and Asia Minor had made the trek to that most ancient repository of magical power. They came because something unique was about to occur — today the Wizengamot would humble one of their own number, give him over to the horrors of Azkaban. To be sure, this was not the first time this had happened to one of the nobles of the Wizengamot. But it was the first time anyone had seen Harry Potter brought so low.
+
+Testimony had been given, under Veritaserum, and the Wizengamot was currently "discussing" the idea of placing the arguably most well-known person in Wizarding Britain in the very place he had once threatened to destroy. For some there the irony was delicious. For others it was unthinkable. But soon, it would be decided one way or the other.
+
+The Hall was now filled with the noise of a hundred muttered conversations, in a dozen different languages. The only person in the Hall who *wasn't* speaking, it seemed, was the man hunched in the iron chair in the center of the room, chains wrapped around his arms and legs. He sat, staring straight ahead, eyes focused on nothing, contemplating the confession he had just given the Wizengamot. He believed everything he had said, as alien as it had sounded as he'd said it. He had killed James Monroe in a cold, jealous rage after learning that he and Ginny Thomas planned to run away together, that she was leaving Britain after killing three Aurors who had come to her home searching for information on Harry Potter. She had been protecting Harry, she'd said during her own trial, all of which Harry also believed, though he could not quite wrap his head around the idea that Ginny would *kill* three Aurors.
+
+The *other* person in the Hall who wasn't engaged in deliberation or debate, the Chief Warlock of the Wizengamot, stared down at Harry with sad, tired eyes. In contrast to Harry, he disbelieved everything that the Head Auror (and now acting Minister of Magic) had claimed about Harry and the Thomas woman, who was already on her way to Azkaban, having been roundly convicted of the charges that had been leveled against her. Neither of these trials rang true to the Chief Warlock, but the defendants had been questioned under Veritaserum and had confessed to their crimes. The Wizengamot had voted to convict Ginny Thomas, and they would shortly convict Harry Potter of murder. It mattered not what the Chief Warlock believed about either of them or the likelihood that they had actually committed the crimes they were accused of and had confessed to. Never mind that Veritaserum was ineffective against False Memory Charms and Obliviation when the memories altered or removed did not introduce noticeable inconsistency in the witness's story.
+
+It was time. The Chief Warlock tapped the dark stone rod held in his hand against the podium, silencing the Hall. "I call for the vote," he said in a strong, clear voice that belied his internal turmoil. "By a show of hands, those who believe Harry Potter to be guilty of murder."
+
+Too many hands rose in the air, the Chief Warlock saw. But that was a foregone conclusion. Harry himself had confessed to the murder, and Ginny Thomas's testimony as an eye witness had confirmed it. When the vote was tallied, only one or two of the members had not raised their hands. "By a show of hands," the Chief Warlock continued, "those who believe Harry Potter to be innocent of the charge of murder."
+
+No plum-colored sleeves rose into the air. After an interminable silence, the Chief Warlock spoke once again. "The vote of guilty is carried by majority. Thus orders the Wizengamot. The sentence of life in Azkaban shall be carried out immediately. Aurors, please escort the prisoner out and remand him to the warden of Azkaban. Having no other business to conduct, this session of the Wizengamot is hereby adjourned."
+
+The Aurors guarding Harry removed the chains from his arms and legs and helped him to his feet. He moved slowly, the Chief Warlock saw, and looked weaker than when they were last together, in happier times. As the Aurors took Harry's arms to help him walk he looked up toward the Chief Warlock with a wan smile. "Nice to see you again, Remus," he said, softly. "Even if the circumstances are less than pleasant."
+
+Remus Lupin nodded, his lips pressed tightly together. He could not speak. There was nothing he could say to Harry that could convey the anguish he felt at sending the son of his dearest friends to prison for a crime he wouldn't have, *couldn't* have committed.
+
+As the Aurors led him away, Harry looked back over his shoulder. "Don't be such a stranger," he murmured, then let the Aurors lead him from the room.
+
+**A/N: Harry's in a serious fix now, isn't he? Well, sometimes the bad guy wins… Reviews, comments, questions invited.**
+
+</div>
+
+</div>

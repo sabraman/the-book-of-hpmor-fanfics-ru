@@ -1,0 +1,159 @@
+<span id="seg-0352__seg-0352-8646efa08e"></span>
+
+<div id="seg-0352__s3-dd33a084ba" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 3: My Precious
+
+<div id="seg-0352__storytext-9c93142583" class="calibre4">
+
+Before playing with his new toy, Harry wanted to check that is was safe.
+
+He had briefly been concerned merely by the claimed function. This is a device that alters - ostensibly improves - how your *brain* works. Harry was quite proud of his brain, and was rather attached to it. The potential side effects were terrifying, let alone personality change. But, frankly, that wasn't going to stop him using it. Not if it could help him save Hermione. Besides, he hoped that Rowena Ravenclaw was wise enough on the occupational health and safety front, although the artefact *did* end up in a tree in Albania, if the defence professor could be trusted.
+
+What he was really concerned about was the possibility of dark magic being overlaid. Well, clearly there was some dark magic already there, possibly a Lord Voldemort Horcrux, but that could be a blind. The defence professor had shown strong evidence of wanting to manipulate Harry down a particular path. He presumably couldn't use direct mind control magic on Harry for the same reason their magic didn't seem to work on each other. If the defence professor were out to control Harry, then a subverted mind controlling artefact that would be irresistible to Harry would be difficult to top as a perfect trap. And that was ignoring the possibility of a genuine Lord Voldemort Horcrux on it.
+
+The feeling of doom that Harry got around the artefact didn't help either. Actually, it did. Suppose that the defence professor was correct about the Horcrux. Suppose further that the feeling of doom was associated with the Horcrux. Suppose that the reason the feelings of doom were similar was because the defence professor also had – or was – a Lord Voldemort Horcrux. Possibly Quirinus Quirrell had triggered a Horcrux, and been possessed by Lord Voldemort, or at least partly so. That was a lot of suppositions – a stiff complexity penalty should be applied.
+
+What would the mixture of a maybe decent person and Lord Voldemort be? If the defence professor was correct about himself being part possessed by Lord Voldemort, then Harry was an example of the species. There were a lot of ways that could go. It certainly was not inconsistent with the defence professor's power, personality, and mysterious past.
+
+Harry shook himself. Such speculation was important, but he had a shiny toy to play with. For all his misgivings, it took immense self control to not put it on *right now*.
+
+Dumbledore would be the obvious person to ask about it, but Harry was somewhat leery of trusting him. Furthermore, Professor McGonagall deserved trust, and positive reinforcement. It was to her offices that he ran. After thirty seconds, he jumped on his broomstick. The less time he took to get to her office, the less time he had to resist putting it on.
+
+Fortunately she was in his office, and called him in when he knocked.
+
+"Harry! Don't tell me you have finished that set already?"
+
+"No, sorry. I can't read that fast. Let along absorb and think about it. No, the defence professor just gave me the most powerful magical artefact I have ever heard of... and I want you to check it for booby traps."
+
+She looked up in shock. "He gave you the elder wand? Not the Philospher's Stone?"
+
+"No, no, way beyond them." He brought out the diadem. "*Rowena*'s artefact. Mind magic has the greatest potential for ... umm... greatness." Harry couldn't understand why everyone else didn't see this.
+
+Professor McGonagall accepted the proffered piece of jewellery. It did indeed look like the pictures, and a cursory scan indicated that it was indeed endowed with significant magic. "This will take some time. It would probably be better to take to the headmaster, you know. He could do a better job than me."
+
+"I trust him 95%. I trust you 100%. Please go ahead, I'll wait."
+
+Minerva was shocked at the effect of his offhand declaration of trust towards her. She had lost much of her never particularly high trust in herself over Hermione's death. She had come to trust many of Harry's judgements - at least the ones that were not self-centred - and it appeared that he trusted her. Unlike Dumbledore, Harry wouldn't say it just to make her feel better. For the first time in her life, she thought that she might actually make a decent headmistress when and if her time came. She snorted to herself. It was pretty pathetic that such validation should come from a first year student.
+
+She focussed on her work. First task was to determine if it were genuine. That was relatively easy. After only a minute and a half she looked up and informed him that she was quite sure it was the true diadem.
+
+Searching for booby traps was more difficult. First a simple search for dark magic. Oh. "I have some bad news. There is some very powerful dark charm on the diadem. It is not part of the original enchantment. I will attempt to determine what it is." She spent another ten minutes, trying test after test. "The bad news is that I can't identify it for sure. It doesn't seem to *do* anything. I suspect that it may be a Horcrux. We should really take this to the headmaster. He has more knowledge of Horcruxes than me."
+
+"I thought you might say that. The defence professor warned me that he thought it had a you-know-who Horcrux on it. He claimed that it was unlikely to ensnare me. I didn't want to prejudice your examination by telling you in advance. Although if it looked as if you were about to put it on, I would have stopped you, of course."
+
+"Despite this, you are still considering it? Can you imagine how terrible it would be if you were to become his host? Possibly that is what the prophecy meant by '*EITHER MUST DESTROY ALL BUT A REMNANT OF THE OTHER.'* Could its power possibly be worth the risk?"
+
+"I don't know. That is why I am asking you about it. It depends how big the risk it, versus the potential gain of giving me a significant advantage in a later confrontation with you-know-who."
+
+Minerva considered it carefully. "This is beyond my area of expertise. I strongly recommend that we go to see the headmaster."
+
+"I am happy to go to Professor Dumbledore then. Thank you."
+
+"I haven't finished yet. I've checked for dark magic, but not for superficially harmless charms that could have less innocent uses. Give me a few more minutes." Before returning to the task she asked a witch in a painting behind her to see if the headmaster was in and free. She continued experimenting. By the time the witch had returned to her painting she had finished. There were no other charms.
+
+The headmaster was indeed available, so they proceeded directly to his office. The door to the spiral staircase opened as they approached, the stairs twisting upwards.
+
+Dumbledore sighed when he saw the two of them. "It is a bad sign when the two of you show up in my office," he greeted them. "Historically, at least. What has happened this time?"
+
+Professor McGonagall replied, "Actually, it is quite good news." One of Dumbledore's eyebrows rose. "Harry was given Rowena's diadem by the defence professor. He asked me to check it for traps. I am convinced that it is genuine, but it has a strong black charm on it. I have suspicions as to its nature, but I would like your opinion too."
+
+"May I see?"
+
+Minerva handed the diadem to the headmaster. She watched him study it, noting many of the same spells she had used.
+
+"It is a Horcrux. Almost certainly Voldemort's," he finally concluded. "This *is* excellent news. We can destroy it, and that will be one step closer to his end."
+
+"No," interjected Harry in alarm. "At least not until we have considered the alternatives. Unless - are you talking about just destroying the Horcrux, or the whole artefact?"
+
+"The whole artefact, I am afraid, Harry. A Horcrux is too powerful to do otherwise."
+
+"But Ravenclaw's diadem is the most useful item known to humanity!"
+
+"Disposing of one of Voldemort's Horcruxes is of immense use to humanity."
+
+"Could we hold off for a little, please? Does the Horcrux pose a direct threat to the wearer?"
+
+"I do not believe it does. But Voldemort only has a small number of Horcruxes. The destruction of a single one would be valuable. Voldemort will only be genuinely dead when all are destroyed."
+
+"It doesn't make sense," interjected Harry suddenly. "The diadem is a dumb place for a Horcrux."
+
+"Why so?"
+
+"Well, it is easy to notice and destroy, and hard to safeguard. More importantly, it is such a useful artefact that the possessor would want to wear it. A Horcrux, on the other hand, should be stored far away from its creator for redundancy purposes. It just doesn't make sense."
+
+"On the contrary, it makes perfect sense," said the headmaster. "A Horcrux can be a trap. An unwary person might find a diadem, and put it on. This could trigger the Horcrux to take over their mind. So it makes sense to put it on a powerful artefact as it is a greater temptation to put it on."
+
+Harry looked at his precious with some trepidation. "Is that an automatic property of a Horcrux, or does it need some other trigger?"
+
+"It needs some other trigger. I couldn't find any traces of such a trigger."
+
+"So it is a stupid place," said Harry.
+
+"Maybe," suggested Minerva, "Maybe the other ones are in sensible places, and this one is in a stupid place to confuse us? Or maybe there was such a trigger, but the defence professor removed it."
+
+Harry and Albus nodded weakly, acknowledging plausibility without being totally convinced.
+
+Harry was meanwhile thinking about the Voyager spacecraft, and what an ideal Horcrux it would make, assuming some alien could trigger it. And Professor Quirrell had almost owned up to doing so, assuming of course that he was also a Voldemort mixture. "So there is little point destroying this one until we have found the others?"
+
+"Destroying this one now would prevent us ever losing it," said Minerva pensively. "But there are alternatives. Albus, could you put a charm on it that would enable us to find it later if it were stolen?"
+
+"Probably," allowed the headmaster dubiously.
+
+"Headmaster, is your magic powerful enough to reach the planet Mars," asked Harry suddenly.
+
+"No," said Albus, looking strangely at Harry. "Not even the moon."
+
+"Do you think any other wizard has magic that could reach that far?"
+
+"I would be exceedingly surprised."
+
+"You know the muggles have had several spacecraft fly far beyond Mars. Ones that are never coming back. Ones that are unlikely to encounter anything as big as a speck of dust for the next billion years."
+
+The headmaster and deputy stared at Harry in horror.
+
+"I am sorry, Harry," said the headmaster finally. "If Voldemort is unkillable, and the prophecy says one of you and he are doomed to die, and the signs are showing that the battle is imminent..."
+
+"Don't be defeatist," said Professor McGonagall briskly. "Firstly, if all of you know who is destroyed other than one Horcrux in deep space, then maybe that counts as \`all but a remnant of'. In fact, that may fit the prophecy more than anything likely to happen to Harry. Furthermore, even if he keeps living, if his presence is with the spacecraft, it will be a long way away from anywhere he could do harm."
+
+Harry didn't like that idea. It was an argument for the destruction of the diadem. "There are other interpretations. I could be left in a coma, in a vegetable state. That could be construed as \`all but a remnant of.' Furthermore, I could always go and bring the spacecraft back."
+
+The other two looked at him in astonishment. "How would you propose to do that," asked the headmaster.
+
+"I don't know. But it is physically possible. I can't think of any particularly moral ways of doing it off hand - I could always imperious the muggle leaders of various countries and get them to mount a retrieval operation. But the cost would be stupendous. Even ignoring the unforgivable nature of the imperious charm, it would cost trillions of pounds - much more than the entire wealth of magical Britain. That money, spent on hospitals, would save the life of hundreds of thousands of people. That is not an acceptable solution. But maybe given time," *and the diadem*, "I can come up with a better solution. I'm just saying it is hard but not impossible. In the mean time, we should use whatever weapons we have, and my best weapon is my mind." He nodded towards the diadem. *And there is my precious*. I haven't even put it on, and still the power it may give me is irresistible, despite the clear danger.
+
+The headmaster stared at him intently for several seconds. "Harry, can you imagine any reason why you would want to tear apart the very stars in heaven?"
+
+"For energy," said Harry promptly. "Possibly for building materials. Most of the universe's accessible mass is probably in stars. Eventually humanity will want to use that mass more productively than just fusing it and radiating it indiscriminately. But that would be spread over billions of years at the earliest."
+
+"How about ending the world?"
+
+"That's a little harder. We could want to use the mass to build a Dyson sphere. That is, a huge sphere surrounding the sun with radius similar to the earth's orbit. It would have a surface area absurdly larger than the earth - lots of room for vast numbers of humans. It would make all the sun's output accessible. We will need that room and energy for the population explosion after I conquer death." He paused, and frowned. "But we would not have to make it exactly in earth's orbit, probably. A little outside, and we could adjust albedos so that the temperature was fine. Then we could use other planets, and keep the earth as a place to live on while we are making it. I would quite like to keep the earth afterwards anyway, as a souvenir of our ancestry. Maybe we would have to dismantle it to make the system stable. I don't know the maths of that offhand. Whatever, it is probably negligible compared to other structural problems involved in cosmic engineering, and vastly simpler than tearing the stars apart." *Even the Pak only built a ringworld*.
+
+Minerva stared at him. It was the matter of fact way he said it that unnerved her, as if he were describing a change of room for some class. Albus was still watching him dubiously. *What made him ask*, she wondered.
+
+"I think that Harry should be able to make the most use of his weapon," she said. "In fact, I think it appropriate than he should put the diadem on now, while we are here watching and capable of responding appropriately."
+
+Harry needed no more urging. He held out his hand, the headmaster handed it to him somewhat reluctantly, he closed his eyes and put it on his head.
+
+Nothing much seemed to happen. But Harry was short of input at the moment. He opened his eyes. At first everything seemed normal. He turned around and then he realised that he now remembered perfectly everything he had seen since putting the diadem on. Furthermore, as he gazed at the weird and wonderful contraptions around the headmaster's office, he guessed the functionality of two that had stumped him on prior visits.
+
+"It works," said Harry, with a grin. The headmaster cast a few more charms on Harry - they seemed to be for sensing, and Harry could now remember in enough detail that he could probably reproduce them, although he had no idea how to interpret the results. Presumably the headmaster was checking that the dark charm had not activated.
+
+"The dark charm seems quiet," said the headmaster. "You may not be able to see, but the diadem gave off a faint reddish glow when you put it on. I expect that is a result of its ordinary operation. Apparently when Rowena was wearing it there was a bright blue glow."
+
+So it did not work quite as well for him as it did for the person whom it was designed for. Maybe it would improve with practice. Regardless, anything that improved his ability to think was priceless.
+
+There was an obvious experiment to do. Harry took off the diadem. His flawless memory vanished as he did so. He still had some sense of what had passed while he was wearing the diadem, in fact it seemed a little better than he would normally remember. Harry smiled. "It is a wonderful device. Could you please add the locating charm, headmaster?"
+
+He handed the diadem back to the headmaster, who waved his wand over it, then over a gem taken out of a drawer on the side of his desk. "I have made a bond to this gem. While I have the gem, I will be able to track the diadem. But please try not to lose it, Harry. We *will* have to destroy it at some point." He handed the diadem back to Harry, who instantly put it on his head.
+
+"Now," said Harry, "I need to think for a while."
+
+</div>
+
+</div>

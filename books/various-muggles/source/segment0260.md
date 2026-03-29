@@ -1,0 +1,105 @@
+<span id="seg-0260__seg-0260-9f1b7ff7f3"></span>
+
+<div id="seg-0260__s2-4205714cdf" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 2: A Worried Wizengamot
+
+<div id="seg-0260__storytext-9c93142583" class="calibre4">
+
+They arrived together in the Most Ancient Hall of the Wizengamot - two phoenixes, two powerful adults, and the one unfathomable child. Chief Warlock Albus Dumbledore strode to his podium, Fawkes still on his shoulder. Amelia Bones, Director of the Department of Magical Law Enforcement, strode to her accustomed seat. And Harry James Potter-Evans-Verres, with the phoenix Bentham blazing on his shoulder, walked peacefully back to his seat beside Minerva McGonagall. For these few seconds, the Hall at large was silent in shock.
+
+Dumbledore tapped the podium with the rod of the Hall. "The ninetieth session of the two-hundred-and-eighth Wizengamot is resumed. Now, we were discussing the debt owed by Hermione Granger to House Malfoy. I was refusing to allow Harry Potter to go into Lucius Malfoy's debt, and Mr Potter was threatening to destroy Azkaban if this chamber voted to send Miss Granger there. I repeat that I will not allow Harry Potter to go into Lucius Malfoy's debt. Mr Potter?"
+
+Harry stood calmly, the peace of the phoenix washing through him as he faced the confused-looking instrument of death across the chamber from him. "Lord Malfoy, I say once more that I have no desire to be your enemy. I also have no desire to consider you my enemy. Let the debts pay for one another, but let no money change hands between us except the forty Galleons which I owe to your son. Let there be friendship once more between House Potter and House Malfoy."
+
+"You tried to turn my son against me. Your friend tried to kill him. Do you deny it, boy?"
+
+"I do, and I do. Had I intended to turn Draco against you, I would never have told him what I did about your love for him. And the very idea that Hermione Granger would try to kill him, or anyone else for that matter, is absurd. As I said before, we are all caught in a plot which was intended to take your son's life. You're smarter than that, Lord Malfoy."
+
+Lucius Malfoy stared at the boy opposite him. Potter no longer seemed cold or angry, and he had somehow summoned a phoenix. Certain guesses at the boy's true identity no longer made sense, but that raised questions - if the boy wasn't Lucius' old master, then where did this power come from? Just who was this boy, and what did he want? Harry had disappeared for some minutes and then come back, with no explanation given - Lucius suspected that the world had changed in those few minutes, though he wasn't quite sure how. Had Potter really destroyed Azkaban? That seemed frighteningly possible, and in that case the next great power had arrived. Dumbledore was involved, of course, but the way they stood and the way they spoke told Lucius quite plainly that Harry was now in charge. That meddling old fool Dumbledore, the man who for many years had been trying to take over the world, was suddenly deferring to Harry Potter. This felt like the sort of moment that might make or break a life, the sort of moment that a Malfoy couldn't afford to handle badly. The boy might be bluffing, it might all be a trick, but Lucius' finely-honed instincts told him otherwise. The balance had shifted, and House Malfoy must once more shift accordingly. He considered challenging the boy for information, but decided that such a challenge would probably damage his prospects as second-in-command of the new order. And so, after a long pause, Lucius smiled at the Boy-Who-Lived.
+
+"Very well, Mr Potter. The debt owed to House Malfoy by Hermione Granger is now paid in full, by the debt owed by House Malfoy to House Potter. No money need change hands. Let there be friendship between House Malfoy and House Potter. And as a token of that friendship, please consider that debt of 40 Galleons to be settled."
+
+"Thank you, Lord Malfoy." Harry bowed solemnly to Lucius Malfoy, who returned the gesture.
+
+A quiet yet compelling click, and then Dumbledore spoke. "It is done. And now, Mr Potter, please tell this chamber what you have just done."
+
+Knowing his power in this moment, Harry paused fully half a minute to examine the Wizengamot. Throughout this time he stood calm and confident, his face perfectly neutral. The government of Magical Britain, those august representatives of the noble and most ancient Wizengamot, sat in uncomfortable silence. No one tried to interrupt him as he memorised faces and considered what to say. When he spoke, his voice held an unmistakeable note of command.
+
+"Lords and Ladies of the Wizengamot, today you sentenced a twelve-year-old girl to be tortured to death by the Ministry's Dementors in Azkaban. That she was most likely innocent is almost irrelevant here - you voted to send a twelve-year-old girl to Azkaban, and that shame should follow you to the grave. I have made my peace with Lord Malfoy; I bear him no further ill-will. The same cannot be said of the others among you who voted to send my friend to Azkaban."
+
+Harry paused, taking in the state of the Wizengamot. They seemed nervous, perhaps even terrified, but not yet entirely cowed - some among the plum-coloured robes seemed unconvinced, though none so confident as to risk actually challenging him in any way. He continued.
+
+"You have seen the wisdom and prudence of Lord Malfoy. Who among you will follow his example, and make peace with me voluntarily?"
+
+Harry paused once more. No one would speak against him, but no one dared speak first to save themselves either. The bystander effect, of course, and he knew a solution. He could see certain family resemblances, and he was slowly matching names with faces.
+
+"Lady Greengrass, some time ago I offered Daphne my protection. She declined, as it happened, but fortunately her friend Tracey Davis accepted my offer; you've heard that story, I trust. Despite this, you voted to send your daughter's friend, my friend Hermione Granger, to Azkaban. In this time of grace, here in the Most Ancient Hall of the Wizengamot, would you like to apologise?"
+
+Many eyebrows shot up at this, but Lady Greengrass was no fool. And she was, in any case, rather ashamed of her vote - she was not enjoying the intrusion of personal affections into her political life.
+
+"I apologise, Miss Granger, for voting to send you to Azkaban. Please forgive me, and let peace and friendship exist once more between House Granger and House Greengrass."
+
+Hermione's mouth had been opening and shutting silently through all this, but now she managed to speak with surprising composure. "I, I accept your apology, Lady Greengrass. Friends."
+
+Lady Greengrass now bowed her head towards Harry. "Please forgive me, Lord Potter."
+
+Many more eyebrows were raised at this, but Harry was completely composed as he inclined his head towards her. "I forgive you, Lady Greengrass. Let there be friendship between our Houses."
+
+It was a close-run thing, Harry knew, but this was enough - one by one, a large majority of those who had voted against Hermione now apologised both to her and to Harry. And, following the lead of Lady Greengrass, every single one of them addressed him as "Lord Potter".
+
+When it became clear that the few holdouts weren't going to give in immediately, Harry turned to Dumbledore. "Chief Warlock, everyone is calling me 'Lord Potter'. I know that House Potter is a Noble House, and that I am its last scion. What exactly are the restrictions on when I can officially be Lord Potter?"
+
+Dumbledore looked surprised, but only slightly so. "As the last scion, you will acquire your title as soon as you come of age. Normally that would occur when you turn seventeen, but exceptions are possible. A vote in this chamber, for example, could declare you legally adult today. Shall I call the vote?"
+
+Harry nodded. "Thank you, Chief Warlock, yes."
+
+"By show of hands, to recognise Harry Potter as legally adult, and legally the Lord Potter."
+
+Lucius Malfoy's hand was in the air immediately, as were all hands over on what Harry had thought of as Dumbledore's side of the room. The people who had apologised weren't far behind, and by then the vote was clear.
+
+Dumbledore spoke once more. "Lord Potter, before the law of Magical Britain you are now an adult. You now have full control of your vault at Gringott's, and a seat in this chamber. Should you have further questions, please feel free to ask me at any time. And now, Lord Potter, would you *please* tell your story?"
+
+Harry smiled. "Thank you, Chief Warlock."
+
+He turned to the Wizengamot at large, speaking especially to Lucius Malfoy.
+
+"When you last saw me, I was disappearing from this very spot. As you have all no doubt guessed, from here I was transported instantly to Azkaban - to the central pit, in fact. There I used my Patronus to destroy every Dementor in Azkaban."
+
+Even though they had in theory been expecting this, quite a few people gasped. A scar-faced man to Malfoy's right, one of the few holdouts against Harry Potter, actually stood up and yelled, "Arrest him! Those are national property - he's a traitor for destroying them!"
+
+Dumbledore overrode him with a click of that rod. "Lord Jugson, once more you are out of line. Dementors were national possessions only so long as we had no way to destroy them - now that Lord Potter has eliminated them, I think that every sane adult in the country will merely breathe a sigh of relief. In any case, this chamber will certainly not entertain any suggestion that Lord Potter be punished for the tremendous service he has rendered to Magical Britain today. And Lord Jugson, if I may speak plainly? This young man, now recognised as Lord Potter, has succeeded today where Merlin himself tried and failed. As his headmaster I know of yet other magicks which he alone can wield, magicks which even I cannot comprehend. I know of no malice in him, Lord Jugson, but in any case I would suggest that opposing Lord Potter is extremely unwise. The world has changed, Lord Jugson. Truly, the world has changed."
+
+Lord Jugson appeared to be struggling with his temper, but managed to hold his tongue and retake his seat. Harry continued.
+
+"As I was saying, I destroyed every Dementor in Azkaban. As far as I'm aware, that thing 'guarding' Hermione right now is the only Dementor in all of Magical Britain. I haven't yet decided whether to destroy it also; I am open to suggestions on that point. I'm not sure whether anyone actually saw my Patronus, by the way, but Chief Warlock Dumbledore and Director Bones can both confirm that there are now no Dementors in Azkaban."
+
+Every member of the Wizengamot looked either at Albus Dumbledore or at Amelia Bones for confirmation; both of them nodded, and Harry went on.
+
+"That was quite a strain for me - I am only eleven years old, after all - so afterwards I passed out. When I woke up, I saw lots of people but no Dementors. Chief Warlock Dumbledore and Director Bones were both there, along with a large number of aurors. Director Bones asked me some questions and then scaled back the security operation, and then we came back here."
+
+Harry paused, appreciating the confused expressions on the faces around the Hall. There were many questions to be asked of him, but it seemed that no one could think of any in particular right now. He went on.
+
+"In that discussion with Director Bones, I assured her that I was not attempting to break anyone out of Azkaban. However, I do want every single prisoner in that hellhole to have their sentence reviewed. As I said to Director Bones, I trust that this morning's decision has opened your minds to the possibility that some sentences are perhaps not entirely just. Given that time spent in Azkaban is time spent under ceaseless torture, I feel that time already served should count for quite a lot when we reconsider those sentences."
+
+No one moved, no one spoke. The Wizengamot was stunned into silence, so Harry continued.
+
+"I call the vote, then. By show of hands, that the sentences of all current Azkaban inmates be reviewed."
+
+This vote also passed with overwhelming support - these were experienced politicians, all of them, and few were foolish enough now to fight against such an overwhelming tide. The world had shifted, and they all knew it.
+
+Dumbledore now spoke. "Done, then - there will be a review of all current Azkaban sentences. Any further business for the chamber?"
+
+After a brief pause to establish that there was apparently no such business, Dumbledore continued.
+
+"There being no further matters to consider, the ninetieth session of the two-hundred-and-eighth Wizengamot is now concluded."
+
+He tapped his podium three more times with the dark rod, and the session was over.
+
+</div>
+
+</div>

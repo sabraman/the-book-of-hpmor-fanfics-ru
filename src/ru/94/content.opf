@@ -1,0 +1,74 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>94. Harry Potter and the Confirmed Critical</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Sir Poley">Sir Poley</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:publisher>www.fanfiction.net/s/8096183/34</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c97a74e6-5275-4822-8546-342814e4961c</dc:identifier>
+    <dc:rights>Copyrights as per source stories</dc:rights>
+    <dc:contributor opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="calibre">c97a74e6-5275-4822-8546-342814e4961c</dc:identifier>
+    <meta name="calibre:title_sort" content="94. Harry Potter and the Confirmed Critical"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <meta name="calibre:author_link_map" content="{&quot;Sir Poley&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="2/43/OEBPF/content/s31.xhtml" id="a0" media-type="application/xhtml+xml"/>
+    <item href="2/43/OEBPF/content/s32.xhtml" id="a1" media-type="application/xhtml+xml"/>
+    <item href="2/43/OEBPF/content/s33.xhtml" id="a2" media-type="application/xhtml+xml"/>
+    <item href="2/43/OEBPF/content/s34.xhtml" id="a3" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s1.xhtml" id="a4" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s2.xhtml" id="a5" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s3.xhtml" id="a6" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s4.xhtml" id="a7" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s5.xhtml" id="a8" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s6.xhtml" id="a9" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s7.xhtml" id="a10" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s8.xhtml" id="a11" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s9.xhtml" id="a12" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s10.xhtml" id="a13" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s11.xhtml" id="a14" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s12.xhtml" id="a15" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s13.xhtml" id="a16" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s14.xhtml" id="a17" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s15.xhtml" id="a18" media-type="application/xhtml+xml"/>
+    <item href="2/44/OEBPF/content/s16.xhtml" id="a19" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id"/>
+    <itemref idref="a0"/>
+    <itemref idref="a1"/>
+    <itemref idref="a2"/>
+    <itemref idref="a3"/>
+    <itemref idref="a4"/>
+    <itemref idref="a5"/>
+    <itemref idref="a6"/>
+    <itemref idref="a7"/>
+    <itemref idref="a8"/>
+    <itemref idref="a9"/>
+    <itemref idref="a10"/>
+    <itemref idref="a11"/>
+    <itemref idref="a12"/>
+    <itemref idref="a13"/>
+    <itemref idref="a14"/>
+    <itemref idref="a15"/>
+    <itemref idref="a16"/>
+    <itemref idref="a17"/>
+    <itemref idref="a18"/>
+    <itemref idref="a19"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="toc.xhtml#calibre_generated_inline_toc" title="Table of Contents" type="toc"/>
+  </guide>
+</package>

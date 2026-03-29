@@ -1,0 +1,115 @@
+<span id="seg-0703__seg-0703-686c31345d"></span>
+
+<div id="seg-0703__s21-78da58c4ca" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 21: Utilitarian Priorities Again
+
+<div id="seg-0703__storytext-9c93142583" class="calibre4">
+
+Wolfsbane, Devil's Snare, Venomous Tentacula, Jumanjian Plot Kudzu, Eclipse Ivy, Spiky Ivy, Writhing Ivy, Screechsnaps, Puffapods, Saint Etheldreda's Flytraps, Bubotubers, Ultraviolets, Mandrakes – mostly Mandrakes. The Hogwarts greenhouse was filled to the brim with exotic magical plants, many of which refused to stay silent, ever, and it consequently felt like the busiest and most crowded section of the school, even though, at present, it contained only two members of the animal kingdom - both humans.
+
+Pomona Sprout, the Herbology Professor at Hogwarts, was not having a very good day. The most obvious manifestation of her not-very-good day had been when, during a fourth year Gryffindor class, a student had deigned to spell her name in small flaming letters, and rearrange them into a rude phrase. Pomona hated disrespect, nearly as much as she hated fire (seeing as it was the natural enemy of so many plants). But that incident (which had fortunately at least led to several students receiving detention) had merely been symptomatic of a larger-scale issue, wherein the public knowledge of her unwitting involvement in last year's evil subplot had led the school to see her in a different light – particularly now that new, more blatant evil was afoot, and it was convenient, at least for the sake of a joke, to suggest that she might be a tool of darkness again. She wasn't. Pomona Sprout was perhaps the single person at Hogwarts least involved in an evil plot.
+
+Harry James Potter-Evans-Verres, the Chief Warlock, didn't think he was having a very good day either, though the truth was that his problems were ultimately much less significant than those of Professor Sprout. After more than a year in the wizarding world, he had finally come up with a magical "cheat" that, though not quite an instant path to godhood, was still a damn sight more powerful than anything of its type that had previously existed. Unfortunately, this year was full of distractions: Bellatrix stirring up international crap and continuing to evade capture, Slytherin's Monster causing political drama right around Harry's own home, the Anti-Patronus doing Harry-didn't-even-know-what-but-it-sounded-very-bad... Why was Slytherin's Monster alive, anyway? Hadn't Voldemort heavily implied he'd killed it?
+
+Maybe that was a ruse, just to keep Harry away from the Chamber. Harry had been looking for the Chamber ever since it had become a looming threat to Hogwarts students, but he had had little luck. It had been easy to find secret passageways hidden from the ninety nine percent of Hogwarts students who weren't Parselmouths; in fact, Voldemort had showed him one such passageway last year. But that was just the thing - they were easy to find, they were empty, and they were interconnected; they permeated the school, and were nearly as large. They connected with each other in no coherent way; occasionally there was a dangerous trap, or a cryptic device that certainly did *something*, but Harry didn't know what that something was. What there wasn't, as far as Harry could tell, was Slytherin's Monster, or a Chamber to contain it. Not that he'd explored enough of the labyrinth to really say that with a firm conviction. Harry had only penetrated the first layer of Slytherin's security, and he knew it.
+
+On top of all of these externalities, there were two inherent problems with Harry's new ascension idea: if the method ceased to be a secret, then murdering Harry suddenly became a much more attractive proposition for the world at large. And once the process was initiated, it would be very difficult not to expose what he had done, at least to those immediately around him. Therefore, it was only really appropriate for either an emergency (akin to The Night Of The Thirty-Seven, though it wouldn't have worked in a circumstance quite that constrained) or an about-to-dominate-the-world-anyway endgame. There was another problem with Harry's idea, but it was a very minor one, and he was working on it at the moment.
+
+"Hello, Professor Sprout," said Harry. She looked up from the Mandrake she was attending to and turned around.
+
+"Oh, hello, Harry," said Professor Sprout.
+
+"Attending to the Mandrakes?" said Harry.
+
+"Yes," said Professor Sprout. "The new batch are in their critical window."
+
+"Ah," said Harry. "For... Felix Felicis, right?"
+
+"Right," said Professor Sprout, and something golden sprayed out of an atomizer in her hand into the pot. Harry silently allowed her to work, speaking up only when she seemed to be at a stopping point.
+
+"I thought that potion was so broken when I heard about it the first time," said Harry.
+
+"Come again?" said Professor Sprout.
+
+"I mean..." said Harry. "I thought my understanding of it was too good to be true. And it was, because I'd misunderstood it."
+
+"As many have," said Professor Sprout.
+
+"It tries to give you what you want, but it doesn't actually know what you want," said Harry. "It's not very smart, and it's not good at modeling the desires of organisms that are."
+
+"Not a problem with Mandrake saplings," said Professor Sprout. "Bless their little hearts. The Felix makes them smarter if you give it to them when they're growing, but they're still just plants."
+
+"And when they're smarter, they're suitable for the Potion of Reanimation," said Harry.
+
+"Precisely, Harry," said Professor Sprout. She didn't generally refer to her students by their first names, but Harry, being who he was, had a different status altogether.
+
+"I can still hear some of them screaming instead of babbling, though," said Harry. The babbling ones actually unnerved Harry more than the screaming ones, because, their vocalizations formed real words and sometimes even phrases. It was probably just a Markov chain, but still...
+
+"Don't remind me," said Professor Sprout. "Those are the ones I failed to properly administer the potion to. Total waste. Perfectly ordinary Mandrakes that are perfectly unsuitable for reviving the petrified. I'll have to put them down before their screams become dangerous to humans. I mean, not that the other ones are surviving either; I'll have to chop them up. And even the smartest Mandrakes scream when they're being killed." The Herbology Professor just laughed, and Harry decided not to model the mental processes that led to the laughter.
+
+"Theoretically, because of how Felix Felicis works, any Mandrake *could* emerge from their critical window in the state of heightened intelligence," said Harry. "It's just an infinitesimally small chance." Professor Sprout stopped to consider this before accepting that it was essentially correct.
+
+"Yes," said Professor Sprout. "The Felix just ensures it."
+
+"Got it," said Harry. Harry weighed the value of the Mandrakes' lives with the value of his petrified classmates, before recoiling in horror – of course his classmates were more valuable. The Mandrakes were more intelligent than your average plant, but were easily less developed than a variety of animals Harry would've sacrificed to save human lives without even blinking. They were only marginally more ethically significant than an embryo. "I actually had a different question I came here to ask you."
+
+"Ask away," said Professor Sprout.
+
+"How would I purchase industrial quantities of Screechsnap Sap?" said Harry.
+
+"Come again?" said Professor Sprout. "I understand that you want to know about purchasing Screechsnap Sap, correct? But there was something I was missing."
+
+"Industrial quantities?" said Harry, and Professor Sprout seemed puzzled. Harry reminded himself that the concept of "industrial quantities" would be foreign to a wizard; mass-production was a little-known secret among them. "How would I buy it in bulk?"
+
+"I can't imagine what you'd want it for," said Professor Sprout, "but Slug & Jiggers Apothecary is your best bet, seeing as it's a potion ingredient. They might not have as much as you want in stock, depending on how absurd you're currently feeling, but you could always place an order with them. At Hogwarts we harvest our own sap, but we only make as much as we need year-to-year."
+
+"Thank you," said Harry. "That's much more helpful than what Professor Slughorn said." If Professor Slughorn really wanted Harry to join his 'Slug Club', he'd have to do a lot better than answering Harry's questions with "Professor Sprout could probably give you a better answer".
+
+"You're welcome," said Professor Sprout. "Are you going now? I really need to get back to work; this stockpile is critically important for preserving the integrity of Hogwarts' student body. I'm sure Headmistress McGonagall told you as well."
+
+"Indeed she did," said Harry, "and indeed I am. Going. Goodbye!"
+
+"Goodbye," said Professor Sprout. Harry left, walking past a Mandrake that had just discovered a novel proof of the Pythagorean Theorem, a Mandrake wedding, and a heated Mandrake debate on whether humans were an intelligent species or a mysterious force of nature.
+
+------------------------------------------------------------------------
+
+*BFIM!*
+
+A noise that was high and low all at once in pitch, like a bullet ricocheting off of a drum at a near-flat angle, but deafeningly loud, shook Hogwarts' campus in the dark of the night. Accompanying it was a bright white beam of light, about as thick as a dinner plate, which suddenly burst out of the ground near the greenhouse and pierced the heavens. The beam persisted, and it gave off a quieter, but still awful, hum, and many were awoken, but many still decided to try to sleep.
+
+*BFIM!*
+
+A few moments later, a second, identical noise, alongside a second, identical beam, in a slightly different location. The ambient hum was twice as loud, now, and Headmistress McGonagall had already climbed out of bed and begun to rush downstairs. Her Time-Turner was jammed, a clear sign to her that Time was itself implicated in whatever was happening.
+
+*BFIM!*
+
+A third beam, and it was now geometrically obvious that the beams thus far assembled formed three of the four corners of a rectangle that would enclose the greenhouse. Harry, too, was now stirred, and his path downstairs would soon merge with Minerva's. Each was occupied with a slew of barely-coherent Patronus messages.
+
+*BHUM!*
+
+The fourth and final beam knocked everyone down; its volume was not something one could account for. The new ambient noise, too, was far greater than a simple quadrupled form of the first ambient noise phase - for the space between the beams was now filled in with a translucent but distinctly visible field swimming with electric yellow "veins". Anything and anyone in the greenhouse was trapped.
+
+The Headmistress screamed upon seeing Pomona Sprout inside the field, pounding on its perimeter with her fists, pleading unhearable. Still, she rallied all of the staff she had summoned to cast every spell they knew at the strange, unknown enchantment, to hopefully break it. Even Harry was brought in to cast his Patronus. But it could not penetrate the arcane shield, which simply absorbed many general use offensive spells Harry had never even previously heard of. Professor Columbus cast something that formed enormous spherical sponges in mid-air, that drew magic away from constructs around them before vanishing, but it had no visible effect. Worse still, the silhouette in the greenhouse was moving...
+
+It was a figure shrouded in magical smoke; its movements were more like a banshee than a human, and even many professors would later swear it was an Inferius. It projected Fiendfyre from its arms, which grew to consume and melt the greenhouse. And it dragged Pomona Sprout into the blaze, to hasten her end. The Headmistress was running out of breath to scream with, but many others, who were trickling out of the castle to see the commotion up close, were only beginning.
+
+There was a magical burst (slightly muffled, as Harry vaguely recognized) and a sizeable percentage of Hogwarts' student body became able to see Thestrals.
+
+In the mangled wreckage of the greenhouse, the dark figure bent down, obsessively stroked the ashes as if they were its lover, and finally stood. The Fiendfyre had mostly died down, except for a few small pockets immediately to the figure's sides. It mechanically waved at the terrorized crowd, and the flames surged up around it; when they puffed out of existence seconds later, so too had the figure.
+
+About a minute later, the protective field vanished - but there was immediately a muffled explosion that caved in the ground on which the greenhouse had stood, and Professor Flitwick sustained a broken bone. So ended the assault. The scene was roped off and thoroughly analyzed; several things of note were discovered. First, and a foregone conclusion, Professor Sprout's charred body. Second, a series of unusual, unknown magical artifacts - four stone discs that had clearly been used to generate the protective field, and one complex, multicolored widget, towards the center of the scene, with the letters "NB" carved into it but its purpose otherwise unknown. Third, something that the Aurors all nearly missed, but was of great interest to Harry. Fourth, absolutely no plants, none at all - at least none that were alive. Fifth, a message scrawled in the ashes: "YOU WILL BE PERMITTED TO GROW MANDRAKES WHEN THE INTERDICT IS ENDED". (This was foolish, explained the Headmistress, not only because there was no way to end the Interdict of Merlin, but because Hogwarts was obviously not the only site working to prepare Potions of Reanimation.)
+
+Five suspects were investigated. Hermione Granger was investigated first on the basis of her phoenix and its abilities resembling the mysterious figure's disappearance from the area, but it was quickly determined that phoenixes and Fiendfyre were mutually exclusive magical instruments; the same person could not wield both (and, in fact her phoenix was now in hiding as it was now considered vulnerable to attack). Harry James Potter-Evans-Verres identified an artifact at the scene as stolen from the Time Room at the Department of Mysteries, used to prevent Time-Turner-based examination of the attack. Ginny Weasley failed to show up promptly when summoned, but her alibi, that she was using the restroom at the time, and was only vaguely aware that a calamity was occurring, ultimately proved sufficient. Gilderoy Lockhart was detained because he was the Defense Professor, but no one could think of any other reason to suspect him. And Lesath Lestrange, who was not by any means the Heir of Slytherin, was held for questioning, owing largely to unrelated matters, though his location was unaccounted for during the incident. He was suspended from all classes indefinitely, on the request of Miss Tracey Davis. Following the public execution of Pomona Sprout, Lesath Lestrange was the only individual made to suffer consequences.
+
+------------------------------------------------------------------------
+
+"And make no mistake about it," said Hermione. "If Hogwarts hadn't needed so badly to punish *somebody*, then Lesath Lestrange would still be alive."
+
+</div>
+
+</div>

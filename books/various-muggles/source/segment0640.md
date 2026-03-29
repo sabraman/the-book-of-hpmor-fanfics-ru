@@ -1,0 +1,117 @@
+<span id="seg-0640__seg-0640-3cfd670333"></span>
+
+<div id="seg-0640__s25-6677baf4a2" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 25: Security Conscious, Pt 1
+
+<div id="seg-0640__storytext-9c93142583" class="calibre4">
+
+*"Security means imposing costs on your friends to inflict a much greater cost on your foes. To make something perfectly secure means rendering it useless." - Lucius Malfoy*
+
+------------------------------------------------------------------------
+
+Draco screamed as thorns ripped into his arm and shoulder. Hermione was running towards him, shouting, her Phoenix launching off her shoulder, beak opened in a wordless scream. The vines around him writhed, engulfing him. He dangled sideways a dozen feet above the ground and then there was a snapping and his arm was at the base of the tree, roots move and pulling his fingers slowly towards a grotesque maw...
+
+Draco woke up groaning, remembering the pain, the pulling and snapping. He lifted his left arm and *felt it move* but the sheet covering him didn't raise, just bulged beneath his shoulder. His left arm tingled - *Draco felt it tingle* - but didn't seem to work. Draco opened his eyes - the brightness shocked him for a second - but he focused and made out the row of beds opposite him and the small table beside him. Draco shuffled his feet and the sheet pulled down from his chest and he saw the bandages on his shoulder, the stump that ended several inches lower. His arm was gone. Draco sucked in air. He wanted to cry out but it didn't hurt.
+
+He remembered Hermione's shout, and the fluttering of wings. Mostly, he remembered the pain.
+
+Draco looked around with a start and realized he wasn't in Hogwarts, but in Peverell. He recognized the rows of beds and the Aurors posted at the emergency entrance, he heard the primary Thief's Downfall splash in the distance, and the secondary Downfall activate nearby. The sun shone directly down through the skylight (too small for a man to fit through and loaded with traps for anything smaller) not much time had passed, or several days perhaps.
+
+A shadow appeared over Draco and his eyes tried to adjust as he blinked them a few times.
+
+"Eh, this better not be one of your tests, lad. I've got my eye on you." Draco focused on the brilliant blue eye swiveling around, then quickly snapped his eyes shut.
+
+Alastor Moody hadn't bent over to look at Draco, he kept his head up and wand out. He didn't bother looking down at Draco, just spoke a bit louder so he could be heard as he slowly circled in one spot.
+
+"I don't think I'd give up my arm just to help you," Draco said. He heard Moody chuckle then move away. Draco cautiously opened his eyes and saw Moody across the room, inspecting other patients.
+
+Orderlies moved around the patients, comforting them, getting them water, preparing to move them. Draco recognized some of them, the middle aged nurse with the small ash wand that liked Chocolate Frogs. The intern studying Healing who practiced his scowl but screamed like a girl when Draco offered Weird Sisters tickets. Draco had learned quickly enough that everyone who worked at Peverell *took* bribes, but didn't *stay* bribed. Not about anything important, anyway. Even for his tests. Every five minutes or so the orderlies moved a patient out. Some of them groaned, but the room felt pleasant as it always had.
+
+Nobody here complained or despaired, like in a regular hospital.
+
+"Well, now, giving up an arm wouldn't stop some people," said Moody, stomping around the room. "Do you think I complained about losing my eye? My foot? Anyway, that was the past. Now you aren't losing an arm, so much as *misplacing* it for a few hours. Barely an inconvenience at all." Draco remembered the grinding in his shoulder socket, the tearing and pulling as his arm ripped off, but decided not to press the point. Draco watched an orderly giving water and noticed Moody's eye lingering on that particular orderly. The young man looked to be about thirty, and had hair nearly as blond as Draco's own, although with a wild unkempt look. He was simply going from person to person, giving them water and barely talking. Moody's wand covered the room in intervals, but seemed to pause on that orderly, as if desperate to cast. Draco felt a strong urge to talk to that orderly, there was something about him, and that's when Draco realized *He felt the liquid luck still racing through his system.*
+
+Shouldn't it have worn off by now? Maybe it didn't get used up if you were unconscious. Hey may have only been out for half an hour, for all Draco knew. People probably didn't get knocked out and lose an arm when they used it, before. Losing an arm seemed unlucky. But misplacing it for a few hours? That could work.
+
+Draco coughed and asked "Could I get some water?" He waved at the orderly, dressed in simple grey robes. Coupled with his pale skin and blue eyes, people might think he was Draco's cousin. The man came over and handed Draco a cup, and water wordlessly appeared. Draco propped himself up so that he was sitting, then drank deeply.
+
+Nearly dying is thirsty business.
+
+"How do you stop wandless magic in here, anyway?" Draco asked Moody, who just gave a barking laugh and left, muttering to himself. The orderly's eyes followed Moody's departure closely, then he turned back to take the glass and his eyes widened with shock. He sat down next to Draco.
+
+"I have seen you here before. You are a student, helping perfect security. What happened to your arm?" Draco caught the accent and started wondering if there was some branch of the family in Germany, because Draco knew he'd seen a portrait of this man somewhere. Possibly in a cousin's house? A formal sitting portrait, perhaps. The orderly had been older, had lines on his face and greying hair, but still the same piercing blue eyes. But age didn't mean much, if you worked in Peverell.
+
+"Yes," Draco put down the cup and held out his hand. "Draco Malfoy. I stumbled onto a Triffid, I think."
+
+"Ah, A Malfoy. I met an Abraxas Malfoy let's see, fifty six years ago I believe. Gellert Grindelwald." He shook Draco's remaining hand firmly.
+
+Draco felt too stunned to say anything other than "Abraxas was my grandfather."
+
+"Was? I am sorry."
+
+"Thank you. Dragon Pox, two years ago. At the time, it seemed like a natural thing. We all said it was simply his time, so it didn't seem like a tragedy. Of course now," Draco started to widely gesture towards the room that he knew contained the Chalice, but he was trying to use his left hand. They were moving another patient, a wizard who looked to be pushing one-fifty and had exceedingly long hairs coming out of his ears. Draco pointed with his right hand and shrugged.
+
+"Yes, now we live in the Age of Wonder. I find myself shocked to be witnessing it." Gellert spoke with the formality of a bygone age, and seemed patient with long pauses.
+
+"I wonder about that as well. I don't suppose you can tell me - for my security research - why they trust you? I mean, clearly Mad-Eye Moody does not trust you." Draco reached for his glass of water, which Gellert refilled and handed to him.
+
+"I cannot tell you about security. Of course I am under an Unbreakable Vow, as are most around here, although mine was ... more extensive than usual. But even if I were free from compulsion, I would not tell you. It is not that prison reformed me - although the toll of the years does weigh heavy - just that I now have a chance to actually help the greater good, and that is better than dying in prison. So I agree with those who offer my parole; they need me, or people like me. I give my word and after the vow they trust me. Except for Alastor Moody, he thinks I may have some way to defeat the Vow. That I may have devised such a scheme in Nurmengard." He paused to refill Draco's cup.
+
+"But they just have you as an orderly! That doesn't make sense. You could do anything to help them."
+
+"I do *this* because I wish it. My job takes little time, and I do not wish to spend the remaining time alone in my room. I have not spoken with many people, and those who I offer water think me a kind young man, until the staff tells them. Only the truly young, such as yourself, do not react with horror. You have read about it in books, yes? But they lived it. They hate me for what I did. And the Aurors and staff, they are like this as well."
+
+"So, in your spare time you comfort the wounded, and you'll be stuck here for the rest of your life? I suppose that's better than isolation in prison..."
+
+"No, no. Once my magic weakens enough, I will be released. I have taken one vow, but have bound so many others."
+
+"They won't turn you into a Muggle, will they?" Draco didn't hide his horror. Draco no longer hated Muggles, but the thought of his own magic draining terrified him. Seemed unnatural. He supposed it was better than life in prison, but it would be like losing an arm. *Permanently losing an arm*.
+
+"No, I suppose I will be as powerful as a seventh year. Perhaps weaker, but I will have the knowledge to compensate. They are bringing in another batch of recruits for security and once I bind them I suspect I will be free to go. Time served, as you say."
+
+"What will you do? You should teach!" As soon as Draco said it he realized it would never fly. He considered other options. They would have to be appealing to Grindelwald, a proud man although one apparently not so proud as the youth in history books.
+
+"You are too kind, but Durmstrang expelled me. *They* would not offer me a position. I am an embarrassment to them. I will certainly get no offers from another school, but I will find something."
+
+"Would you consider tutoring me, over the holidays? I couldn't afford this full time, but just for a month I suspect I could."
+
+"I doubt your family would want to be associated with this. What would your parents say?"
+
+"I *would* have to talk to Mother, but I've typically had the best tutors, although nothing like you. And it would just be a few hours a day. We could spend some time trying to find you a suitable career. My family still has connections, although less so than after Voldemort's defeat. You'd have better luck in London than Europe."
+
+"I was planning on going to the Americas - where memories are short - but I will consider your idea. It is not without merit."
+
+At this point a Doctor – Draco struggled for a moment and came up with Zharkov, but didn't think he knew the first name. Doctor Zharkov sported a neatly trimmed brown beard speckled with gray and wore the red robes that Peverell had instituted for medical staff. "There are other patients, Gellert. Draco, it's time to fix up your arm. I'll just need to put you to sleep for the procedure." Draco knew patients were always unconscious when they went through healing, just to keep the details hidden. The doctor pulled out his wand.
+
+Draco placed the cup on the table and slid back down into the bed. Gellert said his goodbye and stood up, barely brushing the doctors arm as he cast *Somnum!* But the slight touch sent the spell into the sheets next to Draco, barely missing him.
+
+Draco, realizing what had just happened, snapped his eyes shut then relaxed.
+
+*"*Watch what you are doing, Gellert! If it were up to me we would have never let you out!"
+
+"Well, it was up to *your superiors*, Hans*,* and they did. Besides, the boy is asleep. You know I cannot interfere. It was an accident. I would not touch you on purpose."
+
+Doctor Zharkov grunted and Draco heard the *Levicorpus!* And felt himself lifted off the bed and several pairs of hands guide him down the hall and into the medical procedure room. As they passed through the door, the second Thief's Downfall splashed on him, cold, but he'd been expecting it and didn't gasp or react, and it disappeared shortly. (Draco realized months ago that he could mimic the visual effect of the Thief's Downfall with a slightly modified Comed-Tea, but hadn't figured out a use for that tactic). Draco felt himself placed gently and then all the spells on him were dispelled. He could feel his arm itching, but he didn't hear any casting.
+
+Perhaps they cast wordlessly? But why? It required more effort and healing didn't need the element of surprise. Draco let his head slowly loll over to the left side and cracked his left eye barely open. He could see a delicate wand flicking above him, and a wooden mannequin arm being attached. He was lying on a padded table but was actually resting on a stretcher, it seemed. It happened quickly, already the arm up to the elbow looked just like his old arm, perhaps a touch paler. Draco closed his eye and thought about it.
+
+Free Transfiguration was wordless. You envisioned the form. Like every student who ever took Professor McGonagall's course, Draco had memorized the rules for transfiguration and they jumped out at him.
+
+*Transfiguration is not permanent!*
+
+*I will not transfigure any living subject! It will make you sick and possibly dead.*
+
+If this were a fixed transformation, they'd say a charm. Draco shoved back his panic. He knew that other people had been cured, so obviously this worked. No doubt healers specialized in this, so there was no need to panic. Peverell had replaced plenty of limbs. After another minute or two he felt Doctor Zharkov lift his arm, massage the muscles, stretch out the fingers.
+
+"OK, that's good. Finish up." He heard the Doctor go back through the downfall and then he felt the poles on either side of him lift up as he was carried (carried?) through a doorway opposite the one he came in. The stretcher was placed gently on another table and Draco risked cracking his eye open, again. The room, the part he could see anyway, looked identical to the previous one in size, but less ornate. One hand placed a stone on Draco's arm. It was small and blood red, perhaps the size of a scarab but irregular, like a sculptor hadn't finished polishing it. Draco didn't feel anything in his arm.
+
+Draco did feel like he'd pressed his luck hard enough. He didn't feel the confidence and presence of Felix Felicis - hadn't felt it for a few minutes - so Draco closed his eyes thirty long seconds before he felt the stone turn slightly on his skin. Draco was sure that nobody else had moved it, he'd heard the orderlies step away from him. But right after it turned he heard Chocolate Frog Witch say "OK, he's set" and grabbed the Stone off his arm while the other orderly cast *Levicorpus* on him and floated him gently into the recovery area.
+
+</div>
+
+</div>

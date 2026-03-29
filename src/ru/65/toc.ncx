@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="07788d95-e0ef-40e2-a9e6-72921c791941" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (4.19.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>65. Harry Potter and the Irrational Odyssey</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Chapter 1: A Vertical Velocity of Zero</text>
+      </navLabel>
+      <content src="25/OEBPF/content/s1.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>Chapter 2: The Truth, Part 6, A Riddle Reiterated</text>
+      </navLabel>
+      <content src="25/OEBPF/content/s2.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

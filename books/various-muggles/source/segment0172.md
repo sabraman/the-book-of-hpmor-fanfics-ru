@@ -1,0 +1,147 @@
+<span id="seg-0172__seg-0172-aba6877021"></span>
+
+<div id="seg-0172__s1-640d87e741" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 1: Avada Kedavra
+
+<div id="seg-0172__storytext-9c93142583" class="calibre4">
+
+**This is a spin off of Less Wrongs Harry Potter and the Methods of Rationality Fanfiction. All idea's and characters go to him and J.K. Rowling. I just couldn't resist jumping in on the fun.**
+
+**If you have not read Methods of Rationality, please stop what you are doing and read it NOW! It is awesomeness in a can.**
+
+**And now, please enjoy my fanfiction, of a fanfiction.**
+
+------------------------------------------------------------------------
+
+Truemythewise: \*sigh\*
+
+Inner child: \*pressing hands over mouth, hardly restraining utter delight\*
+
+Truemythewise: "I suppose this is it…" \*starts adjusting a rather thick rope into a noose.\* "I never thought I'd let it get this horrible."
+
+Inner child: "Oh, shut up, you know you're going to enjoy this!"
+
+Truemythewise: "Yes," \*nestling noose around neck\* "I just never thought my descent into complete nerdom would ever happen. I mean, I'm past the point of no return once I do this." \*Taking a deep breath.\* "Alright. I'm going to do it. I'm going to do the unspeakable. I'm—" \*swallows\* "I'm going to write a fanfiction of a fanficiton!" \*Promptly kicks chair out from under herself.\*
+
+Inner child: \*cheers in delight\* "Oh, this is going to be so much fun!"
+
+Dignity: \*shoulders slumped, dragging own noose behind.\* "We had a line that we just did not cross. There is only so much you can do before you are a hopeless nerd." \*rightens knocked over chair next to Truemythewise's swinging corpse\* "And this is one of those things" \*sets up own noose\*
+
+Inner child: \*dancing and whooping in victory about the pair doomed personalities\*
+
+Dignity: "You are far too happy about this."
+
+Inner child: "Oh please she's been wanting to do this for years. Just imagine FINALLY getting all those stories out of your head onto paper. No need to worry about being original this is going to be fun!"
+
+Dignity: "Course you don't care about originality." \*tightens noose around throat while continuing speaking\* "I just don't see the point in writing off someone else's perfectly good work. The only reason why anyone would do such a thing is because they couldn't come up with anything awesome on their own."
+
+Inner child: "Nonsense. There are plenty of original fanficiton's that are awesome in their own right. Besides, fanficition isn't about being original it's about going with it and having fun! Dignity be hanged!"
+
+Dignity: \*is promptly hanged\*
+
+Inner child: \*cheers in victory\* "Let the lord of chaos rule!"
+
+------------------------------------------------------------------------
+
+**Chapter one**
+
+**Avada Kedavra**
+
+The day had arrived when Harry would learn the curse that had set into action his epic destiny to become the world's first immortal magical scientist. (or so he hoped anyway.) Today was the day he'd learn the infamous, unbeatable, unblockable, one hit KO Avada Kedavra. Today he'd see just how accurate Professor Quirrell hypothesis of Harry's intent to kill really was. Today…was going to suck.
+
+It was going to suck for two reasons. One, if he successfully learned Avada Kedavra it'd be plus fifty points to dark lord Harry's reputation, which, after the incident with the bullies, had significantly grown. It didn't help that there were only five people in the entire world, including himself, who knew he could cast a Patronus. If Harry learned Avada Kedavra in his first year and not be capable of producing a Patronus, that was indeed a sure sign of him being a dark wizard. Oh, and he'd almost been sorted into Slytherin.
+
+And two, today was going to suck because Professor Quirrell had decided he needed help in teaching the children of Hogwarts Avada Kedavra, and who better to fulfill the roll of assistance to death than Lucius Malfoy.
+
+There were probably a host of other reasons why today was going to suck, but at the moment Harry couldn't think of them.
+
+The extra credit lesson was set in the Defense Against the Dark Arts classroom. Harry sat in his usual seat in the back of the room, waiting for the Defense Professor to finish his 'security speech.' It wasn't very long.
+
+"This is the killing curse. It kills people. When you cast this curse and hit your intended target do not be shocked to find them dead. I repeat, this is the killing curse. You do not use this curse unless you mean to kill someone."
+
+Harry almost snorted, but too many people had decided to sit close to him today. As if his supposed immunity to the killing curse could somehow protect them. Most of them were Hufflepuffs, and a surprising number of Gryffindors.
+
+"There are a number of useful way's to go about this curse, but until you have experience with it, stick to the notion that when firing this curse, expect people to die. Now, if there is anyone in the room who is uncomfortable with the current curriculum, I invite you to leave now."
+
+Several students looked to one another, but no one rose. Harry's eyes drifted to Hermione. All he could make out was the back of her bushy head, but he could imagine the determined look on her face. Harry didn't think she had it in her to kill someone, but he knew she'd want to try and learn the spell anyway. Perhaps she even fooled herself into thinking she could do it, and maybe she could. Harry hoped that she wouldn't learn though. There was just something wrong with teaching Hermione Granger to kill people.
+
+"Alright, I'm going to demonstrate the spell three times and then you are going to take it in turns coming up and trying it for yourselves," a twisted smile came to the Defense Professors lips. "Any volunteers?"
+
+Several people scooted closer to Harry.
+
+Professor Quirrell waved and three caged rats resting on pedestals appeared. He went through the gesture of the spell twice before uttering it.
+
+"Avada Kedavra."
+
+A flash of green light and the first rat was dead.
+
+"The key to the killing curse is intent. You have to *mean* to kill." He performed the gestures again, slowly for every first year to catch. And with the flick of his wand, an incantation, and the second rat was dead.
+
+"I doubt there are many of you who will succeed in casting so much as a flicker of light, of those who do manage to get that far, do not be too disappointed to find your intended target very much alive," The Defense Professor went on before casting the curse a third time, finishing off the last rat. "Like anything, the spell takes practice and a certain mindset." He gestured and the three cages containing dead rats vanished. "Rise."
+
+The class did so, and just as soon as Harry's feet hit the ground the desks before the first years vanished. At the front of the class room stood twenty pedestals containing live caged rats. Professor Quirrell had the people closest try their hand at the spell. Between him, and Lucius Malfoy, it took the whole of five minutes to instruct and correct the children's gestures before having them actually perform the spell, wands clearly pointing at the rats, and no one else.
+
+There was a chorus of "Avada Kedavra" at which no rat was killed, not even a flicker of light. The first years looked to one another, not sure what to expect. Professor Quirrell had them try five more times before switching to the next group. While the next group was instructed, Lucius Malfoy set about the classroom, speaking to clusters of children before they were called up.
+
+Harry couldn't imagine what sort of instruction Lucius would be giving. It seemed it'd be some time before he'd reach Harry and the crowd of Hufflepuffs and Gryffindors that were drawing closer and closer to him. If they came any nearer they'd be huddled right next to him. It was as if they completely forgot the whole affair with Tracy Davis, or perhaps it was because of that.
+
+Blaise Zabini was among the first to issue a spray of green light from his wand. He smirked with pride and welcomed the applause from the Slytherin's, but his flash was followed by Draco's spark that actually went a few feet before fading. Draco looked up and met Harry's eyes with a grin before taking his seat amongst the Slytherins and those who had not tried, or not succeeded from that house quickly congregated around him. A surprising number of Ravenclaw's did as well.
+
+Tracy Davis managed something of a squirt her third attempt, and sneered at the classmates who'd failed next to her, but she wasn't the only one having success. A number of Ravenclaws and a handful of Gryffindors were producing flickers of light as well. It seemed Lucius's instruction was indeed helpful. And by the time he reached the back row, Harry was quite interested what advice he had to give.
+
+However, upon reaching the group of nervous looking Hufflepuffs and Gryffindors, Malfoy only sneered at them and said. "I know a lost cause when I see one," and turned to go.
+
+"Hang on," Harry said, though part of him shared the relief with the first years gathered round. However, his curiosity wouldn't settle for it. "I'd like to hear what you told everyone else."
+
+Lucius turned and regarded Harry. "The spell might come easier to those who have some understanding of death," his eyes flickered to the rest of the first years. "If any of you have family to suffer from this past war, thinking of them might prove helpful." And with that, he turned and strode away.
+
+Harry wondered at that piece of advice. How would thinking of someone you'd rather be alive help you kill? Maybe he'd said it to be deliberately unhelpful. Harry was about to go and ask Tracy what Malfoy had told her, but his group was called next to the front.
+
+It seemed the aura of doom was particularly strong today. Harry had only crossed halfway to the pedestals before he felt the beginnings of it. It was almost an intolerable distraction when he reached the pedestal. If the Defense Professor noticed the strain, he gave no sign of it. However, he did keep a greater distance from the rest of the students than he had with the others who'd come forward.
+
+As with the other first years, Professor Quirrell had them master the gesture before attempting the spell.
+
+*Any advice?* Harry asked his inner circle.
+
+*Why waste time bothering with us? You know what you have to do.* Quipped Slytherin. Only Ravenclaw was in disagreement, but that was only because it wanted to see if *not* consulting his dark side would produce different results.
+
+"Avada Kedavra!"
+
+Harry had missed the first try. He hadn't seen any flashes of light to either side of him, but that might have been because people were once again watching to see how he'd do on the extracurricular spell.
+
+"Please, focus on your own wand work. Potter, I take a point from Ravenclaw for lack of effort. Again."
+
+*Okay.* Harry didn't close his eyes. He started the gesture, along with everyone else, eyes focused on the rat. He needed to get angry. What could possibly set him off enough to make him want to break his resolution that everyone ought to live forever?
+
+*Please, not Harry! Take me! Take me instead!*
+
+*Very well, I accept the bargain. Yourself to die, and the child to live. Now drop your wand so that I can murder you.*
+
+His blood temperature was dropping rapidly, all this came to him in the matter of seconds it took to get halfway through the first gestures of the spell.
+
+*There is nothing human left in him. Him you must destroy. You must not hesitate, when the time comes. To him alone, of all the creatures in this world, you must show no mercy; and when you are done you must forget it, forget that you ever did such a thing, and go back to living. Save your fury for that, and that alone.*
+
+He remembered the crimson eyes, the voice of death, and the high cold laugh. Oddly it was not fiery rage that filled Harry the moment before he released the spell. In that moment, just when his temperature seemed to hit somewhere in the negatives, he felt no anger at all as his dark side stirred and took over.
+
+The rat needed killing. That was all.
+
+*"Avadakedavra,"* the spell ran off as one word from Harry's lips, seamless and complete. And it came as no surprise to him to see the jet of green light issue out of the end of his wand and strike the rat. It did not so much as squeak before going limp.
+
+And Harry felt nothing. No simmering rage. No ominous resolution. The rat was dead. Harry had willed it to die, and so it did.
+
+------------------------------------------------------------------------
+
+\(1\) (not word for word but still) Chapter 43: Humanism, Pt 1 - Less Wrong Harry Potter and the Methods of Rationality
+
+\(2\) Chapter 43: Humanism, Pt 1 - Less Wrong Harry Potter and the Methods of Rationality
+
+\(3\) Chapter 76: SA After, Surface Appearances - Harry Potter and the Methods or Rationality
+
+</div>
+
+</div>

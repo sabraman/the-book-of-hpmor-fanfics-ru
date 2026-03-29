@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>47. Draco Malfoy and the Practice of Rationality - Draco Malfoy and the Practice of Rationality Chapter 6: Efficient Sorting Algorithms, a harry potter fanfic</title>
+    <meta name="DCTERMS.title" content="47. Draco Malfoy and the Practice of Rationality"/>
+    <meta name="DCTERMS.language" content="en" scheme="DCTERMS.RFC4646"/>
+    <meta name="DCTERMS.source" content="MFW"/>
+    <meta name="DCTERMS.issued" content="{$issued}" scheme="DCTERMS.W3CDTF"/>
+    <meta name="DCTERMS.creator" content="EpubPress"/>
+    <meta name="DCTERMS.contributor" content=""/>
+    <meta name="DCTERMS.modified" content="{$issued}" scheme="DCTERMS.W3CDTF"/>
+    <meta name="DCTERMS.provenance" content=""/>
+    <meta name="DCTERMS.subject" content="Unknown"/>
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" hreflang="en"/>
+    <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" hreflang="en"/>
+    <link rel="schema.DCTYPE" href="http://purl.org/dc/dcmitype/" hreflang="en"/>
+    <link rel="schema.DCAM" href="http://purl.org/dc/dcam/" hreflang="en"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link href="../../../../stylesheet.css" rel="stylesheet" type="text/css"/>
+<link href="../../../../page_styles.css" rel="stylesheet" type="text/css"/>
+</head>
+  <body class="calibre">
+    <div id="s6" class="calibre4"></div>
+    <div class="calibre4">
+      <h1 class="calibre5">Chapter 6: Efficient Sorting Algorithms</h1>
+      <div class="calibre4" id="storytext">
+      <p class="calibre6">Draco sat comfortably at the Slytherin table staring up into the
+      dusk sky. Clouds drifted lazily from the North and birds, starlings
+      mostly, darted around. Draco watched the flock expand and contract,
+      thoughts drifting through conversations, weighing potential allies
+      and enemies. Vincent and Gregory's position took up some thoughts,
+      as did recent lessons from his diary, and his earlier conversations
+      on the train. Draco wasn't <em class="calibre7">thinking</em> just
+      <em class="calibre7">remembering</em> and idly considering connections that popped
+      into his head.</p>
+      <p class="calibre6">Draco's thoughts drifted like clouds above.</p>
+      <p class="calibre6">Draco had already studied the head table, seating arrangements
+      told a story. At the center sat Minerva McGonagall, black hair
+      flowing freely under her still stern hat. Professors Sprout and
+      Flitwick flanked her. The Headmistress chatted with both, gazing
+      solemnly over the assembled students. On the other side of Flitwick
+      sat Horace Slughorn, leaning over his own belly to chortle as he
+      pointed out entering students to the bored Charms instructor.
+      Beside Sprout sat a man whose deeply scarred right cheek marred an
+      otherwise handsome look. His red and gold robes (and seat)
+      announced the new Head of Gryffindor. Draco didn't recognize him.
+      Other professors sat on wings of the head table. Professor Burbage
+      looked annoyed sitting next to a young-ish Muggle dressed in an
+      oddly styled suit. The lapels were much wider, colors much bolder
+      than suits Draco encountered.. The Muggle's wild black hair, thick
+      plastic glasses and lush mutton chop sideburns looked like nothing
+      Draco had seen in his admitted limited experience. Certainly no
+      teenager he'd met dressed like that.</p>
+      <p class="calibre6">After taking in the head table, Draco glanced around the house
+      tables. Slytherin's sparseness bothered him so he stared at the sky
+      instead.</p>
+      <p class="calibre6">The room quieted when the First Years entered, led by Hagrid.
+      Draco's eyes drifted earthward and noticed that the Headmistress
+      already standing. He hadn't heard. She gazed down at the procession
+      of children, barely smaller but much less confident than Second
+      Years. Had it really only been one year? First years waved at
+      siblings and drew themselves close into small groups under the
+      withering inspection of the older students who whispered, jeered,
+      and made clandestine bets. The Sorting Hat, placed on a small stool
+      in front of the head table sat silent until the children filled in
+      the gaps between the tables and stopped.</p>
+      <p class="calibre6">A small rip in the cloth revealed itself to the gasp of the
+      First Years, and the Hat spoke.</p>
+      <p class="calibre6">.</p>
+      <p class="calibre6"><em class="calibre7">I'm the cleverest piece of leather</em></p>
+      <p class="calibre6"><em class="calibre7">ever formed into a hat</em></p>
+      <p class="calibre6"><em class="calibre7">And I've stayed the same forever</em></p>
+      <p class="calibre6"><em class="calibre7">Though I change my annual chat.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">Since the cornerstone was placed</em></p>
+      <p class="calibre6"><em class="calibre7">upon the ground to start our school</em></p>
+      <p class="calibre6"><em class="calibre7">The yearly opening feast must wait</em></p>
+      <p class="calibre6"><em class="calibre7">while I declaim atop this stool!</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">Should you be in Ravenclaw</em></p>
+      <p class="calibre6"><em class="calibre7">you'll answer riddles by the door,</em></p>
+      <p class="calibre6"><em class="calibre7">For sharpening the student's mind</em></p>
+      <p class="calibre6"><em class="calibre7">was Rowena's favorite chore.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">If you land in Hufflepuff,</em></p>
+      <p class="calibre6"><em class="calibre7">then you'll never lack a friend,</em></p>
+      <p class="calibre6"><em class="calibre7">For Helga was the glue</em></p>
+      <p class="calibre6"><em class="calibre7">that held together till the end.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">If 'tis Slytherin you seek,</em></p>
+      <p class="calibre6"><em class="calibre7">then your reward you must chase</em></p>
+      <p class="calibre6"><em class="calibre7">For the virtue of ambition</em></p>
+      <p class="calibre6"><em class="calibre7">surely drew you to their place</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">And every Gryffindor does know</em></p>
+      <p class="calibre6"><em class="calibre7">that the path righteous and true</em></p>
+      <p class="calibre6"><em class="calibre7">demands the utmost bravery -</em></p>
+      <p class="calibre6"><em class="calibre7">Nothing else at all will do.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">But I have a secret request</em></p>
+      <p class="calibre6"><em class="calibre7">That I choose now to reveal:</em></p>
+      <p class="calibre6"><em class="calibre7">Consider those whose grand bequest</em></p>
+      <p class="calibre6"><em class="calibre7">created Hogwart's Mighty Seal.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">Look closely at our Founders -</em></p>
+      <p class="calibre6"><em class="calibre7">consider their full history -</em></p>
+      <p class="calibre6"><em class="calibre7">You'll find extended meanings</em></p>
+      <p class="calibre6"><em class="calibre7">and glimpse a subtle mystery.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">For Rowena was ambitious,</em></p>
+      <p class="calibre6"><em class="calibre7">And Salazar was brave,</em></p>
+      <p class="calibre6"><em class="calibre7">And Godric fiercely loyal,</em></p>
+      <p class="calibre6"><em class="calibre7">Helga clever to her grave.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">Each founder has more character</em></p>
+      <p class="calibre6"><em class="calibre7">than we remember every day</em></p>
+      <p class="calibre6"><em class="calibre7">Do not oversimplify the</em></p>
+      <p class="calibre6"><em class="calibre7">complex virtues they display.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">What use is noble bravery</em></p>
+      <p class="calibre6"><em class="calibre7">if you cannot tell what's right?</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">What will you do with cleverness</em></p>
+      <p class="calibre6"><em class="calibre7">when you've lost the will to fight?</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">How will your true ambition taste</em></p>
+      <p class="calibre6"><em class="calibre7">when you're lonely at the end?</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">And if you do nothing at all</em></p>
+      <p class="calibre6"><em class="calibre7">Who would want you as a friend?</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">Tho' our Founders have their virtues</em></p>
+      <p class="calibre6"><em class="calibre7">Each exhibits certain flaws</em></p>
+      <p class="calibre6"><em class="calibre7">Yet my magic is constrained</em></p>
+      <p class="calibre6"><em class="calibre7">to Sorting strictly by their Laws.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">So I am a simple top piece</em></p>
+      <p class="calibre6"><em class="calibre7">Bound to my appointed task.</em></p>
+      <p class="calibre6"><em class="calibre7"><strong class="calibre9">You</strong></em> <em class="calibre7">can ponder,</em>
+      <em class="calibre7"><strong class="calibre9">you</strong></em> <em class="calibre7">can question;</em></p>
+      <p class="calibre6"><em class="calibre7">That is from all of you I ask.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">Know Thyself! For You are Deeper</em></p>
+      <p class="calibre6"><em class="calibre7">than the Sorting I do voice,</em></p>
+      <p class="calibre6"><em class="calibre7">I am not your only Keeper</em></p>
+      <p class="calibre6"><em class="calibre7">You do daily get a Choice.</em></p>
+      <p class="calibre6"><em class="calibre7">.</em></p>
+      <p class="calibre6"><em class="calibre7">Hear me Teachers! Hear me Students!</em></p>
+      <p class="calibre6"><em class="calibre7">I do finish now my Song.</em></p>
+      <p class="calibre6"><em class="calibre7"><span>Those who state opinions firmly</span></em></p>
+      <p class="calibre6"><em class="calibre7"><span>May still be completely wrong.</span></em></p>
+      <p class="calibre6">.</p>
+      <p class="calibre6">When the Hat began the hall sat rapt and silent, first years
+      stunned by the Hat itself, everyone else by the message. When the
+      Hat named each House their table cheered (not too loud, everyone
+      knows the Hat does not pause). As the song continued into the
+      founder's flaws whispering started. Professor Slughorn looked
+      nervous; might the Hat dare abolish Slytherin altogether? The
+      murmurs rose until the Headmistress' harsh <em class="calibre7">Shhshh</em> quieted
+      everyone.</p>
+      <p class="calibre6">As the last word resounded in a silent hall, Draco looked
+      around. Scattered claps sounded after a few seconds, nothing like
+      the rambunctious applause after last year's song. What had the hat
+      meant? The Hat had reminded him that each Founder possessed virtues
+      the others espoused. Why?</p>
+      <p class="calibre6">Professor Flitwick, holding a scroll, said "Creevey, Colin" and
+      Draco's eyes snapped back to the Sorting, all polite attention. The
+      Hat had said '<em class="calibre7">Yet my magic is constrained.'</em> The Hat chose.
+      That's what it did. Colin went into Ravenclaw. Draco focused on the
+      words as several other students got chosen. One went into
+      Slytherin, which distracted Draco as he clapped and tried to
+      remember the boy's name. That wasn't a good sign. The hat picked
+      the dominant virtue; everyone had a mix of virtues; the Hat did its
+      best. Draco's thinking went in circles.</p>
+      <p class="calibre6">The blond girl - so <em class="calibre7">that</em> was Luna Lovegood - went to
+      Ravenclaw. Draco snorted.</p>
+      <p class="calibre6">The Hat admitted it could be wrong. It couldn't come out and say
+      "I'm wrong, sometimes" so it stated that people could be wrong, but
+      the meaning was clear. Draco's eyes narrowed. He should be in
+      Slytherin. He <em class="calibre7">wanted</em> to be in Slytherin. But others
+      thought "Anywhere but Slytherin..." and the Hat accommodated them
+      the best it could.</p>
+      <p class="calibre6">Did the Hat regret that? Or did it regret putting anyone into
+      Slytherin?</p>
+      <p class="calibre6">"Smith, Zacharias" spent a slow minute under the Hat's brim
+      before winding up, surprisingly, in Hufflepuff. Draco scanned the
+      crowd for wrongly sorted students, looking to find those who should
+      have been in Slytherin. But he couldn't think of any. Vincent and
+      Gregory were saying something and his eyes settled past them, onto
+      Pansy Parkinson. Could he get rid of her? Should he? He glanced
+      around the Hall, again. Mike from Hufflepuff had potential...he
+      thought about the problem.</p>
+      <p class="calibre6">Draco realized he couldn't solve it. Nobody wanted to be in
+      Slytherin after last year.</p>
+      <p class="calibre6">"Weasley, Ginevra" was sorted into Gryffindor to the cheers of
+      her rambunctious siblings. Apparently she was the final student
+      because the Headmistress was getting ready to speak.</p>
+      <p class="calibre6">Draco realized he could solve <em class="calibre7">another</em> problem and stood
+      up. At first, only nearby students looked at him as he took a deep
+      breath. He made no motion to draw attention to himself, other than
+      standing up, and hoped that it would be enough.</p>
+      <p class="calibre6">"Mr. Malfoy?" Headmistress McGonagall's voice sounded …
+      mild.</p>
+      <p class="calibre6">"The Hat said it made mistakes. We should let students who think
+      the Hat got it wrong sort again." This set off loud conversations.
+      Draco could hear the shock and Macnair kicked him hard under the
+      table, hissing "We'll have no House left!"</p>
+      <p class="calibre6">Draco ignored the pain "It's against tradition, but the Hat
+      practically begged us..."</p>
+      <p class="calibre6">The Headmistress cut him off. "Very well. Does anyone wish to be
+      Sorted again?"</p>
+      <p class="calibre6">Silence. Nobody wanted to go first, and Draco couldn't
+      volunteer.</p>
+      <p class="calibre6">Father's training allowed him to stand up, to speak in front of
+      others, to draw attention to himself. He'd ignored fear and shame
+      often enough, though he felt it. For others, it must be paralyzing.
+      Draco walked to the stool and picked up the Hat, carefully keeping
+      it below his head at all times, then quickly returned to Slytherin
+      table, stopping in front of Vincent. Draco held out the Hat.</p>
+      <p class="calibre6">Crabbe shook his head. "I can't. I shouldn't."</p>
+      <p class="calibre6">Draco slowly raised the Hat, "You'd be happier. Let the Hat sort
+      again." Crabbe gave a short nod and Draco dropped the Hat on his
+      head before Vince changed his mind. Draco had a few steps to get
+      back to his seat. The whispering had started when the Hat cried out
+      "Hufflepuff!"</p>
+      <p class="calibre6">The Hufflepuff table broke into applause, joined by Gryffindor
+      and Ravenclaw. Fred Weasley shouted "That's the bravest thing I've
+      seen!" and sounded like he meant it. At the Slytherin table only
+      Draco and Gregory clapped. Draco would have to pretend to lose in
+      the near future, he realized.</p>
+      <p class="calibre6">Vincent moved to the Hufflepuff Table, wiping his face. He
+      passed the stool, still wearing the Hat, and went back to place it
+      but Padma Patil caught up with him and politely held out her hand.
+      Vincent handed it to her, bowing with a small smile. Padma
+      <em class="calibre7">plonked</em> the Hat firmly on her head with no ceremony.</p>
+      <p class="calibre6">Draco held his breath, hoping. Padma had been his second in
+      command, after all...</p>
+      <p class="calibre6">"SLYTHERIN!" came the shout, and Draco clapped, whistled and
+      shouted with rest of the table, except for Pansy Parkinson. Padma's
+      twin Parvarti, sat at Gryffindor, mouth agape and clapped
+      slowly.</p>
+      <p class="calibre6">When Ginevra Weasley stood up the entire Gryffindor table
+      gasped, and she quickly went into Ravenclaw. At that point the
+      Headmistress stood up.</p>
+      <p class="calibre6">"Miss Weasley, kindly return the Hat to its place." She held up
+      her hand. "The Hat is available for the duration of the Feast and
+      I, for one, am famished." She clapped her hands twice and the food
+      appeared as Ginny unceremoniously dumped the Hat before rushing to
+      Ravenclaw. She sat next to Luna, who had been sitting alone. Draco
+      tore into a roll and ate.</p>
+      <p class="calibre6">That had worked out surprisingly well. Vincent would be happier
+      with more friends and less pressure. Padma's surprise had probably
+      saved him at least one beating and meant that there were students,
+      good students, who held sympathy. Draco smiled and ate.</p>
+      <p class="calibre6">The professors, who normally ate with polite small talk, had an
+      animated discussion that he couldn't quite hear. Professor Burbage
+      filled in the Muggle on details. Draco wasn't positive, but thought
+      The Headmistress had told Flitwick and Slughorn to cool it. The new
+      Head of Gryffindor stared at Draco and a few other students, just
+      eating, no conversation. During the meal three more students went
+      under the Hat, each time causing a hush. Fred Weasley or maybe
+      George sauntered forward just before desert before breaking into a
+      smile and jogging back to his seat under a small barrage of
+      buttered dinner rolls.</p>
+      <p class="calibre6">After finishing off some iced cake Draco went up and grabbed the
+      Hat, again keeping it low to signal that he wasn't going to put it
+      on. He walked to the Ravenclaw table, eyes locked firmly on Harry
+      Potter.</p>
+      <p class="calibre6">Harry tried to wave him off but Draco went past Harry and
+      stopped in front of Hermione.</p>
+      <p class="calibre6">He'd planned a small speech on his walk over. <em class="calibre7">You are
+      incredibly clever, but not enough to convince me that the Girl who
+      stood up to bullies, Dumbledore, Voldemort and Azkaban is rightly
+      sorted.</em> But as he walked over, he realized it didn't need to
+      be said.</p>
+      <p class="calibre6">"You'd never brag," Draco explained.</p>
+      <p class="calibre6">Hermione blushed. Draco raised the Hat slightly and paused, just
+      in case she refused. Draco placed it gently on her head and
+      "GRYFFINDOR" rang out instantly with enough force to shove Draco
+      backwards.</p>
+      <p class="calibre6">The hall exploded into applause and Hermione stood up, as boys
+      patted her arm and girls pulled her into hugs. Draco took the Hat
+      off her head and walked back onto the podium. As he sat down he
+      mumbled "Let's see Ravenclaw win the House Cup now," to nobody in
+      particular.</p>
+      <p class="calibre6">Harry Potter stood up from the middle of the Ravenclaw. "I
+      promised the Hat I'd never wear it again," which sparked murmuring
+      in the hall and a full-blown five hour debate in the Ravenclaw
+      commons room later that night. "But given it's pronouncement, I'd
+      like to alternate between Ravenclaw and Slytherin."</p>
+      <p class="calibre6">"<em class="calibre7">Of course you would</em>, Mr. Potter," said the
+      Headmistress. She motioned for him to change seats as the students
+      laughed and a few snaps echoed around the hall. "Anyone else?</p>
+      <p class="calibre6">Colin Creevey switched to Slytherin, which concluded Hogwart's
+      first Re-sorting.</p>
+      <hr size="1" noshade="noshade" class="calibre8"/>
+      <p class="calibre6"><strong class="calibre9">Author's Confession</strong> - I originally wrote these
+      early chapters as a mood piece, and now consider them a prologue.
+      Since I've gotten good response and I'm enjoying writing this, I'm
+      continuing and play to write out a full year. I'll probably have to
+      take some breaks for that.</p>
+      <p class="calibre6">For the extended story I've got a good plot, mostly consistent.
+      But I see gaps I can't easily fill. I might be able to do it, but
+      it would make the story worse. I'd be adding epicycles, I fear.</p>
+      <p class="calibre6">My options are to delay until I can bulletproof it or just enjoy
+      the story. Since I stop writing when considering the parts that
+      give me trouble, I've decided to just keep my momentum and hope
+      that I'll spot a solution without agonizing, and accept that there
+      may be some handwaving if I fail. (I find ideas arrive easiest when
+      I don't force them, a theme played out in Draco's daydreaming
+      above, which I wrote weeks ago).</p>
+      <p class="calibre6">If, at the end of the story you say "But... but... but...", know
+      that I am well aware of several issues and probably missed more,
+      and I wish I could do better.</p>
+      <p class="calibre6">This is a complex plot, but it's entertainment (hopefully) and
+      writing practice. Constructing a perfect puzzle isn't my
+      motivation. Also, I believe the world is an ambiguous place. So
+      questions like "<em class="calibre7">Is Hermione an Occlumens</em>" (on the train
+      scene) may not be answered early (or ever).</p>
+      <p class="calibre6"><em class="calibre7">("Such is Realism.")</em></p>
+      <p class="calibre6">In most cases I have answers to those questions in mind when I
+      write the scene (I did for that particular example). Sometimes I
+      flub it, though. I will show scenes without Draco to clear things
+      up more (after the prologue), but not every question will be
+      answered. After answering that particular question I decided that
+      I'm going to, in general, let the work speak for itself except for
+      the cases where I realize that I've fallen to the Illusion of
+      Transparency, then I'll answer and revise (or if I've made an
+      easily correctable blunder). I'm not going to defend the decisions
+      in real time, in part because it gives away too much, and it's just
+      not practical.</p>
+      <p class="calibre6">If you treat this story as a perfect puzzle, at the end you may
+      discover pieces missing. Or poor connections.</p>
+      <p class="calibre6">I hope you enjoy the picture, though.</p>
+      <p class="calibre6">I'd like to put a puzzle in, and there will be puzzles, but
+      that's not in any way my primary goal.</p>
+      <p class="calibre6"><em class="calibre7">Consider this fair warning.</em></p>
+      </div>
+    </div>
+  </body>
+</html>

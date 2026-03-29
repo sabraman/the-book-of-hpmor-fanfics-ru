@@ -1,0 +1,219 @@
+<span id="seg-0593__seg-0593-fa250150b8"></span>
+
+<div id="seg-0593__s2-4205714cdf" class="calibre4">
+
+</div>
+
+<div class="calibre4">
+
+# Chapter 2: Zimbardo's Methodology Was Flawed, Pt 1
+
+<div id="seg-0593__storytext-9c93142583" class="calibre4">
+
+Here's how it is:
+
+Shortly after the story in HPMOR, Harry remains deeply concerned about the fate of the world, despite Moody having made progress toward a functional Philosopher's Stone based hospital, and Bones apparently grudgingly willing to take his cues on national policy. Although, she's very concerned that they're hiding something about that policy from the others.
+
+Draco is concerned about his future; his father is gone, his family has lost a significant amount of money, and because Harry has been so distant, Draco is convinced Harry's and Lucius' deal (for Draco to become leader of Magical Britain) has fallen through. Draco then finds a secret cache of dark and powerful objects his father had squirreled away, including the diary of one Tom Marvolo Riddle.
+
+Moody is suspicious of Gilderoy Lockhart, McGonagall's new hire for Defense professor. But that's nothing new, and Moody has found no evidence of wrongdoing in spite of putting some effort into investigating him. Moody, Bones, McGonagall, and Hermione are all concerned about Harry's apparent desire to release Voldemort from the ring in order to question him about the mirror and help rescue Dumbledore. Sprout has mysteriously received a gift: the long-lost and apparently cursed Hufflepuff Cup.
+
+------------------------------------------------------------------------
+
+"Wow, this place is huge!" Dean exclaimed.
+
+Neville looked embarrassed. Susan elbowed Dean.
+
+"I mean, happy birthday."
+
+"Thanks."
+
+They walked outside to the even larger yard where the party was happening.
+
+Hannah walked over to the group, "Everyone in Hufflepuff missed you after you left Hogwarts last spring. Are you coming back this fall?"
+
+"Yeah, I'll be back. I mean, there's no reason not to, with Voldemort gone (again). There's no way this year will be that crazy or dangerous. We'll lose another defense professor but that will probably be it. I wonder what Harry and Hermione will be doing, though. They've apparently been studying all summer to take their OWLs early."
+
+Theodore shook his head, "I'm betting on multiple deaths and mysterious resurrections. Whatever happens has to top last year."
+
+Tracey laughed, "Of course Harry and Hermione will be back. Can you imagine either of them as Hogwarts dropouts? That would take a confundus charm powerful enough to cover the whole school and last for decades."
+
+"I don't know about that", Ron replied. "I never thought I'd look forward to going back to school, but the underage magic law makes everything else so boring. If I could lose one summer studying and then be able to do magic anywhere and not have to study ever again, that would be bloody brilliant."
+
+Tracey smirked. "You stopped doing magic over the summer? Ha ha."
+
+Ron indignantly demanded, "You've been doing magic this whole time!? How?"
+
+Tracey just pointed at him, still laughing. Neville shrugged and offered, "Longbottom manor is warded against lots of stuff. The ministry can't detect anything within the house unless someone calls aurors through the floo."
+
+"You're lucky", Seamus said. "I had to 'accidentally' switch wands with mom so many times before the aurors stopped responding when she cast spells with it."
+
+Susan frowned, "Yeah. That happened. My aunt says they pretty much ignore reports of underage magic unless either someone does something stupid or a Wizengamot member requests reports on someone. Malfoy and his faction used to prevent their enemies' kids (and muggleborns) from using magic, but the rule didn't really apply to anyone else. This summer, I don't think the DMLE followed up on anything."
+
+"Oh... Then I guess the aurors must have come because of the fire damage."
+
+"Ah", replied everyone else, nodding in understanding.
+
+Ron turned back to Tracey, who had recently stopped laughing, "So what was your brilliant method for not getting caught."
+
+Tracey shrugged, "I'm friends with Susan. Oh, Harry and Hermione are here."
+
+"Hey, Harry", Neville waved him over. "After you pass your OWLs, are you coming back to Hogwarts for classes or are you going to drop out to teach the rest of the world the true meaning of chaos?"
+
+Harry feigned offense, "You don't think I can do both?"
+
+Hermione answered, "Seriously, though, we'll be taking Defense and Herbology with the second years, Transfiguration, Arithmancy, and Divination with the third years, and Potions and Astronomy with the fourth years. We might sit in on a Charms class, but we aren't magically powerful enough to take the fourth year class right now."
+
+"I thought you were taking your OWLs. Why aren't you taking 6th year classes?"
+
+Harry answered, "We scored enough As to be able to vote in the Wizengamot, but there's a huge difference between passing a test and being competent at something. And it's important that we're proficient in most subjects. For example, there are about a dozen charms and a dozen potions that they've rotated through for the bulk of those OWLs for several decades so you don't need to learn much to pass. Professor Sprout was away or busy all summer, so we didn't get any practical Herbology training at all. And for some reason, they don't let anyone test out of Arithmancy; people have to actually go to every lecture. It's annoying because I'm sure I could have passed the NEWT for the math that wizards use. Though, it's great to be done with History forever, with 'forever' defined as 'as long as Binns is still teaching."
+
+While Neville was talking to Harry, the rest of the group had slowly dispersed. Harry expected people to lose interest in conversations about school, but he felt oddly suspicious. He turned around to get an overview of the rest of the party-
+
+"Surprise!", yelled everyone. A banner changed its text from 'Happy Birthday, Neville' to add 'and Harry'.
+
+Harry looked back at Neville and whispered, "you know I'm going to get you back for this, right?"
+
+Neville just smiled and nodded.
+
+Hermione rolled her eyes and shook her head.
+
+Harry walked toward the snacks and drinks table and glancing at the butter-beer tap, he suddenly had a thought. He didn't know exactly what would happen, and if his working hypothesis were correct, it would literally have no effect. But he found himself unable to resist.
+
+A moment later, he returned, handing Hermione a mug and taking a sip from his own.
+
+Some time later, Fred and George ran up to Harry, followed by Ginny.
+
+"We need your help", George began.
+
+"Also, Ginny demanded we introduce her", Fred interjected. "She's your biggest fan but you probably already knew that from that picture in the Prophet."
+
+Ginny looked at Harry and opened her mouth to say something, but apparently forgot her lines. Then she stomped on Fred's foot and chased him as he hopped away while George continued, "The 'entertainment' here is for babies. Children's songs, jokes for little kids."
+
+"Ah", Harry answered. "Did you-"
+
+"Think about the problem for five minutes? Yes. Our best solution was to ask you to snap your fingers."
+
+Harry paused for a second, then solemnly intoned, "By my god-like authority, I command the universe to rain chaos and fun down on this party", then snapped.
+
+That's when a pigeon flew overhead and crapped on Augusta Longbottom.
+
+Madame Longbottom had been standing on the conjured stage, beginning to introduce the group she'd hired when the white liquid hit her shoulder, splashing onto her cheek and dribbling down her robes. About half the children laughed. and a few choked on their drinks. She hastily cast a pair of cleaning charms and concluded the introduction.
+
+The group began playing the music for their first song, amplified through a pair of stones radiating a constant sonorus charm.
+
+Just before the first lyric, the singer tripped, knocking heads with one of the musicians, who fell, instinctively reaching out to break his fall, poking another musician in the eyes.
+
+Then the sonorus-speaker system transfigured into what appeared to be a pair of very small, very deformed dragons, which began roaring, drowning out the sound of children's laughter with an out-of-tune but recognizable version of the song that was being performed.
+
+The performers got up and talked privately for a moment. One walked over to Madame Longbottom, saying "We can't work like this; we'll send you a refund."
+
+A while later, a silvery owl circled over the property once, then descended and approached Neville, offering a package. Neville read the note while feeding the owl a handful of snacks. "Oh, it's a birthday present from Draco. That was nice of him; I don't really even know him very well."
+
+The bird flapped its wings and launched itself into the air. It disappeared quickly into the sky, but not before crapping on Madame Longbottom.
+
+"That's enough of that", she announced. "I'm staying inside for a while."
+
+She went inside and took a seat near a window where she could continue to watch everyone outside. As soon as she sat down, her hat vulture struggled and let out a cry. It then crapped, the liquid splattering the side of her face and the front of her robes. Everyone began laughing, some choking, and others laughing at those who were choking.
+
+"Harry", Neville asked, after he'd located Harry and caught his breath, "I think this has somehow been both my best and worst birthday party ever. Did you snap your fingers or what?"
+
+"I understand completely. And I can neither confirm nor deny whether I got you back-"
+
+Hermione interrupted, "Harry, knock that off. What did you do?"
+
+Harry just smirked, reaching into his pouch and tossing her an empty can of comed-tea. "It's a definite possibility that the drinks at this party have been spiked."
+
+But Harry found himself confused. It strained credulity that all of this was already coincidentally going to happen in one time and place, such that someone could be compelled to give everyone present a comed-tea. But that left him with the original, even less probable, idea, that comed-tea altered the universe to produce comedy set-ups. There had to be something else going on here. And perhaps more strangely, comed-tea mixed with butter-beer apparently produced humor of a much more slapstick variety than pure comed-tea. For the latter, Harry decided, he could at least tell himself that the comedy adapts to its audience, but the former was going to bother him until he understood it. Maybe Fred and George had staged the whole thing and only asked him to snap to create plausible deniability... Harry smiled; the more creatively those two learned to think, the more formidable they would become.
+
+------------------------------------------------------------------------
+
+Harry and Hermione were on the roof of Harry's office. It wasn't as comfortable as his office for getting work done, but it was far more inspiring, especially at night.
+
+"Hermione, would you mind reading over this for me?"
+
+"Sure, Harry, what is it?"
+
+"I'm writing a speech for Bones to give to the Wizengamot to convince them to decommission Azkaban. I've gone through the most inspiring and persuasive speeches in muggle history, and tried to replicate what makes them effective. I'm not very optimistic, but I'm running out of things to try."
+
+Hermione took the parchment and read for a moment, while Harry laid on his back watching the stars, "It reads like a speech. I can't think of how to improve it. But I doubt it will change anything either. Some social changes just require a new generation in power before they can happen."
+
+"Twenty to forty more years of those abominations destroying the life and magic of human beings? There must be a better solution than that. Peter Pettigrew has been out of the prison for over a month. I've been told he's been healing but still hasn't spoken, and his magic should be slowly returning, but he hasn't cast anything, even accidentally. There are probably others who are also innocent, and there are certainly people who were cruelly sentenced over accidents, all overlooked by a system that cares more about inspiring fear and obedience than administering justice. You should read about the Stanford Prison Experiment. It basically showed that, under certain conditions, most people can be turned into monsters. I suspect-"
+
+"I have read about it, actually. Including lots of criticism of the methods and conclusions, from bias in selecting participants, to relying entirely on subjective observations, and a total lack of control groups or blinding. The simplest explanation seems to be that Phillip Zimbardo was a sociopath and a handful of the participants were strongly influenced by conformity effects to behave as they believed he wanted."
+
+There was a brief pause as Harry considered this.
+
+"You could always order them to close the prison and destroy the dementors yourself if they refuse", Hermione suggested.
+
+Harry smiled sadly, "You have no idea how many times I've thought about doing exactly that. I really should have done it the first time I had the chance... Anyway, killing a dementor is not without risk. Killing all of them... I can't risk dying to end one problem in one small corner of the world when I'm responsible for saving all of civilization and possibly all life."
+
+"You could teach other people how to kill dementors, and go in with a small army. Then everyone would face a lower risk."
+
+"That's currently plan A, but finding people who are trustworthy takes time, determining that they're capable of learning the necessary spell takes time, and waiting for them to learn occlumency takes time. It will take years to prepare that army."
+
+"You said you'd teach me after I learned occlumency. How long do you think it will be until I've learned it well enough?"
+
+"Actually, uh, I think you've stopped getting better at occlumency. Not everyone has a personality type that can become a successful occlumens. But I've been thinking this over: you can put up an almost-complete block, which is enough to stop most legilimens, the Wizengamot can't legally force one of its own members to take veritaserum, and Mad-eye can hunt down and obliviate anyone who gets the secret. It's a risk, but I think it's worth it. This part should be easier for you than learning occlumency; first you have to solve a riddle."
+
+Hermione stared at him incredulously, "Riddle? I have to solve a riddle to kill dementors? Where are you getting your 'mysterious old wizard' instructions?" She paused, then looked slightly scared, "Dumbledore didn't write a manual for you, did he?"
+
+"You'll understand when you understand. I'm looking for an abstract concept: what do people fear, but not animals? What is impossible to kill? What is so horrible that the mind refuses to process it?"
+
+"I want to say 'trolls', but that isn't a concept. At least not 'troll' the animal; 'troll' the grade fits... But I'm guessing 'death' is the answer you're looking for."
+
+Harry nodded, frowning. "My next question was going to be 'what dark creature best fits that concept' but you already got that answer wrong."
+
+"Well, Professor Quirrell called dementors the second most perfect killing machine, and that's obviously what we're talking about. Oh, this makes sense: that's why people see them as waterlogged corpses. And I suppose it makes sense, as far as magic ever does, that distracting yourself with happy thoughts calls up a magic animal which is immune to the fear of death."
+
+Harry nodded again, smiling this time. "Not everyone who can't produce a patronus is unhappy; many of them are the kind of person who can't use a happy distraction to escape an unpleasant truth."
+
+"And you haven't told people this because the knowledge might prevent them from using a patronus at all." It wasn't a question. "So what's the solution; you can produce a patronus anyway, right?"
+
+"The answer is obvious: you don't try to distract yourself. You stare death in the metaphorical face, comprehend it, fill your mind with happy thoughts, then cast a patronus using the thought of conquering death, of a future where death is just a bad memory. My first time I was staring into a literal dementor, but I suspect that you can imagine staring death in the face easily enough without one. Anyway, I ran through every happy thought I could, then finished with picturing the earth among the stars, and the future of human civilization, having inherited the galaxy and having advanced far beyond anything so mundane as a dementor. Expecto patronum!" A flash from his wand formed into a silvery humanoid.
+
+Harry continued, "That produces a better type of patronus: it can blind, disable, or even permanently destroy dementors. It lets you put a lot more into it", the patronus brightened until it was painful to look at, "but that's also dangerous because it's powered by one's life as well as magic." Harry let the patronus fade away.
+
+A moment later there was a new silvery humanoid on the roof. Hermione sat down, hard, next to Harry.
+
+"So that's the secret to destroying dementors. And you said it's powered by life. So someone could die by putting too much life into this?"
+
+"It's a definite risk. If it were safe and easy, I'd hunt dementors as a hobby."
+
+They were both silent for a few minutes, watching the stars. Harry saw the light moving in the sky, and checked his watch, smiling. Hermione noticed it a moment later. "Harry, what is that? It looks like it's headed here." Harry nodded and climbed to his feet, Hermione stood as well.
+
+The phoenix slowed to a hover in front of them and cawed loudly at Hermione. She turned to Harry, "So I'm the one who has to be the hero. I'm going to go, Harry."
+
+He nodded again, "I know; it wouldn't be you if you could make any other choice." Hermione touched the phoenix's talon and they disappeared in a fiery flash.
+
+Harry let himself show a mischievous smile and reached for his time-turner. He mentally checked off the 'obtain a phoenix for Hermione' part of his master plan, and moved on to the next item: he intended to test the hypothesis that phoenices came from the mirror. But before he could activate the time-turner, he was interrupted by the flash of the phoenix returning. Alone. The phoenix called out, looking around, appearing confused. "What the hell did you do?" Harry demanded.
+
+------------------------------------------------------------------------
+
+Chief Warlock (as far as everyone knew) Bones didn't even try to hide her exasperated sigh from the assembled Wizengamot. She had naively hoped the absence of the usual evil faction would allow the rest of the assembly to get useful things done. Unfortunately, even though they weren't murderous bigots, they were still politicians.
+
+To make matters worse, that kid, despite clearly believing in this cause, had ordered her to sabotage it if necessary "for now". He had made the dubious claim that her efforts either way wouldn't matter in the end and this way she could possibly gain the trust of the new Wizengamot dark faction. Then he had ominously added 'also, other reasons', which especially does not inspire confidence when said by a dark-wizard generated possible ticking-time-bomb.
+
+"Why should we prepare to transfer anyone to a different prison? We have a perfectly good one already", asked some nameless businessman.
+
+Tiberius Ogden responded, beginning to lose his temper, "I told you why: one, dementors are a disgusting punishment, fit for only the worst of the worst offenders and everyone knows it. And that's not just bleeding-heart sentiment; there are real-world consequences. It hurts our international credibility: other countries don't trust our motives when we try to build international coalitions against threats. They were even willing to ignore Voldemort at his worst. Two, we have a higher crime rate than most countries because petty criminals (such as unregistered animagi or ward-breakers-for-hire) are allowed to operate with impunity; sending them to Azkaban would be unjust so such sentences are rarely applied. And that's not even addressing the issue of falsely imprisoned innocents, such as Mr. Pettigrew. Three, dementors do not make a secure prison. They're not trustworthy without a relatively large group of specially trained aurors. And they prevent most other defenses from being employed effectively. Bellatrix Black escaped and is still at large. No one has escaped Nurmengard."
+
+"As Director of Magical Law Enforcement, you told us that you fixed the security problems. Is that accurate?" Umbridge addressed Bones with a smile.
+
+"As you already know", Bones began with a glare, "the addition of new wards and precautions should prevent that method from working again. All prisoners are now checked for animagus forms when they enter the prison and the time visitors can spend there with patroni is strictly limited. The anti-flight wards were upgraded to cover all unauthorized magical flight, and a device was added that casts 'arresto momento' on all unauthorized objects or individuals a few times per second. Mr. Weasley at Misuse of Muggle Artifacts has thus far been unable to procure a suitable device for testing those wards, but we believe they will be sufficient." After Dumbledore's disappearance, she had personally added a ward to prevent phoenices from teleporting into the prison while allowing the individuals transported by the phoenix a one-way trip, but she had decided that no one needed to know about that.
+
+"But the prison is still largely dependent on dementors", Ogden replied. "A modern magical prison, with solid walls and doors, locked with colloportus, and covered with various shielding charms and tampering alarms would be far better."
+
+"And how much would renting space in a foreign prison and transferring all those people cost? Or worse, constructing a new prison?" asked Lady Greengrass, playing the role of someone competent and prudent.
+
+Umbridge interrupted, "That's a great question, but I know what we could do to improve security for free: order the dementors to keep at least one of their number in the prison at all times, with orders to kiss anyone caught outside of the cells. Visitors must be escorted by aurors at all times. We can charge the visitors for the cost of any additional aurors required."
+
+Bones fought down the familiar urge to punch Umbridge in the face or try futilely to teach the idiots about single point failures or always fighting the last war, took a deep breath, tapped the Line of Merlin against the podium, and called for a vote.
+
+------------------------------------------------------------------------
+
+Note: Skepticism has been expressed for Amelia Bones' ability to create a phoenix ward so quickly, given that phoenices are so powerful. I don't believe this is an issue because 1) HPMOR doesn't operate on a power hierarchy, it operates on the principle that 'even the greatest artifact can be defeated by a counter-artifact that is lesser, but specialized' 2) Amelia Bones is one of the smartest and most knowledgeable characters in the story, and 3) she was annoyed by Dumbledore's ability to show up wherever he felt like, so she was likely investigating phoenix warding on and off for the past decade even if she decided against implementing it until after he disappeared.
+
+</div>
+
+</div>
