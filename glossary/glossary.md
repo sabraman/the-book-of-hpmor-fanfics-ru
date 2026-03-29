@@ -186,6 +186,41 @@ exam tables, forms, or the visual letter itself.
 | D — Dreadful | О — Отвратительно | Potter's Army / ROSMEN | Failing grade. |
 | T — Troll | Т — Тролль | Potter's Army / ROSMEN | Failing grade. |
 
+## Wizarding Idioms
+
+Use the established Russian magical idiom where one exists. Prefer the idiom
+itself over literal back-translation of the English wording.
+
+| Source | Russian | Authority | Notes |
+| --- | --- | --- | --- |
+| Breed like gnomes | плодиться, как гномы | Harry Potter Wiki RU / canon usage | Wizarding analogue of `breed like rabbits`. |
+| Cat among the pixies | пустить кентавра в огород | Harry Potter Wiki RU / canon usage | Wizarding analogue of `пустить козла в огород`. |
+| Don't count your owls before they are delivered | совят по осени считают | Harry Potter Wiki RU / canon usage | Use as the wizarding equivalent of premature counting. |
+| Dorcus | доркас | Harry Potter Wiki RU / canon usage | American wizarding byword for a fool; niche, but keep if referenced. |
+| The fire's lit, but the cauldron's empty | огонь горит, но в котле пусто | Harry Potter Wiki RU / canon usage | Wizarding analogue of `в окнах свет, но дома никого нет`. |
+| Galloping gargoyles | разорви меня горгулья | Potter's Army / ROSMEN / usage | Preferred default; avoid literal `Галопирующие горгульи`. |
+| gallopin' Gorgons | клянусь Горгоной | Harry Potter Wiki RU / canon usage | Variant exclamation from the same idiom family. |
+| gulping galleons | сожри меня горгулья | Harry Potter Wiki RU / canon usage | Listed as a related exclamatory variant on the RU wiki page. |
+| gulping gargoyles | клянусь драконом | Harry Potter Wiki RU / canon usage | Listed as a related exclamatory variant on the RU wiki page. |
+| Hold your Hippogriffs | придержи своих гиппогрифов | Harry Potter Wiki RU / canon usage | Wizarding analogue of `придержи лошадей`. |
+| I could eat a Hippogriff | я готов съесть гиппогрифа | Harry Potter Wiki RU / canon usage | Equivalent of `я готов съесть коня/слона`. |
+| I wouldn't come near you with a ten-foot broomstick | не подойти на десятифутовую метлу | Harry Potter Wiki RU / canon usage | Equivalent of `не подойти на пушечный выстрел`. |
+| I'll take Cadogan's pony | взять пони Кэдогана | Harry Potter Wiki RU / canon usage | Means doing all one can in a difficult situation. |
+| Losing a Knut and finding a Galleon | потерять кнат и найти галлеон | Harry Potter Wiki RU / canon usage | Wizarding analogue of finding gold after looking for copper. |
+| Merlin's beard | борода Мерлина | Harry Potter Wiki RU / canon usage | Common exclamation of surprise; also covers related Merlin-based oaths. |
+| It's no good crying over spilt potion | пролитое зелье не соберёшь | Harry Potter Wiki RU / canon usage | Wizarding analogue of `что пролитое, того не соберёшь`. |
+| Like bowtruckles on doxy eggs | как лукотрусы на яйцах докси | Harry Potter Wiki RU / canon usage | Means `очень быстро`; use only when the story wants the magical idiom. |
+| Like some common goblin | словно какой-нибудь распоследний гоблин | Harry Potter Wiki RU / canon usage | Derogatory idiom; keep in character voice. |
+| [to have] middle head | средняя голова | Harry Potter Wiki RU / canon usage | Runespoor-derived idiom for someone unusual or dreamy. |
+| Poisonous toadstools don't change their spots | поганка пятна не меняет | Harry Potter Wiki RU / canon usage | Equivalent of `люди не меняются`; normalize to natural Russian wording. |
+| Son of a Bludger | сын бладжера | Harry Potter Wiki RU / canon usage | Wizarding softened insult analogous to `сукин сын`. |
+| Ten a Knut | ведро на кнат | Harry Potter Wiki RU / canon usage | Means `очень много`, like `ведро на пятачок`. |
+| Time is Galleons | время — кнаты, сикли и галлеоны | Harry Potter Wiki RU / canon usage | Wizarding version of `время — деньги`. |
+| To have a hairy heart | у него мохнатое сердце | Harry Potter Wiki RU / canon usage | Wizarding analogue of `каменное сердце`. |
+| No room to swing a Kneazle | жмыра посадить некуда | Harry Potter Wiki RU / canon usage | Wizarding equivalent of `яблоку негде упасть`. |
+| Working like house-elves | вкалывать, как дюжина домашних эльфов | Harry Potter Wiki RU / canon usage | Idiom emphasizing extreme toil. |
+| Yanking your wand | морочить палочку | Harry Potter Wiki RU / canon usage | Wizarding analogue of `морочить голову`. |
+
 ## Story-Specific Terms
 
 | Source | Russian | Authority | Notes |
@@ -200,3 +235,8 @@ exam tables, forms, or the visual letter itself.
   reusing it in multiple files.
 - Chapter titles that intentionally echo HPMOR should follow the established
   wording pattern from `hpmor.ru` where applicable.
+- For wizarding idioms and exclamations, prefer established Russian idiomatic
+  forms over literal calques. For example, `Dear Merlin` may become `Борода
+  Мерлина` in exclamatory dialogue, while context-specific forms like `ради
+  Мерлина`, `во имя Мерлина`, `слава Мерлину`, and `упаси Мерлин` should be
+  chosen by sense.
