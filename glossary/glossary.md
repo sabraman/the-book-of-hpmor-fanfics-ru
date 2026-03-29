@@ -207,7 +207,7 @@ itself over literal back-translation of the English wording.
 | I wouldn't come near you with a ten-foot broomstick | не подойти на десятифутовую метлу | Harry Potter Wiki RU / canon usage | Equivalent of `не подойти на пушечный выстрел`. |
 | I'll take Cadogan's pony | взять пони Кэдогана | Harry Potter Wiki RU / canon usage | Means doing all one can in a difficult situation. |
 | Losing a Knut and finding a Galleon | потерять кнат и найти галлеон | Harry Potter Wiki RU / canon usage | Wizarding analogue of finding gold after looking for copper. |
-| Merlin's beard | борода Мерлина | Harry Potter Wiki RU / canon usage | Common exclamation of surprise; also covers related Merlin-based oaths. |
+| Merlin's beard | Мерлинова Борода | Potter's Army / ROSMEN / usage | Preferred canonical exclamation of surprise in this project; also covers related Merlin-based oaths. |
 | It's no good crying over spilt potion | пролитое зелье не соберёшь | Harry Potter Wiki RU / canon usage | Wizarding analogue of `что пролитое, того не соберёшь`. |
 | Like bowtruckles on doxy eggs | как лукотрусы на яйцах докси | Harry Potter Wiki RU / canon usage | Means `очень быстро`; use only when the story wants the magical idiom. |
 | Like some common goblin | словно какой-нибудь распоследний гоблин | Harry Potter Wiki RU / canon usage | Derogatory idiom; keep in character voice. |
@@ -236,7 +236,7 @@ itself over literal back-translation of the English wording.
 - Chapter titles that intentionally echo HPMOR should follow the established
   wording pattern from `hpmor.ru` where applicable.
 - For wizarding idioms and exclamations, prefer established Russian idiomatic
-  forms over literal calques. For example, `Dear Merlin` may become `Борода
-  Мерлина` in exclamatory dialogue, while context-specific forms like `ради
+  forms over literal calques. For example, `Dear Merlin` may become `Мерлинова
+  Борода` in exclamatory dialogue, while context-specific forms like `ради
   Мерлина`, `во имя Мерлина`, `слава Мерлину`, and `упаси Мерлин` should be
   chosen by sense.
