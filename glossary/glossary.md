@@ -36,6 +36,7 @@ across multiple segments.
 | Justin Finch-Fletchley | Джастин Финч-Флетчли | Potter's Army / ROSMEN | Canon form. |
 | Colin Creevey | Колин Криви | Potter's Army / ROSMEN | Canon form. |
 | Sirius Black | Сириус Блэк | Potter's Army / ROSMEN | Canon form. |
+| Rita Skeeter | Рита Скитер | Potter's Army / ROSMEN | Canon form. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
 | Sybill Trelawney | Сивилла Трелони | Potter's Army / ROSMEN | Canon form. |
 | Lavender | Лаванда | Potter's Army / ROSMEN | Given-name short form used in dialogue. |
@@ -56,6 +57,9 @@ across multiple segments.
 | Alastor Moody | Аластор Грюм | Potter's Army / ROSMEN | Prefer `Грюм`, not `Муди`, in canon contexts. |
 | Dolores Umbridge | Долорес Амбридж | Potter's Army / ROSMEN | Canon form. |
 | Lucius Malfoy | Люциус Малфой | Potter's Army / ROSMEN | Canon form. |
+| Viktor Krum | Виктор Крам | Potter's Army / ROSMEN | Canon form. |
+| Luna Lovegood | Полумна Лавгуд | Potter's Army / ROSMEN | Canon form. |
+| Grindelwald | Грин-де-Вальд | Potter's Army / ROSMEN | Canon surname form. |
 | Lord Voldemort | Лорд Волдеморт | hpmor.ru / Project | Match current HPMOR Russian usage in this repo. |
 | Petunia Dursley | Петуния Дурсль | Potter's Army / ROSMEN | Canon form. |
 | Vernon Dursley | Вернон Дурсль | Potter's Army / ROSMEN | Canon form. |
@@ -87,6 +91,7 @@ across multiple segments.
 | Dark Arts | Тёмные Искусства | Potter's Army / ROSMEN | Capitalize as school-discipline / field label. |
 | Hog's Head | Кабанья Голова | Potter's Army / ROSMEN | Inn name. |
 | The Prophet | «Пророк» | Potter's Army / ROSMEN | Newspaper short form. |
+| Boy-Who-Lived | Мальчик-Который-Выжил | Potter's Army / ROSMEN | Canon epithet. |
 | Dark Mark | Чёрная Метка | Potter's Army / ROSMEN | Capitalized in title-like use. |
 | Unforgivable Curses | Непростительные заклятия | Potter's Army / ROSMEN | Canon collective name for the three forbidden curses. |
 | Imperius Curse | заклятие Империус | Potter's Army / ROSMEN | Canon curse name. |
@@ -99,6 +104,7 @@ across multiple segments.
 | Sorting Hat | Распределяющая Шляпа | Potter's Army / ROSMEN | Capitalize as iconic magical object. |
 | Great Hall | Большой зал | Potter's Army / ROSMEN | School location. |
 | Hogwarts Express | Хогвартс-экспресс | Potter's Army / ROSMEN | Canon train name. |
+| Yule Ball | Святочный бал | Potter's Army / ROSMEN | Canon event name. |
 | World Cup | Кубок мира | Potter's Army / ROSMEN | Quidditch context. |
 | Cannons | Пушки Педдл | Potter's Army / ROSMEN | Quidditch team. |
 | Beauxbatons | Шармбатон | Potter's Army / ROSMEN | Canon school name. |
@@ -126,6 +132,7 @@ across multiple segments.
 | Grim | Грим | Potter's Army / ROSMEN | Omen name in Divination context. |
 | Howler | вопиллер | Potter's Army / ROSMEN | Magical letter. |
 | Azkaban | Азкабан | Potter's Army / ROSMEN | Canon place name. |
+| Privet Drive | Тисовая улица | Potter's Army / ROSMEN | Dursley address. |
 | Forbidden Forest | Запретный лес | Potter's Army / ROSMEN | Canon place name. |
 | werewolf | оборотень | Potter's Army / ROSMEN | Creature type. |
 | werewolves | оборотни | Potter's Army / ROSMEN | Plural form. |
@@ -138,11 +145,15 @@ across multiple segments.
 | full moon | полнолуние | Potter's Army / ROSMEN | Standard phrase for werewolf context. |
 | Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
+| Arithmancy | Арифмантика | Potter's Army / ROSMEN | School subject. |
 | Exploding Snap | взрывающиеся карты | Potter's Army / ROSMEN | Canon wizard game. |
 | NEWT | ЖАБА | Potter's Army / ROSMEN | Exam level abbreviation used for advanced schoolwork. |
 | Ancient Runes | Древние руны | Potter's Army / ROSMEN | School subject. |
 | Curse Breaker | разрушитель проклятий | Potter's Army / ROSMEN | Standard profession term. |
 | Scabbers | Короста | Potter's Army / ROSMEN | Rat name. |
+| Mudblood | грязнокровка | Potter's Army / ROSMEN | Canon slur; use only in-character. |
+| knut | кнат | Potter's Army / ROSMEN | Lowest-value wizarding coin. |
+| Nargle | наргл | Potter's Army / ROSMEN / HP Wiki | Luna's creature name. |
 | wandless magic | беспалочковая магия | Project | Use unless a story requires a marked variant. |
 | wizarding world | магический мир | Project | Neutral default phrase. |
 | preface | предисловие | Project | Front matter label. |
