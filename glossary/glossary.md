@@ -89,6 +89,7 @@ across multiple segments.
 | Godric's Hollow | Годрикова Впадина | Potter's Army / ROSMEN | Canon place name. |
 | the Restricted Section | Запретная секция | Potter's Army / ROSMEN | Library term. |
 | Defense Against the Dark Arts | Защита от Тёмных Искусств | Potter's Army / ROSMEN | School subject; `ЗОТИ` only where abbreviation is natural. |
+| Muggle Studies | магловедение | Potter's Army / ROSMEN | School subject. |
 | Dark Arts | Тёмные Искусства | Potter's Army / ROSMEN | Capitalize as school-discipline / field label. |
 | Hog's Head | Кабанья Голова | Potter's Army / ROSMEN | Inn name. |
 | The Prophet | «Пророк» | Potter's Army / ROSMEN | Newspaper short form. |
@@ -105,6 +106,7 @@ across multiple segments.
 | Sorting Hat | Распределяющая Шляпа | Potter's Army / ROSMEN | Capitalize as iconic magical object. |
 | Great Hall | Большой зал | Potter's Army / ROSMEN | School location. |
 | Hogwarts Express | Хогвартс-экспресс | Potter's Army / ROSMEN | Canon train name. |
+| Knight Bus | Ночной Рыцарь | Potter's Army / ROSMEN | Canon wizarding transport. |
 | Yule Ball | Святочный бал | Potter's Army / ROSMEN | Canon event name. |
 | World Cup | Кубок мира | Potter's Army / ROSMEN | Quidditch context. |
 | Cannons | Пушки Педдл | Potter's Army / ROSMEN | Quidditch team. |
@@ -149,6 +151,7 @@ across multiple segments.
 | full moon | полнолуние | Potter's Army / ROSMEN | Standard phrase for werewolf context. |
 | Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
+| Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
 | Arithmancy | Арифмантика | Potter's Army / ROSMEN | School subject. |
 | Exploding Snap | взрывающиеся карты | Potter's Army / ROSMEN | Canon wizard game. |
 | O.W.L. | С.О.В. | Potter's Army / ROSMEN | `Стандарты Обучения Волшебству`; fifth-year exam set. |
@@ -168,6 +171,7 @@ across multiple segments.
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | D.A. | О.Д. | Potter's Army / ROSMEN | `Отряд Дамблдора`. |
 | M.o.M. | М.М. | Potter's Army / ROSMEN | `Министерство Магии`. |
+| Order of the Phoenix | Орден Феникса | Potter's Army / ROSMEN | Anti-Voldemort organization. |
 | Wizengamot | Визенгамот | Potter's Army / ROSMEN | Use council name directly unless a specific abbreviated source demands otherwise. |
 | wandless magic | беспалочковая магия | Project | Use unless a story requires a marked variant. |
 | wizarding world | магический мир | Project | Neutral default phrase. |
