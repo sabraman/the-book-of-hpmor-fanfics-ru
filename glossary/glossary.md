@@ -196,6 +196,27 @@ exam tables, forms, or the visual letter itself.
 | D — Dreadful | О — Отвратительно | Potter's Army / ROSMEN | Failing grade. |
 | T — Troll | Т — Тролль | Potter's Army / ROSMEN | Failing grade. |
 
+## Spell Incantations
+
+Use Russian canonical spell forms in running text. Spoken incantations may stay
+as incantations, but should be written in Russian script rather than left in
+raw Latin spelling where we have already normalized them in this project.
+
+| Source | Russian | Authority | Notes |
+| --- | --- | --- | --- |
+| Accio | Акцио | Harry Potter Wiki RU / canon usage | Summoning Charm incantation. |
+| Aguamenti | Агуаменти | Harry Potter Wiki RU / canon usage | Water-conjuring charm incantation. |
+| Aqua Eructo Charm | чары водяной струи | Harry Potter Wiki RU / project usage | Narrative rendering used in this project. |
+| Bubble-Head Charm | Пузыреголовое заклинание | Harry Potter Wiki RU / canon usage | Use for the standard underwater air-supply spell. |
+| Confundus Charm | Конфундус | Harry Potter Wiki RU / canon usage | Confunding charm; keep `Конфундус` in dialogue and direct references. |
+| Ebublio Jinx | заклятие воздушного пузыря | Harry Potter Wiki RU / project usage | Narrative rendering used in this project for the underwater bubble jinx. |
+| Lumos | Люмос | Harry Potter Wiki RU / canon usage | Wand-lighting charm incantation. |
+| Muffliato | Муффлиато | Harry Potter Wiki RU / canon usage | Anti-eavesdropping incantation. |
+| Petrificus Totalus | Петрификус Тоталус | Harry Potter Wiki RU / canon usage | Full Body-Bind Curse incantation. |
+| Protego | Протего | Harry Potter Wiki RU / canon usage | Shield Charm incantation. |
+| Silencio | Силенцио | Harry Potter Wiki RU / canon usage | Silencing incantation; in narrative may be described as a silencing spell. |
+| Sonorus | Сонорус | Harry Potter Wiki RU / canon usage | Voice-amplifying charm incantation. |
+
 ## Wizarding Idioms
 
 Use the established Russian magical idiom where one exists. Prefer the idiom
