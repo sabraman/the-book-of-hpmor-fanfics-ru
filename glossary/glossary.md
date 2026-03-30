@@ -169,6 +169,9 @@ across multiple segments.
 | Animagus | анимаг | Potter's Army / ROSMEN | Wizard who can transform into an animal. |
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
+| Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
+| Ebublio Jinx | заклятие воздушного пузыря | Project / usage | Narrative rendering for the bubble-forming underwater jinx in this project. |
+| Aqua Eructo Charm | чары водяной струи | Project / usage | Narrative rendering for the water-jet charm in this project. |
 | D.A. | О.Д. | Potter's Army / ROSMEN | `Отряд Дамблдора`. |
 | M.o.M. | М.М. | Potter's Army / ROSMEN | `Министерство Магии`. |
 | Order of the Phoenix | Орден Феникса | Potter's Army / ROSMEN | Anti-Voldemort organization. |
