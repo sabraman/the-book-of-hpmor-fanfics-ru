@@ -155,9 +155,13 @@ across multiple segments.
 | Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
 | Hogwarts, A History | История Хогвартса | Potter's Army / ROSMEN | Canon book title. |
 | Pensieve | омут памяти | Potter's Army / ROSMEN | Dumbledore's memory basin. |
+| Veritaserum | Веритасерум | Potter's Army / ROSMEN | Truth serum. |
 | blood quill | кровавое перо | Potter's Army / ROSMEN / usage | Detention quill that writes using blood. |
 | glove charm | чары перчатки | Project / usage | Protective invisible glove charm used in potion work. |
 | Arithmancy | Арифмантика | Potter's Army / ROSMEN | School subject. |
+| High Inquisitor | Генеральный инспектор Хогвартса | Potter's Army / ROSMEN | Umbridge's Hogwarts title. |
+| Inquisitorial Squad | Инспекционная дружина | Potter's Army / ROSMEN | Umbridge's student enforcement group. |
+| Sword of Gryffindor | меч Гриффиндора | Potter's Army / ROSMEN | House relic that appears to worthy Gryffindors. |
 | Exploding Snap | взрывающиеся карты | Potter's Army / ROSMEN | Canon wizard game. |
 | O.W.L. | С.О.В. | Potter's Army / ROSMEN | `Стандарты Обучения Волшебству`; fifth-year exam set. |
 | NEWT | ЖАБА | Potter's Army / ROSMEN | Exam level abbreviation used for advanced schoolwork. |
