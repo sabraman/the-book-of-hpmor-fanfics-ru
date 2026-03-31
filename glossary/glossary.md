@@ -30,6 +30,8 @@ across multiple segments.
 | Ron Weasley | Рон Уизли | Potter's Army / ROSMEN | Canon form. |
 | Hermione Granger | Гермиона Грейнджер | Potter's Army / ROSMEN | Canon form. |
 | Neville Longbottom | Невилл Долгопупс | Potter's Army / ROSMEN | Canon form. |
+| Horace Slughorn | Гораций Слизнорт | Potter's Army / ROSMEN | Canon form. |
+| Merope Gaunt | Меропа Мракс | Potter's Army / ROSMEN | Voldemort's mother. |
 | Draco Malfoy | Драко Малфой | Potter's Army / ROSMEN | Canon form. |
 | Ginny Weasley | Джинни Уизли | Potter's Army / ROSMEN | Canon form. |
 | Ginevra | Джиневра | Potter's Army / ROSMEN | Full given name when spelled out. |
@@ -131,6 +133,11 @@ across multiple segments.
 | Parselmouth | змееуст | Potter's Army / ROSMEN | Canon magical ability. |
 | Legilimens | легилимент | Potter's Army / ROSMEN | Wizard skilled in Legilimency. |
 | Fantastic Beasts and Where to Find Them | Фантастические звери и места их обитания | Potter's Army / ROSMEN | Canon book title. |
+| Leaky Cauldron | Дырявый котёл | Potter's Army / ROSMEN | Canon inn name in London. |
+| Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
+| Puddlemere United | Паддлмир Юнайтед | Potter's Army / ROSMEN | Quidditch team name. |
+| Dragon Pox | драконья оспа | Potter's Army / ROSMEN | Magical illness. |
+| Gaunts | Мраксы | Potter's Army / ROSMEN | Voldemort's maternal family line. |
 | Patronus | Патронус | Potter's Army / ROSMEN | Capitalize as spell/conjuration name. |
 | boggart | боггарт | Potter's Army / ROSMEN | Magical creature. |
 | Grim | Грим | Potter's Army / ROSMEN | Omen name in Divination context. |
@@ -156,6 +163,8 @@ across multiple segments.
 | Hogwarts, A History | История Хогвартса | Potter's Army / ROSMEN | Canon book title. |
 | Pensieve | омут памяти | Potter's Army / ROSMEN | Dumbledore's memory basin. |
 | Veritaserum | Веритасерум | Potter's Army / ROSMEN | Truth serum. |
+| Occlumency | окклюменция | Potter's Army / ROSMEN | Mental defensive discipline. |
+| Legilimency | легилименция | Potter's Army / ROSMEN | Mind-reading magical discipline. |
 | blood quill | кровавое перо | Potter's Army / ROSMEN / usage | Detention quill that writes using blood. |
 | glove charm | чары перчатки | Project / usage | Protective invisible glove charm used in potion work. |
 | Arithmancy | Арифмантика | Potter's Army / ROSMEN | School subject. |
