@@ -64,6 +64,7 @@ across multiple segments.
 | Viktor Krum | Виктор Крам | Potter's Army / ROSMEN | Canon form. |
 | Luna Lovegood | Полумна Лавгуд | Potter's Army / ROSMEN | Canon form. |
 | Romilda Vane | Ромильда Вейн | Potter's Army / ROSMEN | Canon form. |
+| Carrows | Кэрроу | Potter's Army / ROSMEN | Amycus and Alecto Carrow as a sibling pair. |
 | Fenrir Greyback | Фенрир Сивый | Potter's Army / ROSMEN | Canon werewolf name. |
 | Dorcas Meadows | Доркас Медоуз | Potter's Army / ROSMEN | Order of the Phoenix member. |
 | Mrs. Cole | миссис Коул | Potter's Army / ROSMEN | Wool's Orphanage matron. |
@@ -93,6 +94,9 @@ across multiple segments.
 | Slytherin | Слизерин | Potter's Army / ROSMEN | House name. |
 | Hogwarts letter | письмо из Хогвартса | Potter's Army / usage | Phrase-level default. |
 | Horcrux | крестраж | Potter's Army / ROSMEN | Canon form. |
+| Gaunt ring | кольцо Мраксов | Potter's Army / ROSMEN | Horcrux-bearing ring from the Gaunt family. |
+| Ravenclaw's Diadem | диадема Когтевран | Potter's Army / ROSMEN | Lost Hogwarts founder relic and Horcrux. |
+| Hufflepuff's Cup | чаша Пуффендуя | Potter's Army / ROSMEN | Lost Hogwarts founder relic and Horcrux. |
 | Godric's Hollow | Годрикова Впадина | Potter's Army / ROSMEN | Canon place name. |
 | the Restricted Section | Запретная секция | Potter's Army / ROSMEN | Library term. |
 | Defense Against the Dark Arts | Защита от Тёмных Искусств | Potter's Army / ROSMEN | School subject; `ЗОТИ` only where abbreviation is natural. |
@@ -109,11 +113,13 @@ across multiple segments.
 | Killing Curse | Убивающее заклятие | Potter's Army / ROSMEN | Canon description of `Avada Kedavra`. |
 | Philosopher's Stone | Философский камень | Potter's Army / ROSMEN | Canon artifact. |
 | Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
+| Elder Wand | Бузинная палочка | Potter's Army / ROSMEN | One of the Deathly Hallows. |
 | Triwizard Tournament | Турнир Трёх Волшебников | Potter's Army / ROSMEN | Canon tournament name. |
 | Sorting Hat | Распределяющая Шляпа | Potter's Army / ROSMEN | Capitalize as iconic magical object. |
 | Great Hall | Большой зал | Potter's Army / ROSMEN | School location. |
 | Hogwarts Express | Хогвартс-экспресс | Potter's Army / ROSMEN | Canon train name. |
 | Knight Bus | Ночной Рыцарь | Potter's Army / ROSMEN | Canon wizarding transport. |
+| the Burrow | Нора | Potter's Army / ROSMEN | Weasley family home. |
 | Yule Ball | Святочный бал | Potter's Army / ROSMEN | Canon event name. |
 | World Cup | Кубок мира | Potter's Army / ROSMEN | Quidditch context. |
 | Cannons | Пушки Педдл | Potter's Army / ROSMEN | Quidditch team. |
@@ -141,7 +147,13 @@ across multiple segments.
 | Parseltongue | парселтанг | Project / usage | Established running-text form in this repo for the serpent language itself. |
 | Legilimens | легилимент | Potter's Army / ROSMEN | Wizard skilled in Legilimency. |
 | Fantastic Beasts and Where to Find Them | Фантастические звери и места их обитания | Potter's Army / ROSMEN | Canon book title. |
+| The Tales of Beedle the Bard | Сказки барда Бидля | Potter's Army / ROSMEN | Canon wizarding fairy-tale collection. |
+| The Fountain of Fair Fortune | Фонтан феи Фортуны | Potter's Army / ROSMEN | Tale from `The Tales of Beedle the Bard`. |
+| The Warlock's Hairy Heart | Мохнатое сердце колдуна | Potter's Army / ROSMEN | Tale from `The Tales of Beedle the Bard`. |
+| The Tale of the Three Brothers | Сказка о трёх братьях | Potter's Army / ROSMEN | Tale from `The Tales of Beedle the Bard`. |
 | Leaky Cauldron | Дырявый котёл | Potter's Army / ROSMEN | Canon inn name in London. |
+| Diagon Alley | Косой переулок | Potter's Army / ROSMEN | Canon London wizarding street. |
+| Gringotts | Гринготтс | Potter's Army / ROSMEN | Wizarding bank. |
 | Grimmauld Place | площадь Гриммо | Potter's Army / ROSMEN | Black family home location. |
 | Wool's Orphanage | приют Вула | Potter's Army / ROSMEN | London orphanage where Tom Riddle grew up. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
