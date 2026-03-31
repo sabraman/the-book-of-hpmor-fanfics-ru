@@ -152,6 +152,11 @@ across multiple segments.
 | Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
+| Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
+| Hogwarts, A History | История Хогвартса | Potter's Army / ROSMEN | Canon book title. |
+| Pensieve | омут памяти | Potter's Army / ROSMEN | Dumbledore's memory basin. |
+| blood quill | кровавое перо | Potter's Army / ROSMEN / usage | Detention quill that writes using blood. |
+| glove charm | чары перчатки | Project / usage | Protective invisible glove charm used in potion work. |
 | Arithmancy | Арифмантика | Potter's Army / ROSMEN | School subject. |
 | Exploding Snap | взрывающиеся карты | Potter's Army / ROSMEN | Canon wizard game. |
 | O.W.L. | С.О.В. | Potter's Army / ROSMEN | `Стандарты Обучения Волшебству`; fifth-year exam set. |
