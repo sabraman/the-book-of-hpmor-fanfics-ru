@@ -162,6 +162,8 @@ across multiple segments.
 | High Inquisitor | Генеральный инспектор Хогвартса | Potter's Army / ROSMEN | Umbridge's Hogwarts title. |
 | Inquisitorial Squad | Инспекционная дружина | Potter's Army / ROSMEN | Umbridge's student enforcement group. |
 | Sword of Gryffindor | меч Гриффиндора | Potter's Army / ROSMEN | House relic that appears to worthy Gryffindors. |
+| Educational Decrees | образовательные декреты | Potter's Army / ROSMEN | Umbridge's school decrees. |
+| Heliopaths | гелиопаты | Potter's Army / Luna usage | Luna Lovegood's favorite pseudo-creatures/conspiracy topic. |
 | Exploding Snap | взрывающиеся карты | Potter's Army / ROSMEN | Canon wizard game. |
 | O.W.L. | С.О.В. | Potter's Army / ROSMEN | `Стандарты Обучения Волшебству`; fifth-year exam set. |
 | NEWT | ЖАБА | Potter's Army / ROSMEN | Exam level abbreviation used for advanced schoolwork. |
