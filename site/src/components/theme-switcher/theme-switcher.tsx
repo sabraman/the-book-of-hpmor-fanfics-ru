@@ -29,7 +29,7 @@ const THEME_OPTIONS = [
 
 type ReaderTheme = (typeof THEME_OPTIONS)[number]["value"]
 
-function ThemeSwitcher() {
+function ThemeSwitcher({ compact = false }: { compact?: boolean }) {
   const { resolvedTheme, setTheme, theme } = useTheme()
 
   const isMounted = useSyncExternalStore(
@@ -51,9 +51,13 @@ function ThemeSwitcher() {
     >
       <SelectTrigger
         aria-label="Тема оформления"
-        className="h-9 shrink-0 rounded-full border-border/90 bg-paper/92 text-sm font-medium tracking-normal text-foreground shadow-none ring-0 hover:bg-accent focus-visible:ring-2 focus-visible:ring-ring/30"
+        className={
+          compact
+            ? "h-9 min-w-0 rounded-full border-border/90 bg-paper/92 px-3 text-sm font-medium tracking-normal text-foreground shadow-none ring-0 hover:bg-accent focus-visible:ring-2 focus-visible:ring-ring/30"
+            : "h-9 shrink-0 rounded-full border-border/90 bg-paper/92 text-sm font-medium tracking-normal text-foreground shadow-none ring-0 hover:bg-accent focus-visible:ring-2 focus-visible:ring-ring/30"
+        }
       >
-        <SelectValue className="max-w-none flex-none" placeholder="Тема" />
+        <SelectValue className={compact ? "truncate" : "max-w-none flex-none"} placeholder="Тема" />
       </SelectTrigger>
       <SelectContent
         align="end"

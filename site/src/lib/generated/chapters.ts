@@ -10,8 +10,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 15,
-  readableChapterCount: 13,
+  translatedSegmentCount: 17,
+  readableChapterCount: 15,
 } as const;
 
 export const chapters: ChapterMeta[] = [
@@ -131,6 +131,24 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 12: Гарри Поттер против Долорес Амбридж (ч. 2)",
     "originalTitle": "Chapter 12: HP vs Dolores Umbridge (Pt 2)"
+  },
+  {
+    "slug": "seg-0018",
+    "href": "/chapters/seg-0018",
+    "order": 18,
+    "storyId": "story-01",
+    "reviewStatus": "unreviewed",
+    "title": "Глава 13: Гарри Поттер против Долорес Амбридж (ч. 3)",
+    "originalTitle": "Chapter 13: HP vs Dolores Umbridge (Pt 3)"
+  },
+  {
+    "slug": "seg-0019",
+    "href": "/chapters/seg-0019",
+    "order": 19,
+    "storyId": "story-01",
+    "reviewStatus": "unreviewed",
+    "title": "Глава 14: Гарри Поттер против любви (ч. 1)",
+    "originalTitle": "Chapter 14: HP vs Love (Pt 1)"
   }
 ] as ChapterMeta[];
 
@@ -148,4 +166,6 @@ export const chapterModules = {
   "seg-0015": () => import("@/content/chapters/seg-0015.mdx"),
   "seg-0016": () => import("@/content/chapters/seg-0016.mdx"),
   "seg-0017": () => import("@/content/chapters/seg-0017.mdx"),
+  "seg-0018": () => import("@/content/chapters/seg-0018.mdx"),
+  "seg-0019": () => import("@/content/chapters/seg-0019.mdx"),
 } as const;

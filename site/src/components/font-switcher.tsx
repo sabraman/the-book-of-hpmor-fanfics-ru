@@ -19,7 +19,7 @@ import {
   type ReadingFont,
 } from "@/lib/reading-fonts"
 
-export function FontSwitcher() {
+export function FontSwitcher({ compact = false }: { compact?: boolean }) {
   const { font, setFont } = useReadingFont()
   const measureRef = useRef<HTMLDivElement | null>(null)
   const [controlWidth, setControlWidth] = useState<number | null>(null)
@@ -61,7 +61,7 @@ export function FontSwitcher() {
     return <div className="h-9 w-fit rounded-full border border-border/90 px-3.5 opacity-0">Шрифт</div>
   }
 
-  const widthStyle = controlWidth ? { width: `${controlWidth}px` } : undefined
+  const widthStyle = !compact && controlWidth ? { width: `${controlWidth}px` } : undefined
 
   return (
     <>
@@ -88,13 +88,20 @@ export function FontSwitcher() {
         <SelectTrigger
           aria-label="Reading font"
           style={widthStyle}
-          className="h-9 shrink-0 rounded-full border-border/90 bg-paper/92 text-sm font-medium tracking-normal text-foreground shadow-none ring-0 hover:bg-accent focus-visible:ring-2 focus-visible:ring-ring/30"
+          className={
+            compact
+              ? "h-9 w-full min-w-0 rounded-full border-border/90 bg-paper/92 text-sm font-medium tracking-normal text-foreground shadow-none ring-0 hover:bg-accent focus-visible:ring-2 focus-visible:ring-ring/30"
+              : "h-9 shrink-0 rounded-full border-border/90 bg-paper/92 text-sm font-medium tracking-normal text-foreground shadow-none ring-0 hover:bg-accent focus-visible:ring-2 focus-visible:ring-ring/30"
+          }
         >
-          <SelectValue className="max-w-none flex-none" placeholder="Шрифт" />
+          <SelectValue
+            className={compact ? "min-w-0 truncate" : "max-w-none flex-none"}
+            placeholder="Шрифт"
+          />
         </SelectTrigger>
         <SelectContent
           align="end"
-          style={widthStyle}
+          style={compact ? undefined : widthStyle}
           className="rounded-[1.125rem] border-border/90 bg-paper text-foreground"
         >
           {FONT_GROUPS.map((group) => (

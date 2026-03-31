@@ -60,7 +60,7 @@ export function FloatingChapterNav({
         visible ? "translate-y-0 opacity-100" : "-translate-y-6 opacity-0",
       )}
     >
-      <div className="pointer-events-auto flex items-center gap-2 rounded-full border border-border/90 bg-paper/92 px-3 py-2 shadow-[0_8px_30px_rgb(0_0_0_/_0.06)] backdrop-blur-md dark:shadow-[0_8px_30px_rgb(0_0_0_/_0.28)]">
+      <div className="pointer-events-auto hidden items-center gap-2 rounded-full border border-border/90 bg-paper/92 px-3 py-2 shadow-[0_8px_30px_rgb(0_0_0_/_0.06)] backdrop-blur-md sm:flex dark:shadow-[0_8px_30px_rgb(0_0_0_/_0.28)]">
         {showHomeLink ? (
           <>
             <ChaptersSheet currentSlug={currentSlug} />
@@ -97,6 +97,50 @@ export function FloatingChapterNav({
         <LineHeightSwitcher />
         <TextAlignSwitcher />
         <ThemeSwitcher />
+      </div>
+
+      <div className="pointer-events-auto flex w-full max-w-sm flex-col gap-2 rounded-[1.75rem] border border-border/90 bg-paper/92 p-2 shadow-[0_8px_30px_rgb(0_0_0_/_0.06)] backdrop-blur-md sm:hidden dark:shadow-[0_8px_30px_rgb(0_0_0_/_0.28)]">
+        <div className="flex items-center gap-2">
+          {showHomeLink ? <ChaptersSheet currentSlug={currentSlug} /> : <div className="size-9 shrink-0" />}
+
+          {previous || next ? (
+            <>
+              <Link
+                href={previous?.href ?? "/"}
+                className="inline-flex size-9 shrink-0 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+                aria-label={previous ? `Назад: ${previous.title}` : "К списку"}
+                title={previous ? previous.title : "К списку"}
+              >
+                <ChevronLeftIcon className="size-4" />
+              </Link>
+
+              <Link
+                href={next?.href ?? "/"}
+                className="inline-flex size-9 shrink-0 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+                aria-label={next ? `Дальше: ${next.title}` : "К списку"}
+                title={next ? next.title : "К списку"}
+              >
+                <ChevronRightIcon className="size-4" />
+              </Link>
+            </>
+          ) : null}
+
+          <div className="ml-auto min-w-0">
+            <ThemeSwitcher compact />
+          </div>
+        </div>
+
+        <div className="flex items-center gap-2">
+          <div className="min-w-0 flex-1">
+            <FontSwitcher compact />
+          </div>
+          <FontSizeSwitcher />
+        </div>
+
+        <div className="flex items-center justify-end gap-2">
+          <LineHeightSwitcher />
+          <TextAlignSwitcher />
+        </div>
       </div>
     </div>
   )
