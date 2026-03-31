@@ -161,6 +161,7 @@ across multiple segments.
 | Parseltongue | парселтанг | Project / usage | Established running-text form in this repo for the serpent language itself. |
 | Legilimens | легилимент | Potter's Army / ROSMEN | Wizard skilled in Legilimency. |
 | Fantastic Beasts and Where to Find Them | Фантастические звери и места их обитания | Potter's Army / ROSMEN | Canon book title. |
+| Moste Potente Potions | Сильнодействующие зелья | Harry Potter Wiki RU / canon usage | Advanced potion book from the Hogwarts library's Restricted Section. |
 | The Tales of Beedle the Bard | Сказки барда Бидля | Potter's Army / ROSMEN | Canon wizarding fairy-tale collection. |
 | The Fountain of Fair Fortune | Фонтан феи Фортуны | Potter's Army / ROSMEN | Tale from `The Tales of Beedle the Bard`. |
 | The Warlock's Hairy Heart | Мохнатое сердце колдуна | Potter's Army / ROSMEN | Tale from `The Tales of Beedle the Bard`. |
@@ -248,6 +249,7 @@ across multiple segments.
 | Ministry of Bayes | Министерство Байеса | Project / Blue Tigers | Satirical ministry branch / mandate authority in this story cycle. |
 | Lambda's Calculator | калькулятор Ламды | Project / Blue Tigers | Magical mathemagics calculator handed out in rationality class. |
 | Chaos Legion | Легион Хаоса | Project / Blue Tigers | Referenced political-military faction in this AU. |
+| Squibgineering | Сквибинженерия | Project / title rendering | Story title; blended from `squib` and `engineering`. |
 
 ## Exam Grades
 

@@ -60,6 +60,7 @@ const IGNORED_FILES = new Set(["cover.xhtml", "toc.xhtml", "titlepage.xhtml"]);
 const BOOK_TITLE_OVERRIDES: Record<string, string> = {
   frontmatter: "Предисловие",
   "story-01": "Седьмой крестраж",
+  "story-02": "Сквибинженерия",
 };
 
 function escapeImportPath(value: string) {

@@ -4,7 +4,7 @@
 
 - [00. Предисловие](#seg-0003__toc-1-8c7bf3ba8f)
 - [01. Seventh Horcrux](#seg-0004)
-- [02. Squibgineering](#seg-0027)
+- [02. Сквибинженерия](#seg-0027)
 - [03. Tom Riddle – Origins of a Dark Lord](#seg-0033)
 - [04. Tom Riddle and the Conflict of Interest](#seg-0037)
 - [05. Tom Riddle and Battle Magic 2](#seg-0051)

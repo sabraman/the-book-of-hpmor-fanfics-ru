@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 23,
-  readableChapterCount: 23,
+  translatedSegmentCount: 25,
+  readableChapterCount: 25,
   readableBookCount: 2,
 } as const;
 
@@ -56,12 +56,12 @@ export const books: BookMeta[] = [
     "id": "story-02",
     "slug": "squibgineering",
     "href": "/books/squibgineering",
-    "title": "Squibgineering",
+    "title": "Сквибинженерия",
     "originalTitle": "Squibgineering",
     "order": 27,
-    "readableChapterCount": 1,
+    "readableChapterCount": 3,
     "totalChapterCount": 4,
-    "translatedSegmentCount": 1
+    "translatedSegmentCount": 3
   },
   {
     "id": "story-03",
@@ -1352,6 +1352,28 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1: Синие тигры",
     "originalTitle": "Chapter 1: Blue Tigers"
+  },
+  {
+    "bookId": "story-02",
+    "bookSlug": "squibgineering",
+    "slug": "seg-0030",
+    "href": "/books/squibgineering/chapters/seg-0030",
+    "order": 30,
+    "orderWithinBook": 2,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 2: Мирддин",
+    "originalTitle": "Chapter 2: Myrddin"
+  },
+  {
+    "bookId": "story-02",
+    "bookSlug": "squibgineering",
+    "slug": "seg-0031",
+    "href": "/books/squibgineering/chapters/seg-0031",
+    "order": 31,
+    "orderWithinBook": 3,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 3: Антенна",
+    "originalTitle": "Chapter 3: Antenna"
   }
 ] as ChapterMeta[];
 
@@ -1379,4 +1401,6 @@ export const chapterModules = {
   "seg-0025": () => import("@/content/chapters/seg-0025.mdx"),
   "seg-0026": () => import("@/content/chapters/seg-0026.mdx"),
   "seg-0029": () => import("@/content/chapters/seg-0029.mdx"),
+  "seg-0030": () => import("@/content/chapters/seg-0030.mdx"),
+  "seg-0031": () => import("@/content/chapters/seg-0031.mdx"),
 } as const;
