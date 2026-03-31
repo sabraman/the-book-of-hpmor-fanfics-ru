@@ -94,7 +94,7 @@ across multiple segments.
 | Slytherin | Слизерин | Potter's Army / ROSMEN | House name. |
 | Hogwarts letter | письмо из Хогвартса | Potter's Army / usage | Phrase-level default. |
 | Horcrux | крестраж | Potter's Army / ROSMEN | Canon form. |
-| Gaunt ring | кольцо Мраксов | Potter's Army / ROSMEN | Horcrux-bearing ring from the Gaunt family. |
+| Gaunt ring | Кольцо Марволо Мракса | Harry Potter Wiki RU / canon usage | Horcrux-bearing ring of Marvolo Gaunt. |
 | Ravenclaw's Diadem | диадема Когтевран | Potter's Army / ROSMEN | Lost Hogwarts founder relic and Horcrux. |
 | Hufflepuff's Cup | чаша Пуффендуя | Potter's Army / ROSMEN | Lost Hogwarts founder relic and Horcrux. |
 | Godric's Hollow | Годрикова Впадина | Potter's Army / ROSMEN | Canon place name. |
