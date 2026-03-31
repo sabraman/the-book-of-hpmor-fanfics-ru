@@ -59,7 +59,7 @@ export default async function ChapterPage({
   const bookChapters = getBookChapters(bookSlug);
 
   return (
-    <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col gap-10 px-6 py-8 pt-24 sm:px-8 lg:px-12">
+    <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col gap-10 px-6 py-8 pt-32 sm:px-8 sm:pt-28 lg:px-12">
       <ReadingProgressTracker
         href={chapter.href}
         chapterSlug={slug}
@@ -104,7 +104,7 @@ export default async function ChapterPage({
         <Link
           href={previous?.href ?? book.href}
           className={cn(
-            "rounded-[1.5rem] border border-border/80 bg-paper/72 px-5 py-4 text-left transition-colors",
+            "rounded-[1.25rem] border border-border/80 bg-paper/60 px-5 py-4 text-left transition-colors",
             "hover:bg-paper",
           )}
         >
@@ -119,7 +119,7 @@ export default async function ChapterPage({
         <Link
           href={next?.href ?? book.href}
           className={cn(
-            "rounded-[1.5rem] border border-border/80 bg-paper/72 px-5 py-4 text-left transition-colors",
+            "rounded-[1.25rem] border border-border/80 bg-paper/60 px-5 py-4 text-left transition-colors",
             "hover:bg-paper",
           )}
         >

@@ -8,7 +8,6 @@ import {
   getPrefaceBook,
   stats,
 } from "@/lib/chapters";
-import { cn } from "@/lib/utils";
 
 const books = getBooksForHome();
 const prefaceBook = getPrefaceBook();
@@ -24,7 +23,7 @@ function progressLabel(readableChapterCount: number, totalChapterCount: number) 
 
 export default function Home() {
   return (
-    <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col gap-10 px-6 py-8 pt-24 sm:px-8 lg:px-12">
+    <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col gap-10 px-6 py-8 pt-32 pb-28 sm:px-8 sm:pt-28 sm:pb-24 lg:px-12">
       <FloatingChapterNav />
       <ContinueReadingBanner />
 
@@ -47,19 +46,19 @@ export default function Home() {
 
       <div className="mx-auto w-full max-w-[70ch] space-y-10">
         {prefaceChapter ? (
-          <section className="space-y-3">
-            <p className="text-[0.7rem] font-medium tracking-[0.24em] text-muted-foreground uppercase">
+          <section className="space-y-2">
+            <p className="text-[0.66rem] font-medium tracking-[0.24em] text-muted-foreground/80 uppercase">
               Вступление
             </p>
             <Link
               href={prefaceChapter.href}
-              className="group flex items-baseline gap-4 px-3 py-3 transition-colors"
+              className="group block px-3 py-2 transition-colors"
             >
-              <span className="min-w-0 space-y-1">
-                <span className="block text-[0.72rem] tracking-[0.18em] text-muted-foreground uppercase">
+              <span className="block min-w-0 space-y-1">
+                <span className="block text-[0.66rem] tracking-[0.18em] text-muted-foreground/80 uppercase">
                   1
                 </span>
-                <span className="reader-display block text-balance text-xl leading-tight text-foreground decoration-ink/45 decoration-[1px] underline-offset-[0.22em] group-hover:text-ink group-hover:underline">
+                <span className="reader-display block text-balance text-lg leading-tight text-foreground decoration-ink/35 decoration-[1px] underline-offset-[0.18em] group-hover:text-ink group-hover:underline">
                   {prefaceChapter.title}
                 </span>
               </span>
@@ -67,7 +66,7 @@ export default function Home() {
           </section>
         ) : null}
 
-        <section className="space-y-3">
+        <section className="space-y-2">
           <p className="text-[0.7rem] font-medium tracking-[0.24em] text-muted-foreground uppercase">
             Книги
           </p>
@@ -76,23 +75,18 @@ export default function Home() {
               <Link
                 key={book.slug}
                 href={book.href}
-                className={cn("group flex gap-4 px-3 py-4 transition-colors")}
+                className="group block px-3 py-4 transition-colors"
               >
-                <span className="min-w-0 flex-1 space-y-2">
+                <span className="block min-w-0 space-y-2">
                   <span className="block text-[0.72rem] tracking-[0.18em] text-muted-foreground uppercase">
                     {index + 1}
                   </span>
-                  <span className="reader-display block text-balance text-2xl leading-tight text-foreground decoration-ink/45 decoration-[1px] underline-offset-[0.22em] group-hover:text-ink group-hover:underline">
+                  <span className="reader-display block max-w-[20ch] text-balance text-2xl leading-tight text-foreground decoration-ink/45 decoration-[1px] underline-offset-[0.22em] group-hover:text-ink group-hover:underline">
                     {book.title}
                   </span>
-                  {book.title !== book.originalTitle ? (
-                    <span className="block text-sm leading-6 text-muted-foreground">
-                      {book.originalTitle}
-                    </span>
-                  ) : null}
-                </span>
-                <span className="shrink-0 pt-7 text-right text-[0.72rem] tracking-[0.18em] text-muted-foreground uppercase">
-                  {progressLabel(book.readableChapterCount, book.totalChapterCount)}
+                  <span className="block text-[0.72rem] tracking-[0.18em] text-muted-foreground uppercase">
+                    {progressLabel(book.readableChapterCount, book.totalChapterCount)}
+                  </span>
                 </span>
               </Link>
             ))}

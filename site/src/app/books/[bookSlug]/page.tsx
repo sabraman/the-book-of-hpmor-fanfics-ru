@@ -55,7 +55,7 @@ export default async function BookPage({
   const chapters = getBookChapters(bookSlug);
 
   return (
-    <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col gap-10 px-6 py-8 pt-24 sm:px-8 lg:px-12">
+    <main className="mx-auto flex w-full max-w-5xl flex-1 flex-col gap-10 px-6 py-8 pt-32 sm:px-8 sm:pt-28 lg:px-12">
       <FloatingChapterNav />
 
       <header className="mx-auto flex w-full max-w-[70ch] flex-col items-center gap-5 border-b border-border/80 pb-8 text-center">
@@ -67,18 +67,14 @@ export default async function BookPage({
           Назад к книгам
         </Link>
 
-        <div className="space-y-2">
+        <div className="space-y-3">
           <h1 className="reader-display text-4xl leading-none tracking-[-0.05em] sm:text-5xl">
             {book.title}
           </h1>
-          {book.title !== book.originalTitle ? (
-            <p className="text-base leading-7 text-muted-foreground">{book.originalTitle}</p>
-          ) : null}
+          <p className="text-[0.72rem] tracking-[0.18em] text-muted-foreground uppercase">
+            {progressLabel(book.readableChapterCount, book.totalChapterCount)}
+          </p>
         </div>
-
-        <p className="text-[0.72rem] tracking-[0.18em] text-muted-foreground uppercase">
-          {progressLabel(book.readableChapterCount, book.totalChapterCount)}
-        </p>
       </header>
 
       <section className="mx-auto w-full max-w-[70ch] space-y-1">
@@ -86,9 +82,9 @@ export default async function BookPage({
           <Link
             key={chapter.slug}
             href={chapter.href}
-            className="group flex items-baseline gap-4 px-3 py-3 transition-colors"
+            className="group block px-3 py-3 transition-colors"
           >
-            <span className="min-w-0 space-y-1">
+            <span className="block min-w-0 space-y-1">
               <span className="block text-[0.72rem] tracking-[0.18em] text-muted-foreground uppercase">
                 {chapter.orderWithinBook}
               </span>
