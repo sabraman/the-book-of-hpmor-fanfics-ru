@@ -134,10 +134,14 @@ across multiple segments.
 | Legilimens | легилимент | Potter's Army / ROSMEN | Wizard skilled in Legilimency. |
 | Fantastic Beasts and Where to Find Them | Фантастические звери и места их обитания | Potter's Army / ROSMEN | Canon book title. |
 | Leaky Cauldron | Дырявый котёл | Potter's Army / ROSMEN | Canon inn name in London. |
+| Grimmauld Place | площадь Гриммо | Potter's Army / ROSMEN | Black family home location. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
 | Puddlemere United | Паддлмир Юнайтед | Potter's Army / ROSMEN | Quidditch team name. |
 | Dragon Pox | драконья оспа | Potter's Army / ROSMEN | Magical illness. |
 | Gaunts | Мраксы | Potter's Army / ROSMEN | Voldemort's maternal family line. |
+| Amortentia | Амортенция | Potter's Army / ROSMEN | Most powerful love potion. |
+| Kreacher | Кикимер | Potter's Army / ROSMEN | Black family house-elf. |
+| Vanishing Cabinet | Исчезательный шкаф | Potter's Army / ROSMEN | Cabinet paired for magical transport. |
 | Patronus | Патронус | Potter's Army / ROSMEN | Capitalize as spell/conjuration name. |
 | boggart | боггарт | Potter's Army / ROSMEN | Magical creature. |
 | Grim | Грим | Potter's Army / ROSMEN | Omen name in Divination context. |
