@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { ChevronLeftIcon, ListIcon } from "lucide-react";
+import { ListIcon } from "lucide-react";
 import { useState } from "react";
 
 import { Button } from "@/components/ui/button";
@@ -15,23 +15,17 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
-import { chapters } from "@/lib/generated/chapters";
+import type { ChapterMeta } from "@/lib/chapters";
 import { cn } from "@/lib/utils";
 
-function chapterLabel(index: number, storyId: string) {
-  if (storyId === "frontmatter") {
-    return String(index + 1);
-  }
-
-  return String(index + 1);
-}
-
 export function ChaptersSheet({
+  chapters,
   currentSlug,
-  trigger = "icon",
+  title,
 }: {
+  chapters: ChapterMeta[];
   currentSlug?: string;
-  trigger?: "icon" | "button";
+  title: string;
 }) {
   const [open, setOpen] = useState(false);
 
@@ -39,35 +33,25 @@ export function ChaptersSheet({
     <Sheet open={open} onOpenChange={setOpen}>
       <SheetTrigger
         render={
-          trigger === "button" ? (
-            <button
-              className="inline-flex items-center gap-2 rounded-full border border-border/80 bg-paper/72 px-4 py-2 text-sm text-muted-foreground transition-colors hover:bg-paper hover:text-foreground"
-              type="button"
-            >
-              <ChevronLeftIcon className="size-4" />
-              Назад к главам
-            </button>
-          ) : (
-            <button
-              className="inline-flex size-9 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
-              type="button"
-              aria-label="Все главы"
-              title="Все главы"
-            >
-              <ListIcon className="size-4" />
-            </button>
-          )
+          <button
+            className="inline-flex size-9 items-center justify-center rounded-full text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+            type="button"
+            aria-label="Главы книги"
+            title="Главы книги"
+          >
+            <ListIcon className="size-4" />
+          </button>
         }
       />
 
       <SheetPopup side="left" variant="inset" showCloseButton={false} className="bg-paper/98">
         <SheetHeader>
-          <SheetTitle>Все главы</SheetTitle>
+          <SheetTitle>{title}</SheetTitle>
         </SheetHeader>
 
         <SheetPanel className="pt-0">
           <div className="flex flex-col gap-1">
-            {chapters.map((chapter, index) => {
+            {chapters.map((chapter) => {
               const isActive = chapter.slug === currentSlug;
 
               return (
@@ -75,9 +59,7 @@ export function ChaptersSheet({
                   key={chapter.slug}
                   href={chapter.href}
                   onClick={() => setOpen(false)}
-                  className={cn(
-                    "group relative flex items-start gap-3 rounded-lg px-3 py-3 text-foreground transition-colors",
-                  )}
+                  className="group relative flex items-start gap-3 rounded-lg px-3 py-3 text-foreground transition-colors"
                 >
                   <span
                     className={cn(
@@ -87,7 +69,7 @@ export function ChaptersSheet({
                     aria-hidden="true"
                   />
                   <span className="min-w-6 pt-0.5 text-[0.72rem] tracking-[0.18em] text-muted-foreground uppercase">
-                    {chapterLabel(index, chapter.storyId)}
+                    {chapter.orderWithinBook}
                   </span>
                   <span className="min-w-0">
                     <span className="reader-display block text-balance text-lg leading-tight">

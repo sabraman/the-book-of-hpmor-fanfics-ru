@@ -11,21 +11,27 @@ import {
 function saveReadingState({
   href,
   scrollY,
-  slug,
-  title,
+  chapterSlug,
+  chapterTitle,
+  bookSlug,
+  bookTitle,
 }: {
   href: string;
   scrollY: number;
-  slug: string;
-  title: string;
+  chapterSlug: string;
+  chapterTitle: string;
+  bookSlug: string | null;
+  bookTitle: string | null;
 }) {
   window.localStorage.setItem(
     READING_STATE_STORAGE_KEY,
     serializeReadingState({
       href,
       scrollY,
-      slug,
-      title,
+      chapterSlug,
+      chapterTitle,
+      bookSlug,
+      bookTitle,
       updatedAt: Date.now(),
     }),
   );
@@ -33,12 +39,16 @@ function saveReadingState({
 
 export function ReadingProgressTracker({
   href,
-  slug,
-  title,
+  chapterSlug,
+  chapterTitle,
+  bookSlug,
+  bookTitle,
 }: {
   href: string;
-  slug: string;
-  title: string;
+  chapterSlug: string;
+  chapterTitle: string;
+  bookSlug: string | null;
+  bookTitle: string | null;
 }) {
   const restoredRef = useRef(false);
   const frameRef = useRef<number | null>(null);
@@ -47,8 +57,15 @@ export function ReadingProgressTracker({
     const storedState = parseReadingState(
       window.localStorage.getItem(READING_STATE_STORAGE_KEY),
     );
+    const currentPath = window.location.pathname;
+    const shouldRestore =
+      storedState !== null &&
+      storedState.scrollY > 0 &&
+      (storedState.href === currentPath ||
+        storedState.chapterSlug === chapterSlug ||
+        (storedState.bookSlug === bookSlug && storedState.chapterSlug === chapterSlug));
 
-    if (!restoredRef.current && storedState?.slug === slug && storedState.scrollY > 0) {
+    if (!restoredRef.current && shouldRestore && storedState) {
       restoredRef.current = true;
 
       requestAnimationFrame(() => {
@@ -58,7 +75,14 @@ export function ReadingProgressTracker({
       });
     }
 
-    saveReadingState({ href, scrollY: window.scrollY, slug, title });
+    saveReadingState({
+      href,
+      scrollY: window.scrollY,
+      chapterSlug,
+      chapterTitle,
+      bookSlug,
+      bookTitle,
+    });
 
     const onScroll = () => {
       if (frameRef.current !== null) {
@@ -67,12 +91,26 @@ export function ReadingProgressTracker({
 
       frameRef.current = window.requestAnimationFrame(() => {
         frameRef.current = null;
-        saveReadingState({ href, scrollY: window.scrollY, slug, title });
+        saveReadingState({
+          href,
+          scrollY: window.scrollY,
+          chapterSlug,
+          chapterTitle,
+          bookSlug,
+          bookTitle,
+        });
       });
     };
 
     const flush = () => {
-      saveReadingState({ href, scrollY: window.scrollY, slug, title });
+      saveReadingState({
+        href,
+        scrollY: window.scrollY,
+        chapterSlug,
+        chapterTitle,
+        bookSlug,
+        bookTitle,
+      });
     };
 
     window.addEventListener("scroll", onScroll, { passive: true });
@@ -89,7 +127,7 @@ export function ReadingProgressTracker({
       window.removeEventListener("pagehide", flush);
       window.removeEventListener("beforeunload", flush);
     };
-  }, [href, slug, title]);
+  }, [bookSlug, bookTitle, chapterSlug, chapterTitle, href]);
 
   return null;
 }

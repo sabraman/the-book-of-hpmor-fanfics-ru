@@ -1,4 +1,4 @@
-import { cp, mkdir, readFile, readdir, rm, stat, writeFile } from "node:fs/promises";
+import { cp, mkdir, readFile, rm, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -17,14 +17,32 @@ type Manifest = {
   segments: Segment[];
 };
 
+type BookMeta = {
+  id: string;
+  slug: string;
+  href: string;
+  title: string;
+  originalTitle: string;
+  order: number;
+  readableChapterCount: number;
+  totalChapterCount: number;
+  translatedSegmentCount: number;
+};
+
 type ChapterMeta = {
+  bookId: string;
+  bookSlug: string;
   slug: string;
   href: string;
   order: number;
-  storyId: string;
+  orderWithinBook: number;
   reviewStatus: string;
   title: string;
   originalTitle: string;
+};
+
+type ReadableTarget = {
+  bookSlug: string;
 };
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
@@ -32,13 +50,17 @@ const siteRoot = path.resolve(scriptDir, "..");
 const repoRoot = path.resolve(siteRoot, "..");
 const bookRoot = path.join(repoRoot, "books", "various-muggles");
 const manifestPath = path.join(bookRoot, "manifest.json");
-const outputRoot = path.join(bookRoot, "output");
 const assetsRoot = path.join(bookRoot, "assets");
+const sourceRoot = path.join(repoRoot, "src", "en");
 const generatedContentRoot = path.join(siteRoot, "src", "content", "chapters");
 const generatedLibRoot = path.join(siteRoot, "src", "lib", "generated");
 const publicAssetsRoot = path.join(siteRoot, "public", "book-assets");
 
 const IGNORED_FILES = new Set(["cover.xhtml", "toc.xhtml", "titlepage.xhtml"]);
+const BOOK_TITLE_OVERRIDES: Record<string, string> = {
+  frontmatter: "Предисловие",
+  "story-01": "Седьмой крестраж",
+};
 
 function escapeImportPath(value: string) {
   return value.replaceAll("\\", "\\\\").replaceAll("`", "\\`");
@@ -48,7 +70,50 @@ function normalizeLineEndings(value: string) {
   return value.replaceAll("\r\n", "\n");
 }
 
-function toChapterHref(target: string, readableIds: Set<string>) {
+function stripBookNumberPrefix(value: string) {
+  return value.replace(/^\d+\.\s*/, "").trim();
+}
+
+function slugify(value: string) {
+  return stripBookNumberPrefix(value)
+    .normalize("NFKD")
+    .replace(/[^\w\s-]/g, "")
+    .trim()
+    .toLowerCase()
+    .replace(/[\s_-]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function extractStorySourceIndex(segments: Segment[]) {
+  for (const segment of segments) {
+    const match = /^(\d+)\//.exec(segment.original_path);
+
+    if (match) {
+      return Number.parseInt(match[1], 10);
+    }
+  }
+
+  return null;
+}
+
+async function readOpfBookTitle(storySourceIndex: number | null) {
+  if (storySourceIndex === null) {
+    return null;
+  }
+
+  const opfPath = path.join(sourceRoot, String(storySourceIndex), "content.opf");
+
+  if (!(await fileExists(opfPath))) {
+    return null;
+  }
+
+  const raw = await readFile(opfPath, "utf8");
+  const match = raw.match(/<dc:title>([\s\S]*?)<\/dc:title>/);
+
+  return match?.[1]?.trim() ?? null;
+}
+
+function toChapterHref(target: string, readableTargets: Map<string, ReadableTarget>) {
   const match = /^#(seg-\d{4})(.*)$/.exec(target);
 
   if (!match) {
@@ -56,21 +121,22 @@ function toChapterHref(target: string, readableIds: Set<string>) {
   }
 
   const [, segmentId, suffix] = match;
+  const readableTarget = readableTargets.get(segmentId);
 
-  if (!readableIds.has(segmentId)) {
+  if (!readableTarget) {
     return null;
   }
 
-  return `/chapters/${segmentId}${suffix}`;
+  return `/books/${readableTarget.bookSlug}/chapters/${segmentId}${suffix}`;
 }
 
-function rewriteLinks(markdown: string, readableIds: Set<string>) {
+function rewriteLinks(markdown: string, readableTargets: Map<string, ReadableTarget>) {
   let result = markdown;
 
   result = result.replace(
     /\[([^\]]+)\]\((#seg-\d{4}[^)]*)\)/g,
     (_match, label: string, target: string) => {
-      const href = toChapterHref(target, readableIds);
+      const href = toChapterHref(target, readableTargets);
       return href ? `[${label}](${href})` : label;
     },
   );
@@ -78,7 +144,7 @@ function rewriteLinks(markdown: string, readableIds: Set<string>) {
   result = result.replace(
     /<a\b([^>]*?)href="(#seg-\d{4}[^"]*)"([^>]*)>(.*?)<\/a>/g,
     (_match, before: string, target: string, after: string, label: string) => {
-      const href = toChapterHref(target, readableIds);
+      const href = toChapterHref(target, readableTargets);
       return href ? `<a${before}href="${href}"${after}>${label}</a>` : label;
     },
   );
@@ -89,7 +155,7 @@ function rewriteLinks(markdown: string, readableIds: Set<string>) {
   return result;
 }
 
-function sanitizeMarkdown(markdown: string, readableIds: Set<string>) {
+function sanitizeMarkdown(markdown: string, readableTargets: Map<string, ReadableTarget>) {
   let result = normalizeLineEndings(markdown).trim();
 
   result = result.replace(/^<span id="[^"]+"><\/span>\n+/m, "");
@@ -98,7 +164,7 @@ function sanitizeMarkdown(markdown: string, readableIds: Set<string>) {
     .filter((line) => !/^<\/?div\b[^>]*>$/.test(line.trim()))
     .join("\n");
   result = result.replace(/\sclass="[^"]*calibre[^"]*"/g, "");
-  result = rewriteLinks(result, readableIds);
+  result = rewriteLinks(result, readableTargets);
   result = result.replace(/\n{3,}/g, "\n\n");
 
   return `${result.trim()}\n`;
@@ -134,15 +200,31 @@ async function main() {
   await mkdir(generatedLibRoot, { recursive: true });
   await mkdir(path.dirname(publicAssetsRoot), { recursive: true });
 
+  const storySegments = new Map<string, Segment[]>();
+
+  for (const segment of manifest.segments) {
+    const segments = storySegments.get(segment.story_id) ?? [];
+    segments.push(segment);
+    storySegments.set(segment.story_id, segments);
+  }
+
+  const totalChapterCountByStory = new Map<string, number>();
   const translatedSegments: Segment[] = [];
+  const translatedSegmentCountByStory = new Map<string, number>();
 
   for (const segment of manifest.segments) {
     const basename = path.posix.basename(segment.original_path);
-    const outputPath = path.join(bookRoot, segment.output_file);
 
     if (IGNORED_FILES.has(basename)) {
       continue;
     }
+
+    totalChapterCountByStory.set(
+      segment.story_id,
+      (totalChapterCountByStory.get(segment.story_id) ?? 0) + 1,
+    );
+
+    const outputPath = path.join(bookRoot, segment.output_file);
 
     if (!(await fileExists(outputPath))) {
       continue;
@@ -155,25 +237,93 @@ async function main() {
     }
 
     translatedSegments.push(segment);
+    translatedSegmentCountByStory.set(
+      segment.story_id,
+      (translatedSegmentCountByStory.get(segment.story_id) ?? 0) + 1,
+    );
   }
 
-  const readableIds = new Set(translatedSegments.map((segment) => segment.id));
+  const readableChapterCountByStory = new Map<string, number>();
+
+  for (const segment of translatedSegments) {
+    readableChapterCountByStory.set(
+      segment.story_id,
+      (readableChapterCountByStory.get(segment.story_id) ?? 0) + 1,
+    );
+  }
+
+  const books: BookMeta[] = [];
+  const bookSlugById = new Map<string, string>();
+
+  for (const [storyId, segments] of storySegments) {
+    const order = Math.min(...segments.map((segment) => segment.order));
+    const originalTitle =
+      storyId === "frontmatter"
+        ? "Preface"
+        : stripBookNumberPrefix(
+            (await readOpfBookTitle(extractStorySourceIndex(segments))) ?? storyId,
+          );
+    const title = BOOK_TITLE_OVERRIDES[storyId] ?? originalTitle;
+    const slug = storyId === "frontmatter" ? "preface" : slugify(originalTitle) || storyId;
+    const readableChapterCount = readableChapterCountByStory.get(storyId) ?? 0;
+    const translatedSegmentCount = translatedSegmentCountByStory.get(storyId) ?? 0;
+    const totalChapterCount = totalChapterCountByStory.get(storyId) ?? 0;
+
+    const book: BookMeta = {
+      id: storyId,
+      slug,
+      href: `/books/${slug}`,
+      title,
+      originalTitle,
+      order,
+      readableChapterCount,
+      totalChapterCount,
+      translatedSegmentCount,
+    };
+
+    books.push(book);
+    bookSlugById.set(storyId, slug);
+  }
+
+  books.sort((left, right) => left.order - right.order);
+
+  const readableTargets = new Map<string, ReadableTarget>();
+
+  for (const segment of translatedSegments) {
+    const bookSlug = bookSlugById.get(segment.story_id);
+
+    if (bookSlug) {
+      readableTargets.set(segment.id, { bookSlug });
+    }
+  }
+
   const readableChapters: ChapterMeta[] = [];
+  const chapterOrderWithinBook = new Map<string, number>();
 
   for (const segment of translatedSegments) {
     const outputPath = path.join(bookRoot, segment.output_file);
     const raw = await readFile(outputPath, "utf8");
-    const sanitized = sanitizeMarkdown(raw, readableIds);
+    const sanitized = sanitizeMarkdown(raw, readableTargets);
     const title = extractTitle(sanitized, segment.title ?? segment.id);
     const targetFile = path.join(generatedContentRoot, `${segment.id}.mdx`);
+    const bookSlug = bookSlugById.get(segment.story_id);
+
+    if (!bookSlug) {
+      continue;
+    }
 
     await writeFile(targetFile, sanitized, "utf8");
 
+    const orderWithinBook = (chapterOrderWithinBook.get(segment.story_id) ?? 0) + 1;
+    chapterOrderWithinBook.set(segment.story_id, orderWithinBook);
+
     readableChapters.push({
+      bookId: segment.story_id,
+      bookSlug,
       slug: segment.id,
-      href: `/chapters/${segment.id}`,
+      href: `/books/${bookSlug}/chapters/${segment.id}`,
       order: segment.order,
-      storyId: segment.story_id,
+      orderWithinBook,
       reviewStatus: segment.review_status ?? "unreviewed",
       title,
       originalTitle: segment.title ?? title,
@@ -184,14 +334,25 @@ async function main() {
 
   await cp(assetsRoot, publicAssetsRoot, { recursive: true });
 
-  const translatedFiles = await readdir(outputRoot);
-  const translatedSegmentCount = translatedFiles.filter((name) => name.endsWith(".md")).length;
+  const generated = `export type BookMeta = {
+  id: string;
+  slug: string;
+  href: string;
+  title: string;
+  originalTitle: string;
+  order: number;
+  readableChapterCount: number;
+  totalChapterCount: number;
+  translatedSegmentCount: number;
+};
 
-  const generated = `export type ChapterMeta = {
+export type ChapterMeta = {
+  bookId: string;
+  bookSlug: string;
   slug: string;
   href: string;
   order: number;
-  storyId: string;
+  orderWithinBook: number;
   reviewStatus: string;
   title: string;
   originalTitle: string;
@@ -199,9 +360,12 @@ async function main() {
 
 export const stats = {
   totalSegmentCount: ${manifest.segment_count},
-  translatedSegmentCount: ${translatedSegmentCount},
+  translatedSegmentCount: ${translatedSegments.length},
   readableChapterCount: ${readableChapters.length},
+  readableBookCount: ${books.filter((book) => book.id !== "frontmatter" && book.readableChapterCount > 0).length},
 } as const;
+
+export const books: BookMeta[] = ${JSON.stringify(books, null, 2)} as BookMeta[];
 
 export const chapters: ChapterMeta[] = ${JSON.stringify(readableChapters, null, 2)} as ChapterMeta[];
 
@@ -215,8 +379,9 @@ ${readableChapters
 } as const;
 `;
 
-  await writeFile(path.join(generatedLibRoot, "chapters.ts"), generated, "utf8");
+  await writeFile(path.join(generatedLibRoot, "catalog.ts"), generated, "utf8");
 
+  console.log(`Generated ${books.length} book record(s).`);
   console.log(`Generated ${readableChapters.length} readable MDX file(s).`);
   console.log(`Copied assets to ${publicAssetsRoot}.`);
 }

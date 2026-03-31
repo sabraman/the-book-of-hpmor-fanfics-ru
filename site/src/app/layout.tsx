@@ -86,7 +86,7 @@ const jetBrainsMono = JetBrains_Mono({ variable: "--font-jetbrains-mono", subset
 
 export const metadata: Metadata = {
   title: "HPMOR Fanfics RU",
-  description: "Минималистичная онлайн-читалка для переведенных сегментов HPMOR fanfics.",
+  description: "Минималистичная онлайн-читалка для переведенных книг и глав HPMOR fanfics.",
 };
 
 export default function RootLayout({

@@ -48,8 +48,13 @@ export function ContinueReadingBanner() {
             <span className="block text-[0.68rem] tracking-[0.2em] text-muted-foreground uppercase">
               Продолжить чтение
             </span>
+            {readingState.bookTitle ? (
+              <span className="mt-1 block truncate text-xs tracking-[0.18em] text-muted-foreground uppercase">
+                {readingState.bookTitle}
+              </span>
+            ) : null}
             <span className="reader-display mt-1 block truncate text-lg leading-tight text-foreground">
-              {readingState.title}
+              {readingState.chapterTitle}
             </span>
           </span>
         </span>

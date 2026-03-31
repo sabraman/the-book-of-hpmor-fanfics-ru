@@ -17,7 +17,7 @@ export default function NotFound() {
           href="/"
           className="inline-flex rounded-full border border-border px-4 py-2 text-sm transition-colors hover:bg-paper"
         >
-          Вернуться к списку
+          Вернуться к книгам
         </Link>
       </div>
     </main>

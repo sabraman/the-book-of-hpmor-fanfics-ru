@@ -1,0 +1,1382 @@
+export type BookMeta = {
+  id: string;
+  slug: string;
+  href: string;
+  title: string;
+  originalTitle: string;
+  order: number;
+  readableChapterCount: number;
+  totalChapterCount: number;
+  translatedSegmentCount: number;
+};
+
+export type ChapterMeta = {
+  bookId: string;
+  bookSlug: string;
+  slug: string;
+  href: string;
+  order: number;
+  orderWithinBook: number;
+  reviewStatus: string;
+  title: string;
+  originalTitle: string;
+};
+
+export const stats = {
+  totalSegmentCount: 1070,
+  translatedSegmentCount: 23,
+  readableChapterCount: 23,
+  readableBookCount: 2,
+} as const;
+
+export const books: BookMeta[] = [
+  {
+    "id": "frontmatter",
+    "slug": "preface",
+    "href": "/books/preface",
+    "title": "Предисловие",
+    "originalTitle": "Preface",
+    "order": 1,
+    "readableChapterCount": 1,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 1
+  },
+  {
+    "id": "story-01",
+    "slug": "seventh-horcrux",
+    "href": "/books/seventh-horcrux",
+    "title": "Седьмой крестраж",
+    "originalTitle": "Seventh Horcrux",
+    "order": 4,
+    "readableChapterCount": 21,
+    "totalChapterCount": 21,
+    "translatedSegmentCount": 21
+  },
+  {
+    "id": "story-02",
+    "slug": "squibgineering",
+    "href": "/books/squibgineering",
+    "title": "Squibgineering",
+    "originalTitle": "Squibgineering",
+    "order": 27,
+    "readableChapterCount": 1,
+    "totalChapterCount": 4,
+    "translatedSegmentCount": 1
+  },
+  {
+    "id": "story-03",
+    "slug": "tom-riddle-origins-of-a-dark-lord",
+    "href": "/books/tom-riddle-origins-of-a-dark-lord",
+    "title": "Tom Riddle – Origins of a Dark Lord",
+    "originalTitle": "Tom Riddle – Origins of a Dark Lord",
+    "order": 33,
+    "readableChapterCount": 0,
+    "totalChapterCount": 2,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-04",
+    "slug": "tom-riddle-and-the-conflict-of-interest",
+    "href": "/books/tom-riddle-and-the-conflict-of-interest",
+    "title": "Tom Riddle and the Conflict of Interest",
+    "originalTitle": "Tom Riddle and the Conflict of Interest",
+    "order": 37,
+    "readableChapterCount": 0,
+    "totalChapterCount": 12,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-05",
+    "slug": "tom-riddle-and-battle-magic-2",
+    "href": "/books/tom-riddle-and-battle-magic-2",
+    "title": "Tom Riddle and Battle Magic 2",
+    "originalTitle": "Tom Riddle and Battle Magic 2",
+    "order": 51,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-06",
+    "slug": "tom-riddle-and-conflicts-of-christmas",
+    "href": "/books/tom-riddle-and-conflicts-of-christmas",
+    "title": "Tom Riddle and Conflicts of Christmas",
+    "originalTitle": "Tom Riddle and Conflicts of Christmas",
+    "order": 54,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-07",
+    "slug": "firenzes-tale",
+    "href": "/books/firenzes-tale",
+    "title": "Firenze's Tale",
+    "originalTitle": "Firenze's Tale",
+    "order": 57,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-08",
+    "slug": "lord-voldemorts-first-speech",
+    "href": "/books/lord-voldemorts-first-speech",
+    "title": "Lord Voldemort's First Speech",
+    "originalTitle": "Lord Voldemort's First Speech",
+    "order": 60,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-09",
+    "slug": "professors-arent-idiots",
+    "href": "/books/professors-arent-idiots",
+    "title": "Professors Aren't Idiots",
+    "originalTitle": "Professors Aren't Idiots",
+    "order": 63,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-10",
+    "slug": "hermione-granger-and-the-perfectly-reasonable-explanation",
+    "href": "/books/hermione-granger-and-the-perfectly-reasonable-explanation",
+    "title": "Hermione Granger and the Perfectly Reasonable Explanation",
+    "originalTitle": "Hermione Granger and the Perfectly Reasonable Explanation",
+    "order": 66,
+    "readableChapterCount": 0,
+    "totalChapterCount": 25,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-11",
+    "slug": "mary-poppins-begins-the-end",
+    "href": "/books/mary-poppins-begins-the-end",
+    "title": "Mary Poppins Begins the End",
+    "originalTitle": "Mary Poppins Begins the End",
+    "order": 93,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-12",
+    "slug": "daystars-remix-of-hpmor",
+    "href": "/books/daystars-remix-of-hpmor",
+    "title": "Daystar's Remix of HPMOR",
+    "originalTitle": "Daystar's Remix of HPMOR",
+    "order": 96,
+    "readableChapterCount": 0,
+    "totalChapterCount": 4,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-13",
+    "slug": "hpmor-crack-a-questionable-harry-potter",
+    "href": "/books/hpmor-crack-a-questionable-harry-potter",
+    "title": "HPMOR Crack: A Questionable Harry Potter",
+    "originalTitle": "HPMOR Crack: A Questionable Harry Potter",
+    "order": 102,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-14",
+    "slug": "chapter-10a-hufflepuff-harry-potter",
+    "href": "/books/chapter-10a-hufflepuff-harry-potter",
+    "title": "Chapter 10a Hufflepuff Harry Potter",
+    "originalTitle": "Chapter 10a Hufflepuff Harry Potter",
+    "order": 105,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-15",
+    "slug": "headmaster-potter-evans-verres",
+    "href": "/books/headmaster-potter-evans-verres",
+    "title": "Headmaster Potter-Evans-Verres",
+    "originalTitle": "Headmaster Potter-Evans-Verres",
+    "order": 108,
+    "readableChapterCount": 0,
+    "totalChapterCount": 3,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-16",
+    "slug": "minerva-mcgonagal-and-the-sensible-course-of-action",
+    "href": "/books/minerva-mcgonagal-and-the-sensible-course-of-action",
+    "title": "Minerva McGonagal and the Sensible Course of Action",
+    "originalTitle": "Minerva McGonagal and the Sensible Course of Action",
+    "order": 113,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-17",
+    "slug": "hpmor-the-missing-but-necessary-chapters",
+    "href": "/books/hpmor-the-missing-but-necessary-chapters",
+    "title": "HPMoR: The Missing (but Necessary) Chapters",
+    "originalTitle": "HPMoR: The Missing (but Necessary) Chapters",
+    "order": 116,
+    "readableChapterCount": 0,
+    "totalChapterCount": 4,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-18",
+    "slug": "hysteresis",
+    "href": "/books/hysteresis",
+    "title": "Hysteresis",
+    "originalTitle": "Hysteresis",
+    "order": 122,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-19",
+    "slug": "one-level-deeper",
+    "href": "/books/one-level-deeper",
+    "title": "One Level Deeper",
+    "originalTitle": "One Level Deeper",
+    "order": 125,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-20",
+    "slug": "harry-potter-and-the-technique-of-quidditch",
+    "href": "/books/harry-potter-and-the-technique-of-quidditch",
+    "title": "Harry Potter and the Technique of Quidditch",
+    "originalTitle": "Harry Potter and the Technique of Quidditch",
+    "order": 128,
+    "readableChapterCount": 0,
+    "totalChapterCount": 3,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-21",
+    "slug": "memories-are-golden-and-death-is-cheap",
+    "href": "/books/memories-are-golden-and-death-is-cheap",
+    "title": "Memories are Golden and Death is Cheap",
+    "originalTitle": "Memories are Golden and Death is Cheap",
+    "order": 133,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-22",
+    "slug": "nightmares-of-azkaban",
+    "href": "/books/nightmares-of-azkaban",
+    "title": "Nightmares of Azkaban",
+    "originalTitle": "Nightmares of Azkaban",
+    "order": 136,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-23",
+    "slug": "the-fallacy-of-division-by-zero",
+    "href": "/books/the-fallacy-of-division-by-zero",
+    "title": "The Fallacy of Division By Zero",
+    "originalTitle": "The Fallacy of Division By Zero",
+    "order": 139,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-24",
+    "slug": "harrys-game",
+    "href": "/books/harrys-game",
+    "title": "Harry's Game",
+    "originalTitle": "Harry's Game",
+    "order": 142,
+    "readableChapterCount": 0,
+    "totalChapterCount": 23,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-25",
+    "slug": "educational",
+    "href": "/books/educational",
+    "title": "Educational",
+    "originalTitle": "Educational",
+    "order": 167,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-26",
+    "slug": "dark-lord-material",
+    "href": "/books/dark-lord-material",
+    "title": "Dark Lord Material",
+    "originalTitle": "Dark Lord Material",
+    "order": 170,
+    "readableChapterCount": 0,
+    "totalChapterCount": 9,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-27",
+    "slug": "following-the-phoenix",
+    "href": "/books/following-the-phoenix",
+    "title": "Following the Phoenix",
+    "originalTitle": "Following the Phoenix",
+    "order": 181,
+    "readableChapterCount": 0,
+    "totalChapterCount": 37,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-28",
+    "slug": "following-the-phoenix-flashes",
+    "href": "/books/following-the-phoenix-flashes",
+    "title": "Following the Phoenix - Flashes",
+    "originalTitle": "Following the Phoenix - Flashes",
+    "order": 220,
+    "readableChapterCount": 0,
+    "totalChapterCount": 15,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-29",
+    "slug": "squiring-the-phoenix",
+    "href": "/books/squiring-the-phoenix",
+    "title": "Squiring the Phoenix",
+    "originalTitle": "Squiring the Phoenix",
+    "order": 237,
+    "readableChapterCount": 0,
+    "totalChapterCount": 6,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-30",
+    "slug": "once-upon-a-tower",
+    "href": "/books/once-upon-a-tower",
+    "title": "Once Upon A Tower",
+    "originalTitle": "Once Upon A Tower",
+    "order": 245,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-31",
+    "slug": "hermione-granger-and-the-burden-of-responsibility",
+    "href": "/books/hermione-granger-and-the-burden-of-responsibility",
+    "title": "Hermione Granger and the Burden of Responsibility",
+    "originalTitle": "Hermione Granger and the Burden of Responsibility",
+    "order": 248,
+    "readableChapterCount": 0,
+    "totalChapterCount": 7,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-32",
+    "slug": "depart-azkaban",
+    "href": "/books/depart-azkaban",
+    "title": "Depart Azkaban",
+    "originalTitle": "Depart Azkaban",
+    "order": 257,
+    "readableChapterCount": 0,
+    "totalChapterCount": 13,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-33",
+    "slug": "a-strip-of-cloth",
+    "href": "/books/a-strip-of-cloth",
+    "title": "A Strip of Cloth",
+    "originalTitle": "A Strip of Cloth",
+    "order": 272,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-34",
+    "slug": "proximity",
+    "href": "/books/proximity",
+    "title": "Proximity",
+    "originalTitle": "Proximity",
+    "order": 275,
+    "readableChapterCount": 0,
+    "totalChapterCount": 3,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-35",
+    "slug": "innocence",
+    "href": "/books/innocence",
+    "title": "Innocence",
+    "originalTitle": "Innocence",
+    "order": 280,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-36",
+    "slug": "for-summer",
+    "href": "/books/for-summer",
+    "title": "For Summer",
+    "originalTitle": "For Summer",
+    "order": 283,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-37",
+    "slug": "asking-for-help",
+    "href": "/books/asking-for-help",
+    "title": "Asking for Help",
+    "originalTitle": "Asking for Help",
+    "order": 286,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-38",
+    "slug": "hermione-granger-and-the-tesseract-of-merlin-missing",
+    "href": "/books/hermione-granger-and-the-tesseract-of-merlin-missing",
+    "title": "Hermione Granger and the Tesseract of Merlin [missing]",
+    "originalTitle": "Hermione Granger and the Tesseract of Merlin [missing]",
+    "order": 289,
+    "readableChapterCount": 0,
+    "totalChapterCount": 0,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-39",
+    "slug": "hpmorch-89-au",
+    "href": "/books/hpmorch-89-au",
+    "title": "HPMoRCh 89 AU",
+    "originalTitle": "HPMoRCh 89 AU",
+    "order": 290,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-40",
+    "slug": "reductionism-for-the-win",
+    "href": "/books/reductionism-for-the-win",
+    "title": "Reductionism for the Win",
+    "originalTitle": "Reductionism for the Win",
+    "order": 293,
+    "readableChapterCount": 0,
+    "totalChapterCount": 6,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-41",
+    "slug": "repairing-ignorance",
+    "href": "/books/repairing-ignorance",
+    "title": "Repairing Ignorance",
+    "originalTitle": "Repairing Ignorance",
+    "order": 301,
+    "readableChapterCount": 0,
+    "totalChapterCount": 2,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-42",
+    "slug": "harry-potter-and-the-philosophers-zombie",
+    "href": "/books/harry-potter-and-the-philosophers-zombie",
+    "title": "Harry Potter and the Philosopher's Zombie",
+    "originalTitle": "Harry Potter and the Philosopher's Zombie",
+    "order": 305,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-43",
+    "slug": "the-longest-day",
+    "href": "/books/the-longest-day",
+    "title": "The Longest Day",
+    "originalTitle": "The Longest Day",
+    "order": 308,
+    "readableChapterCount": 0,
+    "totalChapterCount": 25,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-44",
+    "slug": "griphook-and-the-strong-form-emh",
+    "href": "/books/griphook-and-the-strong-form-emh",
+    "title": "Griphook and the Strong Form EMH",
+    "originalTitle": "Griphook and the Strong Form EMH",
+    "order": 335,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-45",
+    "slug": "hacking-the-source-of-magic",
+    "href": "/books/hacking-the-source-of-magic",
+    "title": "Hacking the Source of Magic",
+    "originalTitle": "Hacking the Source of Magic",
+    "order": 338,
+    "readableChapterCount": 0,
+    "totalChapterCount": 8,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-46",
+    "slug": "harry-potter-and-the-cryptographic-key",
+    "href": "/books/harry-potter-and-the-cryptographic-key",
+    "title": "Harry Potter and the cryptographic key",
+    "originalTitle": "Harry Potter and the cryptographic key",
+    "order": 348,
+    "readableChapterCount": 0,
+    "totalChapterCount": 9,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-47",
+    "slug": "of-fakes-phoenixes-and-friendship-missing",
+    "href": "/books/of-fakes-phoenixes-and-friendship-missing",
+    "title": "Of Fakes Phoenixes and Friendship [missing]",
+    "originalTitle": "Of Fakes Phoenixes and Friendship [missing]",
+    "order": 359,
+    "readableChapterCount": 0,
+    "totalChapterCount": 0,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-48",
+    "slug": "minds-names-and-faces",
+    "href": "/books/minds-names-and-faces",
+    "title": "Minds Names and Faces",
+    "originalTitle": "Minds Names and Faces",
+    "order": 360,
+    "readableChapterCount": 0,
+    "totalChapterCount": 12,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-49",
+    "slug": "nothing-left-but-fire",
+    "href": "/books/nothing-left-but-fire",
+    "title": "Nothing Left but Fire",
+    "originalTitle": "Nothing Left but Fire",
+    "order": 374,
+    "readableChapterCount": 0,
+    "totalChapterCount": 8,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-50",
+    "slug": "alt-chapters-109-110-riddles-upon-riddles-legacy-of-the-troll",
+    "href": "/books/alt-chapters-109-110-riddles-upon-riddles-legacy-of-the-troll",
+    "title": "Alt Chapters 109-110 (Riddles Upon Riddles, Legacy of The Troll)",
+    "originalTitle": "Alt Chapters 109-110 (Riddles Upon Riddles, Legacy of The Troll)",
+    "order": 384,
+    "readableChapterCount": 0,
+    "totalChapterCount": 2,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-51",
+    "slug": "still-in-the-mirror",
+    "href": "/books/still-in-the-mirror",
+    "title": "Still In(,) The Mirror",
+    "originalTitle": "Still In(,) The Mirror",
+    "order": 388,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-52",
+    "slug": "the-last-enemy",
+    "href": "/books/the-last-enemy",
+    "title": "The Last Enemy",
+    "originalTitle": "The Last Enemy",
+    "order": 391,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-53",
+    "slug": "hpmor-the-final-exam",
+    "href": "/books/hpmor-the-final-exam",
+    "title": "HPMoR the final exam",
+    "originalTitle": "HPMoR the final exam",
+    "order": 394,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-54",
+    "slug": "exam-answer",
+    "href": "/books/exam-answer",
+    "title": "Exam Answer",
+    "originalTitle": "Exam Answer",
+    "order": 397,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-55",
+    "slug": "near-mode-far-mode",
+    "href": "/books/near-mode-far-mode",
+    "title": "Near Mode Far Mode",
+    "originalTitle": "Near Mode Far Mode",
+    "order": 400,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-56",
+    "slug": "harry-potter-and-the-nuclear-bomb",
+    "href": "/books/harry-potter-and-the-nuclear-bomb",
+    "title": "Harry Potter and the Nuclear Bomb",
+    "originalTitle": "Harry Potter and the Nuclear Bomb",
+    "order": 403,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-57",
+    "slug": "a-rational-response",
+    "href": "/books/a-rational-response",
+    "title": "A Rational Response",
+    "originalTitle": "A Rational Response",
+    "order": 406,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-58",
+    "slug": "final-revision",
+    "href": "/books/final-revision",
+    "title": "Final Revision",
+    "originalTitle": "Final Revision",
+    "order": 409,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-59",
+    "slug": "methods-of-fictionality-missing",
+    "href": "/books/methods-of-fictionality-missing",
+    "title": "Methods of Fictionality [missing]",
+    "originalTitle": "Methods of Fictionality [missing]",
+    "order": 412,
+    "readableChapterCount": 0,
+    "totalChapterCount": 0,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-60",
+    "slug": "nonlinear-regression",
+    "href": "/books/nonlinear-regression",
+    "title": "Nonlinear Regression",
+    "originalTitle": "Nonlinear Regression",
+    "order": 413,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-61",
+    "slug": "chapter-113-exam-answers",
+    "href": "/books/chapter-113-exam-answers",
+    "title": "Chapter 113 Exam Answers",
+    "originalTitle": "Chapter 113 Exam Answers",
+    "order": 416,
+    "readableChapterCount": 0,
+    "totalChapterCount": 13,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-62",
+    "slug": "how-hpmor-should-have-ended",
+    "href": "/books/how-hpmor-should-have-ended",
+    "title": "How HPMoR Should Have Ended",
+    "originalTitle": "How HPMoR Should Have Ended",
+    "order": 431,
+    "readableChapterCount": 0,
+    "totalChapterCount": 2,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-63",
+    "slug": "the-philosophers-red-herring",
+    "href": "/books/the-philosophers-red-herring",
+    "title": "The Philosopher's Red Herring",
+    "originalTitle": "The Philosopher's Red Herring",
+    "order": 435,
+    "readableChapterCount": 0,
+    "totalChapterCount": 2,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-64",
+    "slug": "revival",
+    "href": "/books/revival",
+    "title": "Revival",
+    "originalTitle": "Revival",
+    "order": 439,
+    "readableChapterCount": 0,
+    "totalChapterCount": 61,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-65",
+    "slug": "harry-potter-and-the-irrational-odyssey",
+    "href": "/books/harry-potter-and-the-irrational-odyssey",
+    "title": "Harry Potter and the Irrational Odyssey",
+    "originalTitle": "Harry Potter and the Irrational Odyssey",
+    "order": 502,
+    "readableChapterCount": 0,
+    "totalChapterCount": 2,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-66",
+    "slug": "stephen-and-the-plans-of-harry-james-potter-evans-verres",
+    "href": "/books/stephen-and-the-plans-of-harry-james-potter-evans-verres",
+    "title": "Stephen and the Plans of Harry James Potter-Evans-Verres",
+    "originalTitle": "Stephen and the Plans of Harry James Potter-Evans-Verres",
+    "order": 506,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-67",
+    "slug": "harry-potter-and-the-methods-of-self-modification",
+    "href": "/books/harry-potter-and-the-methods-of-self-modification",
+    "title": "Harry Potter and the Methods of Self-Modification",
+    "originalTitle": "Harry Potter and the Methods of Self-Modification",
+    "order": 509,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-68",
+    "slug": "you-said-no-kissing",
+    "href": "/books/you-said-no-kissing",
+    "title": "You Said No Kissing",
+    "originalTitle": "You Said No Kissing",
+    "order": 512,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-69",
+    "slug": "dont-think-of-a-strangelet",
+    "href": "/books/dont-think-of-a-strangelet",
+    "title": "Don't Think of a Strangelet",
+    "originalTitle": "Don't Think of a Strangelet",
+    "order": 515,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-70",
+    "slug": "the-universe-is-an-optimisation-problem",
+    "href": "/books/the-universe-is-an-optimisation-problem",
+    "title": "The Universe is an Optimisation Problem",
+    "originalTitle": "The Universe is an Optimisation Problem",
+    "order": 518,
+    "readableChapterCount": 0,
+    "totalChapterCount": 7,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-71",
+    "slug": "hermione-granger-and-the-other-side-effect",
+    "href": "/books/hermione-granger-and-the-other-side-effect",
+    "title": "Hermione Granger and the Other Side-Effect",
+    "originalTitle": "Hermione Granger and the Other Side-Effect",
+    "order": 527,
+    "readableChapterCount": 0,
+    "totalChapterCount": 2,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-72",
+    "slug": "ginny-weasley-and-the-methods-of-rationality",
+    "href": "/books/ginny-weasley-and-the-methods-of-rationality",
+    "title": "Ginny Weasley and the Methods of Rationality",
+    "originalTitle": "Ginny Weasley and the Methods of Rationality",
+    "order": 531,
+    "readableChapterCount": 0,
+    "totalChapterCount": 7,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-73",
+    "slug": "harry-potter-and-the-european-empire",
+    "href": "/books/harry-potter-and-the-european-empire",
+    "title": "Harry Potter and the European Empire",
+    "originalTitle": "Harry Potter and the European Empire",
+    "order": 540,
+    "readableChapterCount": 0,
+    "totalChapterCount": 12,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-74",
+    "slug": "on-the-continuity-of-consciousness",
+    "href": "/books/on-the-continuity-of-consciousness",
+    "title": "On the Continuity of Consciousness",
+    "originalTitle": "On the Continuity of Consciousness",
+    "order": 554,
+    "readableChapterCount": 0,
+    "totalChapterCount": 26,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-75",
+    "slug": "hermione-granger-and-the-price-of-the-phoenix",
+    "href": "/books/hermione-granger-and-the-price-of-the-phoenix",
+    "title": "Hermione Granger and the Price of the Phoenix",
+    "originalTitle": "Hermione Granger and the Price of the Phoenix",
+    "order": 582,
+    "readableChapterCount": 0,
+    "totalChapterCount": 6,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-76",
+    "slug": "harry-potter-and-the-memories-of-a-sociopath",
+    "href": "/books/harry-potter-and-the-memories-of-a-sociopath",
+    "title": "Harry Potter and the Memories of a Sociopath",
+    "originalTitle": "Harry Potter and the Memories of a Sociopath",
+    "order": 590,
+    "readableChapterCount": 0,
+    "totalChapterCount": 22,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-77",
+    "slug": "draco-malfoy-and-the-practice-of-rationality",
+    "href": "/books/draco-malfoy-and-the-practice-of-rationality",
+    "title": "Draco Malfoy and the Practice of Rationality",
+    "originalTitle": "Draco Malfoy and the Practice of Rationality",
+    "order": 614,
+    "readableChapterCount": 0,
+    "totalChapterCount": 65,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-78",
+    "slug": "ginny-weasley-and-the-sealed-intelligence",
+    "href": "/books/ginny-weasley-and-the-sealed-intelligence",
+    "title": "Ginny Weasley and the Sealed Intelligence",
+    "originalTitle": "Ginny Weasley and the Sealed Intelligence",
+    "order": 681,
+    "readableChapterCount": 0,
+    "totalChapterCount": 35,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-79",
+    "slug": "ginny-weasley-and-the-sealed-intelligence-chapter-7-hishe",
+    "href": "/books/ginny-weasley-and-the-sealed-intelligence-chapter-7-hishe",
+    "title": "Ginny Weasley and the Sealed Intelligence, Chapter 7: HiSHE",
+    "originalTitle": "Ginny Weasley and the Sealed Intelligence, Chapter 7: HiSHE",
+    "order": 718,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-80",
+    "slug": "sirius-black-and-the-prisoners-dilemma",
+    "href": "/books/sirius-black-and-the-prisoners-dilemma",
+    "title": "Sirius Black and the Prisoner's Dilemma",
+    "originalTitle": "Sirius Black and the Prisoner's Dilemma",
+    "order": 721,
+    "readableChapterCount": 0,
+    "totalChapterCount": 5,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-81",
+    "slug": "dennis-and-the-academy",
+    "href": "/books/dennis-and-the-academy",
+    "title": "Dennis and the Academy",
+    "originalTitle": "Dennis and the Academy",
+    "order": 728,
+    "readableChapterCount": 0,
+    "totalChapterCount": 12,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-82",
+    "slug": "harry-potter-and-the-order-of-chaos",
+    "href": "/books/harry-potter-and-the-order-of-chaos",
+    "title": "Harry Potter and the Order of Chaos",
+    "originalTitle": "Harry Potter and the Order of Chaos",
+    "order": 742,
+    "readableChapterCount": 0,
+    "totalChapterCount": 3,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-83",
+    "slug": "orders-of-magnitude",
+    "href": "/books/orders-of-magnitude",
+    "title": "Orders of Magnitude",
+    "originalTitle": "Orders of Magnitude",
+    "order": 747,
+    "readableChapterCount": 0,
+    "totalChapterCount": 33,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-84",
+    "slug": "significant-digits",
+    "href": "/books/significant-digits",
+    "title": "Significant Digits",
+    "originalTitle": "Significant Digits",
+    "order": 782,
+    "readableChapterCount": 0,
+    "totalChapterCount": 58,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-85",
+    "slug": "to-boldly-go",
+    "href": "/books/to-boldly-go",
+    "title": "To Boldly Go",
+    "originalTitle": "To Boldly Go",
+    "order": 842,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-86",
+    "slug": "a-crackslash-epilogue",
+    "href": "/books/a-crackslash-epilogue",
+    "title": "A Crack/Slash Epilogue",
+    "originalTitle": "A Crack/Slash Epilogue",
+    "order": 845,
+    "readableChapterCount": 0,
+    "totalChapterCount": 1,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-87",
+    "slug": "harry-potter-and-the-methods-of-chaos",
+    "href": "/books/harry-potter-and-the-methods-of-chaos",
+    "title": "Harry Potter and the Methods of Chaos",
+    "originalTitle": "Harry Potter and the Methods of Chaos",
+    "order": 848,
+    "readableChapterCount": 0,
+    "totalChapterCount": 32,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-88",
+    "slug": "how-wizards-do-money",
+    "href": "/books/how-wizards-do-money",
+    "title": "How Wizards Do Money",
+    "originalTitle": "How Wizards Do Money",
+    "order": 882,
+    "readableChapterCount": 0,
+    "totalChapterCount": 15,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-89",
+    "slug": "oh-god-not-again",
+    "href": "/books/oh-god-not-again",
+    "title": "Oh God Not Again!",
+    "originalTitle": "Oh God Not Again!",
+    "order": 899,
+    "readableChapterCount": 0,
+    "totalChapterCount": 50,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-90",
+    "slug": "not-a-victim-mrvoldemort-missing",
+    "href": "/books/not-a-victim-mrvoldemort-missing",
+    "title": "Not a victim MrVoldemort [missing]",
+    "originalTitle": "Not a victim MrVoldemort [missing]",
+    "order": 951,
+    "readableChapterCount": 0,
+    "totalChapterCount": 0,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-91",
+    "slug": "harry-potter-and-selective-perception-missing",
+    "href": "/books/harry-potter-and-selective-perception-missing",
+    "title": "Harry Potter and Selective Perception [missing]",
+    "originalTitle": "Harry Potter and Selective Perception [missing]",
+    "order": 952,
+    "readableChapterCount": 0,
+    "totalChapterCount": 0,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-92",
+    "slug": "moore-amp-boole",
+    "href": "/books/moore-amp-boole",
+    "title": "Moore &amp; Boole",
+    "originalTitle": "Moore &amp; Boole",
+    "order": 953,
+    "readableChapterCount": 0,
+    "totalChapterCount": 3,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-93",
+    "slug": "harry-potter-and-the-natural-20",
+    "href": "/books/harry-potter-and-the-natural-20",
+    "title": "Harry Potter and the Natural 20",
+    "originalTitle": "Harry Potter and the Natural 20",
+    "order": 958,
+    "readableChapterCount": 0,
+    "totalChapterCount": 33,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-94",
+    "slug": "harry-potter-and-the-confirmed-critical",
+    "href": "/books/harry-potter-and-the-confirmed-critical",
+    "title": "Harry Potter and the Confirmed Critical",
+    "originalTitle": "Harry Potter and the Confirmed Critical",
+    "order": 993,
+    "readableChapterCount": 0,
+    "totalChapterCount": 20,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-95",
+    "slug": "harry-potter-and-the-save-or-die",
+    "href": "/books/harry-potter-and-the-save-or-die",
+    "title": "Harry Potter and the Save-or-Die",
+    "originalTitle": "Harry Potter and the Save-or-Die",
+    "order": 1015,
+    "readableChapterCount": 0,
+    "totalChapterCount": 21,
+    "translatedSegmentCount": 0
+  },
+  {
+    "id": "story-96",
+    "slug": "a-black-comedy",
+    "href": "/books/a-black-comedy",
+    "title": "A Black Comedy",
+    "originalTitle": "A Black Comedy",
+    "order": 1038,
+    "readableChapterCount": 0,
+    "totalChapterCount": 31,
+    "translatedSegmentCount": 0
+  }
+] as BookMeta[];
+
+export const chapters: ChapterMeta[] = [
+  {
+    "bookId": "frontmatter",
+    "bookSlug": "preface",
+    "slug": "seg-0003",
+    "href": "/books/preface/chapters/seg-0003",
+    "order": 3,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "00. Предисловие",
+    "originalTitle": "00. Preface"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0006",
+    "href": "/books/seventh-horcrux/chapters/seg-0006",
+    "order": 6,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1: Гарри Поттер против детства",
+    "originalTitle": "Chapter 1: HP vs Childhood"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0007",
+    "href": "/books/seventh-horcrux/chapters/seg-0007",
+    "order": 7,
+    "orderWithinBook": 2,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 2: Гарри Поттер против Квиринуса Квиррелла",
+    "originalTitle": "Chapter 2: HP vs Quirinus Quirrel"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0008",
+    "href": "/books/seventh-horcrux/chapters/seg-0008",
+    "order": 8,
+    "orderWithinBook": 3,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 3: Гарри Поттер против Гилдероя Локхарта",
+    "originalTitle": "Chapter 3: HP vs Gilderoy Lockhart"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0009",
+    "href": "/books/seventh-horcrux/chapters/seg-0009",
+    "order": 9,
+    "orderWithinBook": 4,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 4: Гарри Поттер против Римуса Люпина (часть 1)",
+    "originalTitle": "Chapter 4: HP vs Remus Lupin (Pt 1)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0010",
+    "href": "/books/seventh-horcrux/chapters/seg-0010",
+    "order": 10,
+    "orderWithinBook": 5,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 5: Гарри Поттер против Римуса Люпина (часть 2)",
+    "originalTitle": "Chapter 5: HP vs Remus Lupin (Pt 2)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0011",
+    "href": "/books/seventh-horcrux/chapters/seg-0011",
+    "order": 11,
+    "orderWithinBook": 6,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 6: Гарри Поттер против Аластора Грюма (часть 1)",
+    "originalTitle": "Chapter 6: HP vs Alastor Moody (Pt 1)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0012",
+    "href": "/books/seventh-horcrux/chapters/seg-0012",
+    "order": 12,
+    "orderWithinBook": 7,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 7: Гарри Поттер против Аластора Грюма (часть 2)",
+    "originalTitle": "Chapter 7: HP vs Alastor Moody (Pt 2)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0013",
+    "href": "/books/seventh-horcrux/chapters/seg-0013",
+    "order": 13,
+    "orderWithinBook": 8,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 8: Гарри Поттер против Аластора Грюма (часть 3)",
+    "originalTitle": "Chapter 8: HP vs Alastor Moody (Pt 3)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0014",
+    "href": "/books/seventh-horcrux/chapters/seg-0014",
+    "order": 14,
+    "orderWithinBook": 9,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 9: Гарри Поттер против Аластора Грюма (часть 4)",
+    "originalTitle": "Chapter 9: HP vs Alastor Moody (Pt 4)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0015",
+    "href": "/books/seventh-horcrux/chapters/seg-0015",
+    "order": 15,
+    "orderWithinBook": 10,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 10: Гарри Поттер против Отдела Тайн",
+    "originalTitle": "Chapter 10: HP vs DoM"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0016",
+    "href": "/books/seventh-horcrux/chapters/seg-0016",
+    "order": 16,
+    "orderWithinBook": 11,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 11: Гарри Поттер против Долорес Амбридж (ч. 1)",
+    "originalTitle": "Chapter 11: HP vs Dolores Umbridge (Pt 1)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0017",
+    "href": "/books/seventh-horcrux/chapters/seg-0017",
+    "order": 17,
+    "orderWithinBook": 12,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 12: Гарри Поттер против Долорес Амбридж (ч. 2)",
+    "originalTitle": "Chapter 12: HP vs Dolores Umbridge (Pt 2)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0018",
+    "href": "/books/seventh-horcrux/chapters/seg-0018",
+    "order": 18,
+    "orderWithinBook": 13,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 13: Гарри Поттер против Долорес Амбридж (ч. 3)",
+    "originalTitle": "Chapter 13: HP vs Dolores Umbridge (Pt 3)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0019",
+    "href": "/books/seventh-horcrux/chapters/seg-0019",
+    "order": 19,
+    "orderWithinBook": 14,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 14: Гарри Поттер против любви (ч. 1)",
+    "originalTitle": "Chapter 14: HP vs Love (Pt 1)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0020",
+    "href": "/books/seventh-horcrux/chapters/seg-0020",
+    "order": 20,
+    "orderWithinBook": 15,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 15: Гарри Поттер против любви (ч. 2)",
+    "originalTitle": "Chapter 15: HP vs Love (Pt 2)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0021",
+    "href": "/books/seventh-horcrux/chapters/seg-0021",
+    "order": 21,
+    "orderWithinBook": 16,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 16: Гарри Поттер против любви (ч. 3)",
+    "originalTitle": "Chapter 16: HP vs Love (Pt 3)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0022",
+    "href": "/books/seventh-horcrux/chapters/seg-0022",
+    "order": 22,
+    "orderWithinBook": 17,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 17: Гарри Поттер против самого себя (ч. 1)",
+    "originalTitle": "Chapter 17: HP vs Himself (Pt 1)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0023",
+    "href": "/books/seventh-horcrux/chapters/seg-0023",
+    "order": 23,
+    "orderWithinBook": 18,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 18: Гарри Поттер против самого себя (ч. 2)",
+    "originalTitle": "Chapter 18: HP vs Himself (Pt 2)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0024",
+    "href": "/books/seventh-horcrux/chapters/seg-0024",
+    "order": 24,
+    "orderWithinBook": 19,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 19: Гарри Поттер против самого себя (ч. 3)",
+    "originalTitle": "Chapter 19: HP vs Himself (Pt 3)"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0025",
+    "href": "/books/seventh-horcrux/chapters/seg-0025",
+    "order": 25,
+    "orderWithinBook": 20,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 20: Эпилог: тринадцать лет спустя",
+    "originalTitle": "Chapter 20: Epilogue: Thirteen Years Later"
+  },
+  {
+    "bookId": "story-01",
+    "bookSlug": "seventh-horcrux",
+    "slug": "seg-0026",
+    "href": "/books/seventh-horcrux/chapters/seg-0026",
+    "order": 26,
+    "orderWithinBook": 21,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 21: Омаки!",
+    "originalTitle": "Chapter 21: Omakes!"
+  },
+  {
+    "bookId": "story-02",
+    "bookSlug": "squibgineering",
+    "slug": "seg-0029",
+    "href": "/books/squibgineering/chapters/seg-0029",
+    "order": 29,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1: Синие тигры",
+    "originalTitle": "Chapter 1: Blue Tigers"
+  }
+] as ChapterMeta[];
+
+export const chapterModules = {
+  "seg-0003": () => import("@/content/chapters/seg-0003.mdx"),
+  "seg-0006": () => import("@/content/chapters/seg-0006.mdx"),
+  "seg-0007": () => import("@/content/chapters/seg-0007.mdx"),
+  "seg-0008": () => import("@/content/chapters/seg-0008.mdx"),
+  "seg-0009": () => import("@/content/chapters/seg-0009.mdx"),
+  "seg-0010": () => import("@/content/chapters/seg-0010.mdx"),
+  "seg-0011": () => import("@/content/chapters/seg-0011.mdx"),
+  "seg-0012": () => import("@/content/chapters/seg-0012.mdx"),
+  "seg-0013": () => import("@/content/chapters/seg-0013.mdx"),
+  "seg-0014": () => import("@/content/chapters/seg-0014.mdx"),
+  "seg-0015": () => import("@/content/chapters/seg-0015.mdx"),
+  "seg-0016": () => import("@/content/chapters/seg-0016.mdx"),
+  "seg-0017": () => import("@/content/chapters/seg-0017.mdx"),
+  "seg-0018": () => import("@/content/chapters/seg-0018.mdx"),
+  "seg-0019": () => import("@/content/chapters/seg-0019.mdx"),
+  "seg-0020": () => import("@/content/chapters/seg-0020.mdx"),
+  "seg-0021": () => import("@/content/chapters/seg-0021.mdx"),
+  "seg-0022": () => import("@/content/chapters/seg-0022.mdx"),
+  "seg-0023": () => import("@/content/chapters/seg-0023.mdx"),
+  "seg-0024": () => import("@/content/chapters/seg-0024.mdx"),
+  "seg-0025": () => import("@/content/chapters/seg-0025.mdx"),
+  "seg-0026": () => import("@/content/chapters/seg-0026.mdx"),
+  "seg-0029": () => import("@/content/chapters/seg-0029.mdx"),
+} as const;

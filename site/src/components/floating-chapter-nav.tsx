@@ -10,6 +10,7 @@ import { FontSwitcher } from "@/components/font-switcher"
 import { LineHeightSwitcher } from "@/components/line-height-switcher"
 import { ThemeSwitcher } from "@/components/theme-switcher/theme-switcher"
 import { TextAlignSwitcher } from "@/components/text-align-switcher"
+import type { ChapterMeta } from "@/lib/chapters"
 import { cn } from "@/lib/utils"
 
 type NavLink = {
@@ -21,15 +22,18 @@ export function FloatingChapterNav({
   currentSlug,
   previous,
   next,
-  showHomeLink = true,
+  chapters,
+  chaptersTitle = "Главы книги",
 }: {
   currentSlug?: string
   previous?: NavLink
   next?: NavLink
-  showHomeLink?: boolean
+  chapters?: ChapterMeta[]
+  chaptersTitle?: string
 }) {
   const [visible, setVisible] = useState(true)
   const lastY = useRef(0)
+  const hasSheet = Boolean(chapters?.length)
 
   useEffect(() => {
     const onScroll = () => {
@@ -61,9 +65,9 @@ export function FloatingChapterNav({
       )}
     >
       <div className="pointer-events-auto hidden items-center gap-2 rounded-full border border-border/90 bg-paper/92 px-3 py-2 shadow-[0_8px_30px_rgb(0_0_0_/_0.06)] backdrop-blur-md sm:flex dark:shadow-[0_8px_30px_rgb(0_0_0_/_0.28)]">
-        {showHomeLink ? (
+        {hasSheet ? (
           <>
-            <ChaptersSheet currentSlug={currentSlug} />
+            <ChaptersSheet chapters={chapters ?? []} currentSlug={currentSlug} title={chaptersTitle} />
             <div className="h-5 w-px bg-border" />
           </>
         ) : null}
@@ -101,7 +105,9 @@ export function FloatingChapterNav({
 
       <div className="pointer-events-auto flex w-full max-w-sm flex-col gap-2 rounded-[1.75rem] border border-border/90 bg-paper/92 p-2 shadow-[0_8px_30px_rgb(0_0_0_/_0.06)] backdrop-blur-md sm:hidden dark:shadow-[0_8px_30px_rgb(0_0_0_/_0.28)]">
         <div className="flex items-center justify-between gap-2">
-          {showHomeLink ? <ChaptersSheet currentSlug={currentSlug} /> : <div className="size-9 shrink-0" />}
+          {hasSheet ? (
+            <ChaptersSheet chapters={chapters ?? []} currentSlug={currentSlug} title={chaptersTitle} />
+          ) : null}
 
           {previous || next ? (
             <>
