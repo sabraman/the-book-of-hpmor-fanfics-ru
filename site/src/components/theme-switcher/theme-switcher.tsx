@@ -1,7 +1,6 @@
 "use client"
 
 import { useTheme } from "next-themes"
-import { useSyncExternalStore } from "react"
 
 import {
   Select,
@@ -11,6 +10,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
+import { useIsMounted } from "@/lib/use-is-mounted"
 
 const THEME_OPTIONS = [
   {
@@ -31,12 +31,7 @@ type ReaderTheme = (typeof THEME_OPTIONS)[number]["value"]
 
 function ThemeSwitcher({ compact = false }: { compact?: boolean }) {
   const { resolvedTheme, setTheme, theme } = useTheme()
-
-  const isMounted = useSyncExternalStore(
-    () => () => {},
-    () => true,
-    () => false
-  )
+  const isMounted = useIsMounted()
 
   if (!isMounted) {
     return <div className="h-9 w-fit rounded-full border border-border/90 px-3.5 opacity-0">Тема</div>

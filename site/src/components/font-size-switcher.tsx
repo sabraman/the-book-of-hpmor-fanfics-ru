@@ -1,15 +1,21 @@
 "use client"
 
 import { useReadingFont } from "@/components/font-provider"
+import { useIsMounted } from "@/lib/use-is-mounted"
 import { cn } from "@/lib/utils"
 
 export function FontSizeSwitcher() {
+  const isMounted = useIsMounted()
   const {
     canDecreaseFontScale,
     canIncreaseFontScale,
     decreaseFontScale,
     increaseFontScale,
   } = useReadingFont()
+
+  if (!isMounted) {
+    return <div className="h-8 w-[4rem] rounded-full opacity-0" aria-hidden />
+  }
 
   return (
     <div className="inline-flex items-center overflow-hidden rounded-full bg-paper/85 ring-1 ring-border/90 ring-inset backdrop-blur-sm">

@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useRef, useState, useSyncExternalStore } from "react"
+import { useEffect, useRef, useState } from "react"
 
 import { useReadingFont } from "@/components/font-provider"
 import {
@@ -18,16 +18,13 @@ import {
   type ReadingFontOption,
   type ReadingFont,
 } from "@/lib/reading-fonts"
+import { useIsMounted } from "@/lib/use-is-mounted"
 
 export function FontSwitcher({ compact = false }: { compact?: boolean }) {
   const { font, setFont } = useReadingFont()
   const measureRef = useRef<HTMLDivElement | null>(null)
   const [controlWidth, setControlWidth] = useState<number | null>(null)
-  const isMounted = useSyncExternalStore(
-    () => () => {},
-    () => true,
-    () => false,
-  )
+  const isMounted = useIsMounted()
   const items: readonly ReadingFontOption[] = ALL_READING_FONTS
 
   useEffect(() => {

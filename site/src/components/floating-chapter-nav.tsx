@@ -100,7 +100,7 @@ export function FloatingChapterNav({
       </div>
 
       <div className="pointer-events-auto flex w-full max-w-sm flex-col gap-2 rounded-[1.75rem] border border-border/90 bg-paper/92 p-2 shadow-[0_8px_30px_rgb(0_0_0_/_0.06)] backdrop-blur-md sm:hidden dark:shadow-[0_8px_30px_rgb(0_0_0_/_0.28)]">
-        <div className="flex items-center gap-2">
+        <div className="flex items-center justify-between gap-2">
           {showHomeLink ? <ChaptersSheet currentSlug={currentSlug} /> : <div className="size-9 shrink-0" />}
 
           {previous || next ? (
@@ -125,21 +125,18 @@ export function FloatingChapterNav({
             </>
           ) : null}
 
-          <div className="ml-auto min-w-0">
-            <ThemeSwitcher compact />
-          </div>
-        </div>
-
-        <div className="flex items-center gap-2">
           <div className="min-w-0 flex-1">
             <FontSwitcher compact />
           </div>
-          <FontSizeSwitcher />
         </div>
 
-        <div className="flex items-center justify-end gap-2">
+        <div className="flex items-center justify-between gap-2">
+          <FontSizeSwitcher />
           <LineHeightSwitcher />
           <TextAlignSwitcher />
+          <div className="min-w-0 shrink-0">
+            <ThemeSwitcher compact />
+          </div>
         </div>
       </div>
     </div>

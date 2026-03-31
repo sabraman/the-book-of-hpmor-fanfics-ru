@@ -14,17 +14,18 @@ import {
   isReadingFont,
   type ReadingFont,
 } from "@/lib/reading-fonts"
-
-const STORAGE_KEY = "reader-font"
-const FONT_SCALE_STORAGE_KEY = "reader-font-scale"
-const LINE_HEIGHT_STORAGE_KEY = "reader-line-height"
-const TEXT_ALIGN_STORAGE_KEY = "reader-text-align"
-const FONT_SCALE_STEPS = [0.84, 1, 1.16, 1.34] as const
-const DEFAULT_FONT_SCALE_INDEX = 1
-const LINE_HEIGHT_STEPS = [1.55, 1.92, 2.35] as const
-const DEFAULT_LINE_HEIGHT_INDEX = 1
-const TEXT_ALIGN_OPTIONS = ["left", "justify"] as const
-const DEFAULT_TEXT_ALIGN = "left"
+import {
+  DEFAULT_FONT_SCALE_INDEX,
+  DEFAULT_LINE_HEIGHT_INDEX,
+  DEFAULT_TEXT_ALIGN,
+  FONT_SCALE_STEPS,
+  LINE_HEIGHT_STEPS,
+  READER_FONT_SCALE_STORAGE_KEY,
+  READER_FONT_STORAGE_KEY,
+  READER_LINE_HEIGHT_STORAGE_KEY,
+  READER_TEXT_ALIGN_STORAGE_KEY,
+  TEXT_ALIGN_OPTIONS,
+} from "@/lib/reader-settings"
 
 type ReaderTextAlign = (typeof TEXT_ALIGN_OPTIONS)[number]
 
@@ -70,7 +71,7 @@ function getStoredFont(): ReadingFont {
     return DEFAULT_READING_FONT
   }
 
-  const stored = window.localStorage.getItem(STORAGE_KEY)
+  const stored = window.localStorage.getItem(READER_FONT_STORAGE_KEY)
 
   if (stored && isReadingFont(stored)) {
     return stored
@@ -84,7 +85,7 @@ function getStoredFontScaleIndex(): number {
     return DEFAULT_FONT_SCALE_INDEX
   }
 
-  const stored = window.localStorage.getItem(FONT_SCALE_STORAGE_KEY)
+  const stored = window.localStorage.getItem(READER_FONT_SCALE_STORAGE_KEY)
   const parsed = stored ? Number.parseInt(stored, 10) : Number.NaN
 
   if (Number.isInteger(parsed) && parsed >= 0 && parsed < FONT_SCALE_STEPS.length) {
@@ -99,7 +100,7 @@ function getStoredLineHeightIndex(): number {
     return DEFAULT_LINE_HEIGHT_INDEX
   }
 
-  const stored = window.localStorage.getItem(LINE_HEIGHT_STORAGE_KEY)
+  const stored = window.localStorage.getItem(READER_LINE_HEIGHT_STORAGE_KEY)
   const parsed = stored ? Number.parseInt(stored, 10) : Number.NaN
 
   if (Number.isInteger(parsed) && parsed >= 0 && parsed < LINE_HEIGHT_STEPS.length) {
@@ -118,7 +119,7 @@ function getStoredTextAlign(): ReaderTextAlign {
     return DEFAULT_TEXT_ALIGN
   }
 
-  const stored = window.localStorage.getItem(TEXT_ALIGN_STORAGE_KEY)
+  const stored = window.localStorage.getItem(READER_TEXT_ALIGN_STORAGE_KEY)
 
   if (stored && isReaderTextAlign(stored)) {
     return stored
@@ -154,7 +155,7 @@ export function FontProvider({ children }: { children: ReactNode }) {
       font,
       setFont: (nextFont) => {
         setFontState(nextFont)
-        window.localStorage.setItem(STORAGE_KEY, nextFont)
+        window.localStorage.setItem(READER_FONT_STORAGE_KEY, nextFont)
         applyFont(nextFont)
       },
       canDecreaseFontScale: fontScaleIndex > 0,
@@ -162,7 +163,7 @@ export function FontProvider({ children }: { children: ReactNode }) {
       decreaseFontScale: () => {
         setFontScaleIndex((currentIndex) => {
           const nextIndex = Math.max(0, currentIndex - 1)
-          window.localStorage.setItem(FONT_SCALE_STORAGE_KEY, String(nextIndex))
+          window.localStorage.setItem(READER_FONT_SCALE_STORAGE_KEY, String(nextIndex))
           applyFontScale(FONT_SCALE_STEPS[nextIndex])
           return nextIndex
         })
@@ -170,7 +171,7 @@ export function FontProvider({ children }: { children: ReactNode }) {
       increaseFontScale: () => {
         setFontScaleIndex((currentIndex) => {
           const nextIndex = Math.min(FONT_SCALE_STEPS.length - 1, currentIndex + 1)
-          window.localStorage.setItem(FONT_SCALE_STORAGE_KEY, String(nextIndex))
+          window.localStorage.setItem(READER_FONT_SCALE_STORAGE_KEY, String(nextIndex))
           applyFontScale(FONT_SCALE_STEPS[nextIndex])
           return nextIndex
         })
@@ -180,7 +181,7 @@ export function FontProvider({ children }: { children: ReactNode }) {
       decreaseLineHeight: () => {
         setLineHeightIndex((currentIndex) => {
           const nextIndex = Math.max(0, currentIndex - 1)
-          window.localStorage.setItem(LINE_HEIGHT_STORAGE_KEY, String(nextIndex))
+          window.localStorage.setItem(READER_LINE_HEIGHT_STORAGE_KEY, String(nextIndex))
           applyLineHeight(LINE_HEIGHT_STEPS[nextIndex])
           return nextIndex
         })
@@ -188,7 +189,7 @@ export function FontProvider({ children }: { children: ReactNode }) {
       increaseLineHeight: () => {
         setLineHeightIndex((currentIndex) => {
           const nextIndex = Math.min(LINE_HEIGHT_STEPS.length - 1, currentIndex + 1)
-          window.localStorage.setItem(LINE_HEIGHT_STORAGE_KEY, String(nextIndex))
+          window.localStorage.setItem(READER_LINE_HEIGHT_STORAGE_KEY, String(nextIndex))
           applyLineHeight(LINE_HEIGHT_STEPS[nextIndex])
           return nextIndex
         })
@@ -196,7 +197,7 @@ export function FontProvider({ children }: { children: ReactNode }) {
       textAlign,
       setTextAlign: (nextTextAlign) => {
         setTextAlignState(nextTextAlign)
-        window.localStorage.setItem(TEXT_ALIGN_STORAGE_KEY, nextTextAlign)
+        window.localStorage.setItem(READER_TEXT_ALIGN_STORAGE_KEY, nextTextAlign)
         applyTextAlign(nextTextAlign)
       },
     }),

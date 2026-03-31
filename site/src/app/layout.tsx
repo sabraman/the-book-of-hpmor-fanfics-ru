@@ -27,6 +27,10 @@ import {
 } from "next/font/google";
 import { FontProvider } from "@/components/font-provider";
 import { ThemeProvider } from "@/components/theme-provider";
+import {
+  getReaderSettingsInlineScript,
+  READER_THEME_STORAGE_KEY,
+} from "@/lib/reader-settings";
 import "./globals.css";
 
 const uiSans = IBM_Plex_Sans({
@@ -122,12 +126,20 @@ export default function RootLayout({
         "h-full antialiased",
       ].join(" ")}
     >
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: getReaderSettingsInlineScript(),
+          }}
+        />
+      </head>
       <body className="min-h-full flex flex-col">
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
           enableSystem
           disableTransitionOnChange
+          storageKey={READER_THEME_STORAGE_KEY}
         >
           <FontProvider>{children}</FontProvider>
         </ThemeProvider>
