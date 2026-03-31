@@ -50,6 +50,8 @@ across multiple segments.
 | Molly Weasley | Молли Уизли | Potter's Army / ROSMEN | Canon form. |
 | Arthur Weasley | Артур Уизли | Potter's Army / ROSMEN | Canon form. |
 | Fleur Delacour | Флёр Делакур | Potter's Army / ROSMEN | Canon form. |
+| Nymphadora Tonks | Нимфадора Тонкс | Potter's Army / ROSMEN | Canon full name. |
+| Tonks | Тонкс | Potter's Army / ROSMEN | Common short form in dialogue and narration. |
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Minerva McGonagall | Минерва МакГонагалл | Potter's Army / ROSMEN | Do not use `Макгонагал` or mixed forms. |
@@ -65,6 +67,7 @@ across multiple segments.
 | Luna Lovegood | Полумна Лавгуд | Potter's Army / ROSMEN | Canon form. |
 | Romilda Vane | Ромильда Вейн | Potter's Army / ROSMEN | Canon form. |
 | Nagini | Нагини | Potter's Army / ROSMEN | Voldemort's snake and Horcrux. |
+| Rose Weasley | Роуз Уизли | Potter's Army / ROSMEN / epilogue usage | Next-generation name used in omake sequel teaser. |
 | Carrows | Кэрроу | Potter's Army / ROSMEN | Amycus and Alecto Carrow as a sibling pair. |
 | Fenrir Greyback | Фенрир Сивый | Potter's Army / ROSMEN | Canon werewolf name. |
 | Dorcas Meadows | Доркас Медоуз | Potter's Army / ROSMEN | Order of the Phoenix member. |
@@ -220,8 +223,9 @@ across multiple segments.
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
-| Ebublio Jinx | заклятие воздушного пузыря | Project / usage | Narrative rendering for the bubble-forming underwater jinx in this project. |
-| Aqua Eructo Charm | чары водяной струи | Project / usage | Narrative rendering for the water-jet charm in this project. |
+| Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
+| Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
+| Volde-Hat | Вольде-Шляпа | Project | Comic nickname for the Voldemort-soul-in-the-Sorting-Hat situation. |
 | D.A. | О.Д. | Potter's Army / ROSMEN | `Отряд Дамблдора`. |
 | M.o.M. | М.М. | Potter's Army / ROSMEN | `Министерство Магии`. |
 | Order of the Phoenix | Орден Феникса | Potter's Army / ROSMEN | Anti-Voldemort organization. |
@@ -256,12 +260,13 @@ raw Latin spelling where we have already normalized them in this project.
 | --- | --- | --- | --- |
 | Accio | Акцио | Harry Potter Wiki RU / canon usage | Summoning Charm incantation. |
 | Aguamenti | Агуаменти | Harry Potter Wiki RU / canon usage | Water-conjuring charm incantation. |
-| Aqua Eructo Charm | чары водяной струи | Harry Potter Wiki RU / project usage | Narrative rendering used in this project. |
+| Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Water-jet charm incantation. |
 | Bubble-Head Charm | Пузыреголовое заклинание | Harry Potter Wiki RU / canon usage | Use for the standard underwater air-supply spell. |
 | Confundus Charm | Конфундус | Harry Potter Wiki RU / canon usage | Confunding charm; keep `Конфундус` in dialogue and direct references. |
-| Ebublio Jinx | заклятие воздушного пузыря | Harry Potter Wiki RU / project usage | Narrative rendering used in this project for the underwater bubble jinx. |
+| Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Bubble-forming underwater jinx incantation. |
 | Lumos | Люмос | Harry Potter Wiki RU / canon usage | Wand-lighting charm incantation. |
 | Muffliato | Муффлиато | Harry Potter Wiki RU / canon usage | Anti-eavesdropping incantation. |
+| Obliviate | Обливиэйт | Harry Potter Wiki RU / canon usage | Memory Charm incantation; prefer the canonical spell name over ad-hoc verb forms. |
 | Petrificus Totalus | Петрификус Тоталус | Harry Potter Wiki RU / canon usage | Full Body-Bind Curse incantation. |
 | Protego | Протего | Harry Potter Wiki RU / canon usage | Shield Charm incantation. |
 | Silencio | Силенцио | Harry Potter Wiki RU / canon usage | Silencing incantation; in narrative may be described as a silencing spell. |
