@@ -77,6 +77,7 @@ across multiple segments.
 | Ollivander | Олливандер | Potter's Army / ROSMEN | Canon form. |
 | Dobby | Добби | Potter's Army / ROSMEN | House-elf name. |
 | Argus Filch | Аргус Филч | Potter's Army / ROSMEN | Canon form. |
+| Cuthbert Binns | Катберт Биннс | Potter's Army / ROSMEN | Hogwarts ghost History of Magic professor. |
 | Myrtle | Миртл | Potter's Army / ROSMEN | Use `Плакса Миртл` when the story means the full nickname. |
 | Nearly Headless Nick | Почти Безголовый Ник | Potter's Army / ROSMEN | Gryffindor house ghost. |
 | Sir Nicholas | сэр Николас | Potter's Army / ROSMEN | Short form used in dialogue. |
@@ -105,6 +106,7 @@ across multiple segments.
 | Dark Arts | Тёмные Искусства | Potter's Army / ROSMEN | Capitalize as school-discipline / field label. |
 | Hog's Head | Кабанья Голова | Potter's Army / ROSMEN | Inn name. |
 | The Prophet | «Пророк» | Potter's Army / ROSMEN | Newspaper short form. |
+| The Quibbler | «Придира» | Potter's Army / ROSMEN | Luna Lovegood's family magazine. |
 | Boy-Who-Lived | Мальчик-Который-Выжил | Potter's Army / ROSMEN | Canon epithet. |
 | Dark Mark | Чёрная Метка | Potter's Army / ROSMEN | Capitalized in title-like use. |
 | Unforgivable Curses | Непростительные заклятия | Potter's Army / ROSMEN | Canon collective name for the three forbidden curses. |
@@ -113,7 +115,9 @@ across multiple segments.
 | Avada Kedavra | Авада Кедавра | Potter's Army / ROSMEN | Canon incantation. |
 | Killing Curse | Убивающее заклятие | Potter's Army / ROSMEN | Canon description of `Avada Kedavra`. |
 | Philosopher's Stone | Философский камень | Potter's Army / ROSMEN | Canon artifact. |
+| Mirror of Erised | Зеркало Еиналеж | Potter's Army / ROSMEN | Magical mirror revealing deepest desire. |
 | Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
+| Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
 | Elder Wand | Бузинная палочка | Potter's Army / ROSMEN | One of the Deathly Hallows. |
 | Triwizard Tournament | Турнир Трёх Волшебников | Potter's Army / ROSMEN | Canon tournament name. |
 | Sorting Hat | Распределяющая Шляпа | Potter's Army / ROSMEN | Capitalize as iconic magical object. |
