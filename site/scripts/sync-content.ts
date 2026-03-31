@@ -119,6 +119,11 @@ async function fileExists(targetPath: string) {
 }
 
 async function main() {
+  if (!(await fileExists(manifestPath))) {
+    console.log(`Skipped content sync because ${manifestPath} is not available.`);
+    return;
+  }
+
   const manifest = JSON.parse(await readFile(manifestPath, "utf8")) as Manifest;
 
   await rm(generatedContentRoot, { recursive: true, force: true });
