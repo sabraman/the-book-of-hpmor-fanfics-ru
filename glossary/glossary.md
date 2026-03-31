@@ -71,6 +71,9 @@ across multiple segments.
 | Amy Anne Bamford | Эми Энн Бэмфорд | Project / Blue Tigers | First-year Ravenclaw point-of-view character in this story cycle. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
 | Perspicacia Foundry | Перспикация Фаундри | Project / Blue Tigers | Potions professor pressed into teaching rationality. |
+| Myrddin Wyllt | Мирддин Уилт | Project / Blue Tigers | Historical point-of-view character in this story cycle. |
+| Scylla | Сцилла | Project / Blue Tigers | Combatant name used in `Myrddin`. |
+| Liroy | Лирой | Project / Blue Tigers | Combatant name used in `Myrddin`. |
 | Carrows | Кэрроу | Potter's Army / ROSMEN | Amycus and Alecto Carrow as a sibling pair. |
 | Fenrir Greyback | Фенрир Сивый | Potter's Army / ROSMEN | Canon werewolf name. |
 | Dorcas Meadows | Доркас Медоуз | Potter's Army / ROSMEN | Order of the Phoenix member. |
@@ -182,6 +185,7 @@ across multiple segments.
 | Azkaban | Азкабан | Potter's Army / ROSMEN | Canon place name. |
 | Privet Drive | Тисовая улица | Potter's Army / ROSMEN | Dursley address. |
 | Forbidden Forest | Запретный лес | Potter's Army / ROSMEN | Canon place name. |
+| Enchanted Forest | Зачарованный лес | Project / Blue Tigers | Distinct story-specific forest name; do not normalize to `Запретный лес`. |
 | Portkey | портключ | Potter's Army / ROSMEN | Canon transport object. |
 | werewolf | оборотень | Potter's Army / ROSMEN | Creature type. |
 | werewolves | оборотни | Potter's Army / ROSMEN | Plural form. |
@@ -273,6 +277,7 @@ raw Latin spelling where we have already normalized them in this project.
 | Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Water-jet charm incantation. |
 | Bubble-Head Charm | Пузыреголовое заклинание | Harry Potter Wiki RU / canon usage | Use for the standard underwater air-supply spell. |
 | Confundus Charm | Конфундус | Harry Potter Wiki RU / canon usage | Confunding charm; keep `Конфундус` in dialogue and direct references. |
+| Confringo | Конфринго | Harry Potter Wiki RU / canon usage | Blasting curse incantation. |
 | Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Bubble-forming underwater jinx incantation. |
 | Lumos | Люмос | Harry Potter Wiki RU / canon usage | Wand-lighting charm incantation. |
 | Muffliato | Муффлиато | Harry Potter Wiki RU / canon usage | Anti-eavesdropping incantation. |
