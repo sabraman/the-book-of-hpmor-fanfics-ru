@@ -56,12 +56,17 @@ across multiple segments.
 | Severus Snape | Северус Снейп | Potter's Army / ROSMEN | Canon form. |
 | Quirinus Quirrell | Квиринус Квиррелл | Potter's Army / ROSMEN | Canon form. |
 | Gilderoy Lockhart | Гилдерой Локхарт | Potter's Army / ROSMEN | Canon form. |
+| Fawkes | Фоукс | Potter's Army / ROSMEN | Dumbledore's phoenix. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
 | Alastor Moody | Аластор Грюм | Potter's Army / ROSMEN | Prefer `Грюм`, not `Муди`, in canon contexts. |
 | Dolores Umbridge | Долорес Амбридж | Potter's Army / ROSMEN | Canon form. |
 | Lucius Malfoy | Люциус Малфой | Potter's Army / ROSMEN | Canon form. |
 | Viktor Krum | Виктор Крам | Potter's Army / ROSMEN | Canon form. |
 | Luna Lovegood | Полумна Лавгуд | Potter's Army / ROSMEN | Canon form. |
+| Romilda Vane | Ромильда Вейн | Potter's Army / ROSMEN | Canon form. |
+| Fenrir Greyback | Фенрир Сивый | Potter's Army / ROSMEN | Canon werewolf name. |
+| Dorcas Meadows | Доркас Медоуз | Potter's Army / ROSMEN | Order of the Phoenix member. |
+| Mrs. Cole | миссис Коул | Potter's Army / ROSMEN | Wool's Orphanage matron. |
 | Grindelwald | Грин-де-Вальд | Potter's Army / ROSMEN | Canon surname form. |
 | Lord Voldemort | Лорд Волдеморт | hpmor.ru / Project | Match current HPMOR Russian usage in this repo. |
 | Petunia Dursley | Петуния Дурсль | Potter's Army / ROSMEN | Canon form. |
@@ -123,6 +128,8 @@ across multiple segments.
 | Cornish Pixies | корнуэльские пикси | Potter's Army / ROSMEN | Creature type. |
 | Deathday Party | вечеринка в честь дня смерти | Potter's Army / ROSMEN | Event term. |
 | Basilisk | василиск | Potter's Army / ROSMEN | Creature type. |
+| Inferius | инферий | Potter's Army / ROSMEN | Singular undead creature animated by Dark magic. |
+| Inferi | инферии | Potter's Army / ROSMEN | Plural undead creatures animated by Dark magic. |
 | Chamber of Secrets | Тайная комната | Potter's Army / ROSMEN | Canon place name. |
 | Polyjuice Potion | Оборотное зелье | Potter's Army / ROSMEN | Canon potion name. |
 | Slytherin Common Room | гостиная Слизерина | Potter's Army / ROSMEN | School location. |
@@ -131,10 +138,12 @@ across multiple segments.
 | invisibility cloak | мантия-невидимка | Potter's Army / ROSMEN | Canon object name. |
 | Acromantula | акромантул | Potter's Army / ROSMEN | Magical creature. |
 | Parselmouth | змееуст | Potter's Army / ROSMEN | Canon magical ability. |
+| Parseltongue | парселтанг | Project / usage | Established running-text form in this repo for the serpent language itself. |
 | Legilimens | легилимент | Potter's Army / ROSMEN | Wizard skilled in Legilimency. |
 | Fantastic Beasts and Where to Find Them | Фантастические звери и места их обитания | Potter's Army / ROSMEN | Canon book title. |
 | Leaky Cauldron | Дырявый котёл | Potter's Army / ROSMEN | Canon inn name in London. |
 | Grimmauld Place | площадь Гриммо | Potter's Army / ROSMEN | Black family home location. |
+| Wool's Orphanage | приют Вула | Potter's Army / ROSMEN | London orphanage where Tom Riddle grew up. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
 | Puddlemere United | Паддлмир Юнайтед | Potter's Army / ROSMEN | Quidditch team name. |
 | Dragon Pox | драконья оспа | Potter's Army / ROSMEN | Magical illness. |
