@@ -64,6 +64,7 @@ across multiple segments.
 | Viktor Krum | Виктор Крам | Potter's Army / ROSMEN | Canon form. |
 | Luna Lovegood | Полумна Лавгуд | Potter's Army / ROSMEN | Canon form. |
 | Romilda Vane | Ромильда Вейн | Potter's Army / ROSMEN | Canon form. |
+| Nagini | Нагини | Potter's Army / ROSMEN | Voldemort's snake and Horcrux. |
 | Carrows | Кэрроу | Potter's Army / ROSMEN | Amycus and Alecto Carrow as a sibling pair. |
 | Fenrir Greyback | Фенрир Сивый | Potter's Army / ROSMEN | Canon werewolf name. |
 | Dorcas Meadows | Доркас Медоуз | Potter's Army / ROSMEN | Order of the Phoenix member. |
