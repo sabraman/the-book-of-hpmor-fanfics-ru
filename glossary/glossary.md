@@ -68,6 +68,9 @@ across multiple segments.
 | Romilda Vane | Ромильда Вейн | Potter's Army / ROSMEN | Canon form. |
 | Nagini | Нагини | Potter's Army / ROSMEN | Voldemort's snake and Horcrux. |
 | Rose Weasley | Роуз Уизли | Potter's Army / ROSMEN / epilogue usage | Next-generation name used in omake sequel teaser. |
+| Amy Anne Bamford | Эми Энн Бэмфорд | Project / Blue Tigers | First-year Ravenclaw point-of-view character in this story cycle. |
+| Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
+| Perspicacia Foundry | Перспикация Фаундри | Project / Blue Tigers | Potions professor pressed into teaching rationality. |
 | Carrows | Кэрроу | Potter's Army / ROSMEN | Amycus and Alecto Carrow as a sibling pair. |
 | Fenrir Greyback | Фенрир Сивый | Potter's Army / ROSMEN | Canon werewolf name. |
 | Dorcas Meadows | Доркас Медоуз | Potter's Army / ROSMEN | Order of the Phoenix member. |
@@ -194,6 +197,7 @@ across multiple segments.
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
 | Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
 | Hogwarts, A History | История Хогвартса | Potter's Army / ROSMEN | Canon book title. |
+| Ravenclaw common room | гостиная Когтеврана | Potter's Army / ROSMEN | House common room location. |
 | Pensieve | омут памяти | Potter's Army / ROSMEN | Dumbledore's memory basin. |
 | Veritaserum | Веритасерум | Potter's Army / ROSMEN | Truth serum. |
 | Occlumency | окклюменция | Potter's Army / ROSMEN | Mental defensive discipline. |
@@ -207,6 +211,7 @@ across multiple segments.
 | Educational Decrees | образовательные декреты | Potter's Army / ROSMEN | Umbridge's school decrees. |
 | Heliopaths | гелиопаты | Potter's Army / Luna usage | Luna Lovegood's favorite pseudo-creatures/conspiracy topic. |
 | Exploding Snap | взрывающиеся карты | Potter's Army / ROSMEN | Canon wizard game. |
+| Wizard Chess | волшебные шахматы | Potter's Army / ROSMEN | Canon enchanted chess game. |
 | O.W.L. | С.О.В. | Potter's Army / ROSMEN | `Стандарты Обучения Волшебству`; fifth-year exam set. |
 | NEWT | ЖАБА | Potter's Army / ROSMEN | Exam level abbreviation used for advanced schoolwork. |
 | N.E.W.T. | Ж.А.Б.А. | Potter's Army / ROSMEN | `Жутко Академическая Блестящая Аттестация`; final exam set. |
@@ -215,6 +220,7 @@ across multiple segments.
 | Curse Breaker | разрушитель проклятий | Potter's Army / ROSMEN | Standard profession term. |
 | Scabbers | Короста | Potter's Army / ROSMEN | Rat name. |
 | S.P.E.W. | Г.А.В.Н.Э. | Potter's Army / ROSMEN | `Гражданская Ассоциация Восстановления Независимости Эльфов`. |
+| mokeskin pouch | мешочек из ишачьей кожи | Harry Potter Wiki RU / canon usage | Magical pouch whose contents only the owner can retrieve. |
 | Mudblood | грязнокровка | Potter's Army / ROSMEN | Canon slur; use only in-character. |
 | knut | кнат | Potter's Army / ROSMEN | Lowest-value wizarding coin. |
 | Nargle | наргл | Potter's Army / ROSMEN / HP Wiki | Luna's creature name. |
@@ -234,6 +240,10 @@ across multiple segments.
 | wizarding world | магический мир | Project | Neutral default phrase. |
 | preface | предисловие | Project | Front matter label. |
 | table of contents | оглавление | Project | Reader-facing navigation label. |
+| Tome of Elementary Rationality | Фолиант элементарной рациональности | Project / Blue Tigers | Satirical rationality textbook title in this story cycle. |
+| Ministry of Bayes | Министерство Байеса | Project / Blue Tigers | Satirical ministry branch / mandate authority in this story cycle. |
+| Lambda's Calculator | калькулятор Ламды | Project / Blue Tigers | Magical mathemagics calculator handed out in rationality class. |
+| Chaos Legion | Легион Хаоса | Project / Blue Tigers | Referenced political-military faction in this AU. |
 
 ## Exam Grades
 
