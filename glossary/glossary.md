@@ -128,8 +128,8 @@ across multiple segments.
 | Cornish Pixies | корнуэльские пикси | Potter's Army / ROSMEN | Creature type. |
 | Deathday Party | вечеринка в честь дня смерти | Potter's Army / ROSMEN | Event term. |
 | Basilisk | василиск | Potter's Army / ROSMEN | Creature type. |
-| Inferius | инферий | Potter's Army / ROSMEN | Singular undead creature animated by Dark magic. |
-| Inferi | инферии | Potter's Army / ROSMEN | Plural undead creatures animated by Dark magic. |
+| Inferius | инфернал | Harry Potter Wiki RU / canon usage | Singular undead creature animated by Dark magic. |
+| Inferi | инферналы | Harry Potter Wiki RU / canon usage | Plural undead creatures animated by Dark magic. |
 | Chamber of Secrets | Тайная комната | Potter's Army / ROSMEN | Canon place name. |
 | Polyjuice Potion | Оборотное зелье | Potter's Army / ROSMEN | Canon potion name. |
 | Slytherin Common Room | гостиная Слизерина | Potter's Army / ROSMEN | School location. |
