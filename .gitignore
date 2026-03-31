@@ -5,6 +5,9 @@ books/*/build/
 __pycache__/
 *.pyc
 .venv/
+node_modules/
+site/node_modules/
+site/.next/
 
 .DS_Store
 .idea/
