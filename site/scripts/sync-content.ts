@@ -1,6 +1,8 @@
 import { cp, mkdir, readFile, rm, stat, writeFile } from "node:fs/promises";
+import { execFile } from "node:child_process";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { promisify } from "node:util";
 
 type Segment = {
   id: string;
@@ -60,6 +62,8 @@ const generatedContentRoot = path.join(siteRoot, "src", "content", "chapters");
 const generatedLibRoot = path.join(siteRoot, "src", "lib", "generated");
 const publicAssetsRoot = path.join(siteRoot, "public", "book-assets");
 const configPath = path.join(bookRoot, "config.json");
+const validateScriptPath = path.join(repoRoot, "scripts", "validate_run.py");
+const execFileAsync = promisify(execFile);
 
 const IGNORED_FILES = new Set(["cover.xhtml", "toc.xhtml", "titlepage.xhtml"]);
 
@@ -190,11 +194,43 @@ async function fileExists(targetPath: string) {
   }
 }
 
+async function validateWorkspace() {
+  try {
+    const { stdout, stderr } = await execFileAsync(
+      "python3",
+      [validateScriptPath, "--book-id", "various-muggles"],
+      {
+        cwd: repoRoot,
+        maxBuffer: 10 * 1024 * 1024,
+      },
+    );
+
+    if (stdout.trim()) {
+      console.log(stdout.trim());
+    }
+    if (stderr.trim()) {
+      console.error(stderr.trim());
+    }
+  } catch (error) {
+    const failure = error as NodeJS.ErrnoException & {
+      stdout?: string;
+      stderr?: string;
+      message: string;
+    };
+    const details = [failure.stdout?.trim(), failure.stderr?.trim(), failure.message]
+      .filter(Boolean)
+      .join("\n");
+    throw new Error(`Translation workspace validation failed before reader sync.\n${details}`);
+  }
+}
+
 async function main() {
   if (!(await fileExists(manifestPath))) {
     console.log(`Skipped content sync because ${manifestPath} is not available.`);
     return;
   }
+
+  await validateWorkspace();
 
   const config = (await fileExists(configPath))
     ? (JSON.parse(await readFile(configPath, "utf8")) as BookConfig)

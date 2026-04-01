@@ -14,6 +14,10 @@
     "story-03": "Том Реддл - истоки Тёмного Лорда",
     "story-04": "Том Реддл и конфликт интересов"
   },
+  "truncation_allowlist": [
+    "seg-0018",
+    "seg-0036"
+  ],
   "glossary_short_form": "ГПиМРМ",
   "glossary_full_title": "Гарри Поттер и методы рационального мышления",
   "segment_count": 1070,
