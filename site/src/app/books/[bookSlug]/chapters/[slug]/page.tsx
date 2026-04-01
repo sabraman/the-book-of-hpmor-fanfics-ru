@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { ChevronLeftIcon } from "lucide-react";
 
 import { FloatingChapterNav } from "@/components/floating-chapter-nav";
+import { MobilePageTurnZones } from "@/components/mobile-page-turn-zones";
 import { ReadingProgressTracker } from "@/components/reading-progress-tracker";
 import {
   chapters,
@@ -67,6 +68,7 @@ export default async function ChapterPage({
         bookSlug={book.slug}
         bookTitle={book.title}
       />
+      <MobilePageTurnZones />
       <FloatingChapterNav
         currentSlug={slug}
         previous={previous}
