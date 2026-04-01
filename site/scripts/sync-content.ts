@@ -156,6 +156,10 @@ function rewriteLinks(markdown: string, readableTargets: Map<string, ReadableTar
   return result;
 }
 
+function normalizeDecorativeSeparators(markdown: string) {
+  return markdown.replace(/^\/\\\*(?:\/\\\*){4,}$/gm, "---");
+}
+
 function sanitizeMarkdown(markdown: string, readableTargets: Map<string, ReadableTarget>) {
   let result = normalizeLineEndings(markdown).trim();
 
@@ -165,6 +169,7 @@ function sanitizeMarkdown(markdown: string, readableTargets: Map<string, Readabl
     .filter((line) => !/^<\/?div\b[^>]*>$/.test(line.trim()))
     .join("\n");
   result = result.replace(/\sclass="[^"]*calibre[^"]*"/g, "");
+  result = normalizeDecorativeSeparators(result);
   result = rewriteLinks(result, readableTargets);
   result = result.replace(/\n{3,}/g, "\n\n");
 

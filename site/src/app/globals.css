@@ -297,6 +297,8 @@ html[data-reading-font="jetbrains-mono"] {
 
   .reader-content {
     color: var(--foreground);
+    overflow-wrap: anywhere;
+    word-break: break-word;
   }
 
   .reader-content > * + * {
