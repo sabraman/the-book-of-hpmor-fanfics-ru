@@ -71,6 +71,12 @@ across multiple segments.
 | Rose Weasley | Роуз Уизли | Potter's Army / ROSMEN / epilogue usage | Next-generation name used in omake sequel teaser. |
 | Amy Anne Bamford | Эми Энн Бэмфорд | Project / Blue Tigers | First-year Ravenclaw point-of-view character in this story cycle. |
 | Emily | Эмили | Project / Squibgineering | Point-of-view protagonist in the `Squibgineering` cycle. |
+| Matthew Merrick | Мэтью Меррик | Project / Tom Riddle Origins | Quiet orphan boy whom Tom finds unsettlingly relatable. |
+| Jameson | Джеймсон | Project / Tom Riddle Origins | Larger bully in Tom's orphanage. |
+| Nickerson | Никерсон | Project / Tom Riddle Origins | Crueler hanger-on / bully in Tom's orphanage. |
+| Dennis Bishop | Деннис Бишоп | Project / Tom Riddle Origins | Oldest boy left nominally in charge by Madam Chani. |
+| Stephenson | Стивенсон | Project / Tom Riddle Origins | Smaller orphan boy bullied away from his food. |
+| Jade | Джейд | Project / Tom Riddle Origins | Purple garden snake allied with Tom. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
 | Perspicacia Foundry | Перспикация Фаундри | Project / Blue Tigers | Potions professor pressed into teaching rationality. |
 | Myrddin Wyllt | Мирддин Уилт | Project / Blue Tigers | Historical point-of-view character in this story cycle. |
@@ -254,6 +260,7 @@ across multiple segments.
 | Lambda's Calculator | калькулятор Ламды | Project / Blue Tigers | Magical mathemagics calculator handed out in rationality class. |
 | Chaos Legion | Легион Хаоса | Project / Blue Tigers | Referenced political-military faction in this AU. |
 | Squibgineering | Сквибинженерия | Project / title rendering | Story title; blended from `squib` and `engineering`. |
+| Tom Riddle – Origins of a Dark Lord | Том Реддл - истоки Тёмного Лорда | Project / title rendering | Story title for the Tom Riddle childhood cycle. |
 | Farnsworth's Sembler | Семблер Фарнсворта | Project / Squibgineering | Story-specific magical disassembly / assembly tool. |
 | Fully Justified Notepad | Блокнот с полным обоснованием | Project / Squibgineering | Study aid artifact; in context `justified` reads as academically / logically justified, not typographically aligned. |
 | Magical Modesto | Магический Модесто | Project / Squibgineering | Magical-side district / city label used in this story cycle. |
