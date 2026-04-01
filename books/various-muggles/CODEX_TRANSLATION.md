@@ -22,14 +22,17 @@ python3 scripts/pending.py --book-id various-muggles
 3. Translate it into Russian.
 4. Write the translated markdown to the matching path in
    `books/various-muggles/output/`.
-5. Run:
+5. If this is the first translated segment of a new story, add that story's
+   Russian book title to `books/various-muggles/config.json` under
+   `translated_story_titles`.
+6. Run:
 
 ```bash
 python3 scripts/sync_manifest.py --book-id various-muggles
 python3 scripts/validate_run.py --book-id various-muggles
 ```
 
-6. Build a preview when useful:
+7. Build a preview when useful:
 
 ```bash
 python3 scripts/merge_and_build.py --book-id various-muggles --title "Книга фанфиков ГПиМРМ" --skip-epub

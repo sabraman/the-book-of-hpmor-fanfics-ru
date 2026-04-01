@@ -7,6 +7,12 @@
   "legacy_ru_root": "src/ru",
   "original_title": "The Book of HPMOR Fanfics",
   "translated_title": "Книга фанфиков ГПиМРМ",
+  "translated_story_titles": {
+    "frontmatter": "Предисловие",
+    "story-01": "Седьмой крестраж",
+    "story-02": "Сквибинженерия",
+    "story-03": "Том Реддл - истоки Тёмного Лорда"
+  },
   "glossary_short_form": "ГПиМРМ",
   "glossary_full_title": "Гарри Поттер и методы рационального мышления",
   "segment_count": 1070,

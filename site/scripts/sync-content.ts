@@ -17,6 +17,10 @@ type Manifest = {
   segments: Segment[];
 };
 
+type BookConfig = {
+  translated_story_titles?: Record<string, string>;
+};
+
 type BookMeta = {
   id: string;
   slug: string;
@@ -55,13 +59,9 @@ const sourceRoot = path.join(repoRoot, "src", "en");
 const generatedContentRoot = path.join(siteRoot, "src", "content", "chapters");
 const generatedLibRoot = path.join(siteRoot, "src", "lib", "generated");
 const publicAssetsRoot = path.join(siteRoot, "public", "book-assets");
+const configPath = path.join(bookRoot, "config.json");
 
 const IGNORED_FILES = new Set(["cover.xhtml", "toc.xhtml", "titlepage.xhtml"]);
-const BOOK_TITLE_OVERRIDES: Record<string, string> = {
-  frontmatter: "Предисловие",
-  "story-01": "Седьмой крестраж",
-  "story-02": "Сквибинженерия",
-};
 
 function escapeImportPath(value: string) {
   return value.replaceAll("\\", "\\\\").replaceAll("`", "\\`");
@@ -191,7 +191,11 @@ async function main() {
     return;
   }
 
+  const config = (await fileExists(configPath))
+    ? (JSON.parse(await readFile(configPath, "utf8")) as BookConfig)
+    : {};
   const manifest = JSON.parse(await readFile(manifestPath, "utf8")) as Manifest;
+  const translatedStoryTitles = config.translated_story_titles ?? {};
 
   await rm(generatedContentRoot, { recursive: true, force: true });
   await rm(generatedLibRoot, { recursive: true, force: true });
@@ -264,11 +268,18 @@ async function main() {
         : stripBookNumberPrefix(
             (await readOpfBookTitle(extractStorySourceIndex(segments))) ?? storyId,
           );
-    const title = BOOK_TITLE_OVERRIDES[storyId] ?? originalTitle;
+    const translatedTitle = translatedStoryTitles[storyId]?.trim();
+    const title = translatedTitle || originalTitle;
     const slug = storyId === "frontmatter" ? "preface" : slugify(originalTitle) || storyId;
     const readableChapterCount = readableChapterCountByStory.get(storyId) ?? 0;
     const translatedSegmentCount = translatedSegmentCountByStory.get(storyId) ?? 0;
     const totalChapterCount = totalChapterCountByStory.get(storyId) ?? 0;
+
+    if ((readableChapterCount > 0 || translatedSegmentCount > 0) && !translatedTitle) {
+      throw new Error(
+        `Missing translated story title for ${storyId}. Add it to books/various-muggles/config.json under translated_story_titles before syncing reader content.`,
+      );
+    }
 
     const book: BookMeta = {
       id: storyId,

@@ -119,12 +119,17 @@ python3 scripts/pending.py --book-id various-muggles --review-pending
 3. Pick a file from `books/various-muggles/source/`.
 4. Write the Russian translation to the matching filename under
    `books/various-muggles/output/`.
+5. If this is the first translated segment of a new story, add the story's
+   Russian book title to `books/various-muggles/config.json` under
+   `translated_story_titles` before syncing reader content.
 
 Important constraints:
 
 - Keep Markdown structure, links, anchors, and asset paths intact.
 - Do not rename files.
 - Do not insert translator notes into the output.
+- `bun run sync-content` will fail if a readable story still lacks a Russian
+  book title in `books/various-muggles/config.json`.
 
 ### 4. Sync runtime state and validate
 

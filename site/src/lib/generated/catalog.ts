@@ -67,7 +67,7 @@ export const books: BookMeta[] = [
     "id": "story-03",
     "slug": "tom-riddle-origins-of-a-dark-lord",
     "href": "/books/tom-riddle-origins-of-a-dark-lord",
-    "title": "Tom Riddle – Origins of a Dark Lord",
+    "title": "Том Реддл - истоки Тёмного Лорда",
     "originalTitle": "Tom Riddle – Origins of a Dark Lord",
     "order": 33,
     "readableChapterCount": 1,
