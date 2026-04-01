@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 26,
-  readableChapterCount: 26,
-  readableBookCount: 2,
+  translatedSegmentCount: 27,
+  readableChapterCount: 27,
+  readableBookCount: 3,
 } as const;
 
 export const books: BookMeta[] = [
@@ -70,9 +70,9 @@ export const books: BookMeta[] = [
     "title": "Tom Riddle – Origins of a Dark Lord",
     "originalTitle": "Tom Riddle – Origins of a Dark Lord",
     "order": 33,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 2,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-04",
@@ -1385,6 +1385,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 4: Эмили",
     "originalTitle": "Chapter 4: Emily"
+  },
+  {
+    "bookId": "story-03",
+    "bookSlug": "tom-riddle-origins-of-a-dark-lord",
+    "slug": "seg-0035",
+    "href": "/books/tom-riddle-origins-of-a-dark-lord/chapters/seg-0035",
+    "order": 35,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -1415,4 +1426,5 @@ export const chapterModules = {
   "seg-0030": () => import("@/content/chapters/seg-0030.mdx"),
   "seg-0031": () => import("@/content/chapters/seg-0031.mdx"),
   "seg-0032": () => import("@/content/chapters/seg-0032.mdx"),
+  "seg-0035": () => import("@/content/chapters/seg-0035.mdx"),
 } as const;

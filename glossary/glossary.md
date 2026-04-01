@@ -52,6 +52,7 @@ across multiple segments.
 | Fleur Delacour | Флёр Делакур | Potter's Army / ROSMEN | Canon form. |
 | Nymphadora Tonks | Нимфадора Тонкс | Potter's Army / ROSMEN | Canon full name. |
 | Tonks | Тонкс | Potter's Army / ROSMEN | Common short form in dialogue and narration. |
+| Tom Riddle | Том Реддл | Potter's Army / ROSMEN | Canon form for Voldemort before he took the name `Lord Voldemort`. |
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Minerva McGonagall | Минерва МакГонагалл | Potter's Army / ROSMEN | Do not use `Макгонагал` or mixed forms. |
@@ -73,6 +74,8 @@ across multiple segments.
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
 | Perspicacia Foundry | Перспикация Фаундри | Project / Blue Tigers | Potions professor pressed into teaching rationality. |
 | Myrddin Wyllt | Мирддин Уилт | Project / Blue Tigers | Historical point-of-view character in this story cycle. |
+| Madam Chani | мадам Чани | Project / Tom Riddle Origins | Caretaker / guardian figure in Tom's childhood section. |
+| Dr. Ormskirk | доктор Ормскирк | Project / Tom Riddle Origins | Psychiatrist / counselor in Tom's childhood section. |
 | Scylla | Сцилла | Project / Blue Tigers | Combatant name used in `Myrddin`. |
 | Liroy | Лирой | Project / Blue Tigers | Combatant name used in `Myrddin`. |
 | Carrows | Кэрроу | Potter's Army / ROSMEN | Amycus and Alecto Carrow as a sibling pair. |
@@ -252,7 +255,7 @@ across multiple segments.
 | Chaos Legion | Легион Хаоса | Project / Blue Tigers | Referenced political-military faction in this AU. |
 | Squibgineering | Сквибинженерия | Project / title rendering | Story title; blended from `squib` and `engineering`. |
 | Farnsworth's Sembler | Семблер Фарнсворта | Project / Squibgineering | Story-specific magical disassembly / assembly tool. |
-| Fully Justified Notepad | Fully Justified Notepad | Project / Squibgineering | Keep the branded notebook name in English for now; revisit only if the story itself localizes it. |
+| Fully Justified Notepad | Блокнот с полным обоснованием | Project / Squibgineering | Study aid artifact; in context `justified` reads as academically / logically justified, not typographically aligned. |
 | Magical Modesto | Магический Модесто | Project / Squibgineering | Magical-side district / city label used in this story cycle. |
 
 ## Exam Grades
