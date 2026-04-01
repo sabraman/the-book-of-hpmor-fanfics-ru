@@ -69,6 +69,7 @@ across multiple segments.
 | Nagini | Нагини | Potter's Army / ROSMEN | Voldemort's snake and Horcrux. |
 | Rose Weasley | Роуз Уизли | Potter's Army / ROSMEN / epilogue usage | Next-generation name used in omake sequel teaser. |
 | Amy Anne Bamford | Эми Энн Бэмфорд | Project / Blue Tigers | First-year Ravenclaw point-of-view character in this story cycle. |
+| Emily | Эмили | Project / Squibgineering | Point-of-view protagonist in the `Squibgineering` cycle. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
 | Perspicacia Foundry | Перспикация Фаундри | Project / Blue Tigers | Potions professor pressed into teaching rationality. |
 | Myrddin Wyllt | Мирддин Уилт | Project / Blue Tigers | Historical point-of-view character in this story cycle. |
@@ -250,6 +251,9 @@ across multiple segments.
 | Lambda's Calculator | калькулятор Ламды | Project / Blue Tigers | Magical mathemagics calculator handed out in rationality class. |
 | Chaos Legion | Легион Хаоса | Project / Blue Tigers | Referenced political-military faction in this AU. |
 | Squibgineering | Сквибинженерия | Project / title rendering | Story title; blended from `squib` and `engineering`. |
+| Farnsworth's Sembler | Семблер Фарнсворта | Project / Squibgineering | Story-specific magical disassembly / assembly tool. |
+| Fully Justified Notepad | Fully Justified Notepad | Project / Squibgineering | Keep the branded notebook name in English for now; revisit only if the story itself localizes it. |
+| Magical Modesto | Магический Модесто | Project / Squibgineering | Magical-side district / city label used in this story cycle. |
 
 ## Exam Grades
 
