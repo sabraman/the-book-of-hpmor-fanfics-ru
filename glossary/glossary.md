@@ -261,6 +261,7 @@ across multiple segments.
 | Chaos Legion | Легион Хаоса | Project / Blue Tigers | Referenced political-military faction in this AU. |
 | Squibgineering | Сквибинженерия | Project / title rendering | Story title; blended from `squib` and `engineering`. |
 | Tom Riddle – Origins of a Dark Lord | Том Реддл - истоки Тёмного Лорда | Project / title rendering | Story title for the Tom Riddle childhood cycle. |
+| Tom Riddle and the Conflict of Interest | Том Реддл и конфликт интересов | Project / title rendering | Story title for the later Hogwarts-era Tom Riddle cycle. |
 | Farnsworth's Sembler | Семблер Фарнсворта | Project / Squibgineering | Story-specific magical disassembly / assembly tool. |
 | Fully Justified Notepad | Блокнот с полным обоснованием | Project / Squibgineering | Study aid artifact; in context `justified` reads as academically / logically justified, not typographically aligned. |
 | Magical Modesto | Магический Модесто | Project / Squibgineering | Magical-side district / city label used in this story cycle. |
