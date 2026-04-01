@@ -77,6 +77,11 @@ across multiple segments.
 | Dennis Bishop | Деннис Бишоп | Project / Tom Riddle Origins | Oldest boy left nominally in charge by Madam Chani. |
 | Stephenson | Стивенсон | Project / Tom Riddle Origins | Smaller orphan boy bullied away from his food. |
 | Jade | Джейд | Project / Tom Riddle Origins | Purple garden snake allied with Tom. |
+| MacNair | Макнейр | Potter's Army / ROSMEN / project usage | Slytherin student discussing wand cores with Tom in this cycle. |
+| Chang | Чанг | Potter's Army / ROSMEN / project usage | Surname-only student reference in Tom's battle-magic practice. |
+| David Monroe | Дэвид Монро | Project / Tom Riddle Conflict | Confident Hogwarts student and Tom's rival. |
+| Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
+| Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
 | Perspicacia Foundry | Перспикация Фаундри | Project / Blue Tigers | Potions professor pressed into teaching rationality. |
 | Myrddin Wyllt | Мирддин Уилт | Project / Blue Tigers | Historical point-of-view character in this story cycle. |
@@ -216,6 +221,7 @@ across multiple segments.
 | Pensieve | омут памяти | Potter's Army / ROSMEN | Dumbledore's memory basin. |
 | Veritaserum | Веритасерум | Potter's Army / ROSMEN | Truth serum. |
 | Occlumency | окклюменция | Potter's Army / ROSMEN | Mental defensive discipline. |
+| Occlumens | окклюмент | Potter's Army / ROSMEN / usage | Wizard skilled in Occlumency. |
 | Legilimency | легилименция | Potter's Army / ROSMEN | Mind-reading magical discipline. |
 | blood quill | кровавое перо | Potter's Army / ROSMEN / usage | Detention quill that writes using blood. |
 | glove charm | чары перчатки | Project / usage | Protective invisible glove charm used in potion work. |
@@ -252,6 +258,7 @@ across multiple segments.
 | Order of the Phoenix | Орден Феникса | Potter's Army / ROSMEN | Anti-Voldemort organization. |
 | Wizengamot | Визенгамот | Potter's Army / ROSMEN | Use council name directly unless a specific abbreviated source demands otherwise. |
 | wandless magic | беспалочковая магия | Project | Use unless a story requires a marked variant. |
+| wandlore | палочковедение | Project / usage | Standard running-text form for the study of wand cores, woods, and magical properties. |
 | wizarding world | магический мир | Project | Neutral default phrase. |
 | preface | предисловие | Project | Front matter label. |
 | table of contents | оглавление | Project | Reader-facing navigation label. |

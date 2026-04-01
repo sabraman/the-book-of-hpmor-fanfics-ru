@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 28,
-  readableChapterCount: 28,
-  readableBookCount: 3,
+  translatedSegmentCount: 29,
+  readableChapterCount: 29,
+  readableBookCount: 4,
 } as const;
 
 export const books: BookMeta[] = [
@@ -78,12 +78,12 @@ export const books: BookMeta[] = [
     "id": "story-04",
     "slug": "tom-riddle-and-the-conflict-of-interest",
     "href": "/books/tom-riddle-and-the-conflict-of-interest",
-    "title": "Tom Riddle and the Conflict of Interest",
+    "title": "Том Реддл и конфликт интересов",
     "originalTitle": "Tom Riddle and the Conflict of Interest",
     "order": 37,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 12,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-05",
@@ -1407,6 +1407,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 2",
     "originalTitle": "Chapter 2"
+  },
+  {
+    "bookId": "story-04",
+    "bookSlug": "tom-riddle-and-the-conflict-of-interest",
+    "slug": "seg-0039",
+    "href": "/books/tom-riddle-and-the-conflict-of-interest/chapters/seg-0039",
+    "order": 39,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1: Том Реддл и Альбус Дамблдор",
+    "originalTitle": "Chapter 1: Tom Riddle and Albus\n      Dumbledore"
   }
 ] as ChapterMeta[];
 
@@ -1439,4 +1450,5 @@ export const chapterModules = {
   "seg-0032": () => import("@/content/chapters/seg-0032.mdx"),
   "seg-0035": () => import("@/content/chapters/seg-0035.mdx"),
   "seg-0036": () => import("@/content/chapters/seg-0036.mdx"),
+  "seg-0039": () => import("@/content/chapters/seg-0039.mdx"),
 } as const;
