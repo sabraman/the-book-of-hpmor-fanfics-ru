@@ -81,16 +81,20 @@ across multiple segments.
 | Jade | Джейд | Project / Tom Riddle Origins | Purple garden snake allied with Tom. |
 | MacNair | Макнейр | Potter's Army / ROSMEN / project usage | Slytherin student discussing wand cores with Tom in this cycle. |
 | Chang | Чанг | Potter's Army / ROSMEN / project usage | Surname-only student reference in Tom's battle-magic practice. |
+| Thomas Chang | Томас Чанг | Project / Tom Riddle Conflict | Capable Hogwarts student from China and one of Tom's battle-magic rivals. |
 | David Monroe | Дэвид Монро | Project / Tom Riddle Conflict | Confident Hogwarts student and Tom's rival. |
+| Terence Keen | Теренс Кин | Project / Tom Riddle Conflict | Slytherin student who spreads Bellatrix's dark-ritual rumor in this story cycle. |
 | Galatea Merrythought | Галатея Мерритот | Potter's Army / canon usage / project transliteration | Defense professor in Tom's school years. |
 | Merrythought | Мерритот | Potter's Army / canon usage / project transliteration | Use the surname form for Professor Merrythought. |
 | Antonius Prewett | Антониус Прюэтт | Project / Tom Riddle Conflict | Bellatrix Black's betrothed in this story cycle. |
+| Aerys Flintwood | Эйрис Флинтвуд | Project / Tom Riddle Conflict | Slytherin fixer Tom hires to procure metals for his ritual work. |
 | Abigail Myrtle | Эбигейл Миртл | Project / Tom Riddle Conflict | Student later identified with the Myrtle backstory in this anthology continuity. |
 | Tobo Mott | Тобо Мотт | Project / Tom Riddle Conflict | Tom Riddle's criminal mentor and combat instructor in this story cycle. |
 | Groleo | Гролео | Project / Tom Riddle Conflict | Reclusive curio dealer whose hidden book cellar Tom visits in this story cycle. |
 | Ronell Manailur | Ронелл Манайлур | Project / Tom Riddle Conflict | Historical artificer associated with the Amulet of Asshia. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
 | Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
+| Orney | Орни | Project / Tom Riddle Conflict | House-elf assigned to a Slytherin family before becoming a Hogwarts employee. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
 | Perspicacia Foundry | Перспикация Фаундри | Project / Blue Tigers | Potions professor pressed into teaching rationality. |
 | Myrddin Wyllt | Мирддин Уилт | Project / Blue Tigers | Historical point-of-view character in this story cycle. |
