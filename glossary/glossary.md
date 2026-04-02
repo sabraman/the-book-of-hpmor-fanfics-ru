@@ -86,6 +86,9 @@ across multiple segments.
 | Merrythought | Мерритот | Potter's Army / canon usage / project transliteration | Use the surname form for Professor Merrythought. |
 | Antonius Prewett | Антониус Прюэтт | Project / Tom Riddle Conflict | Bellatrix Black's betrothed in this story cycle. |
 | Abigail Myrtle | Эбигейл Миртл | Project / Tom Riddle Conflict | Student later identified with the Myrtle backstory in this anthology continuity. |
+| Tobo Mott | Тобо Мотт | Project / Tom Riddle Conflict | Tom Riddle's criminal mentor and combat instructor in this story cycle. |
+| Groleo | Гролео | Project / Tom Riddle Conflict | Reclusive curio dealer whose hidden book cellar Tom visits in this story cycle. |
+| Ronell Manailur | Ронелл Манайлур | Project / Tom Riddle Conflict | Historical artificer associated with the Amulet of Asshia. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
 | Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
@@ -120,6 +123,7 @@ across multiple segments.
 | Muggle-born | маглорождённый | Potter's Army / ROSMEN | Hyphenated adjective form. |
 | Muggleborns | маглорождённые | Potter's Army / ROSMEN | Plural collective form. |
 | Hogwarts | Хогвартс | Potter's Army / ROSMEN | Canon form. |
+| Hogsmeade | Хогсмид | Potter's Army / ROSMEN | Canon village name near Hogwarts. |
 | Gryffindor | Гриффиндор | Potter's Army / ROSMEN | House name. |
 | Ravenclaw | Когтевран | Potter's Army / ROSMEN | House name. |
 | Hufflepuff | Пуффендуй | Potter's Army / ROSMEN | House name. |
@@ -174,8 +178,10 @@ across multiple segments.
 | Inferius | инфернал | Harry Potter Wiki RU / canon usage | Singular undead creature animated by Dark magic. |
 | Inferi | инферналы | Harry Potter Wiki RU / canon usage | Plural undead creatures animated by Dark magic. |
 | Chamber of Secrets | Тайная комната | Potter's Army / ROSMEN | Canon place name. |
+| Shrieking Shack | Визжащая хижина | Potter's Army / ROSMEN | Canon haunted-house landmark in Hogsmeade. |
 | Polyjuice Potion | Оборотное зелье | Potter's Army / ROSMEN | Canon potion name. |
 | Slytherin Common Room | гостиная Слизерина | Potter's Army / ROSMEN | School location. |
+| Whomping Willow | Гремучая ива | Potter's Army / ROSMEN | Canon Hogwarts tree guarding a secret passage. |
 | Devil's Snare | Дьявольские силки | Potter's Army / ROSMEN | Magical plant. |
 | Cerberus | Цербер | Project / canon usage | Mythic creature name. |
 | invisibility cloak | мантия-невидимка | Potter's Army / ROSMEN | Canon object name. |
@@ -257,6 +263,7 @@ across multiple segments.
 | Grindylow | гриндилоу | Potter's Army / ROSMEN | Lake creature. |
 | Animagus | анимаг | Potter's Army / ROSMEN | Wizard who can transform into an animal. |
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
+| Amulet of Asshia | амулет Ашиа | Project / Tom Riddle Conflict | Ancient protective amulet that absorbs incoming magic at the cost of the wearer's speed and power. |
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
 | Disillusionment Charm | дезиллюминационные чары | Potter's Army / ROSMEN / usage | Default rendering for the concealment charm that blends the target into the background. |
