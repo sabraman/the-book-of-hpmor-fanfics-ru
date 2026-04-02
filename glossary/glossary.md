@@ -90,6 +90,7 @@ across multiple segments.
 | Aerys Flintwood | Эйрис Флинтвуд | Project / Tom Riddle Conflict | Slytherin fixer Tom hires to procure metals for his ritual work. |
 | Abigail Myrtle | Эбигейл Миртл | Project / Tom Riddle Conflict | Student later identified with the Myrtle backstory in this anthology continuity. |
 | Tobo Mott | Тобо Мотт | Project / Tom Riddle Conflict | Tom Riddle's criminal mentor and combat instructor in this story cycle. |
+| Stefford | Стеффорд | Project / Tom Riddle Conflict | Tobo Mott's son, whose example taught Tobo to cast the Patronus in this story cycle. |
 | Groleo | Гролео | Project / Tom Riddle Conflict | Reclusive curio dealer whose hidden book cellar Tom visits in this story cycle. |
 | Ronell Manailur | Ронелл Манайлур | Project / Tom Riddle Conflict | Historical artificer associated with the Amulet of Asshia. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
@@ -272,6 +273,7 @@ across multiple segments.
 | Aurors | авроры | Potter's Army / ROSMEN | Plural form. |
 | Apparition | аппарация | Potter's Army / ROSMEN | Magical teleportation. |
 | apparate | аппарировать | Potter's Army / ROSMEN | Verb form for magical teleportation. |
+| Side-Along Apparition | парная аппарация | Potter's Army / ROSMEN / project usage | Apparition performed while taking another person along. |
 | Sonorous | Сонорус | Potter's Army / ROSMEN | Amplifying charm. |
 | Unbreakable Vow | Непреложный Обет | Potter's Army / ROSMEN | Binding magical vow. |
 | Amulet of Asshia | амулет Ашиа | Project / Tom Riddle Conflict | Ancient protective amulet that absorbs incoming magic at the cost of the wearer's speed and power. |
