@@ -24,10 +24,10 @@ This repository is a markdown-first Russian translation workspace for *The Book 
 ## Automation Rules
 
 - When running in a detached worktree, do not manually choose the next segment from `scripts/pending.py`.
-- Use `python3 scripts/automation_claim.py claim --book-id various-muggles --automation-id hourly-segment --worktree-root "$PWD" --json`.
+- Use `python3 scripts/automation_claim.py claim --book-id various-muggles --automation-id hourly-segment --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru --worktree-root "$PWD" --json`.
 - The claim helper excludes non-reader packaging/frontmatter pages such as `cover.xhtml`, `titlepage.xhtml`, `toc.xhtml`, and `preface.xhtml`.
 - Translate only the claimed segment.
-- Validate in the worktree, then publish through the canonical checkout with `python3 scripts/publish_from_worktree.py`.
+- Validate in the worktree, then publish through the canonical checkout with `python3 scripts/publish_from_worktree.py --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru`.
 - Do not commit or push directly from the detached worktree if the publish helper is available.
 
 ## Done Means

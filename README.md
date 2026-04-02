@@ -138,6 +138,7 @@ For automation runs in detached worktrees, do not manually pick the first
 python3 scripts/automation_claim.py claim \
   --book-id various-muggles \
   --automation-id hourly-segment \
+  --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru \
   --worktree-root "$PWD" \
   --json
 ```

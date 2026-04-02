@@ -23,6 +23,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--source-root", required=True, help="Worktree root containing the finished translation.")
     parser.add_argument("--publisher-root", required=True, help="Canonical checkout used for git commit/push.")
     parser.add_argument("--automation-id")
+    parser.add_argument("--shared-root", help="Shared writable root used for automation lease state.")
     parser.add_argument("--commit-message")
     return parser.parse_args()
 
@@ -58,32 +59,38 @@ def copy_if_changed(source_root: Path, publisher_root: Path, rel_path: str, copi
     copied.append(rel_path)
 
 
-def maybe_clear_claim(book_id: str, automation_id: str | None, segment_id: str) -> None:
+def maybe_clear_claim(
+    book_id: str,
+    automation_id: str | None,
+    segment_id: str,
+    shared_root: Path | None = None,
+) -> None:
     if not automation_id:
         return
-    path = automation_state_path(automation_id, book_id)
+    path = automation_state_path(automation_id, book_id, shared_root=shared_root)
     if not path.exists():
         return
-    run(
-        [
-            "python3",
-            str(Path(__file__).resolve().parent / "automation_claim.py"),
-            "complete",
-            "--book-id",
-            book_id,
-            "--automation-id",
-            automation_id,
-            "--segment-id",
-            segment_id,
-        ],
-        cwd=Path(__file__).resolve().parents[1],
-    )
+    cmd = [
+        "python3",
+        str(Path(__file__).resolve().parent / "automation_claim.py"),
+        "complete",
+        "--book-id",
+        book_id,
+        "--automation-id",
+        automation_id,
+        "--segment-id",
+        segment_id,
+    ]
+    if shared_root:
+        cmd.extend(["--shared-root", str(shared_root)])
+    run(cmd, cwd=Path(__file__).resolve().parents[1])
 
 
 def main() -> int:
     args = parse_args()
     source_root = Path(args.source_root).resolve()
     publisher_root = Path(args.publisher_root).resolve()
+    shared_root = Path(args.shared_root).resolve() if args.shared_root else publisher_root
     manifest = load_manifest(args.book_id)
     segment = next(item for item in manifest["segments"] if item["id"] == args.segment_id)
 
@@ -124,7 +131,12 @@ def main() -> int:
     commit_message = args.commit_message or f"Translate {segment['title']}"
     run(["git", "commit", "-m", commit_message], cwd=publisher_root)
     run(["git", "push", "origin", "main"], cwd=publisher_root)
-    maybe_clear_claim(args.book_id, args.automation_id, args.segment_id)
+    maybe_clear_claim(
+        args.book_id,
+        args.automation_id,
+        args.segment_id,
+        shared_root=shared_root,
+    )
 
     print(f"Published {args.segment_id} from {source_root} into {publisher_root}")
     return 0

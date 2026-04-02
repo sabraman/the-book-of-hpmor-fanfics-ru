@@ -138,15 +138,15 @@ def is_reader_segment(original_path: str) -> bool:
     return basename not in NON_READER_BASENAMES
 
 
-def codex_home() -> Path:
-    raw = os.environ.get("CODEX_HOME")
-    if raw:
-        return Path(raw).expanduser()
-    return Path.home() / ".codex"
-
-
-def automation_state_path(automation_id: str, book_id: str) -> Path:
-    return codex_home() / "automation-state" / automation_id / f"{book_id}.json"
+def automation_state_path(
+    automation_id: str, book_id: str, shared_root: Path | None = None
+) -> Path:
+    base_root = shared_root or (
+        Path(os.environ["AUTOMATION_SHARED_ROOT"]).expanduser()
+        if os.environ.get("AUTOMATION_SHARED_ROOT")
+        else REPO_ROOT
+    )
+    return base_root / ".codex-automation-state" / automation_id / f"{book_id}.json"
 
 
 def book_paths(book_id: str) -> dict[str, Path]:
