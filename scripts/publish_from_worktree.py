@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import shutil
 import subprocess
+import time
 from pathlib import Path
 
 from pipeline_common import automation_state_path, load_manifest
@@ -14,6 +15,17 @@ RELEVANT_OPTIONAL_FILES = [
     "glossary/glossary.md",
     "books/various-muggles/config.json",
 ]
+
+TRANSIENT_PUSH_ERRORS = (
+    "Could not resolve host",
+    "Temporary failure in name resolution",
+    "Network is unreachable",
+    "Failed to connect",
+    "Operation timed out",
+    "Connection timed out",
+    "Connection reset by peer",
+)
+PUSH_RETRY_DELAYS = (10, 20, 40, 80)
 
 
 def parse_args() -> argparse.Namespace:
@@ -57,6 +69,42 @@ def copy_if_changed(source_root: Path, publisher_root: Path, rel_path: str, copi
     target.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(source, target)
     copied.append(rel_path)
+
+
+def has_staged_changes(repo_root: Path, paths: list[str]) -> bool:
+    result = subprocess.run(
+        ["git", "diff", "--cached", "--quiet", "--", *paths],
+        cwd=str(repo_root),
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode == 0:
+        return False
+    if result.returncode == 1:
+        return True
+    message = result.stderr.strip() or result.stdout.strip() or "Command failed"
+    raise RuntimeError(f"git diff --cached --quiet -- {' '.join(paths)}: {message}")
+
+
+def is_transient_push_error(message: str) -> bool:
+    return any(fragment in message for fragment in TRANSIENT_PUSH_ERRORS)
+
+
+def push_origin_main(repo_root: Path) -> None:
+    attempts = len(PUSH_RETRY_DELAYS) + 1
+    for index in range(attempts):
+        result = subprocess.run(
+            ["git", "push", "origin", "main"],
+            cwd=str(repo_root),
+            capture_output=True,
+            text=True,
+        )
+        if result.returncode == 0:
+            return
+        message = result.stderr.strip() or result.stdout.strip() or "git push failed"
+        if index >= len(PUSH_RETRY_DELAYS) or not is_transient_push_error(message):
+            raise RuntimeError(f"git push origin main: {message}")
+        time.sleep(PUSH_RETRY_DELAYS[index])
 
 
 def maybe_clear_claim(
@@ -128,9 +176,11 @@ def main() -> int:
     ]
     run(["git", "add", "--", *stage_paths], cwd=publisher_root)
 
-    commit_message = args.commit_message or f"Translate {segment['title']}"
-    run(["git", "commit", "-m", commit_message], cwd=publisher_root)
-    run(["git", "push", "origin", "main"], cwd=publisher_root)
+    if has_staged_changes(publisher_root, stage_paths):
+        commit_message = args.commit_message or f"Translate {segment['title']}"
+        run(["git", "commit", "-m", commit_message], cwd=publisher_root)
+
+    push_origin_main(publisher_root)
     maybe_clear_claim(
         args.book_id,
         args.automation_id,
