@@ -41,6 +41,7 @@ across multiple segments.
 | Barty Crouch, Jr. | Барти Крауч-младший | Potter's Army / ROSMEN | Canon form. |
 | Rita Skeeter | Рита Скитер | Potter's Army / ROSMEN | Canon form. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
+| Dedalus Diggle | Дедалус Дингл | Potter's Army / ROSMEN | Canon form; use `Дедалус`, when only the given name appears. |
 | Sybill Trelawney | Сивилла Трелони | Potter's Army / ROSMEN | Canon form. |
 | Lavender | Лаванда | Potter's Army / ROSMEN | Given-name short form used in dialogue. |
 | Sally-Anne | Салли-Энн | Potter's Army / ROSMEN | Keep hyphenation. |
@@ -214,6 +215,7 @@ across multiple segments.
 | full moon | полнолуние | Potter's Army / ROSMEN | Standard phrase for werewolf context. |
 | Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
+| Department of Magical Law Enforcement | Департамент магического правопорядка | Potter's Army / ROSMEN | Ministry law-enforcement department; abbreviate only when natural in Russian context. |
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
 | Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
 | Hogwarts, A History | История Хогвартса | Potter's Army / ROSMEN | Canon book title. |
@@ -250,6 +252,7 @@ across multiple segments.
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
+| Disillusionment Charm | дезиллюминационные чары | Potter's Army / ROSMEN / usage | Default rendering for the concealment charm that blends the target into the background. |
 | Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
 | Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
 | Volde-Hat | Вольде-Шляпа | Project | Comic nickname for the Voldemort-soul-in-the-Sorting-Hat situation. |
