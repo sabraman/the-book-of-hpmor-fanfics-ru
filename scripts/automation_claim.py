@@ -5,6 +5,8 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
+import subprocess
 import time
 from contextlib import contextmanager
 from pathlib import Path
@@ -130,6 +132,148 @@ def active_claim_status(state: dict[str, Any], runtime: dict[str, Any]) -> dict[
     return claim
 
 
+SEGMENT_OUTPUT_RE = re.compile(r"^books/(?P<book_id>[^/]+)/output/segment(?P<order>\d{4})\.md$")
+
+
+def append_history(state: dict[str, Any], event: str, **extra: Any) -> None:
+    state.setdefault("history", []).append(
+        {
+            "event": event,
+            "timestamp": int(time.time()),
+            **extra,
+        }
+    )
+
+
+def git_status_paths(repo_root: Path, pathspecs: list[str]) -> list[str]:
+    result = subprocess.run(
+        ["git", "status", "--porcelain", "--untracked-files=all", "--", *pathspecs],
+        cwd=str(repo_root),
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        return []
+    paths: list[str] = []
+    for raw_line in result.stdout.splitlines():
+        line = raw_line.rstrip()
+        if not line:
+            continue
+        path_text = line[3:]
+        if " -> " in path_text:
+            path_text = path_text.split(" -> ", 1)[1]
+        paths.append(path_text)
+    return paths
+
+
+def worktree_progress(book_id: str, worktree_root: Path) -> dict[str, Any]:
+    if not worktree_root.is_dir():
+        return {
+            "exists": False,
+            "changed_paths": [],
+            "output_segment_ids": [],
+            "has_relevant_changes": False,
+        }
+
+    changed_paths = git_status_paths(
+        worktree_root,
+        [
+            f"books/{book_id}/output",
+            "glossary/glossary.md",
+            f"books/{book_id}/config.json",
+        ],
+    )
+    output_segment_ids: list[str] = []
+    for rel_path in changed_paths:
+        match = SEGMENT_OUTPUT_RE.match(rel_path)
+        if not match or match.group("book_id") != book_id:
+            continue
+        output_segment_ids.append(f"seg-{match.group('order')}")
+
+    return {
+        "exists": True,
+        "changed_paths": changed_paths,
+        "output_segment_ids": sorted(set(output_segment_ids)),
+        "has_relevant_changes": bool(changed_paths),
+    }
+
+
+def runtime_item_by_id(runtime: dict[str, Any], segment_id: str) -> dict[str, Any] | None:
+    return next(
+        (item for item in runtime["statuses"] if item["segment"]["id"] == segment_id),
+        None,
+    )
+
+
+def normalize_active_claim(
+    book_id: str, state: dict[str, Any], runtime: dict[str, Any]
+) -> tuple[dict[str, Any] | None, bool]:
+    claim = state.get("active_claim")
+    if not claim:
+        return None, False
+
+    segment_id = claim["segment_id"]
+    runtime_item = runtime_item_by_id(runtime, segment_id)
+    if runtime_item and runtime_item["status"] == "translated":
+        append_history(state, "auto-complete-translated", segment_id=segment_id)
+        state.pop("active_claim", None)
+        return None, True
+
+    if claim.get("expires_at", 0) < time.time():
+        append_history(state, "auto-release-expired", segment_id=segment_id)
+        state.pop("active_claim", None)
+        return None, True
+
+    worktree_root = Path(claim["worktree_root"])
+    progress = worktree_progress(book_id, worktree_root)
+    if not progress["exists"]:
+        append_history(
+            state,
+            "auto-release-missing-worktree",
+            segment_id=segment_id,
+            worktree_root=str(worktree_root),
+        )
+        state.pop("active_claim", None)
+        return None, True
+
+    expected_output = worktree_root / "books" / book_id / claim["output_file"]
+    if expected_output.is_file():
+        return claim, False
+
+    candidate_ids = progress["output_segment_ids"]
+    if len(candidate_ids) == 1 and candidate_ids[0] != segment_id:
+        candidate_id = candidate_ids[0]
+        candidate_runtime = runtime_item_by_id(runtime, candidate_id)
+        if candidate_runtime:
+            new_segment = candidate_runtime["segment"]
+            state["active_claim"] = {
+                **claim,
+                "segment_id": new_segment["id"],
+                "original_path": new_segment["original_path"],
+                "output_file": new_segment["output_file"],
+            }
+            append_history(
+                state,
+                "auto-reconcile-claim",
+                from_segment_id=segment_id,
+                to_segment_id=new_segment["id"],
+                worktree_root=str(worktree_root),
+            )
+            return state["active_claim"], True
+
+    if not progress["has_relevant_changes"]:
+        append_history(
+            state,
+            "auto-release-empty-worktree",
+            segment_id=segment_id,
+            worktree_root=str(worktree_root),
+        )
+        state.pop("active_claim", None)
+        return None, True
+
+    return claim, False
+
+
 def eligible_items(runtime: dict[str, Any]) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for item in runtime["statuses"]:
@@ -156,7 +300,10 @@ def claim_segment(args: argparse.Namespace) -> int:
     with claim_lock(path):
         path, state = load_state(args.book_id, args.automation_id, shared_root=shared_root)
         _manifest, runtime = current_runtime(args.book_id)
-        existing = active_claim_status(state, runtime)
+        existing, changed = normalize_active_claim(args.book_id, state, runtime)
+        if changed:
+            save_state(path, state)
+        existing = active_claim_status(state, runtime) if existing else None
         if existing:
             print_result(
                 {
@@ -202,7 +349,10 @@ def show_claim(args: argparse.Namespace) -> int:
     with claim_lock(path):
         path, state = load_state(args.book_id, args.automation_id, shared_root=shared_root)
         _manifest, runtime = current_runtime(args.book_id)
-        claim = active_claim_status(state, runtime)
+        claim, changed = normalize_active_claim(args.book_id, state, runtime)
+        if changed:
+            save_state(path, state)
+        claim = active_claim_status(state, runtime) if claim else None
         if not claim:
             print_result({"result": "no-active-claim", "state_path": str(path)}, args.json)
             return 0
@@ -222,14 +372,7 @@ def clear_claim(args: argparse.Namespace, event: str, reason: str | None = None)
             )
             return 1
 
-        state.setdefault("history", []).append(
-            {
-                "event": event,
-                "segment_id": args.segment_id,
-                "timestamp": int(time.time()),
-                "reason": reason,
-            }
-        )
+        append_history(state, event, segment_id=args.segment_id, reason=reason)
         state.pop("active_claim", None)
         save_state(path, state)
         print(f"Cleared active claim for {args.segment_id}")

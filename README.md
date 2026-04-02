@@ -135,6 +135,16 @@ For automation runs in detached worktrees, do not manually pick the first
 `pending` segment. Use the shared claim helper instead:
 
 ```bash
+python3 scripts/automation_claim.py show \
+  --book-id various-muggles \
+  --automation-id hourly-segment \
+  --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru \
+  --json
+```
+
+Only when `show` returns `no-active-claim`, acquire a new lease:
+
+```bash
 python3 scripts/automation_claim.py claim \
   --book-id various-muggles \
   --automation-id hourly-segment \
@@ -144,7 +154,9 @@ python3 scripts/automation_claim.py claim \
 ```
 
 It skips non-reader packaging pages like `cover.xhtml`, `titlepage.xhtml`,
-`toc.xhtml`, and similar frontmatter-only segments.
+`toc.xhtml`, and similar frontmatter-only segments. It also auto-clears empty
+stale claims and auto-reconciles a claim if the old worktree only changed one
+different segment file.
 
 ### 4. Sync runtime state and validate
 
