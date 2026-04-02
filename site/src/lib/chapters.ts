@@ -1,18 +1,39 @@
 import {
   books,
-  chapters,
+  chapters as generatedChapters,
   chapterModules,
   stats,
   type BookMeta,
-  type ChapterMeta,
+  type ChapterMeta as GeneratedChapterMeta,
 } from "@/lib/generated/catalog";
+import {
+  chapterAudioBySlug,
+} from "@/lib/chapter-audio-catalog";
+import type { ChapterAudioMeta } from "@/lib/chapter-audio";
 
 const bookMap = new Map(books.map((book) => [book.slug, book]));
+export type ChapterMeta = GeneratedChapterMeta & {
+  audio?: ChapterAudioMeta;
+};
+
+const chapters: ChapterMeta[] = generatedChapters.map((chapter) => {
+  const audio = chapterAudioBySlug[chapter.slug];
+
+  if (!audio) {
+    return chapter;
+  }
+
+  return {
+    ...chapter,
+    audio,
+  };
+});
+
 const chapterSlugMap = new Map(chapters.map((chapter) => [chapter.slug, chapter]));
 const chapterMap = new Map(chapters.map((chapter) => [`${chapter.bookSlug}:${chapter.slug}`, chapter]));
 
 export { books, chapters, stats };
-export type { BookMeta, ChapterMeta };
+export type { BookMeta, ChapterAudioMeta };
 
 export function getBook(bookSlug: string): BookMeta | undefined {
   return bookMap.get(bookSlug);

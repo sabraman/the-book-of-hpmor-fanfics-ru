@@ -8,6 +8,7 @@
     "start": "bun run --cwd site start",
     "lint": "bun run --cwd site lint",
     "typecheck": "bun run --cwd site typecheck",
-    "sync-content": "bun run --cwd site sync-content"
+    "sync-content": "bun run --cwd site sync-content",
+    "generate-audio": "bun run --cwd site generate-audio"
   }
 }

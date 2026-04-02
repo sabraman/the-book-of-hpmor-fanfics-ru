@@ -5,6 +5,8 @@ export const READER_FONT_STORAGE_KEY = "reader-font"
 export const READER_FONT_SCALE_STORAGE_KEY = "reader-font-scale"
 export const READER_LINE_HEIGHT_STORAGE_KEY = "reader-line-height"
 export const READER_TEXT_ALIGN_STORAGE_KEY = "reader-text-align"
+export const READER_AUDIO_SPEED_STORAGE_KEY = "reader-audio-speed"
+export const READER_TRANSCRIPT_OPEN_STORAGE_KEY = "reader-transcript-open"
 
 export const FONT_SCALE_STEPS = [0.72, 0.88, 1, 1.18, 1.42] as const
 export const DEFAULT_FONT_SCALE_INDEX = 2

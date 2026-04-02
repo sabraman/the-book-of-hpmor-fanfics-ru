@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ChevronLeftIcon } from "lucide-react";
 
+import { ChapterAudioPanel } from "@/components/chapter-audio-panel";
 import { FloatingChapterNav } from "@/components/floating-chapter-nav";
 import { MobilePageTurnZones } from "@/components/mobile-page-turn-zones";
 import { ReadingProgressTracker } from "@/components/reading-progress-tracker";
@@ -95,6 +96,14 @@ export default async function ChapterPage({
           </h1>
         </div>
       </header>
+
+      {chapter.audio ? (
+        <ChapterAudioPanel
+          chapterSlug={chapter.slug}
+          chapterTitle={chapter.title}
+          audio={chapter.audio}
+        />
+      ) : null}
 
       <article className="min-w-0">
         <div className="reader-content mx-auto max-w-[70ch]">
