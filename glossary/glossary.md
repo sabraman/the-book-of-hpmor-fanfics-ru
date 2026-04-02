@@ -243,6 +243,7 @@ across multiple segments.
 | Occlumens | окклюмент | Potter's Army / ROSMEN / usage | Wizard skilled in Occlumency. |
 | Legilimency | легилименция | Potter's Army / ROSMEN | Mind-reading magical discipline. |
 | blood quill | кровавое перо | Potter's Army / ROSMEN / usage | Detention quill that writes using blood. |
+| Bahl's Stupefaction | ступефакция Баля | Project / usage | Recurring potion name; keep the eponymic form when characters mention a dose or label a vial. |
 | glove charm | чары перчатки | Project / usage | Protective invisible glove charm used in potion work. |
 | Arithmancy | Арифмантика | Potter's Army / ROSMEN | School subject. |
 | High Inquisitor | Генеральный инспектор Хогвартса | Potter's Army / ROSMEN | Umbridge's Hogwarts title. |
