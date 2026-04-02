@@ -56,6 +56,7 @@ across multiple segments.
 | Tom Riddle | Том Реддл | Potter's Army / ROSMEN | Canon form for Voldemort before he took the name `Lord Voldemort`. |
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
+| Bellatrix Black | Беллатриса Блэк | Project / Tom Riddle Conflict | Alternate-era Bellatrix before marriage in this story cycle. |
 | Minerva McGonagall | Минерва МакГонагалл | Potter's Army / ROSMEN | Do not use `Макгонагал` or mixed forms. |
 | Severus Snape | Северус Снейп | Potter's Army / ROSMEN | Canon form. |
 | Quirinus Quirrell | Квиринус Квиррелл | Potter's Army / ROSMEN | Canon form. |
@@ -81,6 +82,10 @@ across multiple segments.
 | MacNair | Макнейр | Potter's Army / ROSMEN / project usage | Slytherin student discussing wand cores with Tom in this cycle. |
 | Chang | Чанг | Potter's Army / ROSMEN / project usage | Surname-only student reference in Tom's battle-magic practice. |
 | David Monroe | Дэвид Монро | Project / Tom Riddle Conflict | Confident Hogwarts student and Tom's rival. |
+| Galatea Merrythought | Галатея Мерритот | Potter's Army / canon usage / project transliteration | Defense professor in Tom's school years. |
+| Merrythought | Мерритот | Potter's Army / canon usage / project transliteration | Use the surname form for Professor Merrythought. |
+| Antonius Prewett | Антониус Прюэтт | Project / Tom Riddle Conflict | Bellatrix Black's betrothed in this story cycle. |
+| Abigail Myrtle | Эбигейл Миртл | Project / Tom Riddle Conflict | Student later identified with the Myrtle backstory in this anthology continuity. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
 | Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
@@ -128,8 +133,10 @@ across multiple segments.
 | the Restricted Section | Запретная секция | Potter's Army / ROSMEN | Library term. |
 | Defense Against the Dark Arts | Защита от Тёмных Искусств | Potter's Army / ROSMEN | School subject; `ЗОТИ` only where abbreviation is natural. |
 | Muggle Studies | магловедение | Potter's Army / ROSMEN | School subject. |
+| Care of Magical Creatures | Уход за магическими существами | Potter's Army / ROSMEN | School subject. |
 | Dark Arts | Тёмные Искусства | Potter's Army / ROSMEN | Capitalize as school-discipline / field label. |
 | Hog's Head | Кабанья Голова | Potter's Army / ROSMEN | Inn name. |
+| The Three Broomsticks | Три метлы | Potter's Army / ROSMEN | Hogsmeade inn. |
 | The Prophet | «Пророк» | Potter's Army / ROSMEN | Newspaper short form. |
 | The Quibbler | «Придира» | Potter's Army / ROSMEN | Luna Lovegood's family magazine. |
 | Boy-Who-Lived | Мальчик-Который-Выжил | Potter's Army / ROSMEN | Canon epithet. |
