@@ -131,6 +131,20 @@ Important constraints:
 - `bun run sync-content` will fail if a readable story still lacks a Russian
   book title in `books/various-muggles/config.json`.
 
+For automation runs in detached worktrees, do not manually pick the first
+`pending` segment. Use the shared claim helper instead:
+
+```bash
+python3 scripts/automation_claim.py claim \
+  --book-id various-muggles \
+  --automation-id hourly-segment \
+  --worktree-root "$PWD" \
+  --json
+```
+
+It skips non-reader packaging pages like `cover.xhtml`, `titlepage.xhtml`,
+`toc.xhtml`, and similar frontmatter-only segments.
+
 ### 4. Sync runtime state and validate
 
 ```bash
@@ -214,6 +228,8 @@ throughout an incomplete translation run.
 
 - `scripts/convert.py` - import the EPUB into the Markdown workspace
 - `scripts/pending.py` - list pending translation or review work
+- `scripts/automation_claim.py` - claim the next automation-safe reader segment
+- `scripts/publish_from_worktree.py` - publish a validated worktree translation through the canonical checkout
 - `scripts/sync_manifest.py` - refresh manifest status from the filesystem
 - `scripts/validate_run.py` - validate workspace completeness and review state
 - `scripts/review_segments.py` - update review metadata in the manifest

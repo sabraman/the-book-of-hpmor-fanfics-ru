@@ -18,6 +18,7 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 HTML_LIKE_SUFFIXES = {".xhtml", ".html"}
 NON_ASSET_SUFFIXES = HTML_LIKE_SUFFIXES | {".opf", ".ncx", ".xml"}
 OPF_NS = {"opf": "http://www.idpf.org/2007/opf", "dc": "http://purl.org/dc/elements/1.1/"}
+NON_READER_BASENAMES = {"cover.xhtml", "titlepage.xhtml", "toc.xhtml", "preface.xhtml"}
 
 
 def sha256_file(path: Path) -> str:
@@ -126,6 +127,26 @@ def story_id_from_href(href: str) -> str:
     if parts and parts[0].isdigit():
         return f"story-{int(parts[0]):02d}"
     return "frontmatter"
+
+
+def is_reader_segment(original_path: str) -> bool:
+    path = PurePosixPath(original_path)
+    basename = path.name.lower()
+    suffix = path.suffix.lower()
+    if suffix not in HTML_LIKE_SUFFIXES:
+        return False
+    return basename not in NON_READER_BASENAMES
+
+
+def codex_home() -> Path:
+    raw = os.environ.get("CODEX_HOME")
+    if raw:
+        return Path(raw).expanduser()
+    return Path.home() / ".codex"
+
+
+def automation_state_path(automation_id: str, book_id: str) -> Path:
+    return codex_home() / "automation-state" / automation_id / f"{book_id}.json"
 
 
 def book_paths(book_id: str) -> dict[str, Path]:

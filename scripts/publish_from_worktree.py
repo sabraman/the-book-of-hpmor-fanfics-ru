@@ -1,0 +1,134 @@
+#!/usr/bin/env python3
+
+from __future__ import annotations
+
+import argparse
+import shutil
+import subprocess
+from pathlib import Path
+
+from pipeline_common import automation_state_path, load_manifest
+
+
+RELEVANT_OPTIONAL_FILES = [
+    "glossary/glossary.md",
+    "books/various-muggles/config.json",
+]
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Publish a translated segment from a worktree into the main checkout.")
+    parser.add_argument("--book-id", required=True)
+    parser.add_argument("--segment-id", required=True)
+    parser.add_argument("--source-root", required=True, help="Worktree root containing the finished translation.")
+    parser.add_argument("--publisher-root", required=True, help="Canonical checkout used for git commit/push.")
+    parser.add_argument("--automation-id")
+    parser.add_argument("--commit-message")
+    return parser.parse_args()
+
+
+def run(cmd: list[str], cwd: Path) -> subprocess.CompletedProcess[str]:
+    result = subprocess.run(cmd, cwd=str(cwd), capture_output=True, text=True)
+    if result.returncode != 0:
+        message = result.stderr.strip() or result.stdout.strip() or "Command failed"
+        raise RuntimeError(f"{' '.join(cmd)}: {message}")
+    return result
+
+
+def ensure_clean_paths(repo_root: Path, paths: list[str]) -> None:
+    result = run(["git", "status", "--short", "--", *paths], cwd=repo_root)
+    lines = [line for line in result.stdout.splitlines() if line.strip()]
+    if lines:
+        formatted = "\n".join(lines)
+        raise RuntimeError(
+            "Publisher checkout has local changes on files needed for automation publish:\n"
+            f"{formatted}"
+        )
+
+
+def copy_if_changed(source_root: Path, publisher_root: Path, rel_path: str, copied: list[str]) -> None:
+    source = source_root / rel_path
+    if not source.exists():
+        return
+    target = publisher_root / rel_path
+    if target.exists() and source.read_text(encoding="utf-8") == target.read_text(encoding="utf-8"):
+        return
+    target.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(source, target)
+    copied.append(rel_path)
+
+
+def maybe_clear_claim(book_id: str, automation_id: str | None, segment_id: str) -> None:
+    if not automation_id:
+        return
+    path = automation_state_path(automation_id, book_id)
+    if not path.exists():
+        return
+    run(
+        [
+            "python3",
+            str(Path(__file__).resolve().parent / "automation_claim.py"),
+            "complete",
+            "--book-id",
+            book_id,
+            "--automation-id",
+            automation_id,
+            "--segment-id",
+            segment_id,
+        ],
+        cwd=Path(__file__).resolve().parents[1],
+    )
+
+
+def main() -> int:
+    args = parse_args()
+    source_root = Path(args.source_root).resolve()
+    publisher_root = Path(args.publisher_root).resolve()
+    manifest = load_manifest(args.book_id)
+    segment = next(item for item in manifest["segments"] if item["id"] == args.segment_id)
+
+    segment_output_rel = f"books/{args.book_id}/{segment['output_file']}"
+    source_segment = source_root / segment_output_rel
+    if not source_segment.is_file():
+        raise SystemExit(f"Missing translated segment in worktree: {source_segment}")
+
+    protected_paths = [
+        segment_output_rel,
+        "books/various-muggles/manifest.json",
+        f"site/src/content/chapters/{args.segment_id}.mdx",
+        "site/src/lib/generated/catalog.ts",
+        *RELEVANT_OPTIONAL_FILES,
+    ]
+    ensure_clean_paths(publisher_root, protected_paths)
+
+    copied: list[str] = []
+    copy_if_changed(source_root, publisher_root, segment_output_rel, copied)
+    for rel_path in RELEVANT_OPTIONAL_FILES:
+        copy_if_changed(source_root, publisher_root, rel_path, copied)
+
+    if segment_output_rel not in copied:
+        copied.append(segment_output_rel)
+
+    run(["python3", "scripts/sync_manifest.py", "--book-id", args.book_id], cwd=publisher_root)
+    run(["python3", "scripts/validate_run.py", "--book-id", args.book_id], cwd=publisher_root)
+    run(["bun", "run", "sync-content"], cwd=publisher_root / "site")
+
+    stage_paths = [
+        *copied,
+        "books/various-muggles/manifest.json",
+        f"site/src/content/chapters/{args.segment_id}.mdx",
+        "site/src/lib/generated/catalog.ts",
+    ]
+    run(["git", "add", "--", *stage_paths], cwd=publisher_root)
+
+    commit_message = args.commit_message or f"Translate {segment['title']}"
+    run(["git", "commit", "-m", commit_message], cwd=publisher_root)
+    run(["git", "push", "origin", "main"], cwd=publisher_root)
+    maybe_clear_claim(args.book_id, args.automation_id, args.segment_id)
+
+    print(f"Published {args.segment_id} from {source_root} into {publisher_root}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
