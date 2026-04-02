@@ -267,6 +267,12 @@ across multiple segments.
 | Grindylow | гриндилоу | Potter's Army / ROSMEN | Lake creature. |
 | Animagus | анимаг | Potter's Army / ROSMEN | Wizard who can transform into an animal. |
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
+| Auror | аврор | Potter's Army / ROSMEN | Ministry dark-wizard catcher / law-enforcement wizard. |
+| Aurors | авроры | Potter's Army / ROSMEN | Plural form. |
+| Apparition | аппарация | Potter's Army / ROSMEN | Magical teleportation. |
+| apparate | аппарировать | Potter's Army / ROSMEN | Verb form for magical teleportation. |
+| Sonorous | Сонорус | Potter's Army / ROSMEN | Amplifying charm. |
+| Unbreakable Vow | Непреложный Обет | Potter's Army / ROSMEN | Binding magical vow. |
 | Amulet of Asshia | амулет Ашиа | Project / Tom Riddle Conflict | Ancient protective amulet that absorbs incoming magic at the cost of the wearer's speed and power. |
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
