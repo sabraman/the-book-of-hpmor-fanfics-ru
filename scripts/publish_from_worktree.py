@@ -27,6 +27,8 @@ TRANSIENT_PUSH_ERRORS = (
     "Connection reset by peer",
 )
 PUSH_RETRY_DELAYS = (10, 20, 40, 80)
+ORIGIN_WAIT_SECONDS = 300
+ORIGIN_POLL_SECONDS = 15
 
 
 def parse_args() -> argparse.Namespace:
@@ -91,6 +93,43 @@ def is_transient_push_error(message: str) -> bool:
     return any(fragment in message for fragment in TRANSIENT_PUSH_ERRORS)
 
 
+def try_ls_remote_origin(repo_root: Path) -> tuple[bool, str]:
+    result = subprocess.run(
+        ["git", "ls-remote", "origin", "-h", "refs/heads/main"],
+        cwd=str(repo_root),
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode == 0:
+        return True, result.stdout.strip()
+    return False, result.stderr.strip() or result.stdout.strip() or "unknown ls-remote error"
+
+
+def wait_for_origin_access(repo_root: Path) -> None:
+    deadline = time.time() + ORIGIN_WAIT_SECONDS
+    last_status = "origin access not yet checked"
+    while True:
+        dns_ok = False
+        try:
+            socket.gethostbyname("github.com")
+            dns_ok = True
+        except Exception as exc:  # noqa: BLE001
+            last_status = f"dns_error={exc}"
+
+        if dns_ok:
+            ok, status = try_ls_remote_origin(repo_root)
+            if ok:
+                return
+            last_status = f"ls_remote_error={status}"
+
+        if time.time() >= deadline:
+            raise RuntimeError(
+                "Timed out waiting for GitHub origin access before push: "
+                f"{last_status} | diagnostics: {capture_push_diagnostics(repo_root)}"
+            )
+        time.sleep(ORIGIN_POLL_SECONDS)
+
+
 def capture_push_diagnostics(repo_root: Path) -> str:
     lines: list[str] = []
     try:
@@ -114,22 +153,17 @@ def capture_push_diagnostics(repo_root: Path) -> str:
         except Exception as exc:  # noqa: BLE001
             lines.append(f"dns_{host}_error={exc}")
 
-    ls_remote = subprocess.run(
-        ["git", "ls-remote", "origin", "-h", "refs/heads/main"],
-        cwd=str(repo_root),
-        capture_output=True,
-        text=True,
-    )
-    if ls_remote.returncode == 0:
-        lines.append(f"ls_remote={ls_remote.stdout.strip()}")
+    ls_remote_ok, ls_remote_status = try_ls_remote_origin(repo_root)
+    if ls_remote_ok:
+        lines.append(f"ls_remote={ls_remote_status}")
     else:
-        message = ls_remote.stderr.strip() or ls_remote.stdout.strip() or "unknown ls-remote error"
-        lines.append(f"ls_remote_error={message}")
+        lines.append(f"ls_remote_error={ls_remote_status}")
 
     return "; ".join(lines)
 
 
 def push_origin_main(repo_root: Path) -> None:
+    wait_for_origin_access(repo_root)
     attempts = len(PUSH_RETRY_DELAYS) + 1
     for index in range(attempts):
         result = subprocess.run(
@@ -144,6 +178,7 @@ def push_origin_main(repo_root: Path) -> None:
         if index >= len(PUSH_RETRY_DELAYS) or not is_transient_push_error(message):
             diagnostics = capture_push_diagnostics(repo_root)
             raise RuntimeError(f"git push origin main: {message} | diagnostics: {diagnostics}")
+        wait_for_origin_access(repo_root)
         time.sleep(PUSH_RETRY_DELAYS[index])
 
 
