@@ -258,7 +258,6 @@ across multiple segments.
 | W.O.M.B.A.T. | В.О.М.Б.А.Т. | Fan usage | `Всеобщий Обычный Магический Базовый Аттестационный Тест`; mostly fan-usage transliteration. |
 | Ancient Runes | Древние руны | Potter's Army / ROSMEN | School subject. |
 | Curse Breaker | разрушитель проклятий | Potter's Army / ROSMEN | Standard profession term. |
-| Auror | аврор | Potter's Army / ROSMEN | Ministry dark-wizard catcher / law-enforcement officer. |
 | Scabbers | Короста | Potter's Army / ROSMEN | Rat name. |
 | S.P.E.W. | Г.А.В.Н.Э. | Potter's Army / ROSMEN | `Гражданская Ассоциация Восстановления Независимости Эльфов`. |
 | mokeskin pouch | мешочек из ишачьей кожи | Harry Potter Wiki RU / canon usage | Magical pouch whose contents only the owner can retrieve. |
@@ -268,7 +267,12 @@ across multiple segments.
 | Grindylow | гриндилоу | Potter's Army / ROSMEN | Lake creature. |
 | Animagus | анимаг | Potter's Army / ROSMEN | Wizard who can transform into an animal. |
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
-| Unbreakable Vow | Непреложный обет | Potter's Army / ROSMEN | Binding magical vow with lethal consequences for breaking it. |
+| Auror | аврор | Potter's Army / ROSMEN | Ministry dark-wizard catcher / law-enforcement wizard. |
+| Aurors | авроры | Potter's Army / ROSMEN | Plural form. |
+| Apparition | аппарация | Potter's Army / ROSMEN | Magical teleportation. |
+| apparate | аппарировать | Potter's Army / ROSMEN | Verb form for magical teleportation. |
+| Sonorous | Сонорус | Potter's Army / ROSMEN | Amplifying charm. |
+| Unbreakable Vow | Непреложный Обет | Potter's Army / ROSMEN | Binding magical vow. |
 | Amulet of Asshia | амулет Ашиа | Project / Tom Riddle Conflict | Ancient protective amulet that absorbs incoming magic at the cost of the wearer's speed and power. |
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
@@ -295,6 +299,7 @@ across multiple segments.
 | Farnsworth's Sembler | Семблер Фарнсворта | Project / Squibgineering | Story-specific magical disassembly / assembly tool. |
 | Fully Justified Notepad | Блокнот с полным обоснованием | Project / Squibgineering | Study aid artifact; in context `justified` reads as academically / logically justified, not typographically aligned. |
 | Magical Modesto | Магический Модесто | Project / Squibgineering | Magical-side district / city label used in this story cycle. |
+| Darius Ahlee | Дариус Али | Project / Tom Riddle Conflict | Dark wizard whose protective amulet Tom targets in this story cycle. |
 
 ## Exam Grades
 

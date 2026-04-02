@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 34,
-  readableChapterCount: 34,
+  translatedSegmentCount: 35,
+  readableChapterCount: 35,
   readableBookCount: 4,
 } as const;
 
@@ -81,9 +81,9 @@ export const books: BookMeta[] = [
     "title": "Том Реддл и конфликт интересов",
     "originalTitle": "Tom Riddle and the Conflict of Interest",
     "order": 37,
-    "readableChapterCount": 6,
+    "readableChapterCount": 7,
     "totalChapterCount": 12,
-    "translatedSegmentCount": 6
+    "translatedSegmentCount": 7
   },
   {
     "id": "story-05",
@@ -1473,6 +1473,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 6: Том Реддл и недоразумения",
     "originalTitle": "Chapter 6: Tom Riddle and\n      Misunderstandings"
+  },
+  {
+    "bookId": "story-04",
+    "bookSlug": "tom-riddle-and-the-conflict-of-interest",
+    "slug": "seg-0045",
+    "href": "/books/tom-riddle-and-the-conflict-of-interest/chapters/seg-0045",
+    "order": 45,
+    "orderWithinBook": 7,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 7: Том Реддл и опыт",
+    "originalTitle": "Chapter 7: Tom Riddle and\n      Experience"
   }
 ] as ChapterMeta[];
 
@@ -1511,4 +1522,5 @@ export const chapterModules = {
   "seg-0042": () => import("@/content/chapters/seg-0042.mdx"),
   "seg-0043": () => import("@/content/chapters/seg-0043.mdx"),
   "seg-0044": () => import("@/content/chapters/seg-0044.mdx"),
+  "seg-0045": () => import("@/content/chapters/seg-0045.mdx"),
 } as const;
