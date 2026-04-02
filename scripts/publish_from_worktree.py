@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import socket
 import shutil
 import subprocess
 import time
@@ -90,6 +91,44 @@ def is_transient_push_error(message: str) -> bool:
     return any(fragment in message for fragment in TRANSIENT_PUSH_ERRORS)
 
 
+def capture_push_diagnostics(repo_root: Path) -> str:
+    lines: list[str] = []
+    try:
+        head = run(["git", "rev-parse", "HEAD"], cwd=repo_root).stdout.strip()
+        lines.append(f"head={head}")
+    except Exception as exc:  # noqa: BLE001
+        lines.append(f"head_error={exc}")
+
+    try:
+        ahead_behind = run(
+            ["git", "rev-list", "--left-right", "--count", "origin/main...main"],
+            cwd=repo_root,
+        ).stdout.strip()
+        lines.append(f"ahead_behind={ahead_behind}")
+    except Exception as exc:  # noqa: BLE001
+        lines.append(f"ahead_behind_error={exc}")
+
+    for host in ("github.com", "api.github.com"):
+        try:
+            lines.append(f"dns_{host}={socket.gethostbyname(host)}")
+        except Exception as exc:  # noqa: BLE001
+            lines.append(f"dns_{host}_error={exc}")
+
+    ls_remote = subprocess.run(
+        ["git", "ls-remote", "origin", "-h", "refs/heads/main"],
+        cwd=str(repo_root),
+        capture_output=True,
+        text=True,
+    )
+    if ls_remote.returncode == 0:
+        lines.append(f"ls_remote={ls_remote.stdout.strip()}")
+    else:
+        message = ls_remote.stderr.strip() or ls_remote.stdout.strip() or "unknown ls-remote error"
+        lines.append(f"ls_remote_error={message}")
+
+    return "; ".join(lines)
+
+
 def push_origin_main(repo_root: Path) -> None:
     attempts = len(PUSH_RETRY_DELAYS) + 1
     for index in range(attempts):
@@ -103,7 +142,8 @@ def push_origin_main(repo_root: Path) -> None:
             return
         message = result.stderr.strip() or result.stdout.strip() or "git push failed"
         if index >= len(PUSH_RETRY_DELAYS) or not is_transient_push_error(message):
-            raise RuntimeError(f"git push origin main: {message}")
+            diagnostics = capture_push_diagnostics(repo_root)
+            raise RuntimeError(f"git push origin main: {message} | diagnostics: {diagnostics}")
         time.sleep(PUSH_RETRY_DELAYS[index])
 
 

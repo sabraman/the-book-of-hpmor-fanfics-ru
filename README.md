@@ -135,6 +135,16 @@ For automation runs in detached worktrees, do not manually pick the first
 `pending` segment. Use the shared claim helper instead:
 
 ```bash
+git rev-list --left-right --count origin/main...main
+python3 scripts/push_pending_main.py --repo-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru
+```
+
+If the canonical checkout is already ahead of `origin/main`, resume pushing
+those local commits first and do not translate a new segment in that run.
+
+Then inspect claim state:
+
+```bash
 python3 scripts/automation_claim.py show \
   --book-id various-muggles \
   --automation-id hourly-segment \
@@ -242,6 +252,7 @@ throughout an incomplete translation run.
 - `scripts/convert.py` - import the EPUB into the Markdown workspace
 - `scripts/pending.py` - list pending translation or review work
 - `scripts/automation_claim.py` - claim the next automation-safe reader segment
+- `scripts/push_pending_main.py` - retry/publish pending local `main` commits before automation starts new translation work
 - `scripts/publish_from_worktree.py` - publish a validated worktree translation through the canonical checkout, retry transient DNS/network push failures, and resume a previously committed-but-unpushed publish
 - `scripts/sync_manifest.py` - refresh manifest status from the filesystem
 - `scripts/validate_run.py` - validate workspace completeness and review state
