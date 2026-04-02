@@ -40,7 +40,7 @@
 
 (Я вынес это в отдельную новую историю просто потому, что именно в неё оно и превратилось.)
 
-s/11595761/1/Tom-Riddle-Origins-of-a-Dark-Lord
+[Tom Riddle: Origins of a Dark Lord](https://www.fanfiction.net/s/11595761/1/Tom-Riddle-Origins-of-a-Dark-Lord)
 
 </div>
 

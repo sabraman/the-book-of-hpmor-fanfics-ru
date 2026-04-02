@@ -156,6 +156,11 @@ function rewriteLinks(markdown: string, readableTargets: Map<string, ReadableTar
 
   result = result.replace(/\]\(assets\/([^)]+)\)/g, "](/book-assets/$1)");
   result = result.replace(/src="assets\/([^"]+)"/g, 'src="/book-assets/$1"');
+  result = result.replace(
+    /^(s\/\d+\/\d+\/[A-Za-z0-9._-]+)$/gm,
+    "<https://www.fanfiction.net/$1>",
+  );
+  result = result.replace(/^(https?:\/\/\S+)$/gm, "<$1>");
 
   return result;
 }

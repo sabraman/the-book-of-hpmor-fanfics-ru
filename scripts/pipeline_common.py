@@ -95,6 +95,16 @@ def clean_markdown(content: str) -> str:
     content = re.sub(r"\{\.calibre[^}]*\}", "", content)
     content = re.sub(r"\s+\{#[^}]*\.calibre[^}]*\}", "", content)
     content = re.sub(r"\\\n", "\n", content)
+    content = re.sub(
+        r"(?m)^(s/\d+/\d+/[A-Za-z0-9._-]+)$",
+        r"<https://www.fanfiction.net/\1>",
+        content,
+    )
+    content = re.sub(
+        r"(?m)^(https?://\S+)$",
+        r"<\1>",
+        content,
+    )
     content = re.sub(r"\n{3,}", "\n\n", content)
     return content.strip() + "\n"
 
