@@ -30,6 +30,7 @@ across multiple segments.
 | Tom Riddle and Conflicts of Christmas | Том Реддл и рождественские конфликты | Project / story-06 | Preserve the echo of `Conflicts of Interest` while keeping the Russian title natural. |
 | Firenze's Tale | Рассказ Флоренца | Project / story-07 | Keep the title compact and oral, matching the story's mythic register. |
 | Professors Aren't Idiots | Профессора не идиоты | Project / story-08 | Keep the title blunt and declarative. |
+| Hermione Granger and the Perfectly Reasonable Explanation | Гермиона Грейнджер и совершенно разумное объяснение | Project / story-10 | Keep `perfectly reasonable` idiomatic rather than literal-technical. |
 
 ## Core Canon Terms
 
