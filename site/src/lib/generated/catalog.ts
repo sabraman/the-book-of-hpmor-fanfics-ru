@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 48,
-  readableChapterCount: 48,
+  translatedSegmentCount: 49,
+  readableChapterCount: 49,
   readableBookCount: 10,
 } as const;
 
@@ -122,7 +122,7 @@ export const books: BookMeta[] = [
     "id": "story-08",
     "slug": "lord-voldemorts-first-speech",
     "href": "/books/lord-voldemorts-first-speech",
-    "title": "Первая речь Лорда Волдеморта",
+    "title": "Профессора не идиоты",
     "originalTitle": "Lord Voldemort's First Speech",
     "order": 60,
     "readableChapterCount": 1,
@@ -147,9 +147,9 @@ export const books: BookMeta[] = [
     "title": "Гермиона Грейнджер и совершенно разумное объяснение",
     "originalTitle": "Hermione Granger and the Perfectly Reasonable Explanation",
     "order": 66,
-    "readableChapterCount": 3,
+    "readableChapterCount": 4,
     "totalChapterCount": 25,
-    "translatedSegmentCount": 3
+    "translatedSegmentCount": 4
   },
   {
     "id": "story-11",
@@ -1118,7 +1118,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0006",
     "order": 6,
     "orderWithinBook": 1,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 1: Гарри Поттер против детства",
     "originalTitle": "Chapter 1: HP vs Childhood"
   },
@@ -1129,7 +1129,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0007",
     "order": 7,
     "orderWithinBook": 2,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 2: Гарри Поттер против Квиринуса Квиррелла",
     "originalTitle": "Chapter 2: HP vs Quirinus Quirrel"
   },
@@ -1140,7 +1140,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0008",
     "order": 8,
     "orderWithinBook": 3,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 3: Гарри Поттер против Гилдероя Локхарта",
     "originalTitle": "Chapter 3: HP vs Gilderoy Lockhart"
   },
@@ -1151,7 +1151,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0009",
     "order": 9,
     "orderWithinBook": 4,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 4: Гарри Поттер против Римуса Люпина (часть 1)",
     "originalTitle": "Chapter 4: HP vs Remus Lupin (Pt 1)"
   },
@@ -1162,7 +1162,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0010",
     "order": 10,
     "orderWithinBook": 5,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 5: Гарри Поттер против Римуса Люпина (часть 2)",
     "originalTitle": "Chapter 5: HP vs Remus Lupin (Pt 2)"
   },
@@ -1173,7 +1173,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0011",
     "order": 11,
     "orderWithinBook": 6,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 6: Гарри Поттер против Аластора Грюма (часть 1)",
     "originalTitle": "Chapter 6: HP vs Alastor Moody (Pt 1)"
   },
@@ -1184,7 +1184,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0012",
     "order": 12,
     "orderWithinBook": 7,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 7: Гарри Поттер против Аластора Грюма (часть 2)",
     "originalTitle": "Chapter 7: HP vs Alastor Moody (Pt 2)"
   },
@@ -1195,7 +1195,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0013",
     "order": 13,
     "orderWithinBook": 8,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 8: Гарри Поттер против Аластора Грюма (часть 3)",
     "originalTitle": "Chapter 8: HP vs Alastor Moody (Pt 3)"
   },
@@ -1206,7 +1206,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0014",
     "order": 14,
     "orderWithinBook": 9,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 9: Гарри Поттер против Аластора Грюма (часть 4)",
     "originalTitle": "Chapter 9: HP vs Alastor Moody (Pt 4)"
   },
@@ -1217,7 +1217,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0015",
     "order": 15,
     "orderWithinBook": 10,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 10: Гарри Поттер против Отдела Тайн",
     "originalTitle": "Chapter 10: HP vs DoM"
   },
@@ -1228,7 +1228,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0016",
     "order": 16,
     "orderWithinBook": 11,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 11: Гарри Поттер против Долорес Амбридж (ч. 1)",
     "originalTitle": "Chapter 11: HP vs Dolores Umbridge (Pt 1)"
   },
@@ -1239,7 +1239,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0017",
     "order": 17,
     "orderWithinBook": 12,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 12: Гарри Поттер против Долорес Амбридж (ч. 2)",
     "originalTitle": "Chapter 12: HP vs Dolores Umbridge (Pt 2)"
   },
@@ -1250,7 +1250,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0018",
     "order": 18,
     "orderWithinBook": 13,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 13: Гарри Поттер против Долорес Амбридж (ч. 3)",
     "originalTitle": "Chapter 13: HP vs Dolores Umbridge (Pt 3)"
   },
@@ -1261,7 +1261,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0019",
     "order": 19,
     "orderWithinBook": 14,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 14: Гарри Поттер против любви (ч. 1)",
     "originalTitle": "Chapter 14: HP vs Love (Pt 1)"
   },
@@ -1272,7 +1272,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0020",
     "order": 20,
     "orderWithinBook": 15,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 15: Гарри Поттер против любви (ч. 2)",
     "originalTitle": "Chapter 15: HP vs Love (Pt 2)"
   },
@@ -1283,7 +1283,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0021",
     "order": 21,
     "orderWithinBook": 16,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 16: Гарри Поттер против любви (ч. 3)",
     "originalTitle": "Chapter 16: HP vs Love (Pt 3)"
   },
@@ -1294,7 +1294,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0022",
     "order": 22,
     "orderWithinBook": 17,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 17: Гарри Поттер против самого себя (ч. 1)",
     "originalTitle": "Chapter 17: HP vs Himself (Pt 1)"
   },
@@ -1305,7 +1305,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0023",
     "order": 23,
     "orderWithinBook": 18,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 18: Гарри Поттер против самого себя (ч. 2)",
     "originalTitle": "Chapter 18: HP vs Himself (Pt 2)"
   },
@@ -1316,7 +1316,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0024",
     "order": 24,
     "orderWithinBook": 19,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 19: Гарри Поттер против самого себя (ч. 3)",
     "originalTitle": "Chapter 19: HP vs Himself (Pt 3)"
   },
@@ -1327,7 +1327,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0025",
     "order": 25,
     "orderWithinBook": 20,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 20: Эпилог: тринадцать лет спустя",
     "originalTitle": "Chapter 20: Epilogue: Thirteen Years Later"
   },
@@ -1338,7 +1338,7 @@ export const chapters: ChapterMeta[] = [
     "href": "/books/seventh-horcrux/chapters/seg-0026",
     "order": 26,
     "orderWithinBook": 21,
-    "reviewStatus": "unreviewed",
+    "reviewStatus": "reviewed",
     "title": "Глава 21: Омаки!",
     "originalTitle": "Chapter 21: Omakes!"
   },
@@ -1627,6 +1627,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 2: Недолгий визит",
     "originalTitle": "Chapter 2: A Short Visit"
+  },
+  {
+    "bookId": "story-10",
+    "bookSlug": "hermione-granger-and-the-perfectly-reasonable-explanation",
+    "slug": "seg-0071",
+    "href": "/books/hermione-granger-and-the-perfectly-reasonable-explanation/chapters/seg-0071",
+    "order": 71,
+    "orderWithinBook": 4,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 2.1: Интерлюдия - Введение к расследованию",
+    "originalTitle": "Chapter 2.1: Interlude - Introductio Consectandus"
   }
 ] as ChapterMeta[];
 
@@ -1679,4 +1690,5 @@ export const chapterModules = {
   "seg-0068": () => import("@/content/chapters/seg-0068.mdx"),
   "seg-0069": () => import("@/content/chapters/seg-0069.mdx"),
   "seg-0070": () => import("@/content/chapters/seg-0070.mdx"),
+  "seg-0071": () => import("@/content/chapters/seg-0071.mdx"),
 } as const;
