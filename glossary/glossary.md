@@ -28,6 +28,7 @@ across multiple segments.
 | Source | Russian | Authority | Notes |
 | --- | --- | --- | --- |
 | Tom Riddle and Conflicts of Christmas | Том Реддл и рождественские конфликты | Project / story-06 | Preserve the echo of `Conflicts of Interest` while keeping the Russian title natural. |
+| Firenze's Tale | Рассказ Флоренца | Project / story-07 | Keep the title compact and oral, matching the story's mythic register. |
 
 ## Core Canon Terms
 
@@ -58,6 +59,7 @@ across multiple segments.
 | Molly Weasley | Молли Уизли | Potter's Army / ROSMEN | Canon form. |
 | Arthur Weasley | Артур Уизли | Potter's Army / ROSMEN | Canon form. |
 | Fleur Delacour | Флёр Делакур | Potter's Army / ROSMEN | Canon form. |
+| Firenze | Флоренц | Potter's Army / ROSMEN | Canon centaur name. |
 | Nymphadora Tonks | Нимфадора Тонкс | Potter's Army / ROSMEN | Canon full name. |
 | Tonks | Тонкс | Potter's Army / ROSMEN | Common short form in dialogue and narration. |
 | Tom Riddle | Том Реддл | Potter's Army / ROSMEN | Canon form for Voldemort before he took the name `Lord Voldemort`. |
