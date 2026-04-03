@@ -21,6 +21,7 @@ across multiple segments.
 | Harry Potter and the Methods of Rationality | Гарри Поттер и методы рационального мышления | hpmor.ru | Project-wide full title. |
 | HPMOR | ГПиМРМ | hpmor.ru | Preferred repo-facing abbreviation. |
 | The Book of HPMOR Fanfics | Книга фанфиков ГПиМРМ | Project | Working anthology title for builds and docs. |
+| Battle Magic | боевая магия | Project / usage | Recurring combat-training term in this anthology; lowercase in running text, capitalize only when a title or quoted label requires it. |
 
 ## Core Canon Terms
 
