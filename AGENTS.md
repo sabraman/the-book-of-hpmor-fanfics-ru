@@ -24,14 +24,13 @@ This repository is a markdown-first Russian translation workspace for *The Book 
 ## Automation Rules
 
 - When running in a detached worktree, do not manually choose the next segment from `scripts/pending.py`.
-- Before claiming new work, check whether the canonical checkout is already ahead of `origin/main`; if it is, resume publishing with `python3 scripts/push_pending_main.py --repo-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru` instead of translating a new segment.
 - Always inspect lease state first with `python3 scripts/automation_claim.py show --book-id various-muggles --automation-id hourly-segment --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru --json`.
 - Only call `python3 scripts/automation_claim.py claim --book-id various-muggles --automation-id hourly-segment --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru --worktree-root "$PWD" --json` when `show` reports `no-active-claim`.
 - The claim helper excludes non-reader packaging/frontmatter pages such as `cover.xhtml`, `titlepage.xhtml`, `toc.xhtml`, and `preface.xhtml`.
 - The claim helper auto-releases empty stale claims and auto-reconciles a claim if the worktree drifted onto a different single segment file.
 - Translate only the claimed segment.
-- Validate in the worktree, then publish through the canonical checkout with `python3 scripts/publish_from_worktree.py --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru`.
-- The publish helper waits for `git ls-remote origin` to recover, retries transient network/DNS push failures, and can resume a prior local-only commit after a failed `git push`.
+- Validate in the worktree, then publish through the canonical checkout with `python3 scripts/publish_from_worktree.py --skip-push --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru`.
+- Automation publishing is local-only: commit in the canonical checkout, clear the claim, and leave pushing to the user outside automation.
 - Do not commit or push directly from the detached worktree if the publish helper is available.
 
 ## Done Means
@@ -39,4 +38,4 @@ This repository is a markdown-first Russian translation workspace for *The Book 
 - The translated segment exists in `books/various-muggles/output/`.
 - `sync_manifest`, `validate_run`, and `bun run sync-content` pass.
 - Generated reader files were refreshed by the pipeline.
-- If publishing is part of the task, the result is committed and pushed from the canonical checkout.
+- If publishing is part of the task, the result is committed in the canonical checkout.

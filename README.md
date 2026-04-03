@@ -135,16 +135,6 @@ For automation runs in detached worktrees, do not manually pick the first
 `pending` segment. Use the shared claim helper instead:
 
 ```bash
-git rev-list --left-right --count origin/main...main
-python3 scripts/push_pending_main.py --repo-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru
-```
-
-If the canonical checkout is already ahead of `origin/main`, resume pushing
-those local commits first and do not translate a new segment in that run.
-
-Then inspect claim state:
-
-```bash
 python3 scripts/automation_claim.py show \
   --book-id various-muggles \
   --automation-id hourly-segment \
@@ -167,6 +157,22 @@ It skips non-reader packaging pages like `cover.xhtml`, `titlepage.xhtml`,
 `toc.xhtml`, and similar frontmatter-only segments. It also auto-clears empty
 stale claims and auto-reconciles a claim if the old worktree only changed one
 different segment file.
+
+For automation, publish locally only:
+
+```bash
+python3 scripts/publish_from_worktree.py \
+  --book-id various-muggles \
+  --segment-id <claimed segment id> \
+  --source-root "$PWD" \
+  --publisher-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru \
+  --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru \
+  --automation-id hourly-segment \
+  --skip-push
+```
+
+This commits in the canonical checkout and clears the claim, but leaves
+`git push` for a manual step outside automation.
 
 ### 4. Sync runtime state and validate
 
@@ -252,8 +258,8 @@ throughout an incomplete translation run.
 - `scripts/convert.py` - import the EPUB into the Markdown workspace
 - `scripts/pending.py` - list pending translation or review work
 - `scripts/automation_claim.py` - claim the next automation-safe reader segment
-- `scripts/push_pending_main.py` - retry/publish pending local `main` commits before automation starts new translation work
-- `scripts/publish_from_worktree.py` - publish a validated worktree translation through the canonical checkout, wait for `origin` reachability, retry transient DNS/network push failures, and resume a previously committed-but-unpushed publish
+- `scripts/push_pending_main.py` - manually push pending local `main` commits when desired
+- `scripts/publish_from_worktree.py` - publish a validated worktree translation through the canonical checkout, either as a local-only commit (`--skip-push`) or with an immediate push
 - `scripts/sync_manifest.py` - refresh manifest status from the filesystem
 - `scripts/validate_run.py` - validate workspace completeness and review state
 - `scripts/review_segments.py` - update review metadata in the manifest

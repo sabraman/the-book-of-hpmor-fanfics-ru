@@ -40,6 +40,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--automation-id")
     parser.add_argument("--shared-root", help="Shared writable root used for automation lease state.")
     parser.add_argument("--commit-message")
+    parser.add_argument(
+        "--skip-push",
+        action="store_true",
+        help="Stop after creating the local commit; do not push to origin.",
+    )
     return parser.parse_args()
 
 
@@ -255,7 +260,8 @@ def main() -> int:
         commit_message = args.commit_message or f"Translate {segment['title']}"
         run(["git", "commit", "-m", commit_message], cwd=publisher_root)
 
-    push_origin_main(publisher_root)
+    if not args.skip_push:
+        push_origin_main(publisher_root)
     maybe_clear_claim(
         args.book_id,
         args.automation_id,
@@ -263,7 +269,8 @@ def main() -> int:
         shared_root=shared_root,
     )
 
-    print(f"Published {args.segment_id} from {source_root} into {publisher_root}")
+    mode = "committed locally" if args.skip_push else "published"
+    print(f"{mode.capitalize()} {args.segment_id} from {source_root} into {publisher_root}")
     return 0
 
 
