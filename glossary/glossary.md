@@ -29,6 +29,7 @@ across multiple segments.
 | --- | --- | --- | --- |
 | Tom Riddle and Conflicts of Christmas | Том Реддл и рождественские конфликты | Project / story-06 | Preserve the echo of `Conflicts of Interest` while keeping the Russian title natural. |
 | Firenze's Tale | Рассказ Флоренца | Project / story-07 | Keep the title compact and oral, matching the story's mythic register. |
+| Professors Aren't Idiots | Профессора не идиоты | Project / story-08 | Keep the title blunt and declarative. |
 
 ## Core Canon Terms
 
@@ -118,6 +119,7 @@ across multiple segments.
 | Mrs. Cole | миссис Коул | Potter's Army / ROSMEN | Wool's Orphanage matron. |
 | Grindelwald | Грин-де-Вальд | Potter's Army / ROSMEN | Canon surname form. |
 | Lord Voldemort | Лорд Волдеморт | hpmor.ru / Project | Match current HPMOR Russian usage in this repo. |
+| General Chaos | Генерал Хаос | Project / HPMOR fanfic usage | Harry's title-like prank-war / battlefield persona; capitalize as an epithet. |
 | Petunia Dursley | Петуния Дурсль | Potter's Army / ROSMEN | Canon form. |
 | Vernon Dursley | Вернон Дурсль | Potter's Army / ROSMEN | Canon form. |
 | Dudley Dursley | Дадли Дурсль | Potter's Army / ROSMEN | Canon form. |
@@ -129,6 +131,7 @@ across multiple segments.
 | Nearly Headless Nick | Почти Безголовый Ник | Potter's Army / ROSMEN | Gryffindor house ghost. |
 | Sir Nicholas | сэр Николас | Potter's Army / ROSMEN | Short form used in dialogue. |
 | Death Eater | Пожиратель Смерти | Potter's Army / ROSMEN | Singular title form. |
+| blood traitor | предатель крови | Potter's Army / ROSMEN / usage | Canon slur used by blood purists; plural `предатели крови`. |
 | Death Eaters | Пожиратели Смерти | Potter's Army / ROSMEN | Plural title form. |
 | Dumbledore's Army | Армия Дамблдора | Potter's Army / ROSMEN | Use canon institutional wording. |
 | Dark Lord | Тёмный Лорд | Potter's Army / ROSMEN | Capitalize in title-like use. |
@@ -144,6 +147,7 @@ across multiple segments.
 | Slytherin | Слизерин | Potter's Army / ROSMEN | House name. |
 | Hogwarts letter | письмо из Хогвартса | Potter's Army / usage | Phrase-level default. |
 | Horcrux | крестраж | Potter's Army / ROSMEN | Canon form. |
+| Line of Merlin | Линия Мерлина | Project / HPMOR fanfic usage | Succession / artifact term; extend naturally to `Line of Merlin Unbroken` as `Непрерывная Линия Мерлина` when needed. |
 | Gaunt ring | Кольцо Марволо Мракса | Harry Potter Wiki RU / canon usage | Horcrux-bearing ring of Marvolo Gaunt. |
 | Ravenclaw's Diadem | диадема Когтевран | Potter's Army / ROSMEN | Lost Hogwarts founder relic and Horcrux. |
 | Hufflepuff's Cup | чаша Пуффендуя | Potter's Army / ROSMEN | Lost Hogwarts founder relic and Horcrux. |

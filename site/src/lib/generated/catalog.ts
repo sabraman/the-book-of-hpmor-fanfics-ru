@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 43,
-  readableChapterCount: 43,
-  readableBookCount: 7,
+  translatedSegmentCount: 44,
+  readableChapterCount: 44,
+  readableBookCount: 8,
 } as const;
 
 export const books: BookMeta[] = [
@@ -122,12 +122,12 @@ export const books: BookMeta[] = [
     "id": "story-08",
     "slug": "lord-voldemorts-first-speech",
     "href": "/books/lord-voldemorts-first-speech",
-    "title": "Lord Voldemort's First Speech",
+    "title": "Профессора не идиоты",
     "originalTitle": "Lord Voldemort's First Speech",
     "order": 60,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-09",
@@ -1572,6 +1572,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-08",
+    "bookSlug": "lord-voldemorts-first-speech",
+    "slug": "seg-0062",
+    "href": "/books/lord-voldemorts-first-speech/chapters/seg-0062",
+    "order": 62,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -1619,4 +1630,5 @@ export const chapterModules = {
   "seg-0053": () => import("@/content/chapters/seg-0053.mdx"),
   "seg-0056": () => import("@/content/chapters/seg-0056.mdx"),
   "seg-0059": () => import("@/content/chapters/seg-0059.mdx"),
+  "seg-0062": () => import("@/content/chapters/seg-0062.mdx"),
 } as const;
