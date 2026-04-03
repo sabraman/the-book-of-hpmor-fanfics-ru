@@ -122,7 +122,7 @@ export const books: BookMeta[] = [
     "id": "story-08",
     "slug": "lord-voldemorts-first-speech",
     "href": "/books/lord-voldemorts-first-speech",
-    "title": "Профессора не идиоты",
+    "title": "Первая речь Лорда Волдеморта",
     "originalTitle": "Lord Voldemort's First Speech",
     "order": 60,
     "readableChapterCount": 1,

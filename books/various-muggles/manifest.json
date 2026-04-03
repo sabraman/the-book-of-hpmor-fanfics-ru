@@ -63,7 +63,7 @@
       "source_hash": "34ca917b10460a2d0df4f61425831ce9cfbd7ca3abd1298ea925b43402e45034",
       "output_file": "output/segment0005.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Table of Contents"
     },
@@ -76,7 +76,7 @@
       "source_hash": "c5dfeb7fefb1c5078ee66208eb702f0b06afc65708b3cf9c63462078c663a292",
       "output_file": "output/segment0006.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 1: HP vs Childhood"
     },
@@ -89,7 +89,7 @@
       "source_hash": "1143a232cd92b36be67abf1730e268468a5dcb4122fcf38155de10f8722e466c",
       "output_file": "output/segment0007.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 2: HP vs Quirinus Quirrel"
     },
@@ -102,7 +102,7 @@
       "source_hash": "1731c64bb7d92b387701f717b1ac5968ce7675f61707303191907a060b53e143",
       "output_file": "output/segment0008.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 3: HP vs Gilderoy Lockhart"
     },
@@ -115,7 +115,7 @@
       "source_hash": "7411c6a4a344d012f5671a3203cccbd7fafaa71f59553938b6da397095832c2e",
       "output_file": "output/segment0009.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 4: HP vs Remus Lupin (Pt 1)"
     },
@@ -128,7 +128,7 @@
       "source_hash": "7daad9e9bfa6f475cdaf26e8f5678d61de9fc03a003ab0d294a328e25deeb0b5",
       "output_file": "output/segment0010.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 5: HP vs Remus Lupin (Pt 2)"
     },
@@ -141,7 +141,7 @@
       "source_hash": "31d43ede737fa54a0305929a3ffcca937e317ecfb7a35ab20446853141dd2ea1",
       "output_file": "output/segment0011.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 6: HP vs Alastor Moody (Pt 1)"
     },
@@ -154,7 +154,7 @@
       "source_hash": "2e18452e7c3e6381a560679856e381308f15564fe4f967a7b5c56c9ec6acbd5b",
       "output_file": "output/segment0012.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 7: HP vs Alastor Moody (Pt 2)"
     },
@@ -167,7 +167,7 @@
       "source_hash": "8f695ce386f250275d2690f746fa78314fb9aebe13f745830ff671c741a573dc",
       "output_file": "output/segment0013.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 8: HP vs Alastor Moody (Pt 3)"
     },
@@ -180,7 +180,7 @@
       "source_hash": "edfe4592666b0f4d135c7332ae46fc1fc25c54674d72a271e769a6f9bb14beb4",
       "output_file": "output/segment0014.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 9: HP vs Alastor Moody (Pt 4)"
     },
@@ -193,7 +193,7 @@
       "source_hash": "e32c82b3e7600527b6e421908f142d09f50c9b18a9b0170fab5612c0455b578f",
       "output_file": "output/segment0015.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 10: HP vs DoM"
     },
@@ -206,7 +206,7 @@
       "source_hash": "7cd465f5066e23ce4b0d2ab8ae0f0444dc7acbe6156390674c81ee7f7961ba8a",
       "output_file": "output/segment0016.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 11: HP vs Dolores Umbridge (Pt 1)"
     },
@@ -219,7 +219,7 @@
       "source_hash": "6df2f6a2f57292e4cb19f07ea80d9347f4819e9807920c17f0794143c4f288c8",
       "output_file": "output/segment0017.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 12: HP vs Dolores Umbridge (Pt 2)"
     },
@@ -232,7 +232,7 @@
       "source_hash": "f8528cf27652ba7ca99d7da56f79487eceeb0fd3ba0d988694f33a2ea0c20ef5",
       "output_file": "output/segment0018.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 13: HP vs Dolores Umbridge (Pt 3)"
     },
@@ -245,7 +245,7 @@
       "source_hash": "bb15fde313365c27e31bbccd2da65da098196d2d6e662f0895949551194335a8",
       "output_file": "output/segment0019.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 14: HP vs Love (Pt 1)"
     },
@@ -258,7 +258,7 @@
       "source_hash": "6b25df94549ec2f730f001d74280acbb051117a587029a9513ad074f43752b86",
       "output_file": "output/segment0020.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 15: HP vs Love (Pt 2)"
     },
@@ -271,7 +271,7 @@
       "source_hash": "562b6384c1f68968a39184276ba3d1c93121f5c778777294886ab45a1b3a2060",
       "output_file": "output/segment0021.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 16: HP vs Love (Pt 3)"
     },
@@ -284,7 +284,7 @@
       "source_hash": "d8b8063b54b678e55069ff837a69a083b52fa64f4159a378226527f74347e0d0",
       "output_file": "output/segment0022.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 17: HP vs Himself (Pt 1)"
     },
@@ -297,7 +297,7 @@
       "source_hash": "78ba03f77e40cbc148287174dbee6609137947fb0ca6fff3b72f93a935d74efa",
       "output_file": "output/segment0023.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 18: HP vs Himself (Pt 2)"
     },
@@ -310,7 +310,7 @@
       "source_hash": "7e8eb44fe2ba5484c9c0e330eb11683edd5aaaca63c6404ffe37c4a129431580",
       "output_file": "output/segment0024.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 19: HP vs Himself (Pt 3)"
     },
@@ -323,7 +323,7 @@
       "source_hash": "ed01b9496804a914b689139054d0b75b66525f4f89a6e11c9ec9c2bd7a60be65",
       "output_file": "output/segment0025.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 20: Epilogue: Thirteen Years Later"
     },
@@ -336,7 +336,7 @@
       "source_hash": "caefce633c9624163e54f76c3b3b8d765f5978929564ed2652e348970f617970",
       "output_file": "output/segment0026.md",
       "translation_status": "translated",
-      "review_status": "unreviewed",
+      "review_status": "reviewed",
       "glossary_version": "potters-army+hpmorru-v1",
       "title": "Chapter 21: Omakes!"
     },
