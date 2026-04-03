@@ -23,6 +23,12 @@ across multiple segments.
 | The Book of HPMOR Fanfics | Книга фанфиков ГПиМРМ | Project | Working anthology title for builds and docs. |
 | Battle Magic | боевая магия | Project / usage | Recurring combat-training term in this anthology; lowercase in running text, capitalize only when a title or quoted label requires it. |
 
+## Story Titles
+
+| Source | Russian | Authority | Notes |
+| --- | --- | --- | --- |
+| Tom Riddle and Conflicts of Christmas | Том Реддл и рождественские конфликты | Project / story-06 | Preserve the echo of `Conflicts of Interest` while keeping the Russian title natural. |
+
 ## Core Canon Terms
 
 | Source | Russian | Authority | Notes |
