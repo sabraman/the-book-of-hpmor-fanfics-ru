@@ -75,6 +75,7 @@ across multiple segments.
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Bellatrix Black | Беллатриса Блэк | Project / Tom Riddle Conflict | Alternate-era Bellatrix before marriage in this story cycle. |
 | Minerva McGonagall | Минерва МакГонагалл | Potter's Army / ROSMEN | Do not use `Макгонагал` or mixed forms. |
+| Moira Leigh-Smith | Мойра Ли-Смит | Project / story-09 | Former transfiguration prodigy referenced in Hermione's safety subplot; keep the hyphenated surname. |
 | Severus Snape | Северус Снейп | Potter's Army / ROSMEN | Canon form. |
 | Quirinus Quirrell | Квиринус Квиррелл | Potter's Army / ROSMEN | Canon form. |
 | Gilderoy Lockhart | Гилдерой Локхарт | Potter's Army / ROSMEN | Canon form. |
