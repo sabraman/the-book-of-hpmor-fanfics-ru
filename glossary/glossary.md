@@ -286,6 +286,8 @@ across multiple segments.
 | Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
 | Hour-Reversal Charm | Заклятие часового обращения | Project / story-10 | Formal legal-register term for the one-hour time-travel spell; keep the bureaucratic tone. |
+| backlash | обратный удар | Project / story-10 | Time-magic term for the hostile probability snapback that punishes attempts to alter events. |
+| Erasure | Стирание | Project / story-10 | Capitalized quasi-technical term for a person being removed from Time while some memory-traces remain. |
 | Department of Magical Law Enforcement | Департамент магического правопорядка | Potter's Army / ROSMEN | Ministry law-enforcement department; abbreviate only when natural in Russian context. |
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
 | Unspeakables | невыразимцы | Potter's Army / ROSMEN | Canon name for Department of Mysteries personnel. |
