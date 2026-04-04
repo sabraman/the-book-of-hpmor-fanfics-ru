@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 56,
-  readableChapterCount: 56,
+  translatedSegmentCount: 57,
+  readableChapterCount: 57,
   readableBookCount: 10,
 } as const;
 
@@ -147,9 +147,9 @@ export const books: BookMeta[] = [
     "title": "Гермиона Грейнджер и совершенно разумное объяснение",
     "originalTitle": "Hermione Granger and the Perfectly Reasonable Explanation",
     "order": 66,
-    "readableChapterCount": 11,
+    "readableChapterCount": 12,
     "totalChapterCount": 25,
-    "translatedSegmentCount": 11
+    "translatedSegmentCount": 12
   },
   {
     "id": "story-11",
@@ -1715,6 +1715,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 8: Межличностное развитие",
     "originalTitle": "Chapter 8: Interpersonal Development"
+  },
+  {
+    "bookId": "story-10",
+    "bookSlug": "hermione-granger-and-the-perfectly-reasonable-explanation",
+    "slug": "seg-0079",
+    "href": "/books/hermione-granger-and-the-perfectly-reasonable-explanation/chapters/seg-0079",
+    "order": 79,
+    "orderWithinBook": 12,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 9: Самостоятельные изыскания",
+    "originalTitle": "Chapter 9: Independent Study"
   }
 ] as ChapterMeta[];
 
@@ -1775,4 +1786,5 @@ export const chapterModules = {
   "seg-0076": () => import("@/content/chapters/seg-0076.mdx"),
   "seg-0077": () => import("@/content/chapters/seg-0077.mdx"),
   "seg-0078": () => import("@/content/chapters/seg-0078.mdx"),
+  "seg-0079": () => import("@/content/chapters/seg-0079.mdx"),
 } as const;
