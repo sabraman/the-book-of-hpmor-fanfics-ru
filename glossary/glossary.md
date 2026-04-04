@@ -88,6 +88,8 @@ across multiple segments.
 | Romilda Vane | Ромильда Вейн | Potter's Army / ROSMEN | Canon form. |
 | Nagini | Нагини | Potter's Army / ROSMEN | Voldemort's snake and Horcrux. |
 | Rose Weasley | Роуз Уизли | Potter's Army / ROSMEN / epilogue usage | Next-generation name used in omake sequel teaser. |
+| Madam Pince | мадам Пинс | Potter's Army / ROSMEN | Hogwarts librarian. |
+| Madam Pomfrey | мадам Помфри | Potter's Army / ROSMEN | Hogwarts matron / healer. |
 | Amy Anne Bamford | Эми Энн Бэмфорд | Project / Blue Tigers | First-year Ravenclaw point-of-view character in this story cycle. |
 | Emily | Эмили | Project / Squibgineering | Point-of-view protagonist in the `Squibgineering` cycle. |
 | Matthew Merrick | Мэтью Меррик | Project / Tom Riddle Origins | Quiet orphan boy whom Tom finds unsettlingly relatable. |
@@ -104,7 +106,10 @@ across multiple segments.
 | Morag MacDougal | Мораг МакДугал | Potter's Army / ROSMEN | Canon form. |
 | Amanda Brocklehurst | Аманда Броклхёрст | Potter's Army / ROSMEN | Canon form. |
 | Sue Li | Су Ли | Potter's Army / ROSMEN | Canon form. |
+| Marcus Belby | Маркус Белби | Potter's Army / ROSMEN | Canon form. |
+| Roger Davies | Роджер Дэвис | Potter's Army / ROSMEN | Canon form. |
 | Trevor | Тревор | Potter's Army / ROSMEN | Neville Longbottom's toad. |
+| Robert Hilliard | Роберт Хиллиард | Project / story-10 | Fifth-year Ravenclaw prefect who guides new students to Ravenclaw Tower. |
 | MacNair | Макнейр | Potter's Army / ROSMEN / project usage | Slytherin student discussing wand cores with Tom in this cycle. |
 | Chang | Чанг | Potter's Army / ROSMEN / project usage | Surname-only student reference in Tom's battle-magic practice. |
 | Thomas Chang | Томас Чанг | Project / Tom Riddle Conflict | Capable Hogwarts student from China and one of Tom's battle-magic rivals. |
@@ -204,6 +209,7 @@ across multiple segments.
 | Durmstrang | Дурмстранг | Potter's Army / ROSMEN | Canon school name. |
 | veela | вейла | Potter's Army / ROSMEN | Magical being term. |
 | Quidditch | квиддич | Potter's Army / ROSMEN | Sport name, lower-case in running text. |
+| Self-Inking Quill | самопишущее перо | Project / story-10 | Enchanted quill that writes without a separate ink bottle. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
 | House points | баллы факультета | Potter's Army / ROSMEN / usage | Default running-text form for Hogwarts point awards. |
 | Prefect | староста | Potter's Army / ROSMEN | School leadership title; plural `Prefects` -> `старосты`. |
@@ -308,6 +314,7 @@ across multiple segments.
 | Ancient Runes | Древние руны | Potter's Army / ROSMEN | School subject. |
 | Curse Breaker | разрушитель проклятий | Potter's Army / ROSMEN | Standard profession term. |
 | Scabbers | Короста | Potter's Army / ROSMEN | Rat name. |
+| Disillusioning Ink | дезиллюминационные чернила | Project / story-10 | Ink that remains hidden until the Disillusionment effect is reversed or naturally fades. |
 | S.P.E.W. | Г.А.В.Н.Э. | Potter's Army / ROSMEN | `Гражданская Ассоциация Восстановления Независимости Эльфов`. |
 | mokeskin pouch | мешочек из ишачьей кожи | Harry Potter Wiki RU / canon usage | Magical pouch whose contents only the owner can retrieve. |
 | Mudblood | грязнокровка | Potter's Army / ROSMEN | Canon slur; use only in-character. |
@@ -386,6 +393,7 @@ raw Latin spelling where we have already normalized them in this project.
 | Homorphus | Хоморфус | Harry Potter Wiki RU / canon usage | Werewolf-revealing / human-form incantation; keep the Russian-script spell form in dialogue. |
 | Levitation Charm | заклинание левитации | Potter's Army / ROSMEN / usage | Generic spell-name form distinct from the specific incantation `Wingardium Leviosa`. |
 | Lumos | Люмос | Harry Potter Wiki RU / canon usage | Wand-lighting charm incantation. |
+| Wand-Lighting Charm | заклинание зажжения палочки | Project / story-10 | Narrative name for `Lumos` when the text names the basic beginner charm rather than the incantation. |
 | Muffliato | Муффлиато | Harry Potter Wiki RU / canon usage | Anti-eavesdropping incantation. |
 | Obliviate | Обливиэйт | Harry Potter Wiki RU / canon usage | Memory Charm incantation; prefer the canonical spell name over ad-hoc verb forms. |
 | Petrificus Totalus | Петрификус Тоталус | Harry Potter Wiki RU / canon usage | Full Body-Bind Curse incantation. |
@@ -614,6 +622,7 @@ itself over literal back-translation of the English wording.
 | Breed like gnomes | плодиться, как гномы | Harry Potter Wiki RU / canon usage | Wizarding analogue of `breed like rabbits`. |
 | Cat among the pixies | пустить кентавра в огород | Harry Potter Wiki RU / canon usage | Wizarding analogue of `пустить козла в огород`. |
 | Don't count your owls before they are delivered | совят по осени считают | Harry Potter Wiki RU / canon usage | Use as the wizarding equivalent of premature counting. |
+| Dragon bait | драконья наживка | Project / story-10 | Schoolyard wizarding slang for someone in serious trouble or courting disaster. |
 | Dorcus | доркас | Harry Potter Wiki RU / canon usage | American wizarding byword for a fool; niche, but keep if referenced. |
 | The fire's lit, but the cauldron's empty | огонь горит, но в котле пусто | Harry Potter Wiki RU / canon usage | Wizarding analogue of `в окнах свет, но дома никого нет`. |
 | Galloping gargoyles | разорви меня горгулья | Potter's Army / ROSMEN / usage | Preferred default; avoid literal `Галопирующие горгульи`. |
