@@ -412,9 +412,15 @@ raw Latin spelling where we have already normalized them in this project.
 | Floating Charm | Заклинание парения | Project / story-10 | Distinct from a full levitation spell; used for carrying heavy objects without sustained focus. |
 | Shield Charm | защитные чары | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Протего`. |
 | Disarming Charm | обезоруживающее заклинание | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Экспеллиармус`. |
+| Locking Charm | запирающее заклинание | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Коллопортус`. |
+| Sticking Charm | заклятие приклеивания | Potter's Army / ROSMEN / usage | Narrative spell-name form; for the permanent household variant prefer `Постоянное заклятие приклеивания` when the text calls it out. |
+| Reminder Charm | чары-напоминание | Project / usage | Simple reminder charm placed on parchment, quills, or similar study objects. |
+| Lubricating Charm | смазывающее заклинание | Project / story-10 | Makes a surface unnaturally slippery, up to near-frictionless in this scene. |
+| Disassembly Spell | разбирающее заклинание | Project / story-10 | Separates an object into its component parts without destroying those parts outright. |
 | Engorgement Charm | увеличивающее заклинание | Potter's Army / ROSMEN / usage | Narrative spell-name form for the standard growth spell. |
 | Impervius Charm | чары непроницаемости | Harry Potter Wiki RU / canon usage | Narrative name for the charm that repels water and grime. |
 | Amplifying Charm | усиливающие чары | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Сонорус`. |
+| Memory Charm | заклятие забвения | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Обливиэйт`. |
 | Homorphus | Хоморфус | Harry Potter Wiki RU / canon usage | Werewolf-revealing / human-form incantation; keep the Russian-script spell form in dialogue. |
 | Levitation Charm | заклинание левитации | Potter's Army / ROSMEN / usage | Generic spell-name form distinct from the specific incantation `Wingardium Leviosa`. |
 | Lumos | Люмос | Harry Potter Wiki RU / canon usage | Wand-lighting charm incantation. |
@@ -423,6 +429,12 @@ raw Latin spelling where we have already normalized them in this project.
 | Obliviate | Обливиэйт | Harry Potter Wiki RU / canon usage | Memory Charm incantation; prefer the canonical spell name over ad-hoc verb forms. |
 | Petrificus Totalus | Петрификус Тоталус | Harry Potter Wiki RU / canon usage | Full Body-Bind Curse incantation. |
 | Protego | Протего | Harry Potter Wiki RU / canon usage | Shield Charm incantation. |
+| Colloportus | Коллопортус | Harry Potter Wiki RU / canon usage | Locking-spell incantation used to magically seal doors. |
+| Expelliarmus | Экспеллиармус | Harry Potter Wiki RU / canon usage | Disarming charm incantation. |
+| Finite | Фините | Harry Potter Wiki RU / canon usage | Basic dispelling incantation; use `Finite Incantatem` only when the source spells out the longer form. |
+| Crucio | Круцио | Harry Potter Wiki RU / canon usage | Cruciatus Curse incantation. |
+| Emméno | Эммено | Project / story-10 | Story-specific sticking incantation; keep the project-normalized Russian-script form in dialogue. |
+| Illubrico | Иллубрико | Project / story-10 | Story-specific lubricating incantation; keep the project-normalized Russian-script form in dialogue. |
 | Silencio | Силенцио | Harry Potter Wiki RU / canon usage | Silencing incantation; in narrative may be described as a silencing spell. |
 | Sonorus | Сонорус | Harry Potter Wiki RU / canon usage | Voice-amplifying charm incantation. |
 
