@@ -67,6 +67,19 @@ def ensure_clean_paths(repo_root: Path, paths: list[str]) -> None:
         )
 
 
+def path_has_local_changes(repo_root: Path, rel_path: str) -> bool:
+    result = subprocess.run(
+        ["git", "status", "--porcelain", "--untracked-files=all", "--", rel_path],
+        cwd=str(repo_root),
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        message = result.stderr.strip() or result.stdout.strip() or "Command failed"
+        raise RuntimeError(f"git status --porcelain -- {rel_path}: {message}")
+    return bool(result.stdout.strip())
+
+
 def copy_if_changed(source_root: Path, publisher_root: Path, rel_path: str, copied: list[str]) -> None:
     source = source_root / rel_path
     if not source.exists():
@@ -239,6 +252,8 @@ def main() -> int:
     copied: list[str] = []
     copy_if_changed(source_root, publisher_root, segment_output_rel, copied)
     for rel_path in RELEVANT_OPTIONAL_FILES:
+        if not path_has_local_changes(source_root, rel_path):
+            continue
         copy_if_changed(source_root, publisher_root, rel_path, copied)
 
     if segment_output_rel not in copied:
