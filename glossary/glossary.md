@@ -31,6 +31,7 @@ across multiple segments.
 | Firenze's Tale | Рассказ Флоренца | Project / story-07 | Keep the title compact and oral, matching the story's mythic register. |
 | Professors Aren't Idiots | Профессора не идиоты | Project / story-08 | Keep the title blunt and declarative. |
 | Hermione Granger and the Perfectly Reasonable Explanation | Гермиона Грейнджер и совершенно разумное объяснение | Project / story-10 | Keep `perfectly reasonable` idiomatic rather than literal-technical. |
+| Mary Poppins Begins the End | Мэри Поппинс кладёт начало концу | Project / story-11 | Reader-facing title from the source package; chapter 1 also uses a more apocalyptic stylized heading in-body. |
 
 ## Core Canon Terms
 
@@ -52,6 +53,8 @@ across multiple segments.
 | Rita Skeeter | Рита Скитер | Potter's Army / ROSMEN | Canon form. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
 | Dedalus Diggle | Дедалус Дингл | Potter's Army / ROSMEN | Canon form; use `Дедалус`, when only the given name appears. |
+| Mary Poppins | Мэри Поппинс | Project / story-11 | Use the established franchise form; this story treats her as a real, cross-world figure. |
+| Helena Vela Boot | Хелена Вела Бут | Project / story-11 | The name Mary Poppins gives for herself on first introduction. |
 | Sybill Trelawney | Сивилла Трелони | Potter's Army / ROSMEN | Canon form. |
 | Lavender | Лаванда | Potter's Army / ROSMEN | Given-name short form used in dialogue. |
 | Sally-Anne | Салли-Энн | Potter's Army / ROSMEN | Keep hyphenation. |

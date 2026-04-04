@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 70,
-  readableChapterCount: 70,
-  readableBookCount: 10,
+  translatedSegmentCount: 71,
+  readableChapterCount: 71,
+  readableBookCount: 11,
 } as const;
 
 export const books: BookMeta[] = [
@@ -155,12 +155,12 @@ export const books: BookMeta[] = [
     "id": "story-11",
     "slug": "mary-poppins-begins-the-end",
     "href": "/books/mary-poppins-begins-the-end",
-    "title": "Mary Poppins Begins the End",
+    "title": "Мэри Поппинс кладёт начало концу",
     "originalTitle": "Mary Poppins Begins the End",
     "order": 93,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-12",
@@ -1869,6 +1869,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 19: Разоблачение",
     "originalTitle": "Chapter 19: Disclosure"
+  },
+  {
+    "bookId": "story-11",
+    "bookSlug": "mary-poppins-begins-the-end",
+    "slug": "seg-0095",
+    "href": "/books/mary-poppins-begins-the-end/chapters/seg-0095",
+    "order": 95,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -1943,4 +1954,5 @@ export const chapterModules = {
   "seg-0090": () => import("@/content/chapters/seg-0090.mdx"),
   "seg-0091": () => import("@/content/chapters/seg-0091.mdx"),
   "seg-0092": () => import("@/content/chapters/seg-0092.mdx"),
+  "seg-0095": () => import("@/content/chapters/seg-0095.mdx"),
 } as const;
