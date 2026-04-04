@@ -217,9 +217,12 @@ across multiple segments.
 | Leaky Cauldron | Дырявый котёл | Potter's Army / ROSMEN | Canon inn name in London. |
 | Diagon Alley | Косой переулок | Potter's Army / ROSMEN | Canon London wizarding street. |
 | Gringotts | Гринготтс | Potter's Army / ROSMEN | Wizarding bank. |
+| Flourish and Blotts | Флориш и Блоттс | Potter's Army / ROSMEN | Canon Diagon Alley bookshop name. |
+| Madam Malkin | мадам Малкин | Potter's Army / ROSMEN | Use lower-case honorific in running text unless display styling requires capitalization. |
 | Grimmauld Place | площадь Гриммо | Potter's Army / ROSMEN | Black family home location. |
 | Wool's Orphanage | приют Вула | Potter's Army / ROSMEN | London orphanage where Tom Riddle grew up. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
+| dragon heartstring | сердечная жила дракона | Potter's Army / ROSMEN | Standard wand-core term. |
 | Puddlemere United | Паддлмир Юнайтед | Potter's Army / ROSMEN | Quidditch team name. |
 | Dragon Pox | драконья оспа | Potter's Army / ROSMEN | Magical illness. |
 | Gaunts | Мраксы | Potter's Army / ROSMEN | Voldemort's maternal family line. |
