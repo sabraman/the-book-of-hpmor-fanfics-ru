@@ -96,6 +96,15 @@ across multiple segments.
 | Dennis Bishop | Деннис Бишоп | Project / Tom Riddle Origins | Oldest boy left nominally in charge by Madam Chani. |
 | Stephenson | Стивенсон | Project / Tom Riddle Origins | Smaller orphan boy bullied away from his food. |
 | Jade | Джейд | Project / Tom Riddle Origins | Purple garden snake allied with Tom. |
+| Hagrid | Хагрид | Potter's Army / ROSMEN | Canon form. |
+| Terry Boot | Терри Бут | Potter's Army / ROSMEN | Canon form. |
+| Michael Corner | Майкл Корнер | Potter's Army / ROSMEN | Canon form. |
+| Anthony Goldstein | Энтони Голдштейн | Potter's Army / ROSMEN | Canon form. |
+| Kevin Entwhistle | Кевин Энтуистл | Potter's Army / ROSMEN | Canon form. |
+| Morag MacDougal | Мораг МакДугал | Potter's Army / ROSMEN | Canon form. |
+| Amanda Brocklehurst | Аманда Броклхёрст | Potter's Army / ROSMEN | Canon form. |
+| Sue Li | Су Ли | Potter's Army / ROSMEN | Canon form. |
+| Trevor | Тревор | Potter's Army / ROSMEN | Neville Longbottom's toad. |
 | MacNair | Макнейр | Potter's Army / ROSMEN / project usage | Slytherin student discussing wand cores with Tom in this cycle. |
 | Chang | Чанг | Potter's Army / ROSMEN / project usage | Surname-only student reference in Tom's battle-magic practice. |
 | Thomas Chang | Томас Чанг | Project / Tom Riddle Conflict | Capable Hogwarts student from China and one of Tom's battle-magic rivals. |
