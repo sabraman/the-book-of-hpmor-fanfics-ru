@@ -82,6 +82,7 @@ across multiple segments.
 | Fawkes | Фоукс | Potter's Army / ROSMEN | Dumbledore's phoenix. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
 | Alastor Moody | Аластор Грюм | Potter's Army / ROSMEN | Prefer `Грюм`, not `Муди`, in canon contexts. |
+| Mad-Eye | Грозный Глаз | Potter's Army / ROSMEN | Canon nickname of Alastor Moody in dialogue and recollection. |
 | Dolores Umbridge | Долорес Амбридж | Potter's Army / ROSMEN | Canon form. |
 | Lucius Malfoy | Люциус Малфой | Potter's Army / ROSMEN | Canon form. |
 | Viktor Krum | Виктор Крам | Potter's Army / ROSMEN | Canon form. |
