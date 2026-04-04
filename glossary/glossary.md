@@ -107,6 +107,8 @@ across multiple segments.
 | Anthony Goldstein | Энтони Голдштейн | Potter's Army / ROSMEN | Canon form. |
 | Kevin Entwhistle | Кевин Энтуистл | Potter's Army / ROSMEN | Canon form. |
 | Morag MacDougal | Мораг МакДугал | Potter's Army / ROSMEN | Canon form. |
+| Cedric Diggory | Седрик Диггори | Potter's Army / ROSMEN | Canon form. |
+| Peter Pettigrew | Питер Петтигрю | Potter's Army / ROSMEN | Canon form. |
 | Amanda Brocklehurst | Аманда Броклхёрст | Potter's Army / ROSMEN | Canon form. |
 | Pansy Parkinson | Пэнси Паркинсон | Potter's Army / ROSMEN | Canon form. |
 | Penelope Clearwater | Пенелопа Клируотер | Potter's Army / ROSMEN | Canon form. |
@@ -367,6 +369,7 @@ across multiple segments.
 | PASS | PASS | Project / story-10 | Hermione's `Persistent Accommodating Shield Spell`; keep the spell acronym in Latin letters in running text. |
 | Seer's Hex | проклятие провидца | Project / story-10 | Variant Confundus effect that convinces the victim they are seeing the future. |
 | Supersensory Charm | чары сверхчувствительности | Project / story-10 | Sensory-boosting charm that dramatically sharpens or broadens one sense. |
+| Conditional Obscuration | условное сокрытие | Project / story-10 | Magical legal concealment around time-travel law; keep lowercase in running text. |
 | Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
 | Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
 | Volde-Hat | Вольде-Шляпа | Project | Comic nickname for the Voldemort-soul-in-the-Sorting-Hat situation. |
