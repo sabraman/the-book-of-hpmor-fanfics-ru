@@ -344,12 +344,16 @@ across multiple segments.
 | Apparition | аппарация | Potter's Army / ROSMEN | Magical teleportation. |
 | apparate | аппарировать | Potter's Army / ROSMEN | Verb form for magical teleportation. |
 | Side-Along Apparition | парная аппарация | Potter's Army / ROSMEN / project usage | Apparition performed while taking another person along. |
+| Wizarding Wireless | Волшебное радио | Potter's Army / ROSMEN / usage | Wizarding broadcast radio service. |
+| Floo Network | сеть Летучего пороха | Potter's Army / ROSMEN / usage | Connected travel-and-communication fireplace network. |
 | Sonorous | Сонорус | Potter's Army / ROSMEN | Amplifying charm. |
 | Unbreakable Vow | Непреложный Обет | Potter's Army / ROSMEN | Binding magical vow. |
 | Amulet of Asshia | амулет Ашиа | Project / Tom Riddle Conflict | Ancient protective amulet that absorbs incoming magic at the cost of the wearer's speed and power. |
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
 | Disillusionment Charm | дезиллюминационные чары | Potter's Army / ROSMEN / usage | Default rendering for the concealment charm that blends the target into the background. |
+| Seer's Hex | проклятие провидца | Project / story-10 | Variant Confundus effect that convinces the victim they are seeing the future. |
+| Supersensory Charm | чары сверхчувствительности | Project / story-10 | Sensory-boosting charm that dramatically sharpens or broadens one sense. |
 | Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
 | Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
 | Volde-Hat | Вольде-Шляпа | Project | Comic nickname for the Voldemort-soul-in-the-Sorting-Hat situation. |
@@ -406,6 +410,11 @@ raw Latin spelling where we have already normalized them in this project.
 | Confringo | Конфринго | Harry Potter Wiki RU / canon usage | Blasting curse incantation. |
 | Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Bubble-forming underwater jinx incantation. |
 | Floating Charm | Заклинание парения | Project / story-10 | Distinct from a full levitation spell; used for carrying heavy objects without sustained focus. |
+| Shield Charm | защитные чары | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Протего`. |
+| Disarming Charm | обезоруживающее заклинание | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Экспеллиармус`. |
+| Engorgement Charm | увеличивающее заклинание | Potter's Army / ROSMEN / usage | Narrative spell-name form for the standard growth spell. |
+| Impervius Charm | чары непроницаемости | Harry Potter Wiki RU / canon usage | Narrative name for the charm that repels water and grime. |
+| Amplifying Charm | усиливающие чары | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Сонорус`. |
 | Homorphus | Хоморфус | Harry Potter Wiki RU / canon usage | Werewolf-revealing / human-form incantation; keep the Russian-script spell form in dialogue. |
 | Levitation Charm | заклинание левитации | Potter's Army / ROSMEN / usage | Generic spell-name form distinct from the specific incantation `Wingardium Leviosa`. |
 | Lumos | Люмос | Harry Potter Wiki RU / canon usage | Wand-lighting charm incantation. |
