@@ -255,6 +255,7 @@ across multiple segments.
 | Madam Malkin | мадам Малкин | Potter's Army / ROSMEN | Use lower-case honorific in running text unless display styling requires capitalization. |
 | Grimmauld Place | площадь Гриммо | Potter's Army / ROSMEN | Black family home location. |
 | Wool's Orphanage | приют Вула | Potter's Army / ROSMEN | London orphanage where Tom Riddle grew up. |
+| St. Mungo's | Святой Мунго | Potter's Army / ROSMEN / usage | Wizarding hospital; use full phrases like `больница Святого Мунго` where clarity matters, and the idiomatic locative `в Святом Мунго` in running text. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
 | dragon heartstring | сердечная жила дракона | Potter's Army / ROSMEN | Standard wand-core term. |
 | Puddlemere United | Паддлмир Юнайтед | Potter's Army / ROSMEN | Quidditch team name. |
@@ -336,6 +337,7 @@ across multiple segments.
 | Nargle | наргл | Potter's Army / ROSMEN / HP Wiki | Luna's creature name. |
 | Grindylow | гриндилоу | Potter's Army / ROSMEN | Lake creature. |
 | Animagus | анимаг | Potter's Army / ROSMEN | Wizard who can transform into an animal. |
+| Metamorphmagus | метаморфмаг | Harry Potter Wiki RU / canon usage | Wizard or witch with the inborn ability to alter their appearance at will. |
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
 | Auror | аврор | Potter's Army / ROSMEN | Ministry dark-wizard catcher / law-enforcement wizard. |
 | Aurors | авроры | Potter's Army / ROSMEN | Plural form. |
