@@ -91,6 +91,7 @@ across multiple segments.
 | Rose Weasley | Роуз Уизли | Potter's Army / ROSMEN / epilogue usage | Next-generation name used in omake sequel teaser. |
 | Madam Pince | мадам Пинс | Potter's Army / ROSMEN | Hogwarts librarian. |
 | Madam Pomfrey | мадам Помфри | Potter's Army / ROSMEN | Hogwarts matron / healer. |
+| Wainscott | Уэйнскотт | Project / story-10 | New Hogwarts nurse after Pomfrey's death; use `медсестра Уэйнскотт` or `мадам Уэйнскотт` by context. |
 | Amy Anne Bamford | Эми Энн Бэмфорд | Project / Blue Tigers | First-year Ravenclaw point-of-view character in this story cycle. |
 | Emily | Эмили | Project / Squibgineering | Point-of-view protagonist in the `Squibgineering` cycle. |
 | Matthew Merrick | Мэтью Меррик | Project / Tom Riddle Origins | Quiet orphan boy whom Tom finds unsettlingly relatable. |
@@ -194,6 +195,7 @@ across multiple segments.
 | Mirror of Erised | Зеркало Еиналеж | Potter's Army / ROSMEN | Magical mirror revealing deepest desire. |
 | Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
 | Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
+| International Confederation of Wizards | Международная конфедерация магов | Potter's Army / ROSMEN | Dumbledore is the Supreme Mugwump of this body in canon and fanfic usage. |
 | Elder Wand | Бузинная палочка | Potter's Army / ROSMEN | One of the Deathly Hallows. |
 | Triwizard Tournament | Турнир Трёх Волшебников | Potter's Army / ROSMEN | Canon tournament name. |
 | King's Cross Station | вокзал Кингс-Кросс | Potter's Army / ROSMEN / usage | Canon London departure point for Hogwarts travel. |
