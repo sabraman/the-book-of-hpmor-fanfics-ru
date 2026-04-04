@@ -152,12 +152,18 @@ across multiple segments.
 | Petunia Dursley | Петуния Дурсль | Potter's Army / ROSMEN | Canon form. |
 | Vernon Dursley | Вернон Дурсль | Potter's Army / ROSMEN | Canon form. |
 | Dudley Dursley | Дадли Дурсль | Potter's Army / ROSMEN | Canon form. |
+| Godric Gryffindor | Годрик Гриффиндор | Potter's Army / ROSMEN | Hogwarts founder and namesake of Gryffindor House. |
+| Helga Hufflepuff | Хельга Пуффендуй | Potter's Army / ROSMEN | Hogwarts founder and namesake of Hufflepuff House. |
 | Ollivander | Олливандер | Potter's Army / ROSMEN | Canon form. |
 | Dobby | Добби | Potter's Army / ROSMEN | House-elf name. |
 | Argus Filch | Аргус Филч | Potter's Army / ROSMEN | Canon form. |
 | Cuthbert Binns | Катберт Биннс | Potter's Army / ROSMEN | Hogwarts ghost History of Magic professor. |
+| Bloody Baron | Кровавый Барон | Potter's Army / ROSMEN | Slytherin house ghost. |
+| Grey Lady | Серая Дама | Potter's Army / ROSMEN | Ravenclaw house ghost. |
 | Myrtle | Миртл | Potter's Army / ROSMEN | Use `Плакса Миртл` when the story means the full nickname. |
 | Nearly Headless Nick | Почти Безголовый Ник | Potter's Army / ROSMEN | Gryffindor house ghost. |
+| Rowena Ravenclaw | Ровена Когтевран | Potter's Army / ROSMEN | Hogwarts founder and namesake of Ravenclaw House. |
+| Salazar Slytherin | Салазар Слизерин | Potter's Army / ROSMEN | Hogwarts founder and namesake of Slytherin House. |
 | Sir Nicholas | сэр Николас | Potter's Army / ROSMEN | Short form used in dialogue. |
 | Death Eater | Пожиратель Смерти | Potter's Army / ROSMEN | Singular title form. |
 | blood traitor | предатель крови | Potter's Army / ROSMEN / usage | Canon slur used by blood purists; plural `предатели крови`. |
@@ -219,6 +225,7 @@ across multiple segments.
 | veela | вейла | Potter's Army / ROSMEN | Magical being term. |
 | Quidditch | квиддич | Potter's Army / ROSMEN | Sport name, lower-case in running text. |
 | Coeur-arbre | кёр-арбр | Project / story-10 | Rare semi-sentient magical tree; keep the French-derived name transliterated rather than translated. |
+| Coeur-crux | кёр-крестраж | Project / story-10 | Hermione's internal label for the soul-anchor anomaly created by the Coeur-arbre ritual; mirror the transliterated `кёр-` pattern. |
 | Self-Inking Quill | самопишущее перо | Project / story-10 | Enchanted quill that writes without a separate ink bottle. |
 | Vanishing Ink Quill | перо исчезающих чернил | Project / story-10 | Joke-shop quill whose writing fades away after being made. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
@@ -339,6 +346,7 @@ across multiple segments.
 | knut | кнат | Potter's Army / ROSMEN | Lowest-value wizarding coin. |
 | Nargle | наргл | Potter's Army / ROSMEN / HP Wiki | Luna's creature name. |
 | Grindylow | гриндилоу | Potter's Army / ROSMEN | Lake creature. |
+| Lethifold | летифолд | Potter's Army / fandom usage | Rare shadow-like magical predator; pluralize naturally as `летифолды` in running text. |
 | Animagus | анимаг | Potter's Army / ROSMEN | Wizard who can transform into an animal. |
 | Metamorphmagus | метаморфмаг | Harry Potter Wiki RU / canon usage | Wizard or witch with the inborn ability to alter their appearance at will. |
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
@@ -435,6 +443,7 @@ raw Latin spelling where we have already normalized them in this project.
 | Petrificus Totalus | Петрификус Тоталус | Harry Potter Wiki RU / canon usage | Full Body-Bind Curse incantation. |
 | Protego | Протего | Harry Potter Wiki RU / canon usage | Shield Charm incantation. |
 | Colloportus | Коллопортус | Harry Potter Wiki RU / canon usage | Locking-spell incantation used to magically seal doors. |
+| Echo Moratus | Эхо Моратус | Project / story-10 | Message-repeating incantation used on Hermione's note packet; keep the spell name transliterated when cited outside dialogue. |
 | Expelliarmus | Экспеллиармус | Harry Potter Wiki RU / canon usage | Disarming charm incantation. |
 | Finite | Фините | Harry Potter Wiki RU / canon usage | Basic dispelling incantation; use `Finite Incantatem` only when the source spells out the longer form. |
 | Crucio | Круцио | Harry Potter Wiki RU / canon usage | Cruciatus Curse incantation. |
