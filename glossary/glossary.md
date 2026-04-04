@@ -218,7 +218,9 @@ across multiple segments.
 | Durmstrang | Дурмстранг | Potter's Army / ROSMEN | Canon school name. |
 | veela | вейла | Potter's Army / ROSMEN | Magical being term. |
 | Quidditch | квиддич | Potter's Army / ROSMEN | Sport name, lower-case in running text. |
+| Coeur-arbre | кёр-арбр | Project / story-10 | Rare semi-sentient magical tree; keep the French-derived name transliterated rather than translated. |
 | Self-Inking Quill | самопишущее перо | Project / story-10 | Enchanted quill that writes without a separate ink bottle. |
+| Vanishing Ink Quill | перо исчезающих чернил | Project / story-10 | Joke-shop quill whose writing fades away after being made. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
 | House points | баллы факультета | Potter's Army / ROSMEN / usage | Default running-text form for Hogwarts point awards. |
 | Prefect | староста | Potter's Army / ROSMEN | School leadership title; plural `Prefects` -> `старосты`. |
@@ -328,6 +330,7 @@ across multiple segments.
 | W.O.M.B.A.T. | В.О.М.Б.А.Т. | Fan usage | `Всеобщий Обычный Магический Базовый Аттестационный Тест`; mostly fan-usage transliteration. |
 | Ancient Runes | Древние руны | Potter's Army / ROSMEN | School subject. |
 | Curse Breaker | разрушитель проклятий | Potter's Army / ROSMEN | Standard profession term. |
+| Jarvey | джарви | Potter's Army / ROSMEN / usage | Speaking magical mustelid classified as a Beast despite its insults being suspiciously intelligent. |
 | Scabbers | Короста | Potter's Army / ROSMEN | Rat name. |
 | Disillusioning Ink | дезиллюминационные чернила | Project / story-10 | Ink that remains hidden until the Disillusionment effect is reversed or naturally fades. |
 | S.P.E.W. | Г.А.В.Н.Э. | Potter's Army / ROSMEN | `Гражданская Ассоциация Восстановления Независимости Эльфов`. |
@@ -341,6 +344,7 @@ across multiple segments.
 | Fiendfyre | Адское пламя | Potter's Army / ROSMEN | Dark cursed fire. |
 | Auror | аврор | Potter's Army / ROSMEN | Ministry dark-wizard catcher / law-enforcement wizard. |
 | Aurors | авроры | Potter's Army / ROSMEN | Plural form. |
+| DRCMC | ОКРМС | Project / story-10 | `Отдел по контролю и регулированию магических существ`; use the abbreviation in internal Ministry context. |
 | Apparition | аппарация | Potter's Army / ROSMEN | Magical teleportation. |
 | apparate | аппарировать | Potter's Army / ROSMEN | Verb form for magical teleportation. |
 | Side-Along Apparition | парная аппарация | Potter's Army / ROSMEN / project usage | Apparition performed while taking another person along. |
@@ -352,6 +356,7 @@ across multiple segments.
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
 | Disillusionment Charm | дезиллюминационные чары | Potter's Army / ROSMEN / usage | Default rendering for the concealment charm that blends the target into the background. |
+| PASS | PASS | Project / story-10 | Hermione's `Persistent Accommodating Shield Spell`; keep the spell acronym in Latin letters in running text. |
 | Seer's Hex | проклятие провидца | Project / story-10 | Variant Confundus effect that convinces the victim they are seeing the future. |
 | Supersensory Charm | чары сверхчувствительности | Project / story-10 | Sensory-boosting charm that dramatically sharpens or broadens one sense. |
 | Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
