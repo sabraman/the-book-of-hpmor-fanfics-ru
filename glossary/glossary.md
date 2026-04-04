@@ -108,6 +108,11 @@ across multiple segments.
 | Kevin Entwhistle | Кевин Энтуистл | Potter's Army / ROSMEN | Canon form. |
 | Morag MacDougal | Мораг МакДугал | Potter's Army / ROSMEN | Canon form. |
 | Amanda Brocklehurst | Аманда Броклхёрст | Potter's Army / ROSMEN | Canon form. |
+| Pansy Parkinson | Пэнси Паркинсон | Potter's Army / ROSMEN | Canon form. |
+| Penelope Clearwater | Пенелопа Клируотер | Potter's Army / ROSMEN | Canon form. |
+| Marietta Edgecombe | Мариэтта Эджком | Potter's Army / ROSMEN | Canon form. |
+| Theodore Nott | Теодор Нотт | Potter's Army / ROSMEN | Canon form. |
+| Tracey Davis | Трейси Дэвис | Potter's Army / ROSMEN | Canon form. |
 | Sue Li | Су Ли | Potter's Army / ROSMEN | Canon form. |
 | Marcus Belby | Маркус Белби | Potter's Army / ROSMEN | Canon form. |
 | Roger Davies | Роджер Дэвис | Potter's Army / ROSMEN | Canon form. |
@@ -273,14 +278,17 @@ across multiple segments.
 | Wolfsbane | волчье противоядие | Potter's Army / ROSMEN | Potion shorthand in dialogue context. |
 | Wolfsbane Potion | волчье противоядие | Potter's Army / ROSMEN | Standard potion name. |
 | Felix Felicis | Феликс Фелицис | Potter's Army / ROSMEN | Lucky potion name. |
+| Liquid Sheep | Жидкая овечка | Project / story-10 | Mild sleep potion; preserve the whimsical potion-name register. |
 | butterbeer | сливочное пиво | Potter's Army / ROSMEN | Standard drink name. |
 | firewhiskey | огневиски | Potter's Army / ROSMEN | Standard drink name. |
 | unicorn | единорог | Potter's Army / ROSMEN | Magical creature. |
 | full moon | полнолуние | Potter's Army / ROSMEN | Standard phrase for werewolf context. |
 | Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
+| Hour-Reversal Charm | Заклятие часового обращения | Project / story-10 | Formal legal-register term for the one-hour time-travel spell; keep the bureaucratic tone. |
 | Department of Magical Law Enforcement | Департамент магического правопорядка | Potter's Army / ROSMEN | Ministry law-enforcement department; abbreviate only when natural in Russian context. |
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
+| Unspeakables | невыразимцы | Potter's Army / ROSMEN | Canon name for Department of Mysteries personnel. |
 | Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
 | Hogwarts, A History | История Хогвартса | Potter's Army / ROSMEN | Canon book title. |
 | Modern Magical History | Новейшая история магии | Potter's Army / ROSMEN / project usage | Canon-history textbook title used in Hermione's prep reading. |
