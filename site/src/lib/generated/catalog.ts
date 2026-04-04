@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 50,
-  readableChapterCount: 50,
+  translatedSegmentCount: 51,
+  readableChapterCount: 51,
   readableBookCount: 10,
 } as const;
 
@@ -122,7 +122,7 @@ export const books: BookMeta[] = [
     "id": "story-08",
     "slug": "lord-voldemorts-first-speech",
     "href": "/books/lord-voldemorts-first-speech",
-    "title": "Первая речь Лорда Волдеморта",
+    "title": "Профессора не идиоты",
     "originalTitle": "Lord Voldemort's First Speech",
     "order": 60,
     "readableChapterCount": 1,
@@ -147,9 +147,9 @@ export const books: BookMeta[] = [
     "title": "Гермиона Грейнджер и совершенно разумное объяснение",
     "originalTitle": "Hermione Granger and the Perfectly Reasonable Explanation",
     "order": 66,
-    "readableChapterCount": 5,
+    "readableChapterCount": 6,
     "totalChapterCount": 25,
-    "translatedSegmentCount": 5
+    "translatedSegmentCount": 6
   },
   {
     "id": "story-11",
@@ -1649,6 +1649,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 3: Нужные вещи",
     "originalTitle": "Chapter 3: Needful Things"
+  },
+  {
+    "bookId": "story-10",
+    "bookSlug": "hermione-granger-and-the-perfectly-reasonable-explanation",
+    "slug": "seg-0073",
+    "href": "/books/hermione-granger-and-the-perfectly-reasonable-explanation/chapters/seg-0073",
+    "order": 73,
+    "orderWithinBook": 6,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 4: Повторение",
+    "originalTitle": "Chapter 4: Revision"
   }
 ] as ChapterMeta[];
 
@@ -1703,4 +1714,5 @@ export const chapterModules = {
   "seg-0070": () => import("@/content/chapters/seg-0070.mdx"),
   "seg-0071": () => import("@/content/chapters/seg-0071.mdx"),
   "seg-0072": () => import("@/content/chapters/seg-0072.mdx"),
+  "seg-0073": () => import("@/content/chapters/seg-0073.mdx"),
 } as const;

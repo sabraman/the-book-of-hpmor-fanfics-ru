@@ -60,10 +60,16 @@ across multiple segments.
 | Percival Weasley | Персиваль Уизли | Potter's Army / ROSMEN | Use full form when the text spells it out. |
 | Molly Weasley | Молли Уизли | Potter's Army / ROSMEN | Canon form. |
 | Arthur Weasley | Артур Уизли | Potter's Army / ROSMEN | Canon form. |
+| Charlie Weasley | Чарли Уизли | Potter's Army / ROSMEN | Canon form. |
+| Fred Weasley | Фред Уизли | Potter's Army / ROSMEN | Canon form. |
+| George Weasley | Джордж Уизли | Potter's Army / ROSMEN | Canon form. |
 | Fleur Delacour | Флёр Делакур | Potter's Army / ROSMEN | Canon form. |
 | Firenze | Флоренц | Potter's Army / ROSMEN | Canon centaur name. |
 | Nymphadora Tonks | Нимфадора Тонкс | Potter's Army / ROSMEN | Canon full name. |
 | Tonks | Тонкс | Potter's Army / ROSMEN | Common short form in dialogue and narration. |
+| Padma Patil | Падма Патил | Potter's Army / ROSMEN | Canon form. |
+| Parvati Patil | Парвати Патил | Potter's Army / ROSMEN | Canon form. |
+| Hannah Abbott | Ханна Аббот | Potter's Army / ROSMEN | Canon form. |
 | Tom Riddle | Том Реддл | Potter's Army / ROSMEN | Canon form for Voldemort before he took the name `Lord Voldemort`. |
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
@@ -175,6 +181,8 @@ across multiple segments.
 | Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
 | Elder Wand | Бузинная палочка | Potter's Army / ROSMEN | One of the Deathly Hallows. |
 | Triwizard Tournament | Турнир Трёх Волшебников | Potter's Army / ROSMEN | Canon tournament name. |
+| King's Cross Station | вокзал Кингс-Кросс | Potter's Army / ROSMEN / usage | Canon London departure point for Hogwarts travel. |
+| Platform Nine and Three-Quarters | платформа девять и три четверти | Potter's Army / ROSMEN | Canon platform name; keep the numeral form `Платформа 9 ¾` on signage when the source presents it visually. |
 | Sorting Hat | Распределяющая Шляпа | Potter's Army / ROSMEN | Capitalize as iconic magical object. |
 | Great Hall | Большой зал | Potter's Army / ROSMEN | School location. |
 | Hogwarts Express | Хогвартс-экспресс | Potter's Army / ROSMEN | Canon train name. |
@@ -188,6 +196,8 @@ across multiple segments.
 | veela | вейла | Potter's Army / ROSMEN | Magical being term. |
 | Quidditch | квиддич | Potter's Army / ROSMEN | Sport name, lower-case in running text. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
+| House points | баллы факультета | Potter's Army / ROSMEN / usage | Default running-text form for Hogwarts point awards. |
+| Prefect | староста | Potter's Army / ROSMEN | School leadership title; plural `Prefects` -> `старосты`. |
 | house-elf | домовой эльф | Potter's Army / ROSMEN | Creature type. |
 | Dementor | дементор | Potter's Army / ROSMEN | Creature type. |
 | Dementors | дементоры | Potter's Army / ROSMEN | Plural form. |
@@ -254,6 +264,16 @@ across multiple segments.
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
 | Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
 | Hogwarts, A History | История Хогвартса | Potter's Army / ROSMEN | Canon book title. |
+| Modern Magical History | Новейшая история магии | Potter's Army / ROSMEN / project usage | Canon-history textbook title used in Hermione's prep reading. |
+| Great Wizarding Events of the Twentieth Century | Выдающиеся магические события двадцатого века | Potter's Army / ROSMEN / project usage | History survey title. |
+| The Rise and Fall of the Dark Arts | Взлёт и падение Тёмных Искусств | Potter's Army / ROSMEN / project usage | Dark Arts history title. |
+| An Appraisal of Magical Education in Europe | Обзор магического образования в Европе | Project / story-10 | Essayistic non-canon title; keep the register academic rather than flashy. |
+| Hogwarts Houses: Heaven-Sent or Hardly Worth It? | Факультеты Хогвартса: дар небес или игра не стоит свеч? | Project / story-10 | Polemical school-culture title. |
+| Dragon Species of Great Britain and Ireland | Виды драконов Великобритании и Ирландии | Potter's Army / ROSMEN / project usage | Reference-book title in Hermione's summer reading. |
+| Legislative Guide to the Proper Use of Magic | Законодательное руководство по надлежащему использованию магии | Project / story-10 | Formal legal-reference title. |
+| Practical Household Magic | Практическая бытовая магия | Project / story-10 | Domestic-spell handbook title. |
+| Standard Book of Spells | Стандартная книга заклинаний | Potter's Army / ROSMEN / project usage | Base series title; add grade / level naturally in running text. |
+| Magical Theory | Теория магии | Potter's Army / ROSMEN / project usage | Standard textbook title by Adalbert Waffling. |
 | Ravenclaw common room | гостиная Когтеврана | Potter's Army / ROSMEN | House common room location. |
 | Pensieve | омут памяти | Potter's Army / ROSMEN | Dumbledore's memory basin. |
 | Veritaserum | Веритасерум | Potter's Army / ROSMEN | Truth serum. |
@@ -274,6 +294,7 @@ across multiple segments.
 | O.W.L. | С.О.В. | Potter's Army / ROSMEN | `Стандарты Обучения Волшебству`; fifth-year exam set. |
 | NEWT | ЖАБА | Potter's Army / ROSMEN | Exam level abbreviation used for advanced schoolwork. |
 | N.E.W.T. | Ж.А.Б.А. | Potter's Army / ROSMEN | `Жутко Академическая Блестящая Аттестация`; final exam set. |
+| Decree for the Reasonable Restriction of Underage Sorcery | Указ о разумном ограничении волшебства несовершеннолетних | Potter's Army / ROSMEN | Canon underage-magic law. |
 | W.O.M.B.A.T. | В.О.М.Б.А.Т. | Fan usage | `Всеобщий Обычный Магический Базовый Аттестационный Тест`; mostly fan-usage transliteration. |
 | Ancient Runes | Древние руны | Potter's Army / ROSMEN | School subject. |
 | Curse Breaker | разрушитель проклятий | Potter's Army / ROSMEN | Standard profession term. |
@@ -348,9 +369,13 @@ raw Latin spelling where we have already normalized them in this project.
 | Aguamenti | Агуаменти | Harry Potter Wiki RU / canon usage | Water-conjuring charm incantation. |
 | Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Water-jet charm incantation. |
 | Bubble-Head Charm | Пузыреголовое заклинание | Harry Potter Wiki RU / canon usage | Use for the standard underwater air-supply spell. |
+| Colovaria | Коловария | Harry Potter Wiki RU / canon usage | Color-change charm incantation. |
 | Confundus Charm | Конфундус | Harry Potter Wiki RU / canon usage | Confunding charm; keep `Конфундус` in dialogue and direct references. |
 | Confringo | Конфринго | Harry Potter Wiki RU / canon usage | Blasting curse incantation. |
 | Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Bubble-forming underwater jinx incantation. |
+| Floating Charm | Заклинание парения | Project / story-10 | Distinct from a full levitation spell; used for carrying heavy objects without sustained focus. |
+| Homorphus | Хоморфус | Harry Potter Wiki RU / canon usage | Werewolf-revealing / human-form incantation; keep the Russian-script spell form in dialogue. |
+| Levitation Charm | заклинание левитации | Potter's Army / ROSMEN / usage | Generic spell-name form distinct from the specific incantation `Wingardium Leviosa`. |
 | Lumos | Люмос | Harry Potter Wiki RU / canon usage | Wand-lighting charm incantation. |
 | Muffliato | Муффлиато | Harry Potter Wiki RU / canon usage | Anti-eavesdropping incantation. |
 | Obliviate | Обливиэйт | Harry Potter Wiki RU / canon usage | Memory Charm incantation; prefer the canonical spell name over ad-hoc verb forms. |
