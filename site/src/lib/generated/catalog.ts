@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 80,
-  readableChapterCount: 80,
-  readableBookCount: 15,
+  translatedSegmentCount: 81,
+  readableChapterCount: 81,
+  readableBookCount: 16,
 } as const;
 
 export const books: BookMeta[] = [
@@ -210,12 +210,12 @@ export const books: BookMeta[] = [
     "id": "story-16",
     "slug": "minerva-mcgonagal-and-the-sensible-course-of-action",
     "href": "/books/minerva-mcgonagal-and-the-sensible-course-of-action",
-    "title": "Minerva McGonagal and the Sensible Course of Action",
+    "title": "Минерва МакГонагалл и разумный план действий",
     "originalTitle": "Minerva McGonagal and the Sensible Course of Action",
     "order": 113,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-17",
@@ -1979,6 +1979,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 3: Прения",
     "originalTitle": "Chapter 3: Deliberations"
+  },
+  {
+    "bookId": "story-16",
+    "bookSlug": "minerva-mcgonagal-and-the-sensible-course-of-action",
+    "slug": "seg-0115",
+    "href": "/books/minerva-mcgonagal-and-the-sensible-course-of-action/chapters/seg-0115",
+    "order": 115,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -2063,4 +2074,5 @@ export const chapterModules = {
   "seg-0110": () => import("@/content/chapters/seg-0110.mdx"),
   "seg-0111": () => import("@/content/chapters/seg-0111.mdx"),
   "seg-0112": () => import("@/content/chapters/seg-0112.mdx"),
+  "seg-0115": () => import("@/content/chapters/seg-0115.mdx"),
 } as const;
