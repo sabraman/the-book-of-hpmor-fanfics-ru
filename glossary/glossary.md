@@ -37,6 +37,7 @@ across multiple segments.
 | Hufflepuff Harry Potter | Гарри Поттер из Пуффендуя | Project / story-14 | One-chapter alternate-sorting story; keep the title straightforward and house-based. |
 | Headmaster Potter-Evans-Verres | Директор Поттер-Эванс-Веррес | Project / story-15 | Keep `Headmaster` as `директор`; the joke is that Harry is sorted into the office, not a House. |
 | Minerva McGonagal and the Sensible Course of Action | Минерва МакГонагалл и разумный план действий | Project / story-16 | Normalize the source typo `McGonagal` to the canon surname while keeping the title brisk and idiomatic. |
+| HPMoR: The Missing (but Necessary) Chapters | ГПиМРМ: пропущенные (но необходимые) главы | Project / story-17 | Keep the playful parenthetical and frame `missing` as omitted-but-needed chapters, not literally lost pages. |
 
 ## Core Canon Terms
 

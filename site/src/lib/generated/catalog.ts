@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 81,
-  readableChapterCount: 81,
-  readableBookCount: 16,
+  translatedSegmentCount: 82,
+  readableChapterCount: 82,
+  readableBookCount: 17,
 } as const;
 
 export const books: BookMeta[] = [
@@ -221,12 +221,12 @@ export const books: BookMeta[] = [
     "id": "story-17",
     "slug": "hpmor-the-missing-but-necessary-chapters",
     "href": "/books/hpmor-the-missing-but-necessary-chapters",
-    "title": "HPMoR: The Missing (but Necessary) Chapters",
+    "title": "ГПиМРМ: пропущенные (но необходимые) главы",
     "originalTitle": "HPMoR: The Missing (but Necessary) Chapters",
     "order": 116,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 4,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-18",
@@ -1990,6 +1990,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-17",
+    "bookSlug": "hpmor-the-missing-but-necessary-chapters",
+    "slug": "seg-0118",
+    "href": "/books/hpmor-the-missing-but-necessary-chapters/chapters/seg-0118",
+    "order": 118,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1: Игра с огнём",
+    "originalTitle": "Chapter 1: Playing with Fire"
   }
 ] as ChapterMeta[];
 
@@ -2075,4 +2086,5 @@ export const chapterModules = {
   "seg-0111": () => import("@/content/chapters/seg-0111.mdx"),
   "seg-0112": () => import("@/content/chapters/seg-0112.mdx"),
   "seg-0115": () => import("@/content/chapters/seg-0115.mdx"),
+  "seg-0118": () => import("@/content/chapters/seg-0118.mdx"),
 } as const;
