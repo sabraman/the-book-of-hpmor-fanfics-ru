@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 76,
-  readableChapterCount: 76,
-  readableBookCount: 13,
+  translatedSegmentCount: 77,
+  readableChapterCount: 77,
+  readableBookCount: 14,
 } as const;
 
 export const books: BookMeta[] = [
@@ -188,12 +188,12 @@ export const books: BookMeta[] = [
     "id": "story-14",
     "slug": "chapter-10a-hufflepuff-harry-potter",
     "href": "/books/chapter-10a-hufflepuff-harry-potter",
-    "title": "Chapter 10a Hufflepuff Harry Potter",
+    "title": "Гарри Поттер из Пуффендуя",
     "originalTitle": "Chapter 10a Hufflepuff Harry Potter",
     "order": 105,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-15",
@@ -1935,6 +1935,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-14",
+    "bookSlug": "chapter-10a-hufflepuff-harry-potter",
+    "slug": "seg-0107",
+    "href": "/books/chapter-10a-hufflepuff-harry-potter/chapters/seg-0107",
+    "order": 107,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 10а",
+    "originalTitle": "Chapter 10a"
   }
 ] as ChapterMeta[];
 
@@ -2015,4 +2026,5 @@ export const chapterModules = {
   "seg-0100": () => import("@/content/chapters/seg-0100.mdx"),
   "seg-0101": () => import("@/content/chapters/seg-0101.mdx"),
   "seg-0104": () => import("@/content/chapters/seg-0104.mdx"),
+  "seg-0107": () => import("@/content/chapters/seg-0107.mdx"),
 } as const;
