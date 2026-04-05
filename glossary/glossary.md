@@ -247,6 +247,7 @@ across multiple segments.
 | Coeur-crux | кёр-крестраж | Project / story-10 | Hermione's internal label for the soul-anchor anomaly created by the Coeur-arbre ritual; mirror the transliterated `кёр-` pattern. |
 | Self-Inking Quill | самопишущее перо | Project / story-10 | Enchanted quill that writes without a separate ink bottle. |
 | Vanishing Ink Quill | перо исчезающих чернил | Project / story-10 | Joke-shop quill whose writing fades away after being made. |
+| feather-falling potion | зелье лёгкого падения | Project / story-17 | Fanfic potion that slows or cushions falls; keep the wording light and idiomatic rather than pseudo-technical. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
 | House points | баллы факультета | Potter's Army / ROSMEN / usage | Default running-text form for Hogwarts point awards. |
 | Prefect | староста | Potter's Army / ROSMEN | School leadership title; plural `Prefects` -> `старосты`. |
