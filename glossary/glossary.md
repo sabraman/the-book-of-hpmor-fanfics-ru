@@ -409,6 +409,9 @@ across multiple segments.
 | Ministry of Bayes | Министерство Байеса | Project / Blue Tigers | Satirical ministry branch / mandate authority in this story cycle. |
 | Lambda's Calculator | калькулятор Ламды | Project / Blue Tigers | Magical mathemagics calculator handed out in rationality class. |
 | Chaos Legion | Легион Хаоса | Project / Blue Tigers | Referenced political-military faction in this AU. |
+| Dragon Army | Армия Дракона | Project / HPMOR battle magic | First-year battle-magic army led by Draco; use `драконы` for members when a short plural is needed. |
+| Sunshine Regiment | Солнечный полк | Project / HPMOR battle magic | Hermione-led first-year army; keep the title bright and compact, with `солнечные` or `бойцы Солнечного полка` by context. |
+| comed-tea | comed-tea | Project / HPMOR fanfic usage | Keep the product name in Latin letters in running text; treat it as an indeclinable branded drink. |
 | Squibgineering | Сквибинженерия | Project / title rendering | Story title; blended from `squib` and `engineering`. |
 | Tom Riddle – Origins of a Dark Lord | Том Реддл - истоки Тёмного Лорда | Project / title rendering | Story title for the Tom Riddle childhood cycle. |
 | Tom Riddle and the Conflict of Interest | Том Реддл и конфликт интересов | Project / title rendering | Story title for the later Hogwarts-era Tom Riddle cycle. |
