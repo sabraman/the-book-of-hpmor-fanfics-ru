@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 85,
-  readableChapterCount: 85,
-  readableBookCount: 17,
+  translatedSegmentCount: 86,
+  readableChapterCount: 86,
+  readableBookCount: 18,
 } as const;
 
 export const books: BookMeta[] = [
@@ -232,12 +232,12 @@ export const books: BookMeta[] = [
     "id": "story-18",
     "slug": "hysteresis",
     "href": "/books/hysteresis",
-    "title": "Hysteresis",
+    "title": "Гистерезис",
     "originalTitle": "Hysteresis",
     "order": 122,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-19",
@@ -2034,6 +2034,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 4: Подхваченные вихрем, ч. 2",
     "originalTitle": "Chapter 4: Swept Up, Pt 2"
+  },
+  {
+    "bookId": "story-18",
+    "bookSlug": "hysteresis",
+    "slug": "seg-0124",
+    "href": "/books/hysteresis/chapters/seg-0124",
+    "order": 124,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -2123,4 +2134,5 @@ export const chapterModules = {
   "seg-0119": () => import("@/content/chapters/seg-0119.mdx"),
   "seg-0120": () => import("@/content/chapters/seg-0120.mdx"),
   "seg-0121": () => import("@/content/chapters/seg-0121.mdx"),
+  "seg-0124": () => import("@/content/chapters/seg-0124.mdx"),
 } as const;
