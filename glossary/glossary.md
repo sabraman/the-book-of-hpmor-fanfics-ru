@@ -39,6 +39,7 @@ across multiple segments.
 | Minerva McGonagal and the Sensible Course of Action | Минерва МакГонагалл и разумный план действий | Project / story-16 | Normalize the source typo `McGonagal` to the canon surname while keeping the title brisk and idiomatic. |
 | HPMoR: The Missing (but Necessary) Chapters | ГПиМРМ: пропущенные (но необходимые) главы | Project / story-17 | Keep the playful parenthetical and frame `missing` as omitted-but-needed chapters, not literally lost pages. |
 | Hysteresis | Гистерезис | Project / story-18 | Keep the scientific term as a direct transliteration; the title's technical ring matches the story's HPMOR voice. |
+| One Level Deeper | На уровень глубже | Project / story-19 | Keep the phrase compact and idiomatic; it should suggest both mental descent and moving to a deeper layer. |
 
 ## Core Canon Terms
 
@@ -734,6 +735,7 @@ itself over literal back-translation of the English wording.
 | Source | Russian | Authority | Notes |
 | --- | --- | --- | --- |
 | Seventh Horcrux | Седьмой крестраж | Project | Story title for fanfic 01. |
+| surfaces | поверхности | Project / story-19 | Quirrell's introspective term for the outer structures of consciousness encountered first in legilimency; lowercase in running text. |
 
 ## Usage Rules
 
