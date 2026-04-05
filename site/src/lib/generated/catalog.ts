@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 73,
-  readableChapterCount: 73,
+  translatedSegmentCount: 74,
+  readableChapterCount: 74,
   readableBookCount: 12,
 } as const;
 
@@ -169,9 +169,9 @@ export const books: BookMeta[] = [
     "title": "Ремикс ГПиМРМ от Дейстара",
     "originalTitle": "Daystar's Remix of HPMOR",
     "order": 96,
-    "readableChapterCount": 2,
+    "readableChapterCount": 3,
     "totalChapterCount": 4,
-    "translatedSegmentCount": 2
+    "translatedSegmentCount": 3
   },
   {
     "id": "story-13",
@@ -1902,6 +1902,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 2: Всё, во что я верю, ложно",
     "originalTitle": "Chapter 2: Everything I Believe Is False"
+  },
+  {
+    "bookId": "story-12",
+    "bookSlug": "daystars-remix-of-hpmor",
+    "slug": "seg-0100",
+    "href": "/books/daystars-remix-of-hpmor/chapters/seg-0100",
+    "order": 100,
+    "orderWithinBook": 3,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 3: Сравнивая реальность с её альтернативами",
+    "originalTitle": "Chapter 3: Comparing Reality To Its Alternatives"
   }
 ] as ChapterMeta[];
 
@@ -1979,4 +1990,5 @@ export const chapterModules = {
   "seg-0095": () => import("@/content/chapters/seg-0095.mdx"),
   "seg-0098": () => import("@/content/chapters/seg-0098.mdx"),
   "seg-0099": () => import("@/content/chapters/seg-0099.mdx"),
+  "seg-0100": () => import("@/content/chapters/seg-0100.mdx"),
 } as const;

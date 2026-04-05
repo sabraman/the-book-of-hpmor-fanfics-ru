@@ -140,6 +140,7 @@ across multiple segments.
 | Stefford | Стеффорд | Project / Tom Riddle Conflict | Tobo Mott's son, whose example taught Tobo to cast the Patronus in this story cycle. |
 | Groleo | Гролео | Project / Tom Riddle Conflict | Reclusive curio dealer whose hidden book cellar Tom visits in this story cycle. |
 | Ronell Manailur | Ронелл Манайлур | Project / Tom Riddle Conflict | Historical artificer associated with the Amulet of Asshia. |
+| Yermy Wibble | Ерми Уиббл | Project / HPMOR backstory | Veteran journalist murdered by Death Eaters; keep the surname consistent in later historical references. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
 | Deputy Headmistress | заместительница директора | Project / usage | Use for McGonagall's Hogwarts title in this anthology; prefer the full phrase over colloquial shortenings. |
 | Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
