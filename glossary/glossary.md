@@ -33,6 +33,7 @@ across multiple segments.
 | Hermione Granger and the Perfectly Reasonable Explanation | Гермиона Грейнджер и совершенно разумное объяснение | Project / story-10 | Keep `perfectly reasonable` idiomatic rather than literal-technical. |
 | Mary Poppins Begins the End | Мэри Поппинс кладёт начало концу | Project / story-11 | Reader-facing title from the source package; chapter 1 also uses a more apocalyptic stylized heading in-body. |
 | Daystar's Remix of HPMOR | Ремикс ГПиМРМ от Дейстара | Project / story-12 | Keep the title compact and preserve the author-handle flavor through transliteration. |
+| HPMOR Crack: A Questionable Harry Potter | Крэк ГПиМРМ: сомнительный Гарри Поттер | Project / story-13 | Keep the fandom-genre marker `crack` as `крэк`; render `questionable` plainly and a little deadpan. |
 
 ## Core Canon Terms
 

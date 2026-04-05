@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 75,
-  readableChapterCount: 75,
-  readableBookCount: 12,
+  translatedSegmentCount: 76,
+  readableChapterCount: 76,
+  readableBookCount: 13,
 } as const;
 
 export const books: BookMeta[] = [
@@ -177,12 +177,12 @@ export const books: BookMeta[] = [
     "id": "story-13",
     "slug": "hpmor-crack-a-questionable-harry-potter",
     "href": "/books/hpmor-crack-a-questionable-harry-potter",
-    "title": "HPMOR Crack: A Questionable Harry Potter",
+    "title": "Крэк ГПиМРМ: сомнительный Гарри Поттер",
     "originalTitle": "HPMOR Crack: A Questionable Harry Potter",
     "order": 102,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-14",
@@ -1924,6 +1924,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 4: Гипотеза эффективного рынка",
     "originalTitle": "Chapter 4: The Efficient Market Hypothesis"
+  },
+  {
+    "bookId": "story-13",
+    "bookSlug": "hpmor-crack-a-questionable-harry-potter",
+    "slug": "seg-0104",
+    "href": "/books/hpmor-crack-a-questionable-harry-potter/chapters/seg-0104",
+    "order": 104,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -2003,4 +2014,5 @@ export const chapterModules = {
   "seg-0099": () => import("@/content/chapters/seg-0099.mdx"),
   "seg-0100": () => import("@/content/chapters/seg-0100.mdx"),
   "seg-0101": () => import("@/content/chapters/seg-0101.mdx"),
+  "seg-0104": () => import("@/content/chapters/seg-0104.mdx"),
 } as const;
