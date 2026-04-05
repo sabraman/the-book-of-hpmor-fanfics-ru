@@ -40,6 +40,7 @@ across multiple segments.
 | HPMoR: The Missing (but Necessary) Chapters | ГПиМРМ: пропущенные (но необходимые) главы | Project / story-17 | Keep the playful parenthetical and frame `missing` as omitted-but-needed chapters, not literally lost pages. |
 | Hysteresis | Гистерезис | Project / story-18 | Keep the scientific term as a direct transliteration; the title's technical ring matches the story's HPMOR voice. |
 | One Level Deeper | На уровень глубже | Project / story-19 | Keep the phrase compact and idiomatic; it should suggest both mental descent and moving to a deeper layer. |
+| Harry Potter and the Technique of Quidditch | Гарри Поттер и техника квиддича | Project / story-20 | Keep the title compact and HPMOR-adjacent; `technique` here points to method and execution, not a lesson manual. |
 
 ## Core Canon Terms
 
@@ -200,6 +201,18 @@ across multiple segments.
 | Ravenclaw | Когтевран | Potter's Army / ROSMEN | House name. |
 | Hufflepuff | Пуффендуй | Potter's Army / ROSMEN | House name. |
 | Slytherin | Слизерин | Potter's Army / ROSMEN | House name. |
+| Madam Hooch | мадам Трюк | Potter's Army / ROSMEN | Hogwarts flying instructor and quidditch referee. |
+| keeper | вратарь | Potter's Army / ROSMEN | Quidditch position guarding the hoops. |
+| chaser | охотник | Potter's Army / ROSMEN | Quidditch scoring position. |
+| beater | загонщик | Potter's Army / ROSMEN | Quidditch position that bats bludgers. |
+| seeker | ловец | Potter's Army / ROSMEN | Quidditch position that hunts the snitch. |
+| Quaffle | квоффл | Potter's Army / ROSMEN | Main red scoring ball in quidditch. |
+| Bludger | бладжер | Potter's Army / ROSMEN | Iron ball used to disrupt players in quidditch. |
+| Golden Snitch | Золотой снитч | Potter's Army / ROSMEN | Small winged ball pursued by seekers. |
+| Nimbus 2000 | Нимбус-2000 | Potter's Army / ROSMEN | Racing broom model. |
+| Shooting Star | Падающая звезда | Potter's Army / canon usage | Older broom model. |
+| omnioculars | омнинокли | Potter's Army / ROSMEN | Magical binoculars with replay and zoom features. |
+| Porskoff Ploy | финт Порскова | Potter's Army / ROSMEN | Classic quidditch passing feint. |
 | Hogwarts letter | письмо из Хогвартса | Potter's Army / usage | Phrase-level default. |
 | Horcrux | крестраж | Potter's Army / ROSMEN | Canon form. |
 | Line of Merlin | Линия Мерлина | Project / HPMOR fanfic usage | Succession / artifact term; extend naturally to `Line of Merlin Unbroken` as `Непрерывная Линия Мерлина` when needed. |

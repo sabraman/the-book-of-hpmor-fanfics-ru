@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 87,
-  readableChapterCount: 87,
-  readableBookCount: 19,
+  translatedSegmentCount: 88,
+  readableChapterCount: 88,
+  readableBookCount: 20,
 } as const;
 
 export const books: BookMeta[] = [
@@ -254,12 +254,12 @@ export const books: BookMeta[] = [
     "id": "story-20",
     "slug": "harry-potter-and-the-technique-of-quidditch",
     "href": "/books/harry-potter-and-the-technique-of-quidditch",
-    "title": "Harry Potter and the Technique of Quidditch",
+    "title": "Гарри Поттер и техника квиддича",
     "originalTitle": "Harry Potter and the Technique of Quidditch",
     "order": 128,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 3,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-21",
@@ -2056,6 +2056,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-20",
+    "bookSlug": "harry-potter-and-the-technique-of-quidditch",
+    "slug": "seg-0130",
+    "href": "/books/harry-potter-and-the-technique-of-quidditch/chapters/seg-0130",
+    "order": 130,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -2147,4 +2158,5 @@ export const chapterModules = {
   "seg-0121": () => import("@/content/chapters/seg-0121.mdx"),
   "seg-0124": () => import("@/content/chapters/seg-0124.mdx"),
   "seg-0127": () => import("@/content/chapters/seg-0127.mdx"),
+  "seg-0130": () => import("@/content/chapters/seg-0130.mdx"),
 } as const;
