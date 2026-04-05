@@ -210,8 +210,10 @@ across multiple segments.
 | Bludger | бладжер | Potter's Army / ROSMEN | Iron ball used to disrupt players in quidditch. |
 | Golden Snitch | Золотой снитч | Potter's Army / ROSMEN | Small winged ball pursued by seekers. |
 | Nimbus 2000 | Нимбус-2000 | Potter's Army / ROSMEN | Racing broom model. |
+| Cleansweep Seven | Чистомёт-7 | Harry Potter Wiki RU / canon usage | Broom model; plural `Cleansweep Sevens` becomes `Чистомёты-7` in running text. |
 | Shooting Star | Падающая звезда | Potter's Army / canon usage | Older broom model. |
 | omnioculars | омнинокли | Potter's Army / ROSMEN | Magical binoculars with replay and zoom features. |
+| Finbourgh Flick | финт Финборо | Project / canon quidditch usage | Quidditch scoring manoeuvre; keep the eponym as a transliterated proper name and lowercase generic `финт`. |
 | Porskoff Ploy | финт Порскова | Potter's Army / ROSMEN | Classic quidditch passing feint. |
 | Hogwarts letter | письмо из Хогвартса | Potter's Army / usage | Phrase-level default. |
 | Horcrux | крестраж | Potter's Army / ROSMEN | Canon form. |
