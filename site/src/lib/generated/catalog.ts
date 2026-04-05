@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 71,
-  readableChapterCount: 71,
-  readableBookCount: 11,
+  translatedSegmentCount: 72,
+  readableChapterCount: 72,
+  readableBookCount: 12,
 } as const;
 
 export const books: BookMeta[] = [
@@ -166,12 +166,12 @@ export const books: BookMeta[] = [
     "id": "story-12",
     "slug": "daystars-remix-of-hpmor",
     "href": "/books/daystars-remix-of-hpmor",
-    "title": "Daystar's Remix of HPMOR",
+    "title": "Ремикс ГПиМРМ от Дейстара",
     "originalTitle": "Daystar's Remix of HPMOR",
     "order": 96,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 4,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-13",
@@ -1880,6 +1880,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-12",
+    "bookSlug": "daystars-remix-of-hpmor",
+    "slug": "seg-0098",
+    "href": "/books/daystars-remix-of-hpmor/chapters/seg-0098",
+    "order": 98,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1: День очень маловероятных событий",
+    "originalTitle": "Chapter 1: A Day of Very Low Probability"
   }
 ] as ChapterMeta[];
 
@@ -1955,4 +1966,5 @@ export const chapterModules = {
   "seg-0091": () => import("@/content/chapters/seg-0091.mdx"),
   "seg-0092": () => import("@/content/chapters/seg-0092.mdx"),
   "seg-0095": () => import("@/content/chapters/seg-0095.mdx"),
+  "seg-0098": () => import("@/content/chapters/seg-0098.mdx"),
 } as const;

@@ -32,6 +32,7 @@ across multiple segments.
 | Professors Aren't Idiots | Профессора не идиоты | Project / story-08 | Keep the title blunt and declarative. |
 | Hermione Granger and the Perfectly Reasonable Explanation | Гермиона Грейнджер и совершенно разумное объяснение | Project / story-10 | Keep `perfectly reasonable` idiomatic rather than literal-technical. |
 | Mary Poppins Begins the End | Мэри Поппинс кладёт начало концу | Project / story-11 | Reader-facing title from the source package; chapter 1 also uses a more apocalyptic stylized heading in-body. |
+| Daystar's Remix of HPMOR | Ремикс ГПиМРМ от Дейстара | Project / story-12 | Keep the title compact and preserve the author-handle flavor through transliteration. |
 
 ## Core Canon Terms
 
@@ -55,6 +56,8 @@ across multiple segments.
 | Dedalus Diggle | Дедалус Дингл | Potter's Army / ROSMEN | Canon form; use `Дедалус`, when only the given name appears. |
 | Mary Poppins | Мэри Поппинс | Project / story-11 | Use the established franchise form; this story treats her as a real, cross-world figure. |
 | Helena Vela Boot | Хелена Вела Бут | Project / story-11 | The name Mary Poppins gives for herself on first introduction. |
+| Michael Evans-Verres | Майкл Эванс-Веррес | Project / story-12 | Adoptive father in the remix continuity; use this surname order in narration where the source does. |
+| Michael Verres-Evans | Майкл Веррес-Эванс | Project / story-12 | Preserve the reversed surname order where the source explicitly uses it, such as Harry's formal letter. |
 | Sybill Trelawney | Сивилла Трелони | Potter's Army / ROSMEN | Canon form. |
 | Lavender | Лаванда | Potter's Army / ROSMEN | Given-name short form used in dialogue. |
 | Sally-Anne | Салли-Энн | Potter's Army / ROSMEN | Keep hyphenation. |
@@ -155,6 +158,8 @@ across multiple segments.
 | Lord Voldemort | Лорд Волдеморт | hpmor.ru / Project | Match current HPMOR Russian usage in this repo. |
 | General Chaos | Генерал Хаос | Project / HPMOR fanfic usage | Harry's title-like prank-war / battlefield persona; capitalize as an epithet. |
 | Petunia Dursley | Петуния Дурсль | Potter's Army / ROSMEN | Canon form. |
+| Petunia Evans-Verres | Петуния Эванс-Веррес | Project / story-12 | Petunia's married surname in the remix continuity. |
+| Mrs. Figg | миссис Фигг | Potter's Army / ROSMEN | Use the surname-only form when the source withholds her given name. |
 | Vernon Dursley | Вернон Дурсль | Potter's Army / ROSMEN | Canon form. |
 | Dudley Dursley | Дадли Дурсль | Potter's Army / ROSMEN | Canon form. |
 | Godric Gryffindor | Годрик Гриффиндор | Potter's Army / ROSMEN | Hogwarts founder and namesake of Gryffindor House. |
