@@ -487,7 +487,9 @@ raw Latin spelling where we have already normalized them in this project.
 | Muffliato | Муффлиато | Harry Potter Wiki RU / canon usage | Anti-eavesdropping incantation. |
 | Obliviate | Обливиэйт | Harry Potter Wiki RU / canon usage | Memory Charm incantation; prefer the canonical spell name over ad-hoc verb forms. |
 | Petrificus Totalus | Петрификус Тоталус | Harry Potter Wiki RU / canon usage | Full Body-Bind Curse incantation. |
+| Prior Incantato | Приори Инкантатем | Harry Potter Wiki RU / canon usage | Reverse-spell-effect incantation used to reveal a wand's recent magic. |
 | Protego | Протего | Harry Potter Wiki RU / canon usage | Shield Charm incantation. |
+| Scouring Charm | очищающие чары | Potter's Army / ROSMEN / usage | Narrative spell-name form for a basic cleaning spell when the incantation is unspecified. |
 | Colloportus | Коллопортус | Harry Potter Wiki RU / canon usage | Locking-spell incantation used to magically seal doors. |
 | Echo Moratus | Эхо Моратус | Project / story-10 | Message-repeating incantation used on Hermione's note packet; keep the spell name transliterated when cited outside dialogue. |
 | Expelliarmus | Экспеллиармус | Harry Potter Wiki RU / canon usage | Disarming charm incantation. |
