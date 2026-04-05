@@ -141,6 +141,7 @@ across multiple segments.
 | Groleo | Гролео | Project / Tom Riddle Conflict | Reclusive curio dealer whose hidden book cellar Tom visits in this story cycle. |
 | Ronell Manailur | Ронелл Манайлур | Project / Tom Riddle Conflict | Historical artificer associated with the Amulet of Asshia. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
+| Deputy Headmistress | заместительница директора | Project / usage | Use for McGonagall's Hogwarts title in this anthology; prefer the full phrase over colloquial shortenings. |
 | Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
 | Orney | Орни | Project / Tom Riddle Conflict | House-elf assigned to a Slytherin family before becoming a Hogwarts employee. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
@@ -199,6 +200,7 @@ across multiple segments.
 | Godric's Hollow | Годрикова Впадина | Potter's Army / ROSMEN | Canon place name. |
 | the Restricted Section | Запретная секция | Potter's Army / ROSMEN | Library term. |
 | Defense Against the Dark Arts | Защита от Тёмных Искусств | Potter's Army / ROSMEN | School subject; `ЗОТИ` only where abbreviation is natural. |
+| Transfiguration | Трансфигурация | Potter's Army / ROSMEN | School subject and magical discipline; capitalize only as a subject name or formal label. |
 | Muggle Studies | магловедение | Potter's Army / ROSMEN | School subject. |
 | Care of Magical Creatures | Уход за магическими существами | Potter's Army / ROSMEN | School subject. |
 | Dark Arts | Тёмные Искусства | Potter's Army / ROSMEN | Capitalize as school-discipline / field label. |
