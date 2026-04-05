@@ -145,6 +145,7 @@ across multiple segments.
 | Ronell Manailur | Ронелл Манайлур | Project / Tom Riddle Conflict | Historical artificer associated with the Amulet of Asshia. |
 | Yermy Wibble | Ерми Уиббл | Project / HPMOR backstory | Veteran journalist murdered by Death Eaters; keep the surname consistent in later historical references. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
+| Amelia Bones | Амелия Боунс | Potter's Army / ROSMEN | Head of the Department of Magical Law Enforcement. |
 | Deputy Headmistress | заместительница директора | Project / usage | Use for McGonagall's Hogwarts title in this anthology; prefer the full phrase over colloquial shortenings. |
 | Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
 | Orney | Орни | Project / Tom Riddle Conflict | House-elf assigned to a Slytherin family before becoming a Hogwarts employee. |
@@ -278,6 +279,7 @@ across multiple segments.
 | Knockturn Alley | Лютный переулок | Potter's Army / ROSMEN | Canon darker side-street branching off Diagon Alley. |
 | Gringotts | Гринготтс | Potter's Army / ROSMEN | Wizarding bank. |
 | Griphook | Крюкохват | Potter's Army / ROSMEN | Goblin guide and Gringotts employee. |
+| Thief's Downfall | Воровская погибель | Potter's Army / ROSMEN / existing repo usage | Gringotts security cascade that strips concealment and many active enchantments. |
 | Galleon | галлеон | Potter's Army / ROSMEN | Standard gold wizarding coin. |
 | Sickle | сикль | Potter's Army / ROSMEN | Standard silver wizarding coin. |
 | Flourish and Blotts | Флориш и Блоттс | Potter's Army / ROSMEN | Canon Diagon Alley bookshop name. |

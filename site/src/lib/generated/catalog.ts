@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 78,
-  readableChapterCount: 78,
+  translatedSegmentCount: 79,
+  readableChapterCount: 79,
   readableBookCount: 15,
 } as const;
 
@@ -202,9 +202,9 @@ export const books: BookMeta[] = [
     "title": "Директор Поттер-Эванс-Веррес",
     "originalTitle": "Headmaster Potter-Evans-Verres",
     "order": 108,
-    "readableChapterCount": 1,
+    "readableChapterCount": 2,
     "totalChapterCount": 3,
-    "translatedSegmentCount": 1
+    "translatedSegmentCount": 2
   },
   {
     "id": "story-16",
@@ -1957,6 +1957,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1: Выбор с крайне низкой вероятностью",
     "originalTitle": "Chapter 1: A Choice of Very Low Probability"
+  },
+  {
+    "bookId": "story-15",
+    "bookSlug": "headmaster-potter-evans-verres",
+    "slug": "seg-0111",
+    "href": "/books/headmaster-potter-evans-verres/chapters/seg-0111",
+    "order": 111,
+    "orderWithinBook": 2,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 2: Неожиданный ответ",
+    "originalTitle": "Chapter 2: A Surprising Response"
   }
 ] as ChapterMeta[];
 
@@ -2039,4 +2050,5 @@ export const chapterModules = {
   "seg-0104": () => import("@/content/chapters/seg-0104.mdx"),
   "seg-0107": () => import("@/content/chapters/seg-0107.mdx"),
   "seg-0110": () => import("@/content/chapters/seg-0110.mdx"),
+  "seg-0111": () => import("@/content/chapters/seg-0111.mdx"),
 } as const;
