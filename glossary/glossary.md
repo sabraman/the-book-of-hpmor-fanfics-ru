@@ -272,7 +272,11 @@ across multiple segments.
 | The Tale of the Three Brothers | Сказка о трёх братьях | Potter's Army / ROSMEN | Tale from `The Tales of Beedle the Bard`. |
 | Leaky Cauldron | Дырявый котёл | Potter's Army / ROSMEN | Canon inn name in London. |
 | Diagon Alley | Косой переулок | Potter's Army / ROSMEN | Canon London wizarding street. |
+| Knockturn Alley | Лютный переулок | Potter's Army / ROSMEN | Canon darker side-street branching off Diagon Alley. |
 | Gringotts | Гринготтс | Potter's Army / ROSMEN | Wizarding bank. |
+| Griphook | Крюкохват | Potter's Army / ROSMEN | Goblin guide and Gringotts employee. |
+| Galleon | галлеон | Potter's Army / ROSMEN | Standard gold wizarding coin. |
+| Sickle | сикль | Potter's Army / ROSMEN | Standard silver wizarding coin. |
 | Flourish and Blotts | Флориш и Блоттс | Potter's Army / ROSMEN | Canon Diagon Alley bookshop name. |
 | Madam Malkin | мадам Малкин | Potter's Army / ROSMEN | Use lower-case honorific in running text unless display styling requires capitalization. |
 | Grimmauld Place | площадь Гриммо | Potter's Army / ROSMEN | Black family home location. |

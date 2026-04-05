@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 74,
-  readableChapterCount: 74,
+  translatedSegmentCount: 75,
+  readableChapterCount: 75,
   readableBookCount: 12,
 } as const;
 
@@ -169,9 +169,9 @@ export const books: BookMeta[] = [
     "title": "Ремикс ГПиМРМ от Дейстара",
     "originalTitle": "Daystar's Remix of HPMOR",
     "order": 96,
-    "readableChapterCount": 3,
+    "readableChapterCount": 4,
     "totalChapterCount": 4,
-    "translatedSegmentCount": 3
+    "translatedSegmentCount": 4
   },
   {
     "id": "story-13",
@@ -1913,6 +1913,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 3: Сравнивая реальность с её альтернативами",
     "originalTitle": "Chapter 3: Comparing Reality To Its Alternatives"
+  },
+  {
+    "bookId": "story-12",
+    "bookSlug": "daystars-remix-of-hpmor",
+    "slug": "seg-0101",
+    "href": "/books/daystars-remix-of-hpmor/chapters/seg-0101",
+    "order": 101,
+    "orderWithinBook": 4,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 4: Гипотеза эффективного рынка",
+    "originalTitle": "Chapter 4: The Efficient Market Hypothesis"
   }
 ] as ChapterMeta[];
 
@@ -1991,4 +2002,5 @@ export const chapterModules = {
   "seg-0098": () => import("@/content/chapters/seg-0098.mdx"),
   "seg-0099": () => import("@/content/chapters/seg-0099.mdx"),
   "seg-0100": () => import("@/content/chapters/seg-0100.mdx"),
+  "seg-0101": () => import("@/content/chapters/seg-0101.mdx"),
 } as const;
