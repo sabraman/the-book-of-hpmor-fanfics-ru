@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 84,
-  readableChapterCount: 84,
+  translatedSegmentCount: 85,
+  readableChapterCount: 85,
   readableBookCount: 17,
 } as const;
 
@@ -224,9 +224,9 @@ export const books: BookMeta[] = [
     "title": "ГПиМРМ: пропущенные (но необходимые) главы",
     "originalTitle": "HPMoR: The Missing (but Necessary) Chapters",
     "order": 116,
-    "readableChapterCount": 3,
+    "readableChapterCount": 4,
     "totalChapterCount": 4,
-    "translatedSegmentCount": 3
+    "translatedSegmentCount": 4
   },
   {
     "id": "story-18",
@@ -2023,6 +2023,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 3: Подхваченные вихрем, ч. 1",
     "originalTitle": "Chapter 3: Swept Up, Pt 1"
+  },
+  {
+    "bookId": "story-17",
+    "bookSlug": "hpmor-the-missing-but-necessary-chapters",
+    "slug": "seg-0121",
+    "href": "/books/hpmor-the-missing-but-necessary-chapters/chapters/seg-0121",
+    "order": 121,
+    "orderWithinBook": 4,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 4: Подхваченные вихрем, ч. 2",
+    "originalTitle": "Chapter 4: Swept Up, Pt 2"
   }
 ] as ChapterMeta[];
 
@@ -2111,4 +2122,5 @@ export const chapterModules = {
   "seg-0118": () => import("@/content/chapters/seg-0118.mdx"),
   "seg-0119": () => import("@/content/chapters/seg-0119.mdx"),
   "seg-0120": () => import("@/content/chapters/seg-0120.mdx"),
+  "seg-0121": () => import("@/content/chapters/seg-0121.mdx"),
 } as const;
