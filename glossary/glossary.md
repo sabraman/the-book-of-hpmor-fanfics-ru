@@ -35,6 +35,7 @@ across multiple segments.
 | Daystar's Remix of HPMOR | Ремикс ГПиМРМ от Дейстара | Project / story-12 | Keep the title compact and preserve the author-handle flavor through transliteration. |
 | HPMOR Crack: A Questionable Harry Potter | Крэк ГПиМРМ: сомнительный Гарри Поттер | Project / story-13 | Keep the fandom-genre marker `crack` as `крэк`; render `questionable` plainly and a little deadpan. |
 | Hufflepuff Harry Potter | Гарри Поттер из Пуффендуя | Project / story-14 | One-chapter alternate-sorting story; keep the title straightforward and house-based. |
+| Headmaster Potter-Evans-Verres | Директор Поттер-Эванс-Веррес | Project / story-15 | Keep `Headmaster` as `директор`; the joke is that Harry is sorted into the office, not a House. |
 
 ## Core Canon Terms
 
