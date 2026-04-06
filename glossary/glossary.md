@@ -48,6 +48,7 @@ across multiple segments.
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
 | Combat Commentators | Боевые комментаторы | Project / story-24 | Shared chapter-title phrase for Chapters 3-4; keep the wording brisk and a little sports-broadcast-like. |
 | Asimov's One and Half Laws | Полтора закона Азимова | Project / story-24 | Recurring chapter-title phrase for Chapters 11-12; keep the robotics echo compact and idiomatic, despite the source's ungrammatical `one and half`. |
+| Fosbury Flop | Фосбери-флоп | Project / story-24 | Chapter 14 title; keep the athletics term in its standard Russian borrowed form with a hyphen. |
 
 ## Core Canon Terms
 
