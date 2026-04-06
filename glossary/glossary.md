@@ -45,6 +45,7 @@ across multiple segments.
 | Nightmares of Azkaban | Кошмары Азкабана | Project / story-22 | Keep the title terse and ominous; a genitive construction sounds more natural in Russian than a literal `кошмары в Азкабане`. |
 | The Fallacy of Division By Zero | Софизм деления на ноль | Project / story-23 | Use `софизм` for the classic mathematical false-proof flavor; it reads more precise and literary here than a generic `ошибка`. |
 | Harry's Game | Игра Гарри | Project / story-24 | Keep the title compact and slightly double-edged: it is both Harry's contest and Harry's manipulation of the board. |
+| Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
 
 ## Core Canon Terms
 
@@ -433,6 +434,8 @@ across multiple segments.
 | Chaos Legion | Легион Хаоса | Project / Blue Tigers | Referenced political-military faction in this AU. |
 | Dragon Army | Армия Дракона | Project / HPMOR battle magic | First-year battle-magic army led by Draco; use `драконы` for members when a short plural is needed. |
 | Sunshine Regiment | Солнечный полк | Project / HPMOR battle magic | Hermione-led first-year army; keep the title bright and compact, with `солнечные` or `бойцы Солнечного полка` by context. |
+| Floo Book | Флу-Бук | Project / story-24 | Wizarding social-network parody; keep the product-style name in Cyrillic with a hyphen, and preserve the abbreviation `ФБ` when the text explicitly uses `FB`. |
+| Gutenberg of Gossip | Гутенберг сплетен | Project / story-24 | Self-styled pseudonym of the Floo Book creator; keep the mock-founder joke readable rather than literal-wordy. |
 | comed-tea | comed-tea | Project / HPMOR fanfic usage | Keep the product name in Latin letters in running text; treat it as an indeclinable branded drink. |
 | Squibgineering | Сквибинженерия | Project / title rendering | Story title; blended from `squib` and `engineering`. |
 | Tom Riddle – Origins of a Dark Lord | Том Реддл - истоки Тёмного Лорда | Project / title rendering | Story title for the Tom Riddle childhood cycle. |
