@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 93,
-  readableChapterCount: 93,
-  readableBookCount: 23,
+  translatedSegmentCount: 94,
+  readableChapterCount: 94,
+  readableBookCount: 24,
 } as const;
 
 export const books: BookMeta[] = [
@@ -298,12 +298,12 @@ export const books: BookMeta[] = [
     "id": "story-24",
     "slug": "harrys-game",
     "href": "/books/harrys-game",
-    "title": "Harry's Game",
+    "title": "Игра Гарри",
     "originalTitle": "Harry's Game",
     "order": 142,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 23,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-25",
@@ -2122,6 +2122,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-24",
+    "bookSlug": "harrys-game",
+    "slug": "seg-0144",
+    "href": "/books/harrys-game/chapters/seg-0144",
+    "order": 144,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1: Последствия",
+    "originalTitle": "Chapter 1: Consequences"
   }
 ] as ChapterMeta[];
 
@@ -2219,4 +2230,5 @@ export const chapterModules = {
   "seg-0135": () => import("@/content/chapters/seg-0135.mdx"),
   "seg-0138": () => import("@/content/chapters/seg-0138.mdx"),
   "seg-0141": () => import("@/content/chapters/seg-0141.mdx"),
+  "seg-0144": () => import("@/content/chapters/seg-0144.mdx"),
 } as const;

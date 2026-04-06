@@ -44,6 +44,7 @@ across multiple segments.
 | Memories are Golden and Death is Cheap | Воспоминания на вес золота, а смерть дешева | Project / story-21 | Normalize the source `Golden/Gold` variation to one Russian title; keep the contrast aphoristic and idiomatic rather than literal. |
 | Nightmares of Azkaban | Кошмары Азкабана | Project / story-22 | Keep the title terse and ominous; a genitive construction sounds more natural in Russian than a literal `кошмары в Азкабане`. |
 | The Fallacy of Division By Zero | Софизм деления на ноль | Project / story-23 | Use `софизм` for the classic mathematical false-proof flavor; it reads more precise and literary here than a generic `ошибка`. |
+| Harry's Game | Игра Гарри | Project / story-24 | Keep the title compact and slightly double-edged: it is both Harry's contest and Harry's manipulation of the board. |
 
 ## Core Canon Terms
 
