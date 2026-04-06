@@ -42,6 +42,7 @@ across multiple segments.
 | One Level Deeper | На уровень глубже | Project / story-19 | Keep the phrase compact and idiomatic; it should suggest both mental descent and moving to a deeper layer. |
 | Harry Potter and the Technique of Quidditch | Гарри Поттер и техника квиддича | Project / story-20 | Keep the title compact and HPMOR-adjacent; `technique` here points to method and execution, not a lesson manual. |
 | Memories are Golden and Death is Cheap | Воспоминания на вес золота, а смерть дешева | Project / story-21 | Normalize the source `Golden/Gold` variation to one Russian title; keep the contrast aphoristic and idiomatic rather than literal. |
+| Nightmares of Azkaban | Кошмары Азкабана | Project / story-22 | Keep the title terse and ominous; a genitive construction sounds more natural in Russian than a literal `кошмары в Азкабане`. |
 
 ## Core Canon Terms
 
