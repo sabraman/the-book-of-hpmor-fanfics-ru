@@ -46,6 +46,7 @@ across multiple segments.
 | The Fallacy of Division By Zero | Софизм деления на ноль | Project / story-23 | Use `софизм` for the classic mathematical false-proof flavor; it reads more precise and literary here than a generic `ошибка`. |
 | Harry's Game | Игра Гарри | Project / story-24 | Keep the title compact and slightly double-edged: it is both Harry's contest and Harry's manipulation of the board. |
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
+| Combat Commentators | Боевые комментаторы | Project / story-24 | Shared chapter-title phrase for Chapters 3-4; keep the wording brisk and a little sports-broadcast-like. |
 
 ## Core Canon Terms
 
@@ -138,6 +139,9 @@ across multiple segments.
 | Sue Li | Су Ли | Potter's Army / ROSMEN | Canon form. |
 | Marcus Belby | Маркус Белби | Potter's Army / ROSMEN | Canon form. |
 | Roger Davies | Роджер Дэвис | Potter's Army / ROSMEN | Canon form. |
+| Lee Jordan | Ли Джордан | Potter's Army / ROSMEN | Canon form. |
+| Marcus Flint | Маркус Флинт | Potter's Army / ROSMEN | Canon form. |
+| Oliver Wood | Оливер Вуд | Potter's Army / ROSMEN | Canon form. |
 | Trevor | Тревор | Potter's Army / ROSMEN | Neville Longbottom's toad. |
 | Robert Hilliard | Роберт Хиллиард | Project / story-10 | Fifth-year Ravenclaw prefect who guides new students to Ravenclaw Tower. |
 | MacNair | Макнейр | Potter's Army / ROSMEN / project usage | Slytherin student discussing wand cores with Tom in this cycle. |
