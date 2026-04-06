@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 90,
-  readableChapterCount: 90,
-  readableBookCount: 20,
+  translatedSegmentCount: 91,
+  readableChapterCount: 91,
+  readableBookCount: 21,
 } as const;
 
 export const books: BookMeta[] = [
@@ -265,12 +265,12 @@ export const books: BookMeta[] = [
     "id": "story-21",
     "slug": "memories-are-golden-and-death-is-cheap",
     "href": "/books/memories-are-golden-and-death-is-cheap",
-    "title": "Memories are Golden and Death is Cheap",
+    "title": "Воспоминания на вес золота, а смерть дешева",
     "originalTitle": "Memories are Golden and Death is Cheap",
     "order": 133,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-22",
@@ -2089,6 +2089,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 3",
     "originalTitle": "Chapter 3"
+  },
+  {
+    "bookId": "story-21",
+    "bookSlug": "memories-are-golden-and-death-is-cheap",
+    "slug": "seg-0135",
+    "href": "/books/memories-are-golden-and-death-is-cheap/chapters/seg-0135",
+    "order": 135,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -2183,4 +2194,5 @@ export const chapterModules = {
   "seg-0130": () => import("@/content/chapters/seg-0130.mdx"),
   "seg-0131": () => import("@/content/chapters/seg-0131.mdx"),
   "seg-0132": () => import("@/content/chapters/seg-0132.mdx"),
+  "seg-0135": () => import("@/content/chapters/seg-0135.mdx"),
 } as const;

@@ -41,6 +41,7 @@ across multiple segments.
 | Hysteresis | Гистерезис | Project / story-18 | Keep the scientific term as a direct transliteration; the title's technical ring matches the story's HPMOR voice. |
 | One Level Deeper | На уровень глубже | Project / story-19 | Keep the phrase compact and idiomatic; it should suggest both mental descent and moving to a deeper layer. |
 | Harry Potter and the Technique of Quidditch | Гарри Поттер и техника квиддича | Project / story-20 | Keep the title compact and HPMOR-adjacent; `technique` here points to method and execution, not a lesson manual. |
+| Memories are Golden and Death is Cheap | Воспоминания на вес золота, а смерть дешева | Project / story-21 | Normalize the source `Golden/Gold` variation to one Russian title; keep the contrast aphoristic and idiomatic rather than literal. |
 
 ## Core Canon Terms
 
@@ -88,6 +89,7 @@ across multiple segments.
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Bellatrix Black | Беллатриса Блэк | Project / Tom Riddle Conflict | Alternate-era Bellatrix before marriage in this story cycle. |
+| Blaise Zabini | Блейз Забини | Potter's Army / ROSMEN | Canon form. |
 | Minerva McGonagall | Минерва МакГонагалл | Potter's Army / ROSMEN | Do not use `Макгонагал` or mixed forms. |
 | Moira Leigh-Smith | Мойра Ли-Смит | Project / story-09 | Former transfiguration prodigy referenced in Hermione's safety subplot; keep the hyphenated surname. |
 | Severus Snape | Северус Снейп | Potter's Army / ROSMEN | Canon form. |
