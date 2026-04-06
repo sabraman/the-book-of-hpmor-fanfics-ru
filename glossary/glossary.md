@@ -253,6 +253,7 @@ across multiple segments.
 | Imperius Curse | заклятие Империус | Potter's Army / ROSMEN | Canon curse name. |
 | Cruciatus Curse | заклятие Круциатус | Potter's Army / ROSMEN | Canon curse name. |
 | Avada Kedavra | Авада Кедавра | Potter's Army / ROSMEN | Canon incantation. |
+| Lumos Maxima | Люмос Максима | Potter's Army / canon usage | Amplified light spell; keep the Latin incantation transliterated in running text. |
 | Killing Curse | Убивающее заклятие | Potter's Army / ROSMEN | Canon description of `Avada Kedavra`. |
 | Philosopher's Stone | Философский камень | Potter's Army / ROSMEN | Canon artifact. |
 | Mirror of Erised | Зеркало Еиналеж | Potter's Army / ROSMEN | Magical mirror revealing deepest desire. |
