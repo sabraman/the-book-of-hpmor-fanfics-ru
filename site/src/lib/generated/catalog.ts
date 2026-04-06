@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 92,
-  readableChapterCount: 92,
-  readableBookCount: 22,
+  translatedSegmentCount: 93,
+  readableChapterCount: 93,
+  readableBookCount: 23,
 } as const;
 
 export const books: BookMeta[] = [
@@ -287,12 +287,12 @@ export const books: BookMeta[] = [
     "id": "story-23",
     "slug": "the-fallacy-of-division-by-zero",
     "href": "/books/the-fallacy-of-division-by-zero",
-    "title": "The Fallacy of Division By Zero",
+    "title": "Софизм деления на ноль",
     "originalTitle": "The Fallacy of Division By Zero",
     "order": 139,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-24",
@@ -2111,6 +2111,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-23",
+    "bookSlug": "the-fallacy-of-division-by-zero",
+    "slug": "seg-0141",
+    "href": "/books/the-fallacy-of-division-by-zero/chapters/seg-0141",
+    "order": 141,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -2207,4 +2218,5 @@ export const chapterModules = {
   "seg-0132": () => import("@/content/chapters/seg-0132.mdx"),
   "seg-0135": () => import("@/content/chapters/seg-0135.mdx"),
   "seg-0138": () => import("@/content/chapters/seg-0138.mdx"),
+  "seg-0141": () => import("@/content/chapters/seg-0141.mdx"),
 } as const;
