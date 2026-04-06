@@ -439,6 +439,7 @@ across multiple segments.
 | Chaos Legion | Легион Хаоса | Project / Blue Tigers | Referenced political-military faction in this AU. |
 | Dragon Army | Армия Дракона | Project / HPMOR battle magic | First-year battle-magic army led by Draco; use `драконы` for members when a short plural is needed. |
 | Sunshine Regiment | Солнечный полк | Project / HPMOR battle magic | Hermione-led first-year army; keep the title bright and compact, with `солнечные` or `бойцы Солнечного полка` by context. |
+| SPHEW | SPHEW | Project / story-24 | Hermione's house-elf activist group acronym in this story. Keep it in Latin letters until the source explicitly expands and starts joking on the initials. |
 | Floo Book | Флу-Бук | Project / story-24 | Wizarding social-network parody; keep the product-style name in Cyrillic with a hyphen, and preserve the abbreviation `ФБ` when the text explicitly uses `FB`. |
 | Gutenberg of Gossip | Гутенберг сплетен | Project / story-24 | Self-styled pseudonym of the Floo Book creator; keep the mock-founder joke readable rather than literal-wordy. |
 | Takamura | Такамура | Project / story-24 | Harry's battle-commentator alias in the Floo Book quidditch stunt; keep the Japanese ring without over-Russifying it. |
