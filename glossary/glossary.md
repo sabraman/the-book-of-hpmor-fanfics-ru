@@ -440,6 +440,9 @@ across multiple segments.
 | Sunshine Regiment | Солнечный полк | Project / HPMOR battle magic | Hermione-led first-year army; keep the title bright and compact, with `солнечные` or `бойцы Солнечного полка` by context. |
 | Floo Book | Флу-Бук | Project / story-24 | Wizarding social-network parody; keep the product-style name in Cyrillic with a hyphen, and preserve the abbreviation `ФБ` when the text explicitly uses `FB`. |
 | Gutenberg of Gossip | Гутенберг сплетен | Project / story-24 | Self-styled pseudonym of the Floo Book creator; keep the mock-founder joke readable rather than literal-wordy. |
+| Takamura | Такамура | Project / story-24 | Harry's battle-commentator alias in the Floo Book quidditch stunt; keep the Japanese ring without over-Russifying it. |
+| Eiji | Эйдзи | Project / story-24 | Draco's commentator alias in the Floo Book quidditch stunt; keep the short Japanese form. |
+| Kamogawa | Камогава | Project / story-24 | Dumbledore's one-line sign-off alias in the same commentary gag. |
 | comed-tea | comed-tea | Project / HPMOR fanfic usage | Keep the product name in Latin letters in running text; treat it as an indeclinable branded drink. |
 | Squibgineering | Сквибинженерия | Project / title rendering | Story title; blended from `squib` and `engineering`. |
 | Tom Riddle – Origins of a Dark Lord | Том Реддл - истоки Тёмного Лорда | Project / title rendering | Story title for the Tom Riddle childhood cycle. |
