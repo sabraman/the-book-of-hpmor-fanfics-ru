@@ -500,6 +500,7 @@ raw Latin spelling where we have already normalized them in this project.
 | Lumos | Люмос | Harry Potter Wiki RU / canon usage | Wand-lighting charm incantation. |
 | Wand-Lighting Charm | заклинание зажжения палочки | Project / story-10 | Narrative name for `Lumos` when the text names the basic beginner charm rather than the incantation. |
 | Muffliato | Муффлиато | Harry Potter Wiki RU / canon usage | Anti-eavesdropping incantation. |
+| Ventriliquo | Вентриликво | Project / story-24 | Voice-throwing / remote-speech incantation used for commentary hijacks and broom-team coordination; keep the spell name transliterated in dialogue. |
 | Obliviate | Обливиэйт | Harry Potter Wiki RU / canon usage | Memory Charm incantation; prefer the canonical spell name over ad-hoc verb forms. |
 | Petrificus Totalus | Петрификус Тоталус | Harry Potter Wiki RU / canon usage | Full Body-Bind Curse incantation. |
 | Prior Incantato | Приори Инкантатем | Harry Potter Wiki RU / canon usage | Reverse-spell-effect incantation used to reveal a wand's recent magic. |
