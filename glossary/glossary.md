@@ -51,6 +51,7 @@ across multiple segments.
 | Fosbury Flop | Фосбери-флоп | Project / story-24 | Chapter 14 title; keep the athletics term in its standard Russian borrowed form with a hyphen. |
 | Weasleys' War | Война Уизли | Project / story-24 | Chapter 16 title; keep the heading short and punchy, focusing on the twins' chaos rather than forcing a possessive construction. |
 | Game's Changer | Перелом игры | Project / story-24 | Chapter 17 title; render the source's `game changer` pun as a compact turning-point phrase that still feels like a chapter heading. |
+| Game's Ender | Конец игры | Project / story-24 | Shared chapter-title stem for Chapters 18-19; prefer a natural Russian endgame heading over a literal calque of the agentive pun. |
 
 ## Core Canon Terms
 
