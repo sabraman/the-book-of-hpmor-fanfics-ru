@@ -363,6 +363,10 @@ across multiple segments.
 | Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
 | Hour-Reversal Charm | Заклятие часового обращения | Project / story-10 | Formal legal-register term for the one-hour time-travel spell; keep the bureaucratic tone. |
+| Compass Charm | Компасные чары | Project / story-27 | Detection charm used to find the rough direction of a stationary target when the caster has a precious belonging and the target is not warded against detection. |
+| Cameleon Charm | чары хамелеона | Project / usage | Concealment charm that makes an object or surface blend into its surroundings; keep lowercase in running text unless a quoted spell name is needed. |
+| Retrieval Charm | чары извлечения | Project / story-27 | Storage-item retrieval enchantment; distinct from `Accio` / standard summoning charm and tied to getting selected contents out of an enchanted container. |
+| Interdict of Merlin | Интердикт Мерлина | Project / HPMOR fanfic usage | Magical limit that prevents powerful spell-imprints from being learned except mind-to-mind from a living bearer or rediscovered independently. |
 | backlash | обратный удар | Project / story-10 | Time-magic term for the hostile probability snapback that punishes attempts to alter events. |
 | Erasure | Стирание | Project / story-10 | Capitalized quasi-technical term for a person being removed from Time while some memory-traces remain. |
 | Department of Magical Law Enforcement | Департамент магического правопорядка | Potter's Army / ROSMEN | Ministry law-enforcement department; abbreviate only when natural in Russian context. |
