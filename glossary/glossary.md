@@ -788,6 +788,7 @@ itself over literal back-translation of the English wording.
 | Source | Russian | Authority | Notes |
 | --- | --- | --- | --- |
 | Seventh Horcrux | Седьмой крестраж | Project | Story title for fanfic 01. |
+| Somnium | Somnium | Project / anthology usage | Sleep-inducing knockout spell; keep the incantation in Latin rather than inventing a Russian calque. |
 | surfaces | поверхности | Project / story-19 | Quirrell's introspective term for the outer structures of consciousness encountered first in legilimency; lowercase in running text. |
 
 ## Usage Rules
