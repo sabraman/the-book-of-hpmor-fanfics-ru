@@ -45,6 +45,7 @@ across multiple segments.
 | Nightmares of Azkaban | Кошмары Азкабана | Project / story-22 | Keep the title terse and ominous; a genitive construction sounds more natural in Russian than a literal `кошмары в Азкабане`. |
 | The Fallacy of Division By Zero | Софизм деления на ноль | Project / story-23 | Use `софизм` for the classic mathematical false-proof flavor; it reads more precise and literary here than a generic `ошибка`. |
 | Harry's Game | Игра Гарри | Project / story-24 | Keep the title compact and slightly double-edged: it is both Harry's contest and Harry's manipulation of the board. |
+| Educational | Поучительно | Project / story-25 | One-chapter Draco point-of-view epilogue to `Harry's Game`; keep the title terse and let it echo the final ironic line. |
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
 | Combat Commentators | Боевые комментаторы | Project / story-24 | Shared chapter-title phrase for Chapters 3-4; keep the wording brisk and a little sports-broadcast-like. |
 | Asimov's One and Half Laws | Полтора закона Азимова | Project / story-24 | Recurring chapter-title phrase for Chapters 11-12; keep the robotics echo compact and idiomatic, despite the source's ungrammatical `one and half`. |
@@ -233,6 +234,7 @@ across multiple segments.
 | Hogwarts letter | письмо из Хогвартса | Potter's Army / usage | Phrase-level default. |
 | Horcrux | крестраж | Potter's Army / ROSMEN | Canon form. |
 | Line of Merlin | Линия Мерлина | Project / HPMOR fanfic usage | Succession / artifact term; extend naturally to `Line of Merlin Unbroken` as `Непрерывная Линия Мерлина` when needed. |
+| Bayesian Conspiracy | Байесовский заговор | Project / HPMOR fanfic usage | Student planning circle around Harry and Draco; keep the phrase conspiratorial rather than academic and capitalize only when styled as a named group. |
 | Gaunt ring | Кольцо Марволо Мракса | Harry Potter Wiki RU / canon usage | Horcrux-bearing ring of Marvolo Gaunt. |
 | Ravenclaw's Diadem | диадема Когтевран | Potter's Army / ROSMEN | Lost Hogwarts founder relic and Horcrux. |
 | Hufflepuff's Cup | чаша Пуффендуя | Potter's Army / ROSMEN | Lost Hogwarts founder relic and Horcrux. |
