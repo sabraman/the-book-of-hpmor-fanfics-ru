@@ -450,6 +450,7 @@ across multiple segments.
 | Takamura | Такамура | Project / story-24 | Harry's battle-commentator alias in the Floo Book quidditch stunt; keep the Japanese ring without over-Russifying it. |
 | Eiji | Эйдзи | Project / story-24 | Draco's commentator alias in the Floo Book quidditch stunt; keep the short Japanese form. |
 | Kamogawa | Камогава | Project / story-24 | Dumbledore's one-line sign-off alias in the same commentary gag. |
+| Drop Lord | Лорд Сбрасыватель | Project / story-24 | Mocking Draco epithet after Hermione's near-fall; keep the Dark-Lord echo while making the insult readable in Russian. |
 | comed-tea | comed-tea | Project / HPMOR fanfic usage | Keep the product name in Latin letters in running text; treat it as an indeclinable branded drink. |
 | Squibgineering | Сквибинженерия | Project / title rendering | Story title; blended from `squib` and `engineering`. |
 | Tom Riddle – Origins of a Dark Lord | Том Реддл - истоки Тёмного Лорда | Project / title rendering | Story title for the Tom Riddle childhood cycle. |
@@ -508,6 +509,10 @@ raw Latin spelling where we have already normalized them in this project.
 | Wand-Lighting Charm | заклинание зажжения палочки | Project / story-10 | Narrative name for `Lumos` when the text names the basic beginner charm rather than the incantation. |
 | Muffliato | Муффлиато | Harry Potter Wiki RU / canon usage | Anti-eavesdropping incantation. |
 | Ventriliquo | Вентриликво | Project / story-24 | Voice-throwing / remote-speech incantation used for commentary hijacks and broom-team coordination; keep the spell name transliterated in dialogue. |
+| Rinsio | Ринсио | Project / story-24 | Mock-Latin cleaning spell Harry jokes about after the match; keep the incantation transliterated rather than translated. |
+| Lumos Maximus Multiplus | Люмос Максимус Мультиплюс | Project / story-24 | Harry's multi-light variant used to reshape player density around the snitch; keep the faux-Latin incantation in Russian script. |
+| Snitchus Calculus | Снитчус Калькулус | Project / story-24 | Harry's predictive snitch-tracking spell; preserve the faux-Latin scientific joke in transliteration. |
+| Snitchus Calculus Continuus | Снитчус Калькулус Континуус | Project / story-24 | Ongoing version of Harry's snitch-prediction spell; keep the mock-Latin extension explicit in the full incantation. |
 | Obliviate | Обливиэйт | Harry Potter Wiki RU / canon usage | Memory Charm incantation; prefer the canonical spell name over ad-hoc verb forms. |
 | Petrificus Totalus | Петрификус Тоталус | Harry Potter Wiki RU / canon usage | Full Body-Bind Curse incantation. |
 | Prior Incantato | Приори Инкантатем | Harry Potter Wiki RU / canon usage | Reverse-spell-effect incantation used to reveal a wand's recent magic. |
