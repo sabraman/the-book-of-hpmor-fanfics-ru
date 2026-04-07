@@ -187,6 +187,7 @@ across multiple segments.
 | Dorcas Meadows | Доркас Медоуз | Potter's Army / ROSMEN | Order of the Phoenix member. |
 | Mrs. Cole | миссис Коул | Potter's Army / ROSMEN | Wool's Orphanage matron. |
 | Grindelwald | Грин-де-Вальд | Potter's Army / ROSMEN | Canon surname form. |
+| the greater good | общее благо | Project / HP usage | Use in Grindelwald / Dumbledore ideological contexts as a fixed slogan-like phrase; in running text prefer `ради общего блага` / `во имя общего блага` over grander calques. |
 | Lord Voldemort | Лорд Волдеморт | hpmor.ru / Project | Match current HPMOR Russian usage in this repo. |
 | General Chaos | Генерал Хаос | Project / HPMOR fanfic usage | Harry's title-like prank-war / battlefield persona; capitalize as an epithet. |
 | Sunshine General | Солнечный генерал | Project / story-26 | Hermione's melodramatic SPHEW leadership title; keep it capitalized when used as a nickname or quasi-rank. |
@@ -368,6 +369,7 @@ across multiple segments.
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
 | Unspeakables | невыразимцы | Potter's Army / ROSMEN | Canon name for Department of Mysteries personnel. |
 | Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
+| Phoenix Price room | комната Цены Феникса | Project / HPMOR fanfic usage | Dumbledore's memorial room of losses and relics; keep the phrase capitalized as a named place despite the source's slightly odd wording. |
 | Hogwarts, A History | История Хогвартса | Potter's Army / ROSMEN | Canon book title. |
 | Modern Magical History | Новейшая история магии | Potter's Army / ROSMEN / project usage | Canon-history textbook title used in Hermione's prep reading. |
 | Great Wizarding Events of the Twentieth Century | Выдающиеся магические события двадцатого века | Potter's Army / ROSMEN / project usage | History survey title. |
