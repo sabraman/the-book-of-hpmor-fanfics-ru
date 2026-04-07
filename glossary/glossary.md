@@ -187,6 +187,7 @@ across multiple segments.
 | Grindelwald | Грин-де-Вальд | Potter's Army / ROSMEN | Canon surname form. |
 | Lord Voldemort | Лорд Волдеморт | hpmor.ru / Project | Match current HPMOR Russian usage in this repo. |
 | General Chaos | Генерал Хаос | Project / HPMOR fanfic usage | Harry's title-like prank-war / battlefield persona; capitalize as an epithet. |
+| Sunshine General | Солнечный генерал | Project / story-26 | Hermione's melodramatic SPHEW leadership title; keep it capitalized when used as a nickname or quasi-rank. |
 | Petunia Dursley | Петуния Дурсль | Potter's Army / ROSMEN | Canon form. |
 | Petunia Evans-Verres | Петуния Эванс-Веррес | Project / story-12 | Petunia's married surname in the remix continuity. |
 | Mrs. Figg | миссис Фигг | Potter's Army / ROSMEN | Use the surname-only form when the source withholds her given name. |

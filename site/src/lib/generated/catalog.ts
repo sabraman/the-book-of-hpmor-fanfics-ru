@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 123,
-  readableChapterCount: 123,
+  translatedSegmentCount: 124,
+  readableChapterCount: 124,
   readableBookCount: 26,
 } as const;
 
@@ -323,9 +323,9 @@ export const books: BookMeta[] = [
     "title": "Материал для Тёмного Лорда",
     "originalTitle": "Dark Lord Material",
     "order": 170,
-    "readableChapterCount": 6,
+    "readableChapterCount": 7,
     "totalChapterCount": 9,
-    "translatedSegmentCount": 6
+    "translatedSegmentCount": 7
   },
   {
     "id": "story-27",
@@ -2452,6 +2452,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 6: Отработка",
     "originalTitle": "Chapter 6: Detention"
+  },
+  {
+    "bookId": "story-26",
+    "bookSlug": "dark-lord-material",
+    "slug": "seg-0178",
+    "href": "/books/dark-lord-material/chapters/seg-0178",
+    "order": 178,
+    "orderWithinBook": 7,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 7: Поднимая пыль",
+    "originalTitle": "Chapter 7: Kicking up Dust"
   }
 ] as ChapterMeta[];
 
@@ -2579,4 +2590,5 @@ export const chapterModules = {
   "seg-0175": () => import("@/content/chapters/seg-0175.mdx"),
   "seg-0176": () => import("@/content/chapters/seg-0176.mdx"),
   "seg-0177": () => import("@/content/chapters/seg-0177.mdx"),
+  "seg-0178": () => import("@/content/chapters/seg-0178.mdx"),
 } as const;
