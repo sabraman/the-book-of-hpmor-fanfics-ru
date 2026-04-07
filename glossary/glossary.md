@@ -48,6 +48,7 @@ across multiple segments.
 | Educational | Поучительно | Project / story-25 | One-chapter Draco point-of-view epilogue to `Harry's Game`; keep the title terse and let it echo the final ironic line. |
 | Dark Lord Material | Материал для Тёмного Лорда | Project / story-26 | Keep the idiomatic `X material` sense as `material for`, pointing to Harry's apparent suitability for future dark-lord status without turning the title into a literal substance joke. |
 | Following The Phoenix | Следуя за фениксом | Project / story-27 | Story title; keep the phrasing metaphorical rather than ornithological, matching the later author note that the title refers to doing the brave / right / foolish thing rather than literally trailing a phoenix. |
+| Taboo Tradeoffs | Запретные компромиссы | Project / story-27 | Shared chapter-title stem for Chapters 81-82; keep `taboo` in the ethical / socially forbidden sense, not as a reference to the Ministry tracking curse. |
 | Questions | Вопросы | Project / story-26 | Chapter 4 title; keep it terse and neutral, letting the surrounding narration supply the mounting tension. |
 | Speculating | Предположения | Project / story-26 | Chapter 5 title; prefer a neutral heading about inference and theory-building over a fussy literalism. |
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
