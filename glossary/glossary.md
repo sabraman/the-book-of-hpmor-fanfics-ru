@@ -791,6 +791,8 @@ itself over literal back-translation of the English wording.
 | --- | --- | --- | --- |
 | Seventh Horcrux | Седьмой крестраж | Project | Story title for fanfic 01. |
 | Somnium | Somnium | Project / anthology usage | Sleep-inducing knockout spell; keep the incantation in Latin rather than inventing a Russian calque. |
+| Dragon Poker | драконий покер | Project / usage | Wizarding card game name; keep lowercase in running text unless a stylized in-universe title requires capitalization. |
+| Glowpox | светооспа | Project / story-27 | Magical childhood illness; keep the disease name compact and idiomatic rather than expanding it into a descriptive phrase. |
 | surfaces | поверхности | Project / story-19 | Quirrell's introspective term for the outer structures of consciousness encountered first in legilimency; lowercase in running text. |
 
 ## Usage Rules
