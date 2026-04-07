@@ -459,6 +459,8 @@ across multiple segments.
 | Fully Justified Notepad | Блокнот с полным обоснованием | Project / Squibgineering | Study aid artifact; in context `justified` reads as academically / logically justified, not typographically aligned. |
 | Magical Modesto | Магический Модесто | Project / Squibgineering | Magical-side district / city label used in this story cycle. |
 | Darius Ahlee | Дариус Али | Project / Tom Riddle Conflict | Dark wizard whose protective amulet Tom targets in this story cycle. |
+| Frederick Douglass | Фредерик Дуглас | Project / story-24 | Historical abolitionist author referenced through Dobby's reading; use the established Russian surname form without doubling the final consonant. |
+| Life and Times of Frederick Douglass | Жизнь и времена Фредерика Дугласа | Project / story-24 | Book title named in Chapter 21; keep it as a natural Russian nonfiction title without extra stylization in the glossary. |
 
 ## Exam Grades
 
