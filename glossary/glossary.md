@@ -48,6 +48,7 @@ across multiple segments.
 | Educational | Поучительно | Project / story-25 | One-chapter Draco point-of-view epilogue to `Harry's Game`; keep the title terse and let it echo the final ironic line. |
 | Dark Lord Material | Материал для Тёмного Лорда | Project / story-26 | Keep the idiomatic `X material` sense as `material for`, pointing to Harry's apparent suitability for future dark-lord status without turning the title into a literal substance joke. |
 | Questions | Вопросы | Project / story-26 | Chapter 4 title; keep it terse and neutral, letting the surrounding narration supply the mounting tension. |
+| Speculating | Предположения | Project / story-26 | Chapter 5 title; prefer a neutral heading about inference and theory-building over a fussy literalism. |
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
 | Combat Commentators | Боевые комментаторы | Project / story-24 | Shared chapter-title phrase for Chapters 3-4; keep the wording brisk and a little sports-broadcast-like. |
 | Asimov's One and Half Laws | Полтора закона Азимова | Project / story-24 | Recurring chapter-title phrase for Chapters 11-12; keep the robotics echo compact and idiomatic, despite the source's ungrammatical `one and half`. |
