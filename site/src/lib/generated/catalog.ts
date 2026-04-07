@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 126,
-  readableChapterCount: 126,
-  readableBookCount: 26,
+  translatedSegmentCount: 127,
+  readableChapterCount: 127,
+  readableBookCount: 27,
 } as const;
 
 export const books: BookMeta[] = [
@@ -331,12 +331,12 @@ export const books: BookMeta[] = [
     "id": "story-27",
     "slug": "following-the-phoenix",
     "href": "/books/following-the-phoenix",
-    "title": "Following the Phoenix",
+    "title": "Следуя за фениксом",
     "originalTitle": "Following the Phoenix",
     "order": 181,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 37,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-28",
@@ -2485,6 +2485,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 9: Последствия",
     "originalTitle": "Chapter 9: Repercussions"
+  },
+  {
+    "bookId": "story-27",
+    "bookSlug": "following-the-phoenix",
+    "slug": "seg-0183",
+    "href": "/books/following-the-phoenix/chapters/seg-0183",
+    "order": 183,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 81: Запретные компромиссы, часть 3",
+    "originalTitle": "Chapter 81: Taboo Tradeoffs, Pt 3"
   }
 ] as ChapterMeta[];
 
@@ -2615,4 +2626,5 @@ export const chapterModules = {
   "seg-0178": () => import("@/content/chapters/seg-0178.mdx"),
   "seg-0179": () => import("@/content/chapters/seg-0179.mdx"),
   "seg-0180": () => import("@/content/chapters/seg-0180.mdx"),
+  "seg-0183": () => import("@/content/chapters/seg-0183.mdx"),
 } as const;
