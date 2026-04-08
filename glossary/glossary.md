@@ -281,6 +281,7 @@ across multiple segments.
 | Platform Nine and Three-Quarters | платформа девять и три четверти | Potter's Army / ROSMEN | Canon platform name; keep the numeral form `Платформа 9 ¾` on signage when the source presents it visually. |
 | Sorting Hat | Распределяющая Шляпа | Potter's Army / ROSMEN | Capitalize as iconic magical object. |
 | Great Hall | Большой зал | Potter's Army / ROSMEN | School location. |
+| Gobstones | плюй-камни | Potter's Army / ROSMEN / usage | Wizarding marble game; keep the lower-case form in running text. |
 | Hogwarts Express | Хогвартс-экспресс | Potter's Army / ROSMEN | Canon train name. |
 | Knight Bus | Ночной Рыцарь | Potter's Army / ROSMEN | Canon wizarding transport. |
 | the Burrow | Нора | Potter's Army / ROSMEN | Weasley family home. |
@@ -338,6 +339,7 @@ across multiple segments.
 | Madam Malkin | мадам Малкин | Potter's Army / ROSMEN | Use lower-case honorific in running text unless display styling requires capitalization. |
 | Grimmauld Place | площадь Гриммо | Potter's Army / ROSMEN | Black family home location. |
 | Wool's Orphanage | приют Вула | Potter's Army / ROSMEN | London orphanage where Tom Riddle grew up. |
+| Fizzing Whizzbees | шипучие шмельки | Potter's Army / canon usage | Wizarding sweet; when the source uses the singular office-password form `Fizzing Whizzbee`, translate it as `шипучий шмелёк`. |
 | St. Mungo's | Святой Мунго | Potter's Army / ROSMEN / usage | Wizarding hospital; use full phrases like `больница Святого Мунго` where clarity matters, and the idiomatic locative `в Святом Мунго` in running text. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
 | dragon heartstring | сердечная жила дракона | Potter's Army / ROSMEN | Standard wand-core term. |
