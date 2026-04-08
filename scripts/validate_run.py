@@ -42,11 +42,11 @@ def compressed_length(text: str) -> int:
     return len(compact)
 
 
-def detect_suspected_truncations(
+def find_suspected_truncations(
     config: dict[str, object], runtime: dict[str, object]
-) -> list[str]:
+) -> list[dict[str, object]]:
     allowlist = set(config.get("truncation_allowlist", []))
-    errors: list[str] = []
+    findings: list[dict[str, object]] = []
 
     for item in runtime["statuses"]:
         if item["status"] != "translated":
@@ -68,12 +68,31 @@ def detect_suspected_truncations(
         char_ratio = compressed_length(output_text) / compressed_length(source_text)
 
         if block_ratio < 0.75 and char_ratio < 0.8:
-            errors.append(
-                f"{segment['id']}: output may be truncated "
-                f"({len(output_blocks)}/{len(source_blocks)} blocks, {char_ratio:.0%} size ratio). "
-                "If intentional, add the segment id to truncation_allowlist in books/various-muggles/config.json."
+            findings.append(
+                {
+                    "segment_id": segment["id"],
+                    "source_file": segment["source_file"],
+                    "output_file": segment["output_file"],
+                    "source_blocks": len(source_blocks),
+                    "output_blocks": len(output_blocks),
+                    "block_ratio": block_ratio,
+                    "char_ratio": char_ratio,
+                }
             )
 
+    return findings
+
+
+def detect_suspected_truncations(
+    config: dict[str, object], runtime: dict[str, object]
+) -> list[str]:
+    errors: list[str] = []
+    for finding in find_suspected_truncations(config, runtime):
+        errors.append(
+            f"{finding['segment_id']}: output may be truncated "
+            f"({finding['output_blocks']}/{finding['source_blocks']} blocks, {finding['char_ratio']:.0%} size ratio). "
+            "If intentional, add the segment id to truncation_allowlist in books/various-muggles/config.json."
+        )
     return errors
 
 

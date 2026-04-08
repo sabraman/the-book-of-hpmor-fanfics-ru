@@ -24,6 +24,9 @@ This repository is a markdown-first Russian translation workspace for *The Book 
 ## Automation Rules
 
 - When running in a detached worktree, do not manually choose the next segment from `scripts/pending.py`.
+- Before any lease work, run `python3 scripts/automation_preflight.py --book-id various-muggles --json`.
+- If preflight returns `repair-truncated`, do not claim a new segment. Repair that already-translated segment first, validate in the worktree, and publish it locally through `scripts/publish_from_worktree.py --skip-push`.
+- If preflight returns `blocker`, stop and report the exact structural error instead of claiming a new segment.
 - Always inspect lease state first with `python3 scripts/automation_claim.py show --book-id various-muggles --automation-id hourly-segment --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru --json`.
 - Only call `python3 scripts/automation_claim.py claim --book-id various-muggles --automation-id hourly-segment --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru --worktree-root "$PWD" --json` when `show` reports `no-active-claim`.
 - The claim helper excludes non-reader packaging/frontmatter pages such as `cover.xhtml`, `titlepage.xhtml`, `toc.xhtml`, and `preface.xhtml`.
