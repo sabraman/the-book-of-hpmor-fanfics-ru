@@ -344,6 +344,7 @@ across multiple segments.
 | Vanishing Cabinet | Исчезательный шкаф | Potter's Army / ROSMEN | Cabinet paired for magical transport. |
 | Patronus | Патронус | Potter's Army / ROSMEN | Capitalize as spell/conjuration name. |
 | True Patronus Charm | Настоящие чары Патронуса | Project / HPMOR fanfic usage | Established house style for the stronger anti-Dementor variant; keep the phrase pluralized as a spell name. |
+| guardian Charm | чары Хранителя | Project / story-27 | Parseltongue-facing label for Harry's anti-Dementor guardian spell in Quirrell's plan; capitalize `Хранителя` when treated as a spell name. |
 | boggart | боггарт | Potter's Army / ROSMEN | Magical creature. |
 | Grim | Грим | Potter's Army / ROSMEN | Omen name in Divination context. |
 | Wrackspurt | мозгошмыг | Potter's Army / ROSMEN | Luna's creature term; plural usually follows the same form in running text. |
