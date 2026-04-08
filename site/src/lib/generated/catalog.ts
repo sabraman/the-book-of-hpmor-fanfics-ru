@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 138,
-  readableChapterCount: 138,
+  translatedSegmentCount: 139,
+  readableChapterCount: 139,
   readableBookCount: 27,
 } as const;
 
@@ -334,9 +334,9 @@ export const books: BookMeta[] = [
     "title": "Следуя за фениксом",
     "originalTitle": "Following the Phoenix",
     "order": 181,
-    "readableChapterCount": 12,
+    "readableChapterCount": 13,
     "totalChapterCount": 37,
-    "translatedSegmentCount": 12
+    "translatedSegmentCount": 13
   },
   {
     "id": "story-28",
@@ -2617,6 +2617,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 92: Маленькие дети взрослеют, часть 1",
     "originalTitle": "Chapter 92: Little Children Grow Up, Pt 1"
+  },
+  {
+    "bookId": "story-27",
+    "bookSlug": "following-the-phoenix",
+    "slug": "seg-0195",
+    "href": "/books/following-the-phoenix/chapters/seg-0195",
+    "order": 195,
+    "orderWithinBook": 13,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 93: Маленькие дети взрослеют, часть 2",
+    "originalTitle": "Chapter 93: Little Children Grow Up, Pt2"
   }
 ] as ChapterMeta[];
 
@@ -2759,4 +2770,5 @@ export const chapterModules = {
   "seg-0192": () => import("@/content/chapters/seg-0192.mdx"),
   "seg-0193": () => import("@/content/chapters/seg-0193.mdx"),
   "seg-0194": () => import("@/content/chapters/seg-0194.mdx"),
+  "seg-0195": () => import("@/content/chapters/seg-0195.mdx"),
 } as const;
