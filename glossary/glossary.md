@@ -80,6 +80,7 @@ across multiple segments.
 | Barty Crouch, Jr. | Барти Крауч-младший | Potter's Army / ROSMEN | Canon form. |
 | Rita Skeeter | Рита Скитер | Potter's Army / ROSMEN | Canon form. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
+| Xare | Ксаре | Project / story-27 | Hermione Granger's phoenix in `Following the Phoenix`; use feminine agreement after Hermione names the bird a girl. |
 | Dedalus Diggle | Дедалус Дингл | Potter's Army / ROSMEN | Canon form; use `Дедалус`, when only the given name appears. |
 | Mary Poppins | Мэри Поппинс | Project / story-11 | Use the established franchise form; this story treats her as a real, cross-world figure. |
 | Helena Vela Boot | Хелена Вела Бут | Project / story-11 | The name Mary Poppins gives for herself on first introduction. |
@@ -244,6 +245,7 @@ across multiple segments.
 | Porskoff Ploy | финт Порскова | Potter's Army / ROSMEN | Classic quidditch passing feint. |
 | Hogwarts letter | письмо из Хогвартса | Potter's Army / usage | Phrase-level default. |
 | Horcrux | крестраж | Potter's Army / ROSMEN | Canon form. |
+| Spattergroit | спаттергройт | Project / canon usage | Magical infectious disease; keep as a direct transliteration in running text. |
 | Line of Merlin | Линия Мерлина | Project / HPMOR fanfic usage | Succession / artifact term; extend naturally to `Line of Merlin Unbroken` as `Непрерывная Линия Мерлина` when needed. |
 | Bayesian Conspiracy | Байесовский заговор | Project / HPMOR fanfic usage | Student planning circle around Harry and Draco; keep the phrase conspiratorial rather than academic and capitalize only when styled as a named group. |
 | Gaunt ring | Кольцо Марволо Мракса | Harry Potter Wiki RU / canon usage | Horcrux-bearing ring of Marvolo Gaunt. |
@@ -281,6 +283,7 @@ across multiple segments.
 | Platform Nine and Three-Quarters | платформа девять и три четверти | Potter's Army / ROSMEN | Canon platform name; keep the numeral form `Платформа 9 ¾` on signage when the source presents it visually. |
 | Sorting Hat | Распределяющая Шляпа | Potter's Army / ROSMEN | Capitalize as iconic magical object. |
 | Great Hall | Большой зал | Potter's Army / ROSMEN | School location. |
+| Gobstones | плюй-камни | Potter's Army / ROSMEN / usage | Wizarding marble game; keep the lower-case form in running text. |
 | Hogwarts Express | Хогвартс-экспресс | Potter's Army / ROSMEN | Canon train name. |
 | Knight Bus | Ночной Рыцарь | Potter's Army / ROSMEN | Canon wizarding transport. |
 | the Burrow | Нора | Potter's Army / ROSMEN | Weasley family home. |
@@ -338,6 +341,7 @@ across multiple segments.
 | Madam Malkin | мадам Малкин | Potter's Army / ROSMEN | Use lower-case honorific in running text unless display styling requires capitalization. |
 | Grimmauld Place | площадь Гриммо | Potter's Army / ROSMEN | Black family home location. |
 | Wool's Orphanage | приют Вула | Potter's Army / ROSMEN | London orphanage where Tom Riddle grew up. |
+| Fizzing Whizzbees | шипучие шмельки | Potter's Army / canon usage | Wizarding sweet; when the source uses the singular office-password form `Fizzing Whizzbee`, translate it as `шипучий шмелёк`. |
 | St. Mungo's | Святой Мунго | Potter's Army / ROSMEN / usage | Wizarding hospital; use full phrases like `больница Святого Мунго` where clarity matters, and the idiomatic locative `в Святом Мунго` in running text. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
 | dragon heartstring | сердечная жила дракона | Potter's Army / ROSMEN | Standard wand-core term. |

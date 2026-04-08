@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 141,
-  readableChapterCount: 141,
+  translatedSegmentCount: 144,
+  readableChapterCount: 144,
   readableBookCount: 27,
 } as const;
 
@@ -334,9 +334,9 @@ export const books: BookMeta[] = [
     "title": "Следуя за фениксом",
     "originalTitle": "Following the Phoenix",
     "order": 181,
-    "readableChapterCount": 15,
+    "readableChapterCount": 18,
     "totalChapterCount": 37,
-    "translatedSegmentCount": 15
+    "translatedSegmentCount": 18
   },
   {
     "id": "story-28",
@@ -2650,6 +2650,39 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 95: Nihil Supernum, часть 2",
     "originalTitle": "Chapter 95: Nihil Supernum, Pt 2"
+  },
+  {
+    "bookId": "story-27",
+    "bookSlug": "following-the-phoenix",
+    "slug": "seg-0198",
+    "href": "/books/following-the-phoenix/chapters/seg-0198",
+    "order": 198,
+    "orderWithinBook": 16,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 96: Nihil Supernum, часть 3",
+    "originalTitle": "Chapter 96: Nihil Supernum, Pt 3"
+  },
+  {
+    "bookId": "story-27",
+    "bookSlug": "following-the-phoenix",
+    "slug": "seg-0199",
+    "href": "/books/following-the-phoenix/chapters/seg-0199",
+    "order": 199,
+    "orderWithinBook": 17,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 97: Nihil Supernum, часть 4",
+    "originalTitle": "Chapter 97: Nihil Supernum, Pt 4"
+  },
+  {
+    "bookId": "story-27",
+    "bookSlug": "following-the-phoenix",
+    "slug": "seg-0200",
+    "href": "/books/following-the-phoenix/chapters/seg-0200",
+    "order": 200,
+    "orderWithinBook": 18,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 98: Nihil Supernum, часть 5 - Последствия",
+    "originalTitle": "Chapter 98: Nihil Supernum, Pt 5 – Aftermaths"
   }
 ] as ChapterMeta[];
 
@@ -2795,4 +2828,7 @@ export const chapterModules = {
   "seg-0195": () => import("@/content/chapters/seg-0195.mdx"),
   "seg-0196": () => import("@/content/chapters/seg-0196.mdx"),
   "seg-0197": () => import("@/content/chapters/seg-0197.mdx"),
+  "seg-0198": () => import("@/content/chapters/seg-0198.mdx"),
+  "seg-0199": () => import("@/content/chapters/seg-0199.mdx"),
+  "seg-0200": () => import("@/content/chapters/seg-0200.mdx"),
 } as const;
