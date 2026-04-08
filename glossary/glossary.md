@@ -51,6 +51,7 @@ across multiple segments.
 | Perspective | Перспектива | Project / story-27 | Shared chapter-title stem for Chapters 87-88; keep it as a reflective framing word about mental distance and planning, not as optics jargon. |
 | Taboo Tradeoffs | Запретные компромиссы | Project / story-27 | Shared chapter-title stem for Chapters 81-82; keep `taboo` in the ethical / socially forbidden sense, not as a reference to the Ministry tracking curse. |
 | Nihil Supernum | Nihil Supernum | Project / story-27 | Shared chapter-title stem for Chapters 94-98; keep the Latin unchanged in headings to preserve its motto-like ambiguity, and only gloss it in running text when the story itself explicitly interprets it. |
+| The Muggle War | Война с маглами | Project / story-27 | Shared chapter-title stem for Chapters 102-104; make the conflict explicitly about war against / over Muggles rather than sounding like a war fought by Muggles alone. |
 | Questions | Вопросы | Project / story-26 | Chapter 4 title; keep it terse and neutral, letting the surrounding narration supply the mounting tension. |
 | Speculating | Предположения | Project / story-26 | Chapter 5 title; prefer a neutral heading about inference and theory-building over a fussy literalism. |
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
@@ -81,6 +82,8 @@ across multiple segments.
 | Rita Skeeter | Рита Скитер | Potter's Army / ROSMEN | Canon form. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
 | Xare | Ксаре | Project / story-27 | Hermione Granger's phoenix in `Following the Phoenix`; use feminine agreement after Hermione names the bird a girl. |
+| Sarissa Johnson | Сарисса Джонсон | Project / story-27 | Witch married to Thomas Johnson in `Following the Phoenix`; keep the given name as a direct transliteration with double `с`. |
+| Thomas Johnson | Томас Джонсон | Project / story-27 | Muggle husband of Sarissa Johnson and British Ministry of Defence official in `Following the Phoenix`. |
 | Dedalus Diggle | Дедалус Дингл | Potter's Army / ROSMEN | Canon form; use `Дедалус`, when only the given name appears. |
 | Mary Poppins | Мэри Поппинс | Project / story-11 | Use the established franchise form; this story treats her as a real, cross-world figure. |
 | Helena Vela Boot | Хелена Вела Бут | Project / story-11 | The name Mary Poppins gives for herself on first introduction. |
