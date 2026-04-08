@@ -365,6 +365,7 @@ across multiple segments.
 | Privet Drive | Тисовая улица | Potter's Army / ROSMEN | Dursley address. |
 | Forbidden Forest | Запретный лес | Potter's Army / ROSMEN | Canon place name. |
 | Enchanted Forest | Зачарованный лес | Project / Blue Tigers | Distinct story-specific forest name; do not normalize to `Запретный лес`. |
+| unplottable | ненаносимый на карту | Potter's Army / canon usage | Adjectival form for places hidden from maps by the `Заклятие ненаносимости`; keep the wording explicit in dialogue. |
 | Portkey | портключ | Potter's Army / ROSMEN | Canon transport object. |
 | werewolf | оборотень | Potter's Army / ROSMEN | Creature type. |
 | werewolves | оборотни | Potter's Army / ROSMEN | Plural form. |
