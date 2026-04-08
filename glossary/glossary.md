@@ -175,6 +175,7 @@ across multiple segments.
 | Yermy Wibble | Ерми Уиббл | Project / HPMOR backstory | Veteran journalist murdered by Death Eaters; keep the surname consistent in later historical references. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
 | Amelia Bones | Амелия Боунс | Potter's Army / ROSMEN | Head of the Department of Magical Law Enforcement. |
+| Rufus Scrimgeour | Руфус Скримджер | Potter's Army / ROSMEN | Ministry official who later serves as Minister for Magic; keep the canon surname form in both office-holder and action-scene mentions. |
 | Deputy Headmistress | заместительница директора | Project / usage | Use for McGonagall's Hogwarts title in this anthology; prefer the full phrase over colloquial shortenings. |
 | Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
 | Orney | Орни | Project / Tom Riddle Conflict | House-elf assigned to a Slytherin family before becoming a Hogwarts employee. |
