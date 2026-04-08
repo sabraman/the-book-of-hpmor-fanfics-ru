@@ -160,6 +160,7 @@ across multiple segments.
 | Chang | Чанг | Potter's Army / ROSMEN / project usage | Surname-only student reference in Tom's battle-magic practice. |
 | Thomas Chang | Томас Чанг | Project / Tom Riddle Conflict | Capable Hogwarts student from China and one of Tom's battle-magic rivals. |
 | David Monroe | Дэвид Монро | Project / Tom Riddle Conflict | Confident Hogwarts student and Tom's rival. |
+| Monroe Act | Акт Монро | Project / story-27 | Emergency wartime law that authorized Aurors to use Unforgivable Curses against Death Eaters; keep the title concise and legislative. |
 | Terence Keen | Теренс Кин | Project / Tom Riddle Conflict | Slytherin student who spreads Bellatrix's dark-ritual rumor in this story cycle. |
 | Galatea Merrythought | Галатея Мерритот | Potter's Army / canon usage / project transliteration | Defense professor in Tom's school years. |
 | Merrythought | Мерритот | Potter's Army / canon usage / project transliteration | Use the surname form for Professor Merrythought. |
@@ -373,6 +374,7 @@ across multiple segments.
 | Erasure | Стирание | Project / story-10 | Capitalized quasi-technical term for a person being removed from Time while some memory-traces remain. |
 | Department of Magical Law Enforcement | Департамент магического правопорядка | Potter's Army / ROSMEN | Ministry law-enforcement department; abbreviate only when natural in Russian context. |
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
+| Hall of Prophecy | Зал Пророчеств | Potter's Army / ROSMEN / project usage | Room within the Department of Mysteries where recorded prophecies are stored and heard by those named in them. |
 | Unspeakables | невыразимцы | Potter's Army / ROSMEN | Canon name for Department of Mysteries personnel. |
 | Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
 | Phoenix Price room | комната Цены Феникса | Project / HPMOR fanfic usage | Dumbledore's memorial room of losses and relics; keep the phrase capitalized as a named place despite the source's slightly odd wording. |
