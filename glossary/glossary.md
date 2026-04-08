@@ -266,6 +266,8 @@ across multiple segments.
 | Avada Kedavra | Авада Кедавра | Potter's Army / ROSMEN | Canon incantation. |
 | Lumos Maxima | Люмос Максима | Potter's Army / canon usage | Amplified light spell; keep the Latin incantation transliterated in running text. |
 | Killing Curse | Убивающее заклятие | Potter's Army / ROSMEN | Canon description of `Avada Kedavra`. |
+| Fidelius Charm | чары Фиделиуса | Potter's Army / canon usage | Use the established borrowed spell name rather than inventing a descriptive calque; singular/plural agreement follows Russian sentence flow. |
+| secret-keeper | хранитель тайны | Potter's Army / canon usage | Fidelius role term; capitalize only when a story styles it as a formal title. |
 | Philosopher's Stone | Философский камень | Potter's Army / ROSMEN | Canon artifact. |
 | Mirror of Erised | Зеркало Еиналеж | Potter's Army / ROSMEN | Magical mirror revealing deepest desire. |
 | Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
@@ -393,6 +395,7 @@ across multiple segments.
 | Ravenclaw common room | гостиная Когтеврана | Potter's Army / ROSMEN | House common room location. |
 | Pensieve | омут памяти | Potter's Army / ROSMEN | Dumbledore's memory basin. |
 | Veritaserum | Веритасерум | Potter's Army / ROSMEN | Truth serum. |
+| priori incantatem | priori incantatem | Potter's Army / canon usage | Keep the Latin incantation in italics when characters quote or cite the spell by name. |
 | Occlumency | окклюменция | Potter's Army / ROSMEN | Mental defensive discipline. |
 | Occlumens | окклюмент | Potter's Army / ROSMEN / usage | Wizard skilled in Occlumency. |
 | Legilimency | легилименция | Potter's Army / ROSMEN | Mind-reading magical discipline. |
