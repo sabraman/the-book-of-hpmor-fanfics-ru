@@ -56,6 +56,7 @@ across multiple segments.
 | The Man Who Lived | Человек, который выжил | Project / story-27 | Chapter 116 title; echo the canon `Boy-Who-Lived` cadence without replacing it with the fixed epithet `Мальчик-Который-Выжил`. |
 | Questions | Вопросы | Project / story-26 | Chapter 4 title; keep it terse and neutral, letting the surrounding narration supply the mounting tension. |
 | Speculating | Предположения | Project / story-26 | Chapter 5 title; prefer a neutral heading about inference and theory-building over a fussy literalism. |
+| A Black Trial | Суд над Блэком | Project / story-28 | Chapter 4 title; keep the surname explicit so the heading reads like a legal proceeding while preserving the Black-family ambiguity. |
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
 | Combat Commentators | Боевые комментаторы | Project / story-24 | Shared chapter-title phrase for Chapters 3-4; keep the wording brisk and a little sports-broadcast-like. |
 | Asimov's One and Half Laws | Полтора закона Азимова | Project / story-24 | Recurring chapter-title phrase for Chapters 11-12; keep the robotics echo compact and idiomatic, despite the source's ungrammatical `one and half`. |
@@ -80,6 +81,7 @@ across multiple segments.
 | Justin Finch-Fletchley | Джастин Финч-Флетчли | Potter's Army / ROSMEN | Canon form. |
 | Colin Creevey | Колин Криви | Potter's Army / ROSMEN | Canon form. |
 | Sirius Black | Сириус Блэк | Potter's Army / ROSMEN | Canon form. |
+| Regulus Black | Регулус Блэк | Potter's Army / ROSMEN / usage | Canon younger Black brother; use the surname form consistently in the postwar-trial scenes of `Following the Phoenix - Flashes`. |
 | Barty Crouch, Jr. | Барти Крауч-младший | Potter's Army / ROSMEN | Canon form. |
 | Barnok | Барнок | Project / story-27 | Ethiopian phoenix owner helping the anti-Dementor response and the Windsor rescue; keep the short name as a direct transliteration. |
 | Rita Skeeter | Рита Скитер | Potter's Army / ROSMEN | Canon form. |
