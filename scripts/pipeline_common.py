@@ -97,12 +97,12 @@ def clean_markdown(content: str) -> str:
     content = re.sub(r"\\\n", "\n", content)
     content = re.sub(
         r"(?m)(^|[^A-Za-z0-9/])((?:s/\d+/\d+(?:/[A-Za-z0-9._-]+/?)?))(?![A-Za-z0-9/_-])",
-        lambda match: f"{match.group(1)}<https://www.fanfiction.net/{match.group(2)}>",
+        lambda match: f"{match.group(1)}[{match.group(2)}](https://www.fanfiction.net/{match.group(2)})",
         content,
     )
     content = re.sub(
         r"(?m)^(https?://\S+)$",
-        r"<\1>",
+        r"[\1](\1)",
         content,
     )
     content = re.sub(r"\n{3,}", "\n\n", content)

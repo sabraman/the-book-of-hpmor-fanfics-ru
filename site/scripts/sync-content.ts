@@ -158,9 +158,10 @@ function rewriteLinks(markdown: string, readableTargets: Map<string, ReadableTar
   result = result.replace(/src="assets\/([^"]+)"/g, 'src="/book-assets/$1"');
   result = result.replace(
     /(^|[^A-Za-z0-9/])((?:s\/\d+\/\d+(?:\/[A-Za-z0-9._-]+\/?)?))(?![A-Za-z0-9/_-])/gm,
-    (_match, prefix: string, target: string) => `${prefix}<https://www.fanfiction.net/${target}>`,
+    (_match, prefix: string, target: string) =>
+      `${prefix}[${target}](https://www.fanfiction.net/${target})`,
   );
-  result = result.replace(/^(https?:\/\/\S+)$/gm, "<$1>");
+  result = result.replace(/^(https?:\/\/\S+)$/gm, "[$1]($1)");
 
   return result;
 }
