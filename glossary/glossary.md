@@ -456,6 +456,7 @@ across multiple segments.
 | Floo Network | сеть Летучего пороха | Potter's Army / ROSMEN / usage | Connected travel-and-communication fireplace network. |
 | Sonorous | Сонорус | Potter's Army / ROSMEN | Amplifying charm. |
 | Unbreakable Vow | Непреложный Обет | Potter's Army / ROSMEN | Binding magical vow. |
+| House Vow | Обет Дому | Project / story-27 | Service-bound oath to a Noble House; use this fixed capitalized term for the temporary-sacrifice alternative to an Unbreakable Vow. |
 | Amulet of Asshia | амулет Ашиа | Project / Tom Riddle Conflict | Ancient protective amulet that absorbs incoming magic at the cost of the wearer's speed and power. |
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
@@ -469,6 +470,7 @@ across multiple segments.
 | Volde-Hat | Вольде-Шляпа | Project | Comic nickname for the Voldemort-soul-in-the-Sorting-Hat situation. |
 | D.A. | О.Д. | Potter's Army / ROSMEN | `Отряд Дамблдора`. |
 | M.o.M. | М.М. | Potter's Army / ROSMEN | `Министерство Магии`. |
+| Trace | След | Project / story-27 | Magical monitoring ward for underage or regulated spellcasting; use compounds like `личный След` and `территориальный След` in the policy discussion of `Following the Phoenix`. |
 | Order of the Phoenix | Орден Феникса | Potter's Army / ROSMEN | Anti-Voldemort organization. |
 | Wizengamot | Визенгамот | Potter's Army / ROSMEN | Use council name directly unless a specific abbreviated source demands otherwise. |
 | Chief Warlock | Верховный чародей | Potter's Army / ROSMEN / usage | Title of the presiding officer of the Wizengamot; pair with `Визенгамота` when the institution is named explicitly. |
