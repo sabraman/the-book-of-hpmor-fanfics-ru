@@ -483,6 +483,8 @@ across multiple segments.
 | Order of the Phoenix | Орден Феникса | Potter's Army / ROSMEN | Anti-Voldemort organization. |
 | Wizengamot | Визенгамот | Potter's Army / ROSMEN | Use council name directly unless a specific abbreviated source demands otherwise. |
 | Chief Warlock | Верховный чародей | Potter's Army / ROSMEN / usage | Title of the presiding officer of the Wizengamot; pair with `Визенгамота` when the institution is named explicitly. |
+| Resurrection Stone | Воскрешающий камень | Potter's Army / ROSMEN / usage | One of the Deathly Hallows; capitalize when referring to the unique artifact rather than a generic descriptive phrase. |
+| Cadmus Peverell | Кадмус Певерелл | Potter's Army / ROSMEN / usage | The second Peverell brother associated with the Resurrection Stone in legend. |
 | life force | жизненная сила | Project / HPMOR fanfic usage | Default rendering for the quasi-magical vitality pool discussed in healing and immortality contexts. |
 | True Patronus Charm | чары Истинного Патронуса | Project / HPMOR fanfic usage | Use this fixed phrase for Harry's life-force-powered Patronus variant; the shorter `Истинный Патронус` remains fine in dialogue where the spell itself is obvious. |
 | blood debt | кровный долг | Project / story-27 | Fixed legal-magical phrase in the Granger/Malfoy case; avoid literal rewrites around "owed blood". |
