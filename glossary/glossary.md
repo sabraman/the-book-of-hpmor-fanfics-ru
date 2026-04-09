@@ -537,6 +537,7 @@ raw Latin spelling where we have already normalized them in this project.
 | Aguamenti | Агуаменти | Harry Potter Wiki RU / canon usage | Water-conjuring charm incantation. |
 | Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Water-jet charm incantation. |
 | Bubble-Head Charm | Пузыреголовое заклинание | Harry Potter Wiki RU / canon usage | Use for the standard underwater air-supply spell. |
+| Catena Magnus | Катена Магнус | Project / story-27 | Chain-binding incantation used for emergency group extraction; keep the Latin-form spell name in Russian script. |
 | Colovaria | Коловария | Harry Potter Wiki RU / canon usage | Color-change charm incantation. |
 | Confundus Charm | Конфундус | Harry Potter Wiki RU / canon usage | Confunding charm; keep `Конфундус` in dialogue and direct references. |
 | Confringo | Конфринго | Harry Potter Wiki RU / canon usage | Blasting curse incantation. |
