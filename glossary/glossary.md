@@ -57,6 +57,7 @@ across multiple segments.
 | Questions | Вопросы | Project / story-26 | Chapter 4 title; keep it terse and neutral, letting the surrounding narration supply the mounting tension. |
 | Speculating | Предположения | Project / story-26 | Chapter 5 title; prefer a neutral heading about inference and theory-building over a fussy literalism. |
 | A Black Trial | Суд над Блэком | Project / story-28 | Chapter 4 title; keep the surname explicit so the heading reads like a legal proceeding while preserving the Black-family ambiguity. |
+| Transfiguring Energy | Энергия трансфигурации | Project / story-28 | Chapter 5 title; frame the heading around energy extracted via transfiguration, not around the act of magically `transfiguring` energy itself. |
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
 | Combat Commentators | Боевые комментаторы | Project / story-24 | Shared chapter-title phrase for Chapters 3-4; keep the wording brisk and a little sports-broadcast-like. |
 | Asimov's One and Half Laws | Полтора закона Азимова | Project / story-24 | Recurring chapter-title phrase for Chapters 11-12; keep the robotics echo compact and idiomatic, despite the source's ungrammatical `one and half`. |
