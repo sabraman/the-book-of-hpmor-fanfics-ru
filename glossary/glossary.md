@@ -467,6 +467,7 @@ across multiple segments.
 | Seer's Hex | проклятие провидца | Project / story-10 | Variant Confundus effect that convinces the victim they are seeing the future. |
 | Supersensory Charm | чары сверхчувствительности | Project / story-10 | Sensory-boosting charm that dramatically sharpens or broadens one sense. |
 | Conditional Obscuration | условное сокрытие | Project / story-10 | Magical legal concealment around time-travel law; keep lowercase in running text. |
+| Sleekeazy's Hair Potion | зелье «Простоблеск» | Potter's Army / ROSMEN | Canon hair-smoothing potion; keep the branded product feel with Russian guillemets in running text. |
 | Ebublio | Эбублио | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
 | Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Keep the incantation in Russian script when the scene names the spell directly. |
 | Volde-Hat | Вольде-Шляпа | Project | Comic nickname for the Voldemort-soul-in-the-Sorting-Hat situation. |
