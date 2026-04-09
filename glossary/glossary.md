@@ -52,6 +52,7 @@ across multiple segments.
 | Taboo Tradeoffs | Запретные компромиссы | Project / story-27 | Shared chapter-title stem for Chapters 81-82; keep `taboo` in the ethical / socially forbidden sense, not as a reference to the Ministry tracking curse. |
 | Nihil Supernum | Nihil Supernum | Project / story-27 | Shared chapter-title stem for Chapters 94-98; keep the Latin unchanged in headings to preserve its motto-like ambiguity, and only gloss it in running text when the story itself explicitly interprets it. |
 | The Muggle War | Война с маглами | Project / story-27 | Shared chapter-title stem for Chapters 102-104; make the conflict explicitly about war against / over Muggles rather than sounding like a war fought by Muggles alone. |
+| The Man Who Lived | Человек, который выжил | Project / story-27 | Chapter 116 title; echo the canon `Boy-Who-Lived` cadence without replacing it with the fixed epithet `Мальчик-Который-Выжил`. |
 | Questions | Вопросы | Project / story-26 | Chapter 4 title; keep it terse and neutral, letting the surrounding narration supply the mounting tension. |
 | Speculating | Предположения | Project / story-26 | Chapter 5 title; prefer a neutral heading about inference and theory-building over a fussy literalism. |
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
