@@ -79,6 +79,7 @@ across multiple segments.
 | Colin Creevey | Колин Криви | Potter's Army / ROSMEN | Canon form. |
 | Sirius Black | Сириус Блэк | Potter's Army / ROSMEN | Canon form. |
 | Barty Crouch, Jr. | Барти Крауч-младший | Potter's Army / ROSMEN | Canon form. |
+| Barnok | Барнок | Project / story-27 | Ethiopian phoenix owner helping the anti-Dementor response and the Windsor rescue; keep the short name as a direct transliteration. |
 | Rita Skeeter | Рита Скитер | Potter's Army / ROSMEN | Canon form. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
 | Xare | Ксаре | Project / story-27 | Hermione Granger's phoenix in `Following the Phoenix`; use feminine agreement after Hermione names the bird a girl. |
@@ -180,6 +181,7 @@ across multiple segments.
 | Groleo | Гролео | Project / Tom Riddle Conflict | Reclusive curio dealer whose hidden book cellar Tom visits in this story cycle. |
 | Ronell Manailur | Ронелл Манайлур | Project / Tom Riddle Conflict | Historical artificer associated with the Amulet of Asshia. |
 | Yermy Wibble | Ерми Уиббл | Project / HPMOR backstory | Veteran journalist murdered by Death Eaters; keep the surname consistent in later historical references. |
+| Komodo | Комодо | Project / story-27 | Auror surname / callsign in the Windsor crisis arc; keep the codename-like form as a simple transliteration. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
 | Amelia Bones | Амелия Боунс | Potter's Army / ROSMEN | Head of the Department of Magical Law Enforcement. |
 | Rufus Scrimgeour | Руфус Скримджер | Potter's Army / ROSMEN | Ministry official who later serves as Minister for Magic; keep the canon surname form in both office-holder and action-scene mentions. |
@@ -213,6 +215,7 @@ across multiple segments.
 | Ollivander | Олливандер | Potter's Army / ROSMEN | Canon form. |
 | Dobby | Добби | Potter's Army / ROSMEN | House-elf name. |
 | Argus Filch | Аргус Филч | Potter's Army / ROSMEN | Canon form. |
+| Lesath Lestrange | Лесат Лестрейндж | Project / recurring anthology usage | Bellatrix Black's son in this continuity; keep the given name in the short `Лесат` form and the canon family name. |
 | Cuthbert Binns | Катберт Биннс | Potter's Army / ROSMEN | Hogwarts ghost History of Magic professor. |
 | Bloody Baron | Кровавый Барон | Potter's Army / ROSMEN | Slytherin house ghost. |
 | Grey Lady | Серая Дама | Potter's Army / ROSMEN | Ravenclaw house ghost. |
