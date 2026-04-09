@@ -115,6 +115,7 @@ across multiple segments.
 | Bellatrix Black | Беллатриса Блэк | Project / Tom Riddle Conflict | Alternate-era Bellatrix before marriage in this story cycle. |
 | Blaise Zabini | Блейз Забини | Potter's Army / ROSMEN | Canon form. |
 | Minerva McGonagall | Минерва МакГонагалл | Potter's Army / ROSMEN | Do not use `Макгонагал` or mixed forms. |
+| Pius Thicknesse | Пий Толстоватый | Potter's Army / ROSMEN | Canon Ministry official; keep the official Russian surname form from established canon naming. |
 | Moira Leigh-Smith | Мойра Ли-Смит | Project / story-09 | Former transfiguration prodigy referenced in Hermione's safety subplot; keep the hyphenated surname. |
 | Severus Snape | Северус Снейп | Potter's Army / ROSMEN | Canon form. |
 | Quirinus Quirrell | Квиринус Квиррелл | Potter's Army / ROSMEN | Canon form. |
@@ -186,6 +187,7 @@ across multiple segments.
 | Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
 | Orney | Орни | Project / Tom Riddle Conflict | House-elf assigned to a Slytherin family before becoming a Hogwarts employee. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
+| Jaime Astorga | Хайме Асторга | Project / story-27 | Student surname in Hermione's Slytherin-reform subplot; keep the Spanish given name in the `Хайме` form. |
 | Perspicacia Foundry | Перспикация Фаундри | Project / Blue Tigers | Potions professor pressed into teaching rationality. |
 | Myrddin Wyllt | Мирддин Уилт | Project / Blue Tigers | Historical point-of-view character in this story cycle. |
 | Madam Chani | мадам Чани | Project / Tom Riddle Origins | Caretaker / guardian figure in Tom's childhood section. |
