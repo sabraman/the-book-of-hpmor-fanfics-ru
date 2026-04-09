@@ -109,6 +109,8 @@ across multiple segments.
 | Hannah Abbott | Ханна Аббот | Potter's Army / ROSMEN | Canon form. |
 | Tom Riddle | Том Реддл | Potter's Army / ROSMEN | Canon form for Voldemort before he took the name `Lord Voldemort`. |
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
+| Nicolas Flamel | Николас Фламель | Potter's Army / ROSMEN | Canon alchemist name; keep the given name in the `Николас`, not `Николя`, form already used in this project. |
+| Perenelle | Перенель | Project / canon historical usage | Use this compact form when the text refers to Nicolas Flamel's wife by given name only; later surnamed variants can be glossed separately if needed. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Bellatrix Black | Беллатриса Блэк | Project / Tom Riddle Conflict | Alternate-era Bellatrix before marriage in this story cycle. |
 | Blaise Zabini | Блейз Забини | Potter's Army / ROSMEN | Canon form. |
@@ -276,6 +278,9 @@ across multiple segments.
 | Fidelius Charm | чары Фиделиуса | Potter's Army / canon usage | Use the established borrowed spell name rather than inventing a descriptive calque; singular/plural agreement follows Russian sentence flow. |
 | secret-keeper | хранитель тайны | Potter's Army / canon usage | Fidelius role term; capitalize only when a story styles it as a formal title. |
 | Philosopher's Stone | Философский камень | Potter's Army / ROSMEN | Canon artifact. |
+| Elixir of Life | Эликсир Жизни | Potter's Army / ROSMEN / usage | Capitalize as the fixed alchemical product of the Philosopher's Stone. |
+| Elixir of Sorcery | Эликсир Волшебства | Project / story-27 | Companion elixir from the Philosopher's Stone that restores magical capacity; keep the abstract noun, not a pseudo-scientific calque. |
+| Elixir of Nobility | Эликсир Благородства | Project / story-27 | Third Philosopher's Stone product tied to noble metals; keep the elevated alchemical phrasing. |
 | Mirror of Erised | Зеркало Еиналеж | Potter's Army / ROSMEN | Magical mirror revealing deepest desire. |
 | Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
 | Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
@@ -467,6 +472,8 @@ across multiple segments.
 | Order of the Phoenix | Орден Феникса | Potter's Army / ROSMEN | Anti-Voldemort organization. |
 | Wizengamot | Визенгамот | Potter's Army / ROSMEN | Use council name directly unless a specific abbreviated source demands otherwise. |
 | Chief Warlock | Верховный чародей | Potter's Army / ROSMEN / usage | Title of the presiding officer of the Wizengamot; pair with `Визенгамота` when the institution is named explicitly. |
+| life force | жизненная сила | Project / HPMOR fanfic usage | Default rendering for the quasi-magical vitality pool discussed in healing and immortality contexts. |
+| True Patronus Charm | чары Истинного Патронуса | Project / HPMOR fanfic usage | Use this fixed phrase for Harry's life-force-powered Patronus variant; the shorter `Истинный Патронус` remains fine in dialogue where the spell itself is obvious. |
 | blood debt | кровный долг | Project / story-27 | Fixed legal-magical phrase in the Granger/Malfoy case; avoid literal rewrites around "owed blood". |
 | Dementor's Kiss | Поцелуй дементора | Potter's Army / ROSMEN / usage | Formal punishment delivered by a Dementor; capitalize `Поцелуй` when it is used as the sentence name rather than a generic description. |
 | wandless magic | беспалочковая магия | Project | Use unless a story requires a marked variant. |
