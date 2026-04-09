@@ -87,6 +87,7 @@ across multiple segments.
 | Thomas Johnson | Томас Джонсон | Project / story-27 | Muggle husband of Sarissa Johnson and British Ministry of Defence official in `Following the Phoenix`. |
 | Dedalus Diggle | Дедалус Дингл | Potter's Army / ROSMEN | Canon form; use `Дедалус`, when only the given name appears. |
 | Mary Poppins | Мэри Поппинс | Project / story-11 | Use the established franchise form; this story treats her as a real, cross-world figure. |
+| Marielle Dutant | Мариэль Дютан | Project / story-27 | Beauxbatons schoolgirl abducted for use of her Time-Turner during the Windsor crisis aftermath; keep the French surname in a compact transliteration. |
 | Helena Vela Boot | Хелена Вела Бут | Project / story-11 | The name Mary Poppins gives for herself on first introduction. |
 | Michael Evans-Verres | Майкл Эванс-Веррес | Project / story-12 | Adoptive father in the remix continuity; use this surname order in narration where the source does. |
 | Michael Verres-Evans | Майкл Веррес-Эванс | Project / story-12 | Preserve the reversed surname order where the source explicitly uses it, such as Harry's formal letter. |
@@ -103,6 +104,7 @@ across multiple segments.
 | George Weasley | Джордж Уизли | Potter's Army / ROSMEN | Canon form. |
 | Fleur Delacour | Флёр Делакур | Potter's Army / ROSMEN | Canon form. |
 | Firenze | Флоренц | Potter's Army / ROSMEN | Canon centaur name. |
+| Francis Bacon | Фрэнсис Бэкон | Project / story-27 | Use the standard historical form when Harry initially misidentifies Bacon's diary. |
 | Nymphadora Tonks | Нимфадора Тонкс | Potter's Army / ROSMEN | Canon full name. |
 | Tonks | Тонкс | Potter's Army / ROSMEN | Common short form in dialogue and narration. |
 | Padma Patil | Падма Патил | Potter's Army / ROSMEN | Canon form. |
@@ -202,6 +204,7 @@ across multiple segments.
 | Mrs. Cole | миссис Коул | Potter's Army / ROSMEN | Wool's Orphanage matron. |
 | Grindelwald | Грин-де-Вальд | Potter's Army / ROSMEN | Canon surname form. |
 | the greater good | общее благо | Project / HP usage | Use in Grindelwald / Dumbledore ideological contexts as a fixed slogan-like phrase; in running text prefer `ради общего блага` / `во имя общего блага` over grander calques. |
+| Roger Bacon | Роджер Бэкон | Project / story-27 | Medieval Muggleborn wizard whose diary points Harry toward a later clue; use the standard historical surname form. |
 | Lord Voldemort | Лорд Волдеморт | hpmor.ru / Project | Match current HPMOR Russian usage in this repo. |
 | General Chaos | Генерал Хаос | Project / HPMOR fanfic usage | Harry's title-like prank-war / battlefield persona; capitalize as an epithet. |
 | Sunshine General | Солнечный генерал | Project / story-26 | Hermione's melodramatic SPHEW leadership title; keep it capitalized when used as a nickname or quasi-rank. |
