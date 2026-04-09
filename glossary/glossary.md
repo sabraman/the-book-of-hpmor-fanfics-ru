@@ -106,6 +106,7 @@ across multiple segments.
 | Percival Weasley | Персиваль Уизли | Potter's Army / ROSMEN | Use full form when the text spells it out. |
 | Molly Weasley | Молли Уизли | Potter's Army / ROSMEN | Canon form. |
 | Arthur Weasley | Артур Уизли | Potter's Army / ROSMEN | Canon form. |
+| Aurora Sinistra | Аврора Синистра | Potter's Army / ROSMEN | Astronomy professor; use the canon surname form in school and post-Hogwarts contexts alike. |
 | Charlie Weasley | Чарли Уизли | Potter's Army / ROSMEN | Canon form. |
 | Fred Weasley | Фред Уизли | Potter's Army / ROSMEN | Canon form. |
 | George Weasley | Джордж Уизли | Potter's Army / ROSMEN | Canon form. |
@@ -322,6 +323,7 @@ across multiple segments.
 | Self-Inking Quill | самопишущее перо | Project / story-10 | Enchanted quill that writes without a separate ink bottle. |
 | Vanishing Ink Quill | перо исчезающих чернил | Project / story-10 | Joke-shop quill whose writing fades away after being made. |
 | feather-falling potion | зелье лёгкого падения | Project / story-17 | Fanfic potion that slows or cushions falls; keep the wording light and idiomatic rather than pseudo-technical. |
+| Draught of Peace | Умиротворяющее зелье | Potter's Army / canon usage | Calming potion; keep the name simple and recognizably medicinal rather than turning it into a lofty abstract noun phrase. |
 | buckytube | бакитрубка | Project / HPMOR fanfic usage | Carbon-nanotube material used in advanced transfiguration tricks; prefer the compact transliterated form over a generic `нанотрубка`, which blurs the specific HPMOR-ish jargon. |
 | House Cup | Кубок факультетов | Potter's Army / ROSMEN | School competition. |
 | House points | баллы факультета | Potter's Army / ROSMEN / usage | Default running-text form for Hogwarts point awards. |
@@ -330,6 +332,7 @@ across multiple segments.
 | Dementor | дементор | Potter's Army / ROSMEN | Creature type. |
 | Dementors | дементоры | Potter's Army / ROSMEN | Plural form. |
 | Cornish Pixies | корнуэльские пикси | Potter's Army / ROSMEN | Creature type. |
+| Flobberworm | флоббер-червь | Potter's Army / canon usage | Sluggish magical worm used in beginner care lessons and potion ingredients; plural `Flobberworms` -> `флоббер-черви`. |
 | Deathday Party | вечеринка в честь дня смерти | Potter's Army / ROSMEN | Event term. |
 | Basilisk | василиск | Potter's Army / ROSMEN | Creature type. |
 | Inferius | инфернал | Harry Potter Wiki RU / canon usage | Singular undead creature animated by Dark magic. |
