@@ -823,6 +823,7 @@ itself over literal back-translation of the English wording.
 | Glowpox | светооспа | Project / story-27 | Magical childhood illness; keep the disease name compact and idiomatic rather than expanding it into a descriptive phrase. |
 | Blood-Cooling Charm | заклятие охлаждения крови | Project / story-27 | Spell used in the Draco framing plotline; keep the phrasing clinical and literal rather than ornamental. |
 | Dementation | дементация | Project / story-27+ | Term for the soul-and-magic damage caused by Dementors; keep the coined, quasi-technical form so later `anti-Dementation` references stay transparent. |
+| Demented | обездушенные | Project / story-27+ | Use `обездушенный` / `обездушенные` for people reduced by dementation; keep the wording concrete and bodily rather than euphemistic. |
 | surfaces | поверхности | Project / story-19 | Quirrell's introspective term for the outer structures of consciousness encountered first in legilimency; lowercase in running text. |
 
 ## Usage Rules
