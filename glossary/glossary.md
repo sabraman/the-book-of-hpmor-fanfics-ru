@@ -446,6 +446,7 @@ across multiple segments.
 | Bahl's Stupefaction | ступефакция Баля | Project / usage | Recurring potion name; keep the eponymic form when characters mention a dose or label a vial. |
 | glove charm | чары перчатки | Project / usage | Protective invisible glove charm used in potion work. |
 | Arithmancy | Арифмантика | Potter's Army / ROSMEN | School subject. |
+| Spellcrafting | создание заклинаний | Project / story-28 / recurring anthology usage | Technical term for designing spells by combining basic magical effects; also the title of story-28 chapter 14. |
 | High Inquisitor | Генеральный инспектор Хогвартса | Potter's Army / ROSMEN | Umbridge's Hogwarts title. |
 | Inquisitorial Squad | Инспекционная дружина | Potter's Army / ROSMEN | Umbridge's student enforcement group. |
 | Sword of Gryffindor | меч Гриффиндора | Potter's Army / ROSMEN | House relic that appears to worthy Gryffindors. |
