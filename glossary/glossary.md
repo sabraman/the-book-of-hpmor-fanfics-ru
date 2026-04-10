@@ -52,6 +52,7 @@ across multiple segments.
 | Squiring the Phoenix | Оруженосец феникса | Project / story-29 | Story title for EagleJarl's sequel to `Following the Phoenix`; use a knightly `оруженосец` framing so the title keeps both the service relationship and the heroic apprenticeship implied by `squiring`. |
 | Once Upon A Tower | Жила-была башня | Project / story-30 | Story title; recast the `Once upon a time` fairy-tale formula into a Russian opening that keeps the tower pun playful and legible. |
 | Hermione Granger and the Burden of Responsibility | Гермиона Грейнджер и бремя ответственности | Project / story-31 | Story title; keep `burden` as `бремя`, preserving the moral weight and political pressure on Hermione without making the phrase sound bureaucratic. |
+| The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
 | Perspective | Перспектива | Project / story-27 | Shared chapter-title stem for Chapters 87-88; keep it as a reflective framing word about mental distance and planning, not as optics jargon. |
 | Taboo Tradeoffs | Запретные компромиссы | Project / story-27 | Shared chapter-title stem for Chapters 81-82; keep `taboo` in the ethical / socially forbidden sense, not as a reference to the Ministry tracking curse. |
 | Nihil Supernum | Nihil Supernum | Project / story-27 | Shared chapter-title stem for Chapters 94-98; keep the Latin unchanged in headings to preserve its motto-like ambiguity, and only gloss it in running text when the story itself explicitly interprets it. |
@@ -77,6 +78,7 @@ across multiple segments.
 | Ron Weasley | Рон Уизли | Potter's Army / ROSMEN | Canon form. |
 | Hermione Granger | Гермиона Грейнджер | Potter's Army / ROSMEN | Canon form. |
 | Neville Longbottom | Невилл Долгопупс | Potter's Army / ROSMEN | Canon form. |
+| Augusta Longbottom | Августа Долгопупс | Potter's Army / ROSMEN | Canon form. |
 | Horace Slughorn | Гораций Слизнорт | Potter's Army / ROSMEN | Canon form. |
 | Percy Weasley | Перси Уизли | Potter's Army / ROSMEN | Canon form. |
 | Merope Gaunt | Меропа Мракс | Potter's Army / ROSMEN | Voldemort's mother. |
@@ -210,6 +212,7 @@ across multiple segments.
 | Komodo | Комодо | Project / story-27 | Auror surname / callsign in the Windsor crisis arc; keep the codename-like form as a simple transliteration. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
 | Amelia Bones | Амелия Боунс | Potter's Army / ROSMEN | Head of the Department of Magical Law Enforcement. |
+| Theodorus Deas | Теодорус Диз | Project / story-31 | Wizengamot member in `Hermione Granger and the Burden of Responsibility`; keep the surname in the compact `Диз` form already used in adjacent segments. |
 | Rufus Scrimgeour | Руфус Скримджер | Potter's Army / ROSMEN | Ministry official who later serves as Minister for Magic; keep the canon surname form in both office-holder and action-scene mentions. |
 | Deputy Headmistress | заместительница директора | Project / usage | Use for McGonagall's Hogwarts title in this anthology; prefer the full phrase over colloquial shortenings. |
 | Truuey / Tuuey | Тууи | Project / Tom Riddle Conflict | House-elf name appears with inconsistent spelling in the source; normalize to `Тууи`. |
