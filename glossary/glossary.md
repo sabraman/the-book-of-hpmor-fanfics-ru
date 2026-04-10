@@ -52,6 +52,7 @@ across multiple segments.
 | Squiring the Phoenix | Оруженосец феникса | Project / story-29 | Story title for EagleJarl's sequel to `Following the Phoenix`; use a knightly `оруженосец` framing so the title keeps both the service relationship and the heroic apprenticeship implied by `squiring`. |
 | Once Upon A Tower | Жила-была башня | Project / story-30 | Story title; recast the `Once upon a time` fairy-tale formula into a Russian opening that keeps the tower pun playful and legible. |
 | Hermione Granger and the Burden of Responsibility | Гермиона Грейнджер и бремя ответственности | Project / story-31 | Story title; keep `burden` as `бремя`, preserving the moral weight and political pressure on Hermione without making the phrase sound bureaucratic. |
+| Depart Azkaban | Покинуть Азкабан | Project / story-32 | Story title; keep it terse and decisive, framing the break from Azkaban as a deliberate act rather than a procedural release. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
 | Bechdel Fail | Провал теста Бекдел | Project / story-31 | Chapter 6 title; make the reference explicit enough for Russian readers to catch the Bechdel-test joke while keeping the heading brisk. |
 | Perspective | Перспектива | Project / story-27 | Shared chapter-title stem for Chapters 87-88; keep it as a reflective framing word about mental distance and planning, not as optics jargon. |
@@ -149,6 +150,7 @@ across multiple segments.
 | Quirinus Quirrell | Квиринус Квиррелл | Potter's Army / ROSMEN | Canon form. |
 | Gilderoy Lockhart | Гилдерой Локхарт | Potter's Army / ROSMEN | Canon form. |
 | Fawkes | Фоукс | Potter's Army / ROSMEN | Dumbledore's phoenix. |
+| Bentham | Бентам | Project / story-32 | Harry's phoenix in `Depart Azkaban`; keep the spelling aligned with Jeremy Bentham, since Harry explicitly names the bird after the prison reformer. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
 | Alastor Moody | Аластор Грюм | Potter's Army / ROSMEN | Prefer `Грюм`, not `Муди`, in canon contexts. |
 | Mad-Eye | Грозный Глаз | Potter's Army / ROSMEN | Canon nickname of Alastor Moody in dialogue and recollection. |
