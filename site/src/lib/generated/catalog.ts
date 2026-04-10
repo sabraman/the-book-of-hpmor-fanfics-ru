@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 185,
-  readableChapterCount: 185,
-  readableBookCount: 30,
+  translatedSegmentCount: 186,
+  readableChapterCount: 186,
+  readableBookCount: 31,
 } as const;
 
 export const books: BookMeta[] = [
@@ -375,12 +375,12 @@ export const books: BookMeta[] = [
     "id": "story-31",
     "slug": "hermione-granger-and-the-burden-of-responsibility",
     "href": "/books/hermione-granger-and-the-burden-of-responsibility",
-    "title": "Hermione Granger and the Burden of Responsibility",
+    "title": "Гермиона Грейнджер и бремя ответственности",
     "originalTitle": "Hermione Granger and the Burden of Responsibility",
     "order": 248,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 7,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-32",
@@ -3134,6 +3134,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-31",
+    "bookSlug": "hermione-granger-and-the-burden-of-responsibility",
+    "slug": "seg-0250",
+    "href": "/books/hermione-granger-and-the-burden-of-responsibility/chapters/seg-0250",
+    "order": 250,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1: Пролог",
+    "originalTitle": "Chapter 1: Prologue"
   }
 ] as ChapterMeta[];
 
@@ -3323,4 +3334,5 @@ export const chapterModules = {
   "seg-0243": () => import("@/content/chapters/seg-0243.mdx"),
   "seg-0244": () => import("@/content/chapters/seg-0244.mdx"),
   "seg-0247": () => import("@/content/chapters/seg-0247.mdx"),
+  "seg-0250": () => import("@/content/chapters/seg-0250.mdx"),
 } as const;
