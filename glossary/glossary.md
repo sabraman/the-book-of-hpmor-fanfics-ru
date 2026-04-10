@@ -49,6 +49,7 @@ across multiple segments.
 | Dark Lord Material | Материал для Тёмного Лорда | Project / story-26 | Keep the idiomatic `X material` sense as `material for`, pointing to Harry's apparent suitability for future dark-lord status without turning the title into a literal substance joke. |
 | Following The Phoenix | Следуя за фениксом | Project / story-27 | Story title; keep the phrasing metaphorical rather than ornithological, matching the later author note that the title refers to doing the brave / right / foolish thing rather than literally trailing a phoenix. |
 | Following the Phoenix - Flashes | Следуя за фениксом: зарисовки | Project / story-28 | Story title for the loose sequel-vignette collection; render `flashes` as `зарисовки` to keep the anthology sense natural in Russian instead of suggesting literal bursts of light. |
+| Squiring the Phoenix | Оруженосец феникса | Project / story-29 | Story title for EagleJarl's sequel to `Following the Phoenix`; use a knightly `оруженосец` framing so the title keeps both the service relationship and the heroic apprenticeship implied by `squiring`. |
 | Perspective | Перспектива | Project / story-27 | Shared chapter-title stem for Chapters 87-88; keep it as a reflective framing word about mental distance and planning, not as optics jargon. |
 | Taboo Tradeoffs | Запретные компромиссы | Project / story-27 | Shared chapter-title stem for Chapters 81-82; keep `taboo` in the ethical / socially forbidden sense, not as a reference to the Ministry tracking curse. |
 | Nihil Supernum | Nihil Supernum | Project / story-27 | Shared chapter-title stem for Chapters 94-98; keep the Latin unchanged in headings to preserve its motto-like ambiguity, and only gloss it in running text when the story itself explicitly interprets it. |
@@ -90,6 +91,9 @@ across multiple segments.
 | Xare | Ксаре | Project / story-27 | Hermione Granger's phoenix in `Following the Phoenix`; use feminine agreement after Hermione names the bird a girl. |
 | British Space Agency | Британское космическое агентство | Project / story-28 | Default full name for the Muggle agency employing Hermione in `Following the Phoenix - Flashes`; use the full form on first mention. |
 | BSA | БКА | Project / story-28 | Abbreviation for `Британское космическое агентство`; use after the first full mention when the surrounding sentence still reads naturally. |
+| Joel | Джоэл | Project / story-29 | Muggle spaceflight protagonist in `Squiring the Phoenix`; keep the short given name in a direct transliteration. |
+| Peri | Пери | Project / story-29 | Joel's phoenix companion, short for `Hyperion`; keep the clipped name in a simple transliteration. |
+| Frederick Blaise | Фредерик Блейз | Project / story-29 | Stanford scientist invited to Harry's London symposium; use `Фред` when the source shortens the given name in dialogue or narration. |
 | Fennoscandia | Фенноскандия | Project / story-28 | Regional magical polity mentioned in Chapter 13 of `Following the Phoenix - Flashes`; keep the real-world geographic term in a direct Russian transliteration. |
 | Fennoscandian | фенноскандский | Project / story-28 | Adjectival / demonym form for `Фенноскандия`; keep it lowercase in running text. |
 | Department of Magical Races | Департамент магических рас | Project / story-28 | New Ministry office handling the legal status of non-human peoples in the postwar settlement; keep the name bureaucratic and straightforward. |
