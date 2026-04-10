@@ -90,6 +90,7 @@ across multiple segments.
 | Xare | Ксаре | Project / story-27 | Hermione Granger's phoenix in `Following the Phoenix`; use feminine agreement after Hermione names the bird a girl. |
 | British Space Agency | Британское космическое агентство | Project / story-28 | Default full name for the Muggle agency employing Hermione in `Following the Phoenix - Flashes`; use the full form on first mention. |
 | BSA | БКА | Project / story-28 | Abbreviation for `Британское космическое агентство`; use after the first full mention when the surrounding sentence still reads naturally. |
+| Science and Rationality | наука и рациональность | Project / story-28 | New Hogwarts course taught by Michael in `Following the Phoenix - Flashes`; keep the title plain and academic rather than pseudo-philosophical. |
 | Sarissa Johnson | Сарисса Джонсон | Project / story-27 | Witch married to Thomas Johnson in `Following the Phoenix`; keep the given name as a direct transliteration with double `с`. |
 | Thomas Johnson | Томас Джонсон | Project / story-27 | Muggle husband of Sarissa Johnson and British Ministry of Defence official in `Following the Phoenix`. |
 | Dedalus Diggle | Дедалус Дингл | Potter's Army / ROSMEN | Canon form; use `Дедалус`, when only the given name appears. |
@@ -178,6 +179,8 @@ across multiple segments.
 | MacNair | Макнейр | Potter's Army / ROSMEN / project usage | Slytherin student discussing wand cores with Tom in this cycle. |
 | Chang | Чанг | Potter's Army / ROSMEN / project usage | Surname-only student reference in Tom's battle-magic practice. |
 | Thomas Chang | Томас Чанг | Project / Tom Riddle Conflict | Capable Hogwarts student from China and one of Tom's battle-magic rivals. |
+| Xiaoguang Li | Сяогуан Ли | Project / story-28 / recurring anthology usage | Auror-turned-professor in the postwar timeline; use `Сяогуан` when the source gives only the given name, and keep the surname order in full form. |
+| Lisa Fournier | Лиза Фурнье | Project / story-28 | French history teacher hired by Hogwarts in `Following the Phoenix - Flashes`; keep the surname in the compact `Фурнье` form. |
 | David Monroe | Дэвид Монро | Project / Tom Riddle Conflict | Confident Hogwarts student and Tom's rival. |
 | Monroe Act | Акт Монро | Project / story-27 | Emergency wartime law that authorized Aurors to use Unforgivable Curses against Death Eaters; keep the title concise and legislative. |
 | Terence Keen | Теренс Кин | Project / Tom Riddle Conflict | Slytherin student who spreads Bellatrix's dark-ritual rumor in this story cycle. |
