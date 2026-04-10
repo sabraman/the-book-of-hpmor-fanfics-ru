@@ -76,6 +76,7 @@ across multiple segments.
 | Hermione Granger | Гермиона Грейнджер | Potter's Army / ROSMEN | Canon form. |
 | Neville Longbottom | Невилл Долгопупс | Potter's Army / ROSMEN | Canon form. |
 | Horace Slughorn | Гораций Слизнорт | Potter's Army / ROSMEN | Canon form. |
+| Percy Weasley | Перси Уизли | Potter's Army / ROSMEN | Canon form. |
 | Merope Gaunt | Меропа Мракс | Potter's Army / ROSMEN | Voldemort's mother. |
 | Draco Malfoy | Драко Малфой | Potter's Army / ROSMEN | Canon form. |
 | Ginny Weasley | Джинни Уизли | Potter's Army / ROSMEN | Canon form. |
@@ -382,6 +383,8 @@ across multiple segments.
 | Wool's Orphanage | приют Вула | Potter's Army / ROSMEN | London orphanage where Tom Riddle grew up. |
 | Fizzing Whizzbees | шипучие шмельки | Potter's Army / canon usage | Wizarding sweet; when the source uses the singular office-password form `Fizzing Whizzbee`, translate it as `шипучий шмелёк`. |
 | St. Mungo's | Святой Мунго | Potter's Army / ROSMEN / usage | Wizarding hospital; use full phrases like `больница Святого Мунго` where clarity matters, and the idiomatic locative `в Святом Мунго` in running text. |
+| Head Boy | староста школы | Potter's Army / ROSMEN / usage | Senior student office in Hogwarts; prefer `староста школы` over literal calques like `главный мальчик`. |
+| Floo powder | Летучий порох | Potter's Army / ROSMEN / usage | Travel powder used with the Floo Network; capitalize only when treated as a fixed product name. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
 | dragon heartstring | сердечная жила дракона | Potter's Army / ROSMEN | Standard wand-core term. |
 | Puddlemere United | Паддлмир Юнайтед | Potter's Army / ROSMEN | Quidditch team name. |
@@ -407,7 +410,10 @@ across multiple segments.
 | werewolves | оборотни | Potter's Army / ROSMEN | Plural form. |
 | Wolfsbane | волчье противоядие | Potter's Army / ROSMEN | Potion shorthand in dialogue context. |
 | Wolfsbane Potion | волчье противоядие | Potter's Army / ROSMEN | Standard potion name. |
+| Invigoration Draught | бодрящее зелье | Project / canon usage | Use for the stimulant potion in science-meets-magic contexts; keep the name practical and mildly medicinal rather than ornate. |
+| Wit-Sharpening Potion | зелье для остроты ума | Project / canon usage | Use for the nootropic-style potion; keep the name explanatory and readable in dialogue aimed at Muggles. |
 | Felix Felicis | Феликс Фелицис | Potter's Army / ROSMEN | Lucky potion name. |
+| Liquid Luck | Жидкая удача | Project / usage | Plain-language rendering of `Felix Felicis` when the descriptive English label is used instead of the Latin potion name. |
 | Liquid Sheep | Жидкая овечка | Project / story-10 | Mild sleep potion; preserve the whimsical potion-name register. |
 | butterbeer | сливочное пиво | Potter's Army / ROSMEN | Standard drink name. |
 | firewhiskey | огневиски | Potter's Army / ROSMEN | Standard drink name. |
