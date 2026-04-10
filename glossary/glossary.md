@@ -451,6 +451,8 @@ across multiple segments.
 | Ravenclaw common room | гостиная Когтеврана | Potter's Army / ROSMEN | House common room location. |
 | Pensieve | омут памяти | Potter's Army / ROSMEN | Dumbledore's memory basin. |
 | Veritaserum | Веритасерум | Potter's Army / ROSMEN | Truth serum. |
+| Geminio | Геминио | Potter's Army / canon usage | Duplication spell / curse; when the source alternates `Gemino` and `Geminio`, normalize to the canon Russian form `Геминио`, and keep the spoken incantation as `Геминио!`. |
+| Healion | Хилион | Project / story-29 | Brand-like magical healing treatment used in the story's U.S. disaster response; keep it as a transliterated medicine name rather than paraphrasing it generically. |
 | priori incantatem | priori incantatem | Potter's Army / canon usage | Keep the Latin incantation in italics when characters quote or cite the spell by name. |
 | Occlumency | окклюменция | Potter's Army / ROSMEN | Mental defensive discipline. |
 | Occlumens | окклюмент | Potter's Army / ROSMEN / usage | Wizard skilled in Occlumency. |
