@@ -90,6 +90,8 @@ across multiple segments.
 | Xare | Ксаре | Project / story-27 | Hermione Granger's phoenix in `Following the Phoenix`; use feminine agreement after Hermione names the bird a girl. |
 | British Space Agency | Британское космическое агентство | Project / story-28 | Default full name for the Muggle agency employing Hermione in `Following the Phoenix - Flashes`; use the full form on first mention. |
 | BSA | БКА | Project / story-28 | Abbreviation for `Британское космическое агентство`; use after the first full mention when the surrounding sentence still reads naturally. |
+| Fennoscandia | Фенноскандия | Project / story-28 | Regional magical polity mentioned in Chapter 13 of `Following the Phoenix - Flashes`; keep the real-world geographic term in a direct Russian transliteration. |
+| Fennoscandian | фенноскандский | Project / story-28 | Adjectival / demonym form for `Фенноскандия`; keep it lowercase in running text. |
 | Department of Magical Races | Департамент магических рас | Project / story-28 | New Ministry office handling the legal status of non-human peoples in the postwar settlement; keep the name bureaucratic and straightforward. |
 | Open Call for Creatures | Открытый набор для существ | Project / story-28 | Recruitment notice seeking non-human magical volunteers for BSA research; keep the title clipped and official, like a posted public call. |
 | Science and Rationality | наука и рациональность | Project / story-28 | New Hogwarts course taught by Michael in `Following the Phoenix - Flashes`; keep the title plain and academic rather than pseudo-philosophical. |
