@@ -90,6 +90,8 @@ across multiple segments.
 | Xare | Ксаре | Project / story-27 | Hermione Granger's phoenix in `Following the Phoenix`; use feminine agreement after Hermione names the bird a girl. |
 | British Space Agency | Британское космическое агентство | Project / story-28 | Default full name for the Muggle agency employing Hermione in `Following the Phoenix - Flashes`; use the full form on first mention. |
 | BSA | БКА | Project / story-28 | Abbreviation for `Британское космическое агентство`; use after the first full mention when the surrounding sentence still reads naturally. |
+| Department of Magical Races | Департамент магических рас | Project / story-28 | New Ministry office handling the legal status of non-human peoples in the postwar settlement; keep the name bureaucratic and straightforward. |
+| Open Call for Creatures | Открытый набор для существ | Project / story-28 | Recruitment notice seeking non-human magical volunteers for BSA research; keep the title clipped and official, like a posted public call. |
 | Science and Rationality | наука и рациональность | Project / story-28 | New Hogwarts course taught by Michael in `Following the Phoenix - Flashes`; keep the title plain and academic rather than pseudo-philosophical. |
 | Sarissa Johnson | Сарисса Джонсон | Project / story-27 | Witch married to Thomas Johnson in `Following the Phoenix`; keep the given name as a direct transliteration with double `с`. |
 | Thomas Johnson | Томас Джонсон | Project / story-27 | Muggle husband of Sarissa Johnson and British Ministry of Defence official in `Following the Phoenix`. |
@@ -332,6 +334,8 @@ across multiple segments.
 | House points | баллы факультета | Potter's Army / ROSMEN / usage | Default running-text form for Hogwarts point awards. |
 | Prefect | староста | Potter's Army / ROSMEN | School leadership title; plural `Prefects` -> `старосты`. |
 | house-elf | домовой эльф | Potter's Army / ROSMEN | Creature type. |
+| free elf | свободный эльф | Project / story-28 | Use for an elf who has formally been released and now has legal personhood; keep it plain rather than turning it into an abstract slogan. |
+| Elf Bond | эльфийская связь | Project / story-28 | Formal magical bond tying a house-elf to a master; use this when the text treats the servitude as an actual magical mechanism rather than generic obedience. |
 | Dementor | дементор | Potter's Army / ROSMEN | Creature type. |
 | Dementors | дементоры | Potter's Army / ROSMEN | Plural form. |
 | Cornish Pixies | корнуэльские пикси | Potter's Army / ROSMEN | Creature type. |
