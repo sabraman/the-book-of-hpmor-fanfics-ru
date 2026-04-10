@@ -95,6 +95,7 @@ across multiple segments.
 | Joel | Джоэл | Project / story-29 | Muggle spaceflight protagonist in `Squiring the Phoenix`; keep the short given name in a direct transliteration. |
 | Peri | Пери | Project / story-29 | Joel's phoenix companion, short for `Hyperion`; keep the clipped name in a simple transliteration. |
 | Frederick Blaise | Фредерик Блейз | Project / story-29 | Stanford scientist invited to Harry's London symposium; use `Фред` when the source shortens the given name in dialogue or narration. |
+| Aubrey de Grey | Обри де Грей | Project / story-29 / real-person usage | Life-extension researcher appearing in the Symposium sections of `Squiring the Phoenix`; keep the familiar `Обри` form already used in adjacent segments. |
 | Fennoscandia | Фенноскандия | Project / story-28 | Regional magical polity mentioned in Chapter 13 of `Following the Phoenix - Flashes`; keep the real-world geographic term in a direct Russian transliteration. |
 | Fennoscandian | фенноскандский | Project / story-28 | Adjectival / demonym form for `Фенноскандия`; keep it lowercase in running text. |
 | Department of Magical Races | Департамент магических рас | Project / story-28 | New Ministry office handling the legal status of non-human peoples in the postwar settlement; keep the name bureaucratic and straightforward. |
@@ -414,10 +415,12 @@ across multiple segments.
 | Wit-Sharpening Potion | зелье для остроты ума | Project / canon usage | Use for the nootropic-style potion; keep the name explanatory and readable in dialogue aimed at Muggles. |
 | Felix Felicis | Феликс Фелицис | Potter's Army / ROSMEN | Lucky potion name. |
 | Liquid Luck | Жидкая удача | Project / usage | Plain-language rendering of `Felix Felicis` when the descriptive English label is used instead of the Latin potion name. |
+| Pepper Up Potion | Перечное зелье | Potter's Army / canon usage | Use the straightforward medicinal name for the cold-curing potion; keep the comic steam-from-the-ears side effect in narration rather than overloading the title. |
 | Liquid Sheep | Жидкая овечка | Project / story-10 | Mild sleep potion; preserve the whimsical potion-name register. |
 | butterbeer | сливочное пиво | Potter's Army / ROSMEN | Standard drink name. |
 | firewhiskey | огневиски | Potter's Army / ROSMEN | Standard drink name. |
 | unicorn | единорог | Potter's Army / ROSMEN | Magical creature. |
+| occamy | оккамий | Potter's Army / Fantastic Beasts usage / project transliteration | Magical birdlike creature name referenced in the `Squiring the Phoenix` industrial-brewing subplot; use `яйца оккамия / оккамиев` by context. |
 | full moon | полнолуние | Potter's Army / ROSMEN | Standard phrase for werewolf context. |
 | Tripping Jinx | подножка | Project / usage | Default informal rendering in this repo for comic action scenes. |
 | Time-Turner | маховик времени | Potter's Army / ROSMEN | Canon magical device. |
