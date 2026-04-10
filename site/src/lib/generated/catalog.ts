@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 183,
-  readableChapterCount: 183,
+  translatedSegmentCount: 184,
+  readableChapterCount: 184,
   readableBookCount: 29,
 } as const;
 
@@ -356,9 +356,9 @@ export const books: BookMeta[] = [
     "title": "Оруженосец феникса",
     "originalTitle": "Squiring the Phoenix",
     "order": 237,
-    "readableChapterCount": 5,
+    "readableChapterCount": 6,
     "totalChapterCount": 6,
-    "translatedSegmentCount": 5
+    "translatedSegmentCount": 6
   },
   {
     "id": "story-30",
@@ -3112,6 +3112,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 5",
     "originalTitle": "Chapter 5"
+  },
+  {
+    "bookId": "story-29",
+    "bookSlug": "squiring-the-phoenix",
+    "slug": "seg-0244",
+    "href": "/books/squiring-the-phoenix/chapters/seg-0244",
+    "order": 244,
+    "orderWithinBook": 6,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 6",
+    "originalTitle": "Chapter 6"
   }
 ] as ChapterMeta[];
 
@@ -3299,4 +3310,5 @@ export const chapterModules = {
   "seg-0241": () => import("@/content/chapters/seg-0241.mdx"),
   "seg-0242": () => import("@/content/chapters/seg-0242.mdx"),
   "seg-0243": () => import("@/content/chapters/seg-0243.mdx"),
+  "seg-0244": () => import("@/content/chapters/seg-0244.mdx"),
 } as const;

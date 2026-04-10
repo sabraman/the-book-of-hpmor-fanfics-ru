@@ -106,6 +106,7 @@ across multiple segments.
 | Dedalus Diggle | Дедалус Дингл | Potter's Army / ROSMEN | Canon form; use `Дедалус`, when only the given name appears. |
 | Mary Poppins | Мэри Поппинс | Project / story-11 | Use the established franchise form; this story treats her as a real, cross-world figure. |
 | Marielle Dutant | Мариэль Дютан | Project / story-27 | Beauxbatons schoolgirl abducted for use of her Time-Turner during the Windsor crisis aftermath; keep the French surname in a compact transliteration. |
+| Mary's Place | «У Мэри» | Project / recurring anthology usage | Wizarding restaurant name; keep it idiomatic in Russian rather than transliterating `Place`. |
 | Helena Vela Boot | Хелена Вела Бут | Project / story-11 | The name Mary Poppins gives for herself on first introduction. |
 | Michael Evans-Verres | Майкл Эванс-Веррес | Project / story-12 | Adoptive father in the remix continuity; use this surname order in narration where the source does. |
 | Michael Verres-Evans | Майкл Веррес-Эванс | Project / story-12 | Preserve the reversed surname order where the source explicitly uses it, such as Harry's formal letter. |
