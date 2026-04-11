@@ -53,6 +53,7 @@ across multiple segments.
 | Once Upon A Tower | Жила-была башня | Project / story-30 | Story title; recast the `Once upon a time` fairy-tale formula into a Russian opening that keeps the tower pun playful and legible. |
 | Hermione Granger and the Burden of Responsibility | Гермиона Грейнджер и бремя ответственности | Project / story-31 | Story title; keep `burden` as `бремя`, preserving the moral weight and political pressure on Hermione without making the phrase sound bureaucratic. |
 | Depart Azkaban | Покинуть Азкабан | Project / story-32 | Story title; keep it terse and decisive, framing the break from Azkaban as a deliberate act rather than a procedural release. |
+| Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
 | Bechdel Fail | Провал теста Бекдел | Project / story-31 | Chapter 6 title; make the reference explicit enough for Russian readers to catch the Bechdel-test joke while keeping the heading brisk. |
 | Confidences | Откровения | Project / story-32 | Chapter 7 title; frame the heading as intimate trust and shared secrets, not as a formal confession. |
@@ -202,6 +203,7 @@ across multiple segments.
 | Lisa Fournier | Лиза Фурнье | Project / story-28 | French history teacher hired by Hogwarts in `Following the Phoenix - Flashes`; keep the surname in the compact `Фурнье` form. |
 | David Monroe | Дэвид Монро | Project / Tom Riddle Conflict | Confident Hogwarts student and Tom's rival. |
 | Monroe Act | Акт Монро | Project / story-27 | Emergency wartime law that authorized Aurors to use Unforgivable Curses against Death Eaters; keep the title concise and legislative. |
+| Butnaru | Бутнару | Project / story-27 | Auror surname in the Windsor crisis and `Depart Azkaban`; keep the name as an indeclinable transliteration. |
 | Terence Keen | Теренс Кин | Project / Tom Riddle Conflict | Slytherin student who spreads Bellatrix's dark-ritual rumor in this story cycle. |
 | Galatea Merrythought | Галатея Мерритот | Potter's Army / canon usage / project transliteration | Defense professor in Tom's school years. |
 | Merrythought | Мерритот | Potter's Army / canon usage / project transliteration | Use the surname form for Professor Merrythought. |
@@ -214,6 +216,7 @@ across multiple segments.
 | Ronell Manailur | Ронелл Манайлур | Project / Tom Riddle Conflict | Historical artificer associated with the Amulet of Asshia. |
 | Yermy Wibble | Ерми Уиббл | Project / HPMOR backstory | Veteran journalist murdered by Death Eaters; keep the surname consistent in later historical references. |
 | Komodo | Комодо | Project / story-27 | Auror surname / callsign in the Windsor crisis arc; keep the codename-like form as a simple transliteration. |
+| Goryanof | Горянов | Project / story-27 | Auror surname in the Windsor crisis and `Depart Azkaban`; normalize the source's `Goryanof/Goryanoff` variation to the Russian-style `Горянов`. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
 | Amelia Bones | Амелия Боунс | Potter's Army / ROSMEN | Head of the Department of Magical Law Enforcement. |
 | Theodorus Deas | Теодорус Диз | Project / story-31 | Wizengamot member in `Hermione Granger and the Burden of Responsibility`; keep the surname in the compact `Диз` form already used in adjacent segments. |
