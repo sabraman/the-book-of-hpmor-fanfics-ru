@@ -514,6 +514,7 @@ across multiple segments.
 | Herpo the Foul | Герпий Злостный | Potter's Army / ROSMEN | Early Dark wizard associated with basilisks and Horcrux lore. |
 | Silencio | Силенцио | Project / canon usage | Spoken incantation; in narrative may be described as a silencing spell. |
 | Disillusionment Charm | дезиллюминационные чары | Potter's Army / ROSMEN / usage | Default rendering for the concealment charm that blends the target into the background. |
+| Notice-Me-Not Charm | чары отвлечения внимания | Project / HPMOR fanfic usage | Default rendering for the attention-deflecting concealment charm; prefer this over literal calques like `Не-замечай-меня`. |
 | PASS | PASS | Project / story-10 | Hermione's `Persistent Accommodating Shield Spell`; keep the spell acronym in Latin letters in running text. |
 | Seer's Hex | проклятие провидца | Project / story-10 | Variant Confundus effect that convinces the victim they are seeing the future. |
 | Supersensory Charm | чары сверхчувствительности | Project / story-10 | Sensory-boosting charm that dramatically sharpens or broadens one sense. |
