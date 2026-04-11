@@ -55,6 +55,7 @@ across multiple segments.
 | Depart Azkaban | Покинуть Азкабан | Project / story-32 | Story title; keep it terse and decisive, framing the break from Azkaban as a deliberate act rather than a procedural release. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
 | Bechdel Fail | Провал теста Бекдел | Project / story-31 | Chapter 6 title; make the reference explicit enough for Russian readers to catch the Bechdel-test joke while keeping the heading brisk. |
+| Confidences | Откровения | Project / story-32 | Chapter 7 title; frame the heading as intimate trust and shared secrets, not as a formal confession. |
 | Perspective | Перспектива | Project / story-27 | Shared chapter-title stem for Chapters 87-88; keep it as a reflective framing word about mental distance and planning, not as optics jargon. |
 | Taboo Tradeoffs | Запретные компромиссы | Project / story-27 | Shared chapter-title stem for Chapters 81-82; keep `taboo` in the ethical / socially forbidden sense, not as a reference to the Ministry tracking curse. |
 | Nihil Supernum | Nihil Supernum | Project / story-27 | Shared chapter-title stem for Chapters 94-98; keep the Latin unchanged in headings to preserve its motto-like ambiguity, and only gloss it in running text when the story itself explicitly interprets it. |
