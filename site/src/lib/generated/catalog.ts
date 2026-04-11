@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 197,
-  readableChapterCount: 197,
+  translatedSegmentCount: 198,
+  readableChapterCount: 198,
   readableBookCount: 32,
 } as const;
 
@@ -389,9 +389,9 @@ export const books: BookMeta[] = [
     "title": "Покинуть Азкабан",
     "originalTitle": "Depart Azkaban",
     "order": 257,
-    "readableChapterCount": 5,
+    "readableChapterCount": 6,
     "totalChapterCount": 13,
-    "translatedSegmentCount": 5
+    "translatedSegmentCount": 6
   },
   {
     "id": "story-33",
@@ -3266,6 +3266,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 5: Трансфигурация",
     "originalTitle": "Chapter 5: Transfiguration"
+  },
+  {
+    "bookId": "story-32",
+    "bookSlug": "depart-azkaban",
+    "slug": "seg-0264",
+    "href": "/books/depart-azkaban/chapters/seg-0264",
+    "order": 264,
+    "orderWithinBook": 6,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 6: Переосмысление",
+    "originalTitle": "Chapter 6: Rethink"
   }
 ] as ChapterMeta[];
 
@@ -3467,4 +3478,5 @@ export const chapterModules = {
   "seg-0261": () => import("@/content/chapters/seg-0261.mdx"),
   "seg-0262": () => import("@/content/chapters/seg-0262.mdx"),
   "seg-0263": () => import("@/content/chapters/seg-0263.mdx"),
+  "seg-0264": () => import("@/content/chapters/seg-0264.mdx"),
 } as const;
