@@ -161,6 +161,7 @@ across multiple segments.
 | Quirinus Quirrell | Квиринус Квиррелл | Potter's Army / ROSMEN | Canon form. |
 | Gilderoy Lockhart | Гилдерой Локхарт | Potter's Army / ROSMEN | Canon form. |
 | Fawkes | Фоукс | Potter's Army / ROSMEN | Dumbledore's phoenix. |
+| Rogue | Роуг | Project / story-40 | Harry's unconventional phoenix in `Продолжение ГПиМРМ: редукционизм побеждает`; keep the X-Men-derived codename as `Роуг`, distinct from the class noun `rogue`. |
 | Bentham | Бентам | Project / story-32 | Harry's phoenix in `Depart Azkaban`; keep the spelling aligned with Jeremy Bentham, since Harry explicitly names the bird after the prison reformer. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
 | Alastor Moody | Аластор Грюм | Potter's Army / ROSMEN | Prefer `Грюм`, not `Муди`, in canon contexts. |
