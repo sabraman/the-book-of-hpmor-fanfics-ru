@@ -56,6 +56,7 @@ across multiple segments.
 | Hermione Granger and the Burden of Responsibility | Гермиона Грейнджер и бремя ответственности | Project / story-31 | Story title; keep `burden` as `бремя`, preserving the moral weight and political pressure on Hermione without making the phrase sound bureaucratic. |
 | Depart Azkaban | Покинуть Азкабан | Project / story-32 | Story title; keep it terse and decisive, framing the break from Azkaban as a deliberate act rather than a procedural release. |
 | A Strip of Cloth | Полоска ткани | Project / story-33 | Story title; keep it plain and tactile, matching the improvised wedding-strip image at the center of the scene without over-poeticizing it. |
+| Proximity | Близость | Project / story-34 | Story title; keep it short and slightly charged, so it can cover both emotional nearness and the dangerous physical closeness driving this Azkaban-era decision point. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
 | Bechdel Fail | Провал теста Бекдел | Project / story-31 | Chapter 6 title; make the reference explicit enough for Russian readers to catch the Bechdel-test joke while keeping the heading brisk. |
