@@ -55,6 +55,7 @@ across multiple segments.
 | Once Upon A Tower | Жила-была башня | Project / story-30 | Story title; recast the `Once upon a time` fairy-tale formula into a Russian opening that keeps the tower pun playful and legible. |
 | Hermione Granger and the Burden of Responsibility | Гермиона Грейнджер и бремя ответственности | Project / story-31 | Story title; keep `burden` as `бремя`, preserving the moral weight and political pressure on Hermione without making the phrase sound bureaucratic. |
 | Depart Azkaban | Покинуть Азкабан | Project / story-32 | Story title; keep it terse and decisive, framing the break from Azkaban as a deliberate act rather than a procedural release. |
+| A Strip of Cloth | Полоска ткани | Project / story-33 | Story title; keep it plain and tactile, matching the improvised wedding-strip image at the center of the scene without over-poeticizing it. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
 | Bechdel Fail | Провал теста Бекдел | Project / story-31 | Chapter 6 title; make the reference explicit enough for Russian readers to catch the Bechdel-test joke while keeping the heading brisk. |
