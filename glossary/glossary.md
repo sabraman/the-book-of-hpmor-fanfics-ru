@@ -60,6 +60,7 @@ across multiple segments.
 | Innocence | Невинность | Project / story-35 | Story title; keep it plain and morally charged, pointing to ethical purity and vulnerability rather than to courtroom `невиновность`. |
 | For Summer | К лету | Project / story-36 | Story title; keep it terse and forward-looking, echoing Hermione's final resolve to make it home by summer rather than sounding like a seasonal dedication. |
 | Asking for Help | Просьба о помощи | Project / story-37 | Story title; keep it plain and practical, matching Harry's turn from wizarding fatalism toward asking the nonmagical world for real emergency help. |
+| HPMoRCh 89 AU | AU к 89-й главе ГПиМРМ | Project / story-39 | Story title; expand the shorthand just enough for Russian readers to parse it, while keeping the fandom `AU` marker intact. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
 | Bechdel Fail | Провал теста Бекдел | Project / story-31 | Chapter 6 title; make the reference explicit enough for Russian readers to catch the Bechdel-test joke while keeping the heading brisk. |
