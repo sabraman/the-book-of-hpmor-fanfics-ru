@@ -321,6 +321,7 @@ across multiple segments.
 | Cruciatus Curse | заклятие Круциатус | Potter's Army / ROSMEN | Canon curse name. |
 | Avada Kedavra | Авада Кедавра | Potter's Army / ROSMEN | Canon incantation. |
 | Lumos Maxima | Люмос Максима | Potter's Army / canon usage | Amplified light spell; keep the Latin incantation transliterated in running text. |
+| Leviosa immobilis | Левиоса Иммобилис | Project / story-34 | Amelia Bones's improvised immobilizing-levitation incantation during the Azkaban response; keep the faux-Latin spell transliterated in dialogue. |
 | Killing Curse | Убивающее заклятие | Potter's Army / ROSMEN | Canon description of `Avada Kedavra`. |
 | Fidelius Charm | чары Фиделиуса | Potter's Army / canon usage | Use the established borrowed spell name rather than inventing a descriptive calque; singular/plural agreement follows Russian sentence flow. |
 | secret-keeper | хранитель тайны | Potter's Army / canon usage | Fidelius role term; capitalize only when a story styles it as a formal title. |
