@@ -172,9 +172,12 @@ across multiple segments.
 | Equestria | Эквестрия | Project / story-43 / MLP usage | Twilight's home realm; keep the established fandom transliteration. |
 | Canterlot | Кантерлот | Project / story-43 / MLP usage | Capital city / royal seat in Equestria; keep the established fandom transliteration. |
 | Ponyville | Понивилль | Project / story-43 / MLP usage | Town in Equestria; keep the established fandom transliteration with double `л`. |
+| Starswirl | Стар Свирл | Project / story-43 / MLP usage | Use this short form for the same legendary wizard pony glossed elsewhere as `Star Swirl the Bearded`; it appears in dialogue without the epithet in the Atlantis backstory. |
 | Star Swirl the Bearded | Стар Свирл Бородатый | Project / story-43 / MLP usage | Legendary wizard pony; keep the fandom transliteration and literal epithet. |
 | Grogar | Грогар | Project / story-43 / MLP usage | Ancient villain / sibling reference in the crossover backstory. |
 | Storm King | Король Бурь | Project / story-43 / MLP usage | Villain from Derpy's anecdote; keep the concise title form. |
+| King Sombra | король Сомбра | Project / story-43 / MLP usage | Keep the title lowercase in running text unless sentence position requires capitalization; distinct from the modern alias `Ласомбра`. |
+| Crystal Empire | Кристальная Империя | Project / story-43 / MLP usage | Realm tied to Sombra and Celestia's shared past; capitalize both words as the proper place name. |
 | Francis Bacon | Фрэнсис Бэкон | Project / story-27 | Use the standard historical form when Harry initially misidentifies Bacon's diary. |
 | Nymphadora Tonks | Нимфадора Тонкс | Potter's Army / ROSMEN | Canon full name. |
 | Tonks | Тонкс | Potter's Army / ROSMEN | Common short form in dialogue and narration. |
@@ -187,6 +190,7 @@ across multiple segments.
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Nicolas Flamel | Николас Фламель | Potter's Army / ROSMEN | Canon alchemist name; keep the given name in the `Николас`, not `Николя`, form already used in this project. |
 | Perenelle | Перенель | Project / canon historical usage | Use this compact form when the text refers to Nicolas Flamel's wife by given name only; later surnamed variants can be glossed separately if needed. |
+| Perenelle Dumarais | Перенель Дюмаре | Project / story-43 / recurring anthology usage | Use this surname form for Perenelle before or alongside `Фламель`; normalize split `du Marais` spellings to the single Russian form. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Bellatrix Black | Беллатриса Блэк | Project / Tom Riddle Conflict | Alternate-era Bellatrix before marriage in this story cycle. |
 | Blaise Zabini | Блейз Забини | Potter's Army / ROSMEN | Canon form. |
@@ -204,6 +208,8 @@ across multiple segments.
 | Mad-Eye | Грозный Глаз | Potter's Army / ROSMEN | Canon nickname of Alastor Moody in dialogue and recollection. |
 | Dolores Umbridge | Долорес Амбридж | Potter's Army / ROSMEN | Canon form. |
 | Lucius Malfoy | Люциус Малфой | Potter's Army / ROSMEN | Canon form. |
+| Scott Parajsa | Скотт Парайса | Project / story-43 / recurring anthology usage | Ancient sorcerer tied to the philosopher's stone lineage; keep this transliteration for the human-world alias-bearing identity. |
+| Lasombra | Ласомбра | Project / story-43 / recurring anthology usage | Scott Parajsa's modern alias; keep it distinct from the older proper name `Сомбра`. |
 | Eye of Vance | Глаз Вэнса | Project / recurring anthology usage | Magical detection artifact carried by Moody and other investigators; keep the surname in a straightforward transliteration. |
 | Forbearance | Хранение | Project / story-43 / recurring anthology usage | Ancient funerary transfiguration state that preserves a wizard's remains and spirit through lineage magic; capitalize when used as the ritual term. |
 | Ritual of Forbearance | Ритуал Хранения | Project / story-43 / recurring anthology usage | Formal name of the preservation rite; keep it distinct from later `Ритуал предков`, which is the follow-on ancestral honor. |
@@ -499,6 +505,14 @@ across multiple segments.
 | Cameleon Charm | чары хамелеона | Project / usage | Concealment charm that makes an object or surface blend into its surroundings; keep lowercase in running text unless a quoted spell name is needed. |
 | Retrieval Charm | чары извлечения | Project / story-27 | Storage-item retrieval enchantment; distinct from `Accio` / standard summoning charm and tied to getting selected contents out of an enchanted container. |
 | Interdict of Merlin | Интердикт Мерлина | Project / HPMOR fanfic usage | Magical limit that prevents powerful spell-imprints from being learned except mind-to-mind from a living bearer or rediscovered independently. |
+| Transmigration | Переселение | Project / story-43 / recurring anthology usage | Capitalize when it refers to the epochal death-and-rebirth event in the Atlantis / Equestria cosmology. |
+| Specters | Призраки | Project / story-43 / recurring anthology usage | Capitalize when it refers to the Atlantis-bred death entities; use `Призраки Смерти` when the fuller phrase appears in narration. |
+| Principia Discordia | Принципия Дискордия | Project / recurring anthology usage | Foundational magical-theory tome; keep the faux-Latin title transliterated rather than translated descriptively. |
+| Lethe Touch | Прикосновение Леты | Project / recurring anthology usage | Mind-altering effect that rewrites memory / affective structure; capitalize as a named technique. |
+| Mind Stone | Камень Разума | Project / story-43 / recurring anthology usage | Artifact identified with the Element of Loyalty and the Pillar of Bravery in this crossover cosmology. |
+| Tesseract | Тессеракт | Project / story-43 / recurring anthology usage | Hidden space-time artifact; keep the Marvel-adjacent transliteration rather than translating it descriptively. |
+| Mirror of Perfect Reflection | Зеркало Совершенного Отражения | Project / story-43 / recurring anthology usage | Name of the time-linked mirror in the Atlantis / Equestria cosmology; prefer this form over the one-off source typo `True Reflection`. |
+| Mirror of Desire | Зеркало Желания | Project / story-43 / recurring anthology usage | Form taken by the Tesseract in Celestia's explanation; keep the echo of the later `Зеркало Еиналеж` legible. |
 | backlash | обратный удар | Project / story-10 | Time-magic term for the hostile probability snapback that punishes attempts to alter events. |
 | Erasure | Стирание | Project / story-10 | Capitalized quasi-technical term for a person being removed from Time while some memory-traces remain. |
 | Department of Magical Law Enforcement | Департамент магического правопорядка | Potter's Army / ROSMEN | Ministry law-enforcement department; abbreviate only when natural in Russian context. |
