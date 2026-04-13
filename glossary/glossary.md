@@ -148,10 +148,21 @@ across multiple segments.
 | Firenze | Флоренц | Potter's Army / ROSMEN | Canon centaur name. |
 | Discord | Дискорд | Project / story-43 / MLP usage | Draconequus trickster from the crossover cast; keep the standard fandom transliteration compact and unchanged in wizarding dialogue. |
 | Twilight Sparkle | Твайлайт Спаркл | Project / story-43 / MLP usage | Princess of Friendship in the crossover cast; keep the well-known fandom transliteration rather than translating the epithet literally. |
+| Tirek | Тирек | Project / story-43 / MLP usage | Villain name in Twilight's reference list; keep the short fandom transliteration. |
+| Pony of Shadows | Пони Теней | Project / story-43 / MLP usage | Antagonist title in Twilight's reference list; translate literally and keep both words capitalized as a proper title. |
+| Midnight Sparkle | Миднайт Спаркл | Project / story-43 / MLP usage | Twilight-associated dark persona reference; keep the familiar hybrid proper name rather than translating `Midnight` descriptively. |
 | Spike | Спайк | Project / story-43 / MLP usage | Twilight's dragon companion in the crossover cast; use the short transliteration rather than inventing a nickname. |
 | Pinkie Pie | Пинки Пай | Project / story-43 / MLP usage | Keep the standard fandom transliteration for the hyperverbal party-pony crossover lead; avoid translating `Pinkie` descriptively in running text once Harry learns her real name. |
 | Pinkamena Diane Pie | Пинкамина Дайан Пай | Project / story-43 / MLP usage | Full formal name used for comic or emphatic self-introductions; keep the familiar fandom given-name form rather than trying to Russify it further. |
 | Princess Celestia | принцесса Селестия | Project / story-43 / MLP usage | Royal title in the crossover cast; keep the title lowercase in running text unless a sentence position requires capitalization. |
+| Princess of Friendship | принцесса Дружбы | Project / story-43 / MLP usage | Twilight's title; keep the title phrase literal and lowercase in running text outside sentence starts. |
+| alicorn | аликорн | Project / story-43 / MLP usage | Winged unicorn / royal pony type; use lowercase as a species or class term in narration and dialogue. |
+| cutie mark | метка отличия | Project / story-43 / MLP usage | Use the standard Russian fandom term for the flank symbol tied to a pony's calling. |
+| Equestria | Эквестрия | Project / story-43 / MLP usage | Twilight's home realm; keep the established fandom transliteration. |
+| Ponyville | Понивилль | Project / story-43 / MLP usage | Town in Equestria; keep the established fandom transliteration with double `л`. |
+| Star Swirl the Bearded | Стар Свирл Бородатый | Project / story-43 / MLP usage | Legendary wizard pony; keep the fandom transliteration and literal epithet. |
+| Grogar | Грогар | Project / story-43 / MLP usage | Ancient villain / sibling reference in the crossover backstory. |
+| Storm King | Король Бурь | Project / story-43 / MLP usage | Villain from Derpy's anecdote; keep the concise title form. |
 | Francis Bacon | Фрэнсис Бэкон | Project / story-27 | Use the standard historical form when Harry initially misidentifies Bacon's diary. |
 | Nymphadora Tonks | Нимфадора Тонкс | Potter's Army / ROSMEN | Canon full name. |
 | Tonks | Тонкс | Potter's Army / ROSMEN | Common short form in dialogue and narration. |
@@ -351,6 +362,7 @@ across multiple segments.
 | Elixir of Sorcery | Эликсир Волшебства | Project / story-27 | Companion elixir from the Philosopher's Stone that restores magical capacity; keep the abstract noun, not a pseudo-scientific calque. |
 | Elixir of Nobility | Эликсир Благородства | Project / story-27 | Third Philosopher's Stone product tied to noble metals; keep the elevated alchemical phrasing. |
 | Mirror of Erised | Зеркало Еиналеж | Potter's Army / ROSMEN | Magical mirror revealing deepest desire. |
+| Mirror of Noitilov | Зеркало Нойтилов | Project / story-43 | Artifact mirror identified with the Element of Space; transliterate the invented proper name and keep the mirror label parallel to `Зеркало Еиналеж`. |
 | Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
 | Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
 | International Confederation of Wizards | Международная конфедерация магов | Potter's Army / ROSMEN | Dumbledore is the Supreme Mugwump of this body in canon and fanfic usage. |
