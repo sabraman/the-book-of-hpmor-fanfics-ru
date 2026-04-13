@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 221,
-  readableChapterCount: 221,
-  readableBookCount: 40,
+  translatedSegmentCount: 222,
+  readableChapterCount: 222,
+  readableBookCount: 41,
 } as const;
 
 export const books: BookMeta[] = [
@@ -496,12 +496,12 @@ export const books: BookMeta[] = [
     "id": "story-42",
     "slug": "harry-potter-and-the-philosophers-zombie",
     "href": "/books/harry-potter-and-the-philosophers-zombie",
-    "title": "Harry Potter and the Philosopher's Zombie",
+    "title": "Гарри Поттер и философский зомби",
     "originalTitle": "Harry Potter and the Philosopher's Zombie",
     "order": 305,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-43",
@@ -3530,6 +3530,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 2: Дополнение",
     "originalTitle": "Chapter 2: Addendum"
+  },
+  {
+    "bookId": "story-42",
+    "bookSlug": "harry-potter-and-the-philosophers-zombie",
+    "slug": "seg-0307",
+    "href": "/books/harry-potter-and-the-philosophers-zombie/chapters/seg-0307",
+    "order": 307,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -3755,4 +3766,5 @@ export const chapterModules = {
   "seg-0300": () => import("@/content/chapters/seg-0300.mdx"),
   "seg-0303": () => import("@/content/chapters/seg-0303.mdx"),
   "seg-0304": () => import("@/content/chapters/seg-0304.mdx"),
+  "seg-0307": () => import("@/content/chapters/seg-0307.mdx"),
 } as const;
