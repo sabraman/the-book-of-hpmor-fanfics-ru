@@ -66,6 +66,7 @@ across multiple segments.
 | Harry Potter and the Philosopher's Zombie | Гарри Поттер и философский зомби | Project / story-42 | Story title; keep the echo of `Философский камень`, but let the second half stay blunt and pulpy rather than over-explained. |
 | The Longest Day | Самый долгий день | Project / story-43 | Story title; keep the phrase direct and portentous so it can carry both the literal apocalyptic day and the story's high-stakes crossover melodrama. |
 | Rhapsody in Blue | Рапсодия в синем | Project / story-43 | Chapter 5 title; keep it compact and music-title-like so later author notes can refer back to the graphic-novel section by the same Russian heading. |
+| My Past Is Not Today | Моё прошлое — не моё настоящее | Project / story-43 | Chapter 6 title; recast `today` as `настоящее` so the heading reads naturally in Russian while keeping Albus' refusal to be defined by his past. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | Consequences | Последствия | Project / story-40 | Chapter 4 title; keep the heading terse and procedural, emphasizing the legal and political fallout of Harry's Azkaban intervention. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
@@ -193,6 +194,12 @@ across multiple segments.
 | Mad-Eye | Грозный Глаз | Potter's Army / ROSMEN | Canon nickname of Alastor Moody in dialogue and recollection. |
 | Dolores Umbridge | Долорес Амбридж | Potter's Army / ROSMEN | Canon form. |
 | Lucius Malfoy | Люциус Малфой | Potter's Army / ROSMEN | Canon form. |
+| Eye of Vance | Глаз Вэнса | Project / recurring anthology usage | Magical detection artifact carried by Moody and other investigators; keep the surname in a straightforward transliteration. |
+| Forbearance | Хранение | Project / story-43 / recurring anthology usage | Ancient funerary transfiguration state that preserves a wizard's remains and spirit through lineage magic; capitalize when used as the ritual term. |
+| Ritual of Forbearance | Ритуал Хранения | Project / story-43 / recurring anthology usage | Formal name of the preservation rite; keep it distinct from later `Ритуал предков`, which is the follow-on ancestral honor. |
+| Ritual of the Forbears | Ритуал предков | Project / story-43 | Ancestor rite following `Хранение`; render `forbears` plainly as `предки` instead of inventing an Atlantis-specific title. |
+| Awakening | Пробуждение | Project / story-43 | Capitalize when it refers to the formal posthumous rite denied to Narcissa and discussed in this story cycle. |
+| Oblatorium | Облаторий | Project / story-43 / recurring anthology usage | Family memorial chamber that houses preserved ancestral tokens; keep the Latin-like proper noun rather than translating it generically. |
 | Viktor Krum | Виктор Крам | Potter's Army / ROSMEN | Canon form. |
 | Luna Lovegood | Полумна Лавгуд | Potter's Army / ROSMEN | Canon form. |
 | Romilda Vane | Ромильда Вейн | Potter's Army / ROSMEN | Canon form. |
