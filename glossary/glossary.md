@@ -65,6 +65,7 @@ across multiple segments.
 | Repairing Ignorance | Исправляя невежество | Project / story-41 | Story title; use an active gerundive phrasing so the `repairing` / `Reparo` conceit stays legible while the Russian still reads like a natural title. |
 | Harry Potter and the Philosopher's Zombie | Гарри Поттер и философский зомби | Project / story-42 | Story title; keep the echo of `Философский камень`, but let the second half stay blunt and pulpy rather than over-explained. |
 | The Longest Day | Самый долгий день | Project / story-43 | Story title; keep the phrase direct and portentous so it can carry both the literal apocalyptic day and the story's high-stakes crossover melodrama. |
+| Rhapsody in Blue | Рапсодия в синем | Project / story-43 | Chapter 5 title; keep it compact and music-title-like so later author notes can refer back to the graphic-novel section by the same Russian heading. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | Consequences | Последствия | Project / story-40 | Chapter 4 title; keep the heading terse and procedural, emphasizing the legal and political fallout of Harry's Azkaban intervention. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
