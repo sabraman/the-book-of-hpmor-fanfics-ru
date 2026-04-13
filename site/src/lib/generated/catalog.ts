@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 233,
-  readableChapterCount: 233,
+  translatedSegmentCount: 234,
+  readableChapterCount: 234,
   readableBookCount: 42,
 } as const;
 
@@ -510,9 +510,9 @@ export const books: BookMeta[] = [
     "title": "Самый долгий день",
     "originalTitle": "The Longest Day",
     "order": 308,
-    "readableChapterCount": 11,
+    "readableChapterCount": 12,
     "totalChapterCount": 25,
-    "translatedSegmentCount": 11
+    "translatedSegmentCount": 12
   },
   {
     "id": "story-44",
@@ -3662,6 +3662,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 11: Эндшпиль",
     "originalTitle": "Chapter 11: Endgame"
+  },
+  {
+    "bookId": "story-43",
+    "bookSlug": "the-longest-day",
+    "slug": "seg-0321",
+    "href": "/books/the-longest-day/chapters/seg-0321",
+    "order": 321,
+    "orderWithinBook": 12,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 12: По обе стороны",
+    "originalTitle": "Chapter 12: Both Sides Now"
   }
 ] as ChapterMeta[];
 
@@ -3899,4 +3910,5 @@ export const chapterModules = {
   "seg-0318": () => import("@/content/chapters/seg-0318.mdx"),
   "seg-0319": () => import("@/content/chapters/seg-0319.mdx"),
   "seg-0320": () => import("@/content/chapters/seg-0320.mdx"),
+  "seg-0321": () => import("@/content/chapters/seg-0321.mdx"),
 } as const;
