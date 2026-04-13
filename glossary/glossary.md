@@ -149,6 +149,8 @@ across multiple segments.
 | Padma Patil | Падма Патил | Potter's Army / ROSMEN | Canon form. |
 | Parvati Patil | Парвати Патил | Potter's Army / ROSMEN | Canon form. |
 | Hannah Abbott | Ханна Аббот | Potter's Army / ROSMEN | Canon form. |
+| Peregrine Derrick | Перегрин Деррик | Project / recurring anthology usage | Hogwarts bully / Quidditch player; keep the uncommon given name in the compact `Перегрин` form already implied by adjacent anthology usage. |
+| Robert Jugson | Роберт Джагсон | Project / recurring anthology usage | Younger Jugson family member in the Hogwarts-era plotlines; keep the surname aligned with the already-established `лорд Джагсон` form. |
 | Tom Riddle | Том Реддл | Potter's Army / ROSMEN | Canon form for Voldemort before he took the name `Lord Voldemort`. |
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Nicolas Flamel | Николас Фламель | Potter's Army / ROSMEN | Canon alchemist name; keep the given name in the `Николас`, not `Николя`, form already used in this project. |
@@ -238,6 +240,8 @@ across multiple segments.
 | Orney | Орни | Project / Tom Riddle Conflict | House-elf assigned to a Slytherin family before becoming a Hogwarts employee. |
 | Valerie Anderton | Валери Андертон | Project / Blue Tigers | Older Ravenclaw student who helps Amy question mathemagics. |
 | Jaime Astorga | Хайме Асторга | Project / story-27 | Student surname in Hermione's Slytherin-reform subplot; keep the Spanish given name in the `Хайме` form. |
+| Reese Belka | Риз Белка | Project / recurring anthology usage | Slytherin student; keep the terse `Риз` transliteration and the already-imported surname form `Белка`. |
+| Lucian Bole | Люциан Боле | Project / recurring anthology usage | Slytherin / Quidditch surname from canon plus a fanon given name; keep the full form compact and straightforward in school-era scenes. |
 | Perspicacia Foundry | Перспикация Фаундри | Project / Blue Tigers | Potions professor pressed into teaching rationality. |
 | Myrddin Wyllt | Мирддин Уилт | Project / Blue Tigers | Historical point-of-view character in this story cycle. |
 | Madam Chani | мадам Чани | Project / Tom Riddle Origins | Caretaker / guardian figure in Tom's childhood section. |
