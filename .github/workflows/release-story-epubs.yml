@@ -43,19 +43,19 @@ concurrency:
 
 jobs:
   detect:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     outputs:
       story_ids: ${{ steps.stories.outputs.story_ids }}
       story_count: ${{ steps.stories.outputs.story_count }}
       require_reviewed: ${{ steps.settings.outputs.require_reviewed }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
@@ -63,6 +63,14 @@ jobs:
         uses: oven-sh/setup-bun@v2
         with:
           bun-version: "1.3.3"
+
+      - name: Restore Bun cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.bun/install/cache
+            site/node_modules
+          key: ${{ runner.os }}-bun-${{ hashFiles('site/bun.lock', 'site/package.json', 'package.json') }}
 
       - name: Install Bun dependencies
         run: bun install --cwd site --frozen-lockfile
@@ -110,7 +118,16 @@ jobs:
               $([[ "${{ steps.settings.outputs.require_reviewed }}" == "true" ]] && echo --require-reviewed) \
               --json > ready.json
 
-            python3 -c 'import json, os; requested = os.environ["REQUESTED_STORY_ID"]; ready = json.load(open("ready.json", encoding="utf-8")); selected = [item["story_id"] for item in ready if item["story_id"] == requested]; (_ for _ in ()).throw(SystemExit(f"Requested story is not release-ready: {requested}")) if not selected else None; handle = open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"); handle.write(f"story_ids={json.dumps(selected)}\n"); handle.write(f"story_count={len(selected)}\n"); handle.close()'
+            STORY_IDS="$(jq -c --arg requested "$REQUESTED_STORY_ID" '[.[] | select(.story_id == $requested) | .story_id]' ready.json)"
+            STORY_COUNT="$(jq -r 'length' <<< "$STORY_IDS")"
+            if [[ "$STORY_COUNT" == "0" ]]; then
+              echo "Requested story is not release-ready: $REQUESTED_STORY_ID" >&2
+              exit 1
+            fi
+            {
+              echo "story_ids=$STORY_IDS"
+              echo "story_count=$STORY_COUNT"
+            } >> "$GITHUB_OUTPUT"
           else
             BEFORE="${{ github.event.before }}"
             if [[ -z "$BEFORE" || "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
@@ -129,7 +146,12 @@ jobs:
               $([[ "${{ steps.settings.outputs.require_reviewed }}" == "true" ]] && echo --require-reviewed) \
               --json > release-candidates.json
 
-            python3 -c 'import json, os; payload = json.load(open("release-candidates.json", encoding="utf-8")); story_ids = [item["story_id"] for item in payload["selected"]]; handle = open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"); handle.write(f"story_ids={json.dumps(story_ids)}\n"); handle.write(f"story_count={len(story_ids)}\n"); handle.close()'
+            STORY_IDS="$(jq -c '[.selected[].story_id]' release-candidates.json)"
+            STORY_COUNT="$(jq -r '.selected | length' release-candidates.json)"
+            {
+              echo "story_ids=$STORY_IDS"
+              echo "story_count=$STORY_COUNT"
+            } >> "$GITHUB_OUTPUT"
           fi
         env:
           REQUESTED_STORY_ID: ${{ inputs.story_id }}
@@ -142,27 +164,28 @@ jobs:
   release:
     needs: detect
     if: needs.detect.outputs.story_count != '0'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       matrix:
         story_id: ${{ fromJson(needs.detect.outputs.story_ids) }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
           ref: ${{ github.sha }}
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
       - name: Install system dependencies
         run: |
+          export DEBIAN_FRONTEND=noninteractive
           sudo apt-get update
-          sudo apt-get install -y pandoc calibre
+          sudo apt-get install -y --no-install-recommends pandoc calibre
 
       - name: Build story EPUB
         run: |
@@ -176,7 +199,22 @@ jobs:
         id: meta
         shell: bash
         run: |
-          python3 -c 'import json, os; payload = json.load(open("release.json", encoding="utf-8")); story_title = payload["story_title"]; output_epub = payload["output_epub"]; story_id = payload["story_id"]; handle = open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"); handle.write(f"story_title={story_title}\n"); handle.write(f"output_epub={output_epub}\n"); handle.write(f"tag_name=various-muggles-{story_id}-ru\n"); handle.write(f"release_name={story_title} (RU EPUB)\n"); handle.close()'
+          STORY_TITLE="$(jq -r '.story_title' release.json)"
+          OUTPUT_EPUB="$(jq -r '.output_epub' release.json)"
+          STORY_ID="$(jq -r '.story_id' release.json)"
+          {
+            echo "story_title=$STORY_TITLE"
+            echo "output_epub=$OUTPUT_EPUB"
+            echo "tag_name=various-muggles-$STORY_ID-ru"
+            echo "release_name=$STORY_TITLE (RU EPUB)"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Upload EPUB artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.story_id }}-epub
+          path: ${{ steps.meta.outputs.output_epub }}
+          if-no-files-found: error
 
       - name: Publish GitHub release
         uses: softprops/action-gh-release@v2
