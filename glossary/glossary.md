@@ -193,6 +193,9 @@ across multiple segments.
 | Perenelle Dumarais | Перенель Дюмаре | Project / story-43 / recurring anthology usage | Use this surname form for Perenelle before or alongside `Фламель`; normalize split `du Marais` spellings to the single Russian form. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Bellatrix Black | Беллатриса Блэк | Project / Tom Riddle Conflict | Alternate-era Bellatrix before marriage in this story cycle. |
+| Cygnus Black | Сигнус Блэк | Potter's Army / canon-family usage | Bellatrix's father in Black family flashbacks; keep the star-name form `Сигнус`. |
+| Druella Black | Друэлла Блэк | Potter's Army / canon-family usage | Bellatrix's mother in Black family flashbacks; keep the double-`л` spelling in Russian. |
+| Gilles de Rosier | Жиль де Розье | Project / story-43 / recurring anthology usage | Bellatrix's maternal uncle in the prewar Black family scenes; use the French-form given name `Жиль`. |
 | Blaise Zabini | Блейз Забини | Potter's Army / ROSMEN | Canon form. |
 | Minerva McGonagall | Минерва МакГонагалл | Potter's Army / ROSMEN | Do not use `Макгонагал` or mixed forms. |
 | Pius Thicknesse | Пий Толстоватый | Potter's Army / ROSMEN | Canon Ministry official; keep the official Russian surname form from established canon naming. |
@@ -208,6 +211,7 @@ across multiple segments.
 | Mad-Eye | Грозный Глаз | Potter's Army / ROSMEN | Canon nickname of Alastor Moody in dialogue and recollection. |
 | Dolores Umbridge | Долорес Амбридж | Potter's Army / ROSMEN | Canon form. |
 | Lucius Malfoy | Люциус Малфой | Potter's Army / ROSMEN | Canon form. |
+| Narcissa Black | Нарцисса Блэк | Project / story-43 / pre-marriage usage | Use when the story stresses Narcissa's maiden identity before she becomes `Нарцисса Малфой`. |
 | Scott Parajsa | Скотт Парайса | Project / story-43 / recurring anthology usage | Ancient sorcerer tied to the philosopher's stone lineage; keep this transliteration for the human-world alias-bearing identity. |
 | Lasombra | Ласомбра | Project / story-43 / recurring anthology usage | Scott Parajsa's modern alias; keep it distinct from the older proper name `Сомбра`. |
 | Eye of Vance | Глаз Вэнса | Project / recurring anthology usage | Magical detection artifact carried by Moody and other investigators; keep the surname in a straightforward transliteration. |
@@ -495,6 +499,7 @@ across multiple segments.
 | Liquid Sheep | Жидкая овечка | Project / story-10 | Mild sleep potion; preserve the whimsical potion-name register. |
 | butterbeer | сливочное пиво | Potter's Army / ROSMEN | Standard drink name. |
 | firewhiskey | огневиски | Potter's Army / ROSMEN | Standard drink name. |
+| Borgin and Burkes | Горбин и Бэркес | Potter's Army / ROSMEN | Knockturn Alley dark-arts shop; normalize source typo variants like `Burgin and Burke's` to the canon Russian shop name. |
 | unicorn | единорог | Potter's Army / ROSMEN | Magical creature. |
 | occamy | оккамий | Potter's Army / Fantastic Beasts usage / project transliteration | Magical birdlike creature name referenced in the `Squiring the Phoenix` industrial-brewing subplot; use `яйца оккамия / оккамиев` by context. |
 | full moon | полнолуние | Potter's Army / ROSMEN | Standard phrase for werewolf context. |
