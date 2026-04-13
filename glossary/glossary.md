@@ -72,6 +72,7 @@ across multiple segments.
 | The Muggle War | Война с маглами | Project / story-27 | Shared chapter-title stem for Chapters 102-104; make the conflict explicitly about war against / over Muggles rather than sounding like a war fought by Muggles alone. |
 | The Man Who Lived | Человек, который выжил | Project / story-27 | Chapter 116 title; echo the canon `Boy-Who-Lived` cadence without replacing it with the fixed epithet `Мальчик-Который-Выжил`. |
 | Questions | Вопросы | Project / story-26 | Chapter 4 title; keep it terse and neutral, letting the surrounding narration supply the mounting tension. |
+| Stars | Звёзды | Project / story-40 | Chapter 3 title; keep the heading simple and expansive so it can point both to Harry's orbital star-gazing trip with Quirrell and to Trelawney's apocalyptic prophecy about the stars. |
 | Speculating | Предположения | Project / story-26 | Chapter 5 title; prefer a neutral heading about inference and theory-building over a fussy literalism. |
 | A Black Trial | Суд над Блэком | Project / story-28 | Chapter 4 title; keep the surname explicit so the heading reads like a legal proceeding while preserving the Black-family ambiguity. |
 | Transfiguring Energy | Энергия трансфигурации | Project / story-28 | Chapter 5 title; frame the heading around energy extracted via transfiguration, not around the act of magically `transfiguring` energy itself. |
@@ -459,6 +460,7 @@ across multiple segments.
 | Department of Magical Law Enforcement | Департамент магического правопорядка | Potter's Army / ROSMEN | Ministry law-enforcement department; abbreviate only when natural in Russian context. |
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
 | Hall of Prophecy | Зал Пророчеств | Potter's Army / ROSMEN / project usage | Room within the Department of Mysteries where recorded prophecies are stored and heard by those named in them. |
+| magical singularity | магическая сингулярность | Project / story-40 | Term used by prophecy scholars for the theory that the world has become too unpredictable for prophecy to see past a certain point; keep it as a slightly jargon-heavy phrase in running text. |
 | Unspeakables | невыразимцы | Potter's Army / ROSMEN | Canon name for Department of Mysteries personnel. |
 | Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
 | Phoenix Price room | комната Цены Феникса | Project / HPMOR fanfic usage | Dumbledore's memorial room of losses and relics; keep the phrase capitalized as a named place despite the source's slightly odd wording. |
