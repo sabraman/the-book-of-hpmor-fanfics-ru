@@ -176,7 +176,7 @@ jobs:
         id: meta
         shell: bash
         run: |
-          python3 -c 'import json, os; payload = json.load(open("release.json", encoding="utf-8")); handle = open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"); handle.write(f"story_title={payload[\"story_title\"]}\n"); handle.write(f"output_epub={payload[\"output_epub\"]}\n"); handle.write(f"tag_name=various-muggles-{payload[\"story_id\"]}-ru\n"); handle.write(f"release_name={payload[\"story_title\"]} (RU EPUB)\n"); handle.close()'
+          python3 -c 'import json, os; payload = json.load(open("release.json", encoding="utf-8")); story_title = payload["story_title"]; output_epub = payload["output_epub"]; story_id = payload["story_id"]; handle = open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"); handle.write(f"story_title={story_title}\n"); handle.write(f"output_epub={output_epub}\n"); handle.write(f"tag_name=various-muggles-{story_id}-ru\n"); handle.write(f"release_name={story_title} (RU EPUB)\n"); handle.close()'
 
       - name: Publish GitHub release
         uses: softprops/action-gh-release@v2
