@@ -233,6 +233,38 @@ python3 scripts/merge_and_build.py \
   --title "Книга фанфиков ГПиМРМ"
 ```
 
+Story release EPUB build:
+
+```bash
+python3 scripts/build_story_release.py \
+  --book-id various-muggles \
+  --story-id story-01 \
+  --require-reviewed
+```
+
+List story releases that are ready now:
+
+```bash
+python3 scripts/build_story_release.py \
+  --book-id various-muggles \
+  --list-complete
+```
+
+Detect stories that became release-ready between two refs:
+
+```bash
+python3 scripts/detect_story_release_candidates.py \
+  --book-id various-muggles \
+  --base-ref origin/main \
+  --head-ref HEAD
+```
+
+GitHub Actions automation:
+
+- `.github/workflows/release-story-epubs.yml` publishes one stable GitHub release per fully ready story.
+- Pushes to `main` publish stories that either became ready in that push range or changed while still remaining release-ready.
+- Manual `workflow_dispatch` can rebuild or republish a specific ready story.
+
 Strict release-style build:
 
 ```bash
@@ -248,6 +280,7 @@ Build outputs land in:
 - `books/various-muggles/build/various-muggles-ru.md`
 - `books/various-muggles/build/various-muggles-ru.html`
 - `books/various-muggles/build/various-muggles-ru.epub`
+- `books/various-muggles/build/releases/<story-id>/...`
 
 By default the builder uses translated output when it exists and falls back to
 the source segment when it does not. That keeps HTML and EPUB previews usable
