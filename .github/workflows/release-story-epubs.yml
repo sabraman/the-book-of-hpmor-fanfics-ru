@@ -110,17 +110,9 @@ jobs:
               $([[ "${{ steps.settings.outputs.require_reviewed }}" == "true" ]] && echo --require-reviewed) \
               --json > ready.json
 
-            python3 -c '
-            import json, os
-            requested = os.environ["REQUESTED_STORY_ID"]
-            ready = json.load(open("ready.json", encoding="utf-8"))
-            selected = [item["story_id"] for item in ready if item["story_id"] == requested]
-            if not selected:
-                raise SystemExit(f"Requested story is not release-ready: {requested}")
-            with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
-                handle.write(f"story_ids={json.dumps(selected)}\n")
-                handle.write(f"story_count={len(selected)}\n")
-            '
+            python3 -c 'import json, os; requested = os.environ["REQUESTED_STORY_ID"]; ready = json.load(open("ready.json", encoding="utf-8")); selected = [item["story_id"] for item in ready if item["story_id"] == requested]; \
+if not selected: raise SystemExit(f"Requested story is not release-ready: {requested}"); \
+handle = open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"); handle.write(f"story_ids={json.dumps(selected)}\n"); handle.write(f"story_count={len(selected)}\n"); handle.close()'
           else
             BEFORE="${{ github.event.before }}"
             if [[ -z "$BEFORE" || "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
@@ -139,14 +131,8 @@ jobs:
               $([[ "${{ steps.settings.outputs.require_reviewed }}" == "true" ]] && echo --require-reviewed) \
               --json > release-candidates.json
 
-            python3 -c '
-            import json, os
-            payload = json.load(open("release-candidates.json", encoding="utf-8"))
-            story_ids = [item["story_id"] for item in payload["selected"]]
-            with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
-                handle.write(f"story_ids={json.dumps(story_ids)}\n")
-                handle.write(f"story_count={len(story_ids)}\n")
-            '
+            python3 -c 'import json, os; payload = json.load(open("release-candidates.json", encoding="utf-8")); story_ids = [item["story_id"] for item in payload["selected"]]; \
+handle = open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"); handle.write(f"story_ids={json.dumps(story_ids)}\n"); handle.write(f"story_count={len(story_ids)}\n"); handle.close()'
           fi
         env:
           REQUESTED_STORY_ID: ${{ inputs.story_id }}
@@ -193,15 +179,8 @@ jobs:
         id: meta
         shell: bash
         run: |
-          python3 -c '
-          import json, os
-          payload = json.load(open("release.json", encoding="utf-8"))
-          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as handle:
-              handle.write(f"story_title={payload['story_title']}\n")
-              handle.write(f"output_epub={payload['output_epub']}\n")
-              handle.write(f"tag_name=various-muggles-{payload['story_id']}-ru\n")
-              handle.write(f"release_name={payload['story_title']} (RU EPUB)\n")
-          '
+          python3 -c 'import json, os; payload = json.load(open("release.json", encoding="utf-8")); \
+handle = open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8"); handle.write(f"story_title={payload[\"story_title\"]}\n"); handle.write(f"output_epub={payload[\"output_epub\"]}\n"); handle.write(f"tag_name=various-muggles-{payload[\"story_id\"]}-ru\n"); handle.write(f"release_name={payload[\"story_title\"]} (RU EPUB)\n"); handle.close()'
 
       - name: Publish GitHub release
         uses: softprops/action-gh-release@v2
