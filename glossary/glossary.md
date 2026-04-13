@@ -165,6 +165,7 @@ across multiple segments.
 | Princess of the Sun | принцесса Солнца | Project / story-43 / MLP usage | Cosmological / civic title in Rainbow Dash's explanation of how new life is approved; keep it literal and lowercase in running text. |
 | Princess of the Night | принцесса Ночи | Project / story-43 / MLP usage | Cosmological / civic title in Rainbow Dash's explanation of how new life is chosen from the stars; keep it literal and lowercase in running text. |
 | Friendship Map | Карта дружбы | Project / story-43 / MLP usage | Translate literally and capitalize as the in-world proper name of the map that summons the group to solve friendship problems. |
+| Sonic Rainboom | Соник Рейнбум | Project / story-43 / MLP usage | Rainbow Dash's signature shockwave stunt; keep the familiar fandom transliteration rather than translating it descriptively. |
 | Ball of Prophecies | Шар пророчеств | Project / story-43 / MLP usage | Discord's joking local alias for the Friendship Map while the group is in the wizarding world; keep the phrase capitalized as a mock proper name. |
 | alicorn | аликорн | Project / story-43 / MLP usage | Winged unicorn / royal pony type; use lowercase as a species or class term in narration and dialogue. |
 | cutie mark | метка отличия | Project / story-43 / MLP usage | Use the standard Russian fandom term for the flank symbol tied to a pony's calling. |
@@ -674,8 +675,10 @@ raw Latin spelling where we have already normalized them in this project.
 | Amplifying Charm | усиливающие чары | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Сонорус`. |
 | Memory Charm | заклятие забвения | Potter's Army / ROSMEN / usage | Narrative spell-name form distinct from the incantation `Обливиэйт`. |
 | Homorphus | Хоморфус | Harry Potter Wiki RU / canon usage | Werewolf-revealing / human-form incantation; keep the Russian-script spell form in dialogue. |
+| Helden Sterben Nicht | Хельден Штербен Нихт | Project / story-43 | Angela Ziegler's dramatic healing cry during Quirrell's surprise battle exam; keep the German-form phrase in Russian script rather than translating it semantically. |
 | Levitation Charm | заклинание левитации | Potter's Army / ROSMEN / usage | Generic spell-name form distinct from the specific incantation `Wingardium Leviosa`. |
 | Lumos | Люмос | Harry Potter Wiki RU / canon usage | Wand-lighting charm incantation. |
+| Malleus Descendum | Маллеус Десцендум | Project / story-43 | Hammer-drop shockwave incantation used in the Forbidden Forest battle exam; keep the faux-Latin spell name in Russian script. |
 | Wand-Lighting Charm | заклинание зажжения палочки | Project / story-10 | Narrative name for `Lumos` when the text names the basic beginner charm rather than the incantation. |
 | Muffliato | Муффлиато | Harry Potter Wiki RU / canon usage | Anti-eavesdropping incantation. |
 | Ventriliquo | Вентриликво | Project / story-24 | Voice-throwing / remote-speech incantation used for commentary hijacks and broom-team coordination; keep the spell name transliterated in dialogue. |
@@ -956,9 +959,11 @@ itself over literal back-translation of the English wording.
 | Blood-Cooling Charm | заклятие охлаждения крови | Project / story-27 | Spell used in the Draco framing plotline; keep the phrasing clinical and literal rather than ornamental. |
 | Dementation | дементация | Project / story-27+ | Term for the soul-and-magic damage caused by Dementors; keep the coined, quasi-technical form so later `anti-Dementation` references stay transparent. |
 | Demented | обездушенные | Project / story-27+ | Use `обездушенный` / `обездушенные` for people reduced by dementation; keep the wording concrete and bodily rather than euphemistic. |
+| Blue Krait | голубой крайт | Project / recurring anthology usage | Venomous snake species tied to Lucius Malfoy's imagery and animagus associations; use the standard Russian common name in lowercase outside sentence starts. |
 | surfaces | поверхности | Project / story-19 | Quirrell's introspective term for the outer structures of consciousness encountered first in legilimency; lowercase in running text. |
 | Elements of Harmony | Элементы Гармонии | Project / story-43 / MLP usage | Capitalize the artifact-set name in narration and dialogue; keep the phrase literal and high-mythic rather than inventing a looser paraphrase. |
 | Discordpedia | Дискордпедия | Project / story-43 | Joke encyclopedia title; keep the Wikipedia echo explicit in Russian and preserve the mock-reference tone in repeated mentions. |
+| Plain Jane | Джейн Плейн | Project / story-43 | Discord's undercover Hogwarts alias for Fluttershy; keep the faux-name in the same order as the announced school roster form. |
 
 ## Usage Rules
 
