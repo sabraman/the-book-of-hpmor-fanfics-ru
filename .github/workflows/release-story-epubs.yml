@@ -1,5 +1,10 @@
 name: Release Story EPUBs
 
+env:
+  BOOK_ID: various-muggles
+  PYTHON_VERSION: "3.11"
+  BUN_VERSION: "1.3.3"
+
 on:
   push:
     branches:
@@ -57,12 +62,12 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
+          python-version: ${{ env.PYTHON_VERSION }}
 
       - name: Set up Bun
         uses: oven-sh/setup-bun@v2
         with:
-          bun-version: "1.3.3"
+          bun-version: ${{ env.BUN_VERSION }}
 
       - name: Restore Bun cache
         uses: actions/cache@v4
@@ -113,7 +118,7 @@ jobs:
             fi
 
             python3 scripts/build_story_release.py \
-              --book-id various-muggles \
+              --book-id "$BOOK_ID" \
               --list-complete \
               $([[ "${{ steps.settings.outputs.require_reviewed }}" == "true" ]] && echo --require-reviewed) \
               --json > ready.json
@@ -139,7 +144,7 @@ jobs:
             fi
 
             python3 scripts/detect_story_release_candidates.py \
-              --book-id various-muggles \
+              --book-id "$BOOK_ID" \
               --base-ref "$BEFORE" \
               --head-ref "${{ github.sha }}" \
               --include-changed-ready \
@@ -154,6 +159,7 @@ jobs:
             } >> "$GITHUB_OUTPUT"
           fi
         env:
+          BOOK_ID: ${{ env.BOOK_ID }}
           REQUESTED_STORY_ID: ${{ inputs.story_id }}
 
       - name: Show detected stories
@@ -179,7 +185,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
+          python-version: ${{ env.PYTHON_VERSION }}
 
       - name: Install system dependencies
         run: |
@@ -190,10 +196,12 @@ jobs:
       - name: Build story EPUB
         run: |
           python3 scripts/build_story_release.py \
-            --book-id various-muggles \
+            --book-id "$BOOK_ID" \
             --story-id "${{ matrix.story_id }}" \
             $([[ "${{ needs.detect.outputs.require_reviewed }}" == "true" ]] && echo --require-reviewed) \
             --json > release.json
+        env:
+          BOOK_ID: ${{ env.BOOK_ID }}
 
       - name: Read release metadata
         id: meta
@@ -215,6 +223,7 @@ jobs:
           name: ${{ matrix.story_id }}-epub
           path: ${{ steps.meta.outputs.output_epub }}
           if-no-files-found: error
+          retention-days: 14
 
       - name: Publish GitHub release
         uses: softprops/action-gh-release@v2
