@@ -159,6 +159,7 @@ across multiple segments.
 | Rainbow Dash | Рэйнбоу Дэш | Project / story-43 / MLP usage | Keep the standard fandom transliteration; Harry may initially call her `Радужная Ведьма` before learning her real name, but later narration and dialogue should use the proper name. |
 | Fluttershy | Флаттершай | Project / story-43 / MLP usage | Keep the established fandom transliteration for the shy pegasus in the crossover cast. |
 | Applejack | Эпплджек | Project / story-43 / MLP usage | Keep the familiar fandom transliteration rather than translating the apple pun in running text. |
+| Rarity | Рэрити | Project / story-43 / MLP usage | Keep the established fandom transliteration for the fashion-focused unicorn in the crossover cast; do not replace it with a translated epithet in running text once Harry learns her name. |
 | Princess Celestia | принцесса Селестия | Project / story-43 / MLP usage | Royal title in the crossover cast; keep the title lowercase in running text unless a sentence position requires capitalization. |
 | Princess Luna | принцесса Луна | Project / story-43 / MLP usage | Royal title in the crossover cast; keep the title lowercase in running text unless sentence position requires capitalization. |
 | Princess of Friendship | принцесса Дружбы | Project / story-43 / MLP usage | Twilight's title; keep the title phrase literal and lowercase in running text outside sentence starts. |
@@ -168,6 +169,8 @@ across multiple segments.
 | Sonic Rainboom | Соник Рейнбум | Project / story-43 / MLP usage | Rainbow Dash's signature shockwave stunt; keep the familiar fandom transliteration rather than translating it descriptively. |
 | Ball of Prophecies | Шар пророчеств | Project / story-43 / MLP usage | Discord's joking local alias for the Friendship Map while the group is in the wizarding world; keep the phrase capitalized as a mock proper name. |
 | alicorn | аликорн | Project / story-43 / MLP usage | Winged unicorn / royal pony type; use lowercase as a species or class term in narration and dialogue. |
+| pony | пони | Project / story-43 / MLP usage | Keep the species term as indeclinable `пони` in narration and dialogue rather than forcing a more zoological synonym. |
+| pegasus | пегас | Project / story-43 / MLP usage | Use the standard Russian species term; plural forms in running text should follow normal Russian inflection (`пегасы`, `пегаска` by context). |
 | cutie mark | метка отличия | Project / story-43 / MLP usage | Use the standard Russian fandom term for the flank symbol tied to a pony's calling. |
 | Equestria | Эквестрия | Project / story-43 / MLP usage | Twilight's home realm; keep the established fandom transliteration. |
 | Canterlot | Кантерлот | Project / story-43 / MLP usage | Capital city / royal seat in Equestria; keep the established fandom transliteration. |
@@ -981,6 +984,9 @@ itself over literal back-translation of the English wording.
 | Blue Krait | голубой крайт | Project / recurring anthology usage | Venomous snake species tied to Lucius Malfoy's imagery and animagus associations; use the standard Russian common name in lowercase outside sentence starts. |
 | surfaces | поверхности | Project / story-19 | Quirrell's introspective term for the outer structures of consciousness encountered first in legilimency; lowercase in running text. |
 | Elements of Harmony | Элементы Гармонии | Project / story-43 / MLP usage | Capitalize the artifact-set name in narration and dialogue; keep the phrase literal and high-mythic rather than inventing a looser paraphrase. |
+| Element of Honesty | Элемент Честности | Project / story-43 / MLP usage | Individual Harmony artifact title; capitalize both words when it names the specific element bound to truth and the Philosopher's Stone in this crossover cosmology. |
+| Ogres and Oubliettes | Огры и подземелья | Project / story-43 / MLP usage | Equestrian tabletop-RPG spoof of D&D; keep the parody legible in Russian by echoing the familiar `драконы и подземелья` cadence without introducing extra lore. |
+| The Limit of One Over X as X Approaches Zero Sack | Мешок предела единицы, делённой на икс, при иксе, стремящемся к нулю | Project / story-43 | Discord's absurd temporary name for Spike's pillowcase sack; keep the calculus phrasing maximally literal so the joke lands through sheer over-specificity. |
 | Discordpedia | Дискордпедия | Project / story-43 | Joke encyclopedia title; keep the Wikipedia echo explicit in Russian and preserve the mock-reference tone in repeated mentions. |
 | Plain Jane | Джейн Плейн | Project / story-43 | Discord's undercover Hogwarts alias for Fluttershy; keep the faux-name in the same order as the announced school roster form. |
 
