@@ -156,11 +156,20 @@ across multiple segments.
 | Spike | Спайк | Project / story-43 / MLP usage | Twilight's dragon companion in the crossover cast; use the short transliteration rather than inventing a nickname. |
 | Pinkie Pie | Пинки Пай | Project / story-43 / MLP usage | Keep the standard fandom transliteration for the hyperverbal party-pony crossover lead; avoid translating `Pinkie` descriptively in running text once Harry learns her real name. |
 | Pinkamena Diane Pie | Пинкамина Дайан Пай | Project / story-43 / MLP usage | Full formal name used for comic or emphatic self-introductions; keep the familiar fandom given-name form rather than trying to Russify it further. |
+| Rainbow Dash | Рэйнбоу Дэш | Project / story-43 / MLP usage | Keep the standard fandom transliteration; Harry may initially call her `Радужная Ведьма` before learning her real name, but later narration and dialogue should use the proper name. |
+| Fluttershy | Флаттершай | Project / story-43 / MLP usage | Keep the established fandom transliteration for the shy pegasus in the crossover cast. |
+| Applejack | Эпплджек | Project / story-43 / MLP usage | Keep the familiar fandom transliteration rather than translating the apple pun in running text. |
 | Princess Celestia | принцесса Селестия | Project / story-43 / MLP usage | Royal title in the crossover cast; keep the title lowercase in running text unless a sentence position requires capitalization. |
+| Princess Luna | принцесса Луна | Project / story-43 / MLP usage | Royal title in the crossover cast; keep the title lowercase in running text unless sentence position requires capitalization. |
 | Princess of Friendship | принцесса Дружбы | Project / story-43 / MLP usage | Twilight's title; keep the title phrase literal and lowercase in running text outside sentence starts. |
+| Princess of the Sun | принцесса Солнца | Project / story-43 / MLP usage | Cosmological / civic title in Rainbow Dash's explanation of how new life is approved; keep it literal and lowercase in running text. |
+| Princess of the Night | принцесса Ночи | Project / story-43 / MLP usage | Cosmological / civic title in Rainbow Dash's explanation of how new life is chosen from the stars; keep it literal and lowercase in running text. |
+| Friendship Map | Карта дружбы | Project / story-43 / MLP usage | Translate literally and capitalize as the in-world proper name of the map that summons the group to solve friendship problems. |
+| Ball of Prophecies | Шар пророчеств | Project / story-43 / MLP usage | Discord's joking local alias for the Friendship Map while the group is in the wizarding world; keep the phrase capitalized as a mock proper name. |
 | alicorn | аликорн | Project / story-43 / MLP usage | Winged unicorn / royal pony type; use lowercase as a species or class term in narration and dialogue. |
 | cutie mark | метка отличия | Project / story-43 / MLP usage | Use the standard Russian fandom term for the flank symbol tied to a pony's calling. |
 | Equestria | Эквестрия | Project / story-43 / MLP usage | Twilight's home realm; keep the established fandom transliteration. |
+| Canterlot | Кантерлот | Project / story-43 / MLP usage | Capital city / royal seat in Equestria; keep the established fandom transliteration. |
 | Ponyville | Понивилль | Project / story-43 / MLP usage | Town in Equestria; keep the established fandom transliteration with double `л`. |
 | Star Swirl the Bearded | Стар Свирл Бородатый | Project / story-43 / MLP usage | Legendary wizard pony; keep the fandom transliteration and literal epithet. |
 | Grogar | Грогар | Project / story-43 / MLP usage | Ancient villain / sibling reference in the crossover backstory. |
