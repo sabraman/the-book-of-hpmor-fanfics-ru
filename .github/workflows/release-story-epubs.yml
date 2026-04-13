@@ -21,6 +21,7 @@ on:
       - "pyproject.toml"
       - "uv.lock"
       - "site/bun.lock"
+      - ".github/workflows/release-story-epubs.yml"
   workflow_dispatch:
     inputs:
       story_id:
