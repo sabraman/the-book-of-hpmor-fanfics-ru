@@ -64,7 +64,7 @@ across multiple segments.
 | Continuing HPMoR: Reductionism for the Win | Продолжение ГПиМРМ: редукционизм побеждает | Project / story-40 | Story title; keep the fanfic-sequel framing explicit through `Продолжение ГПиМРМ`, and render `Reductionism for the Win` as a brisk, slogan-like payoff rather than a literal calque. |
 | Repairing Ignorance | Исправляя невежество | Project / story-41 | Story title; use an active gerundive phrasing so the `repairing` / `Reparo` conceit stays legible while the Russian still reads like a natural title. |
 | Harry Potter and the Philosopher's Zombie | Гарри Поттер и философский зомби | Project / story-42 | Story title; keep the echo of `Философский камень`, but let the second half stay blunt and pulpy rather than over-explained. |
-| The Longest Day | Самый долгий день | Project / story-43 | Story title; keep the apocalyptic echo of the prophecy while using the idiomatic Russian `долгий`, not a stiff literal superlative. |
+| The Longest Day | Самый долгий день | Project / story-43 | Story title; keep the phrase direct and portentous so it can carry both the literal apocalyptic day and the story's high-stakes crossover melodrama. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | Consequences | Последствия | Project / story-40 | Chapter 4 title; keep the heading terse and procedural, emphasizing the legal and political fallout of Harry's Azkaban intervention. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
@@ -146,6 +146,10 @@ across multiple segments.
 | George Weasley | Джордж Уизли | Potter's Army / ROSMEN | Canon form. |
 | Fleur Delacour | Флёр Делакур | Potter's Army / ROSMEN | Canon form. |
 | Firenze | Флоренц | Potter's Army / ROSMEN | Canon centaur name. |
+| Discord | Дискорд | Project / story-43 / MLP usage | Draconequus trickster from the crossover cast; keep the standard fandom transliteration compact and unchanged in wizarding dialogue. |
+| Twilight Sparkle | Твайлайт Спаркл | Project / story-43 / MLP usage | Princess of Friendship in the crossover cast; keep the well-known fandom transliteration rather than translating the epithet literally. |
+| Spike | Спайк | Project / story-43 / MLP usage | Twilight's dragon companion in the crossover cast; use the short transliteration rather than inventing a nickname. |
+| Princess Celestia | принцесса Селестия | Project / story-43 / MLP usage | Royal title in the crossover cast; keep the title lowercase in running text unless a sentence position requires capitalization. |
 | Francis Bacon | Фрэнсис Бэкон | Project / story-27 | Use the standard historical form when Harry initially misidentifies Bacon's diary. |
 | Nymphadora Tonks | Нимфадора Тонкс | Potter's Army / ROSMEN | Canon full name. |
 | Tonks | Тонкс | Potter's Army / ROSMEN | Common short form in dialogue and narration. |
