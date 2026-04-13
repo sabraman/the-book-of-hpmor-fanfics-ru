@@ -149,6 +149,8 @@ across multiple segments.
 | Discord | Дискорд | Project / story-43 / MLP usage | Draconequus trickster from the crossover cast; keep the standard fandom transliteration compact and unchanged in wizarding dialogue. |
 | Twilight Sparkle | Твайлайт Спаркл | Project / story-43 / MLP usage | Princess of Friendship in the crossover cast; keep the well-known fandom transliteration rather than translating the epithet literally. |
 | Spike | Спайк | Project / story-43 / MLP usage | Twilight's dragon companion in the crossover cast; use the short transliteration rather than inventing a nickname. |
+| Pinkie Pie | Пинки Пай | Project / story-43 / MLP usage | Keep the standard fandom transliteration for the hyperverbal party-pony crossover lead; avoid translating `Pinkie` descriptively in running text once Harry learns her real name. |
+| Pinkamena Diane Pie | Пинкамина Дайан Пай | Project / story-43 / MLP usage | Full formal name used for comic or emphatic self-introductions; keep the familiar fandom given-name form rather than trying to Russify it further. |
 | Princess Celestia | принцесса Селестия | Project / story-43 / MLP usage | Royal title in the crossover cast; keep the title lowercase in running text unless a sentence position requires capitalization. |
 | Francis Bacon | Фрэнсис Бэкон | Project / story-27 | Use the standard historical form when Harry initially misidentifies Bacon's diary. |
 | Nymphadora Tonks | Нимфадора Тонкс | Potter's Army / ROSMEN | Canon full name. |
@@ -926,6 +928,8 @@ itself over literal back-translation of the English wording.
 | Dementation | дементация | Project / story-27+ | Term for the soul-and-magic damage caused by Dementors; keep the coined, quasi-technical form so later `anti-Dementation` references stay transparent. |
 | Demented | обездушенные | Project / story-27+ | Use `обездушенный` / `обездушенные` for people reduced by dementation; keep the wording concrete and bodily rather than euphemistic. |
 | surfaces | поверхности | Project / story-19 | Quirrell's introspective term for the outer structures of consciousness encountered first in legilimency; lowercase in running text. |
+| Elements of Harmony | Элементы Гармонии | Project / story-43 / MLP usage | Capitalize the artifact-set name in narration and dialogue; keep the phrase literal and high-mythic rather than inventing a looser paraphrase. |
+| Discordpedia | Дискордпедия | Project / story-43 | Joke encyclopedia title; keep the Wikipedia echo explicit in Russian and preserve the mock-reference tone in repeated mentions. |
 
 ## Usage Rules
 
