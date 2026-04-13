@@ -63,6 +63,7 @@ across multiple segments.
 | HPMoRCh 89 AU | AU к 89-й главе ГПиМРМ | Project / story-39 | Story title; expand the shorthand just enough for Russian readers to parse it, while keeping the fandom `AU` marker intact. |
 | Continuing HPMoR: Reductionism for the Win | Продолжение ГПиМРМ: редукционизм побеждает | Project / story-40 | Story title; keep the fanfic-sequel framing explicit through `Продолжение ГПиМРМ`, and render `Reductionism for the Win` as a brisk, slogan-like payoff rather than a literal calque. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
+| Consequences | Последствия | Project / story-40 | Chapter 4 title; keep the heading terse and procedural, emphasizing the legal and political fallout of Harry's Azkaban intervention. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
 | Bechdel Fail | Провал теста Бекдел | Project / story-31 | Chapter 6 title; make the reference explicit enough for Russian readers to catch the Bechdel-test joke while keeping the heading brisk. |
 | Confidences | Откровения | Project / story-32 | Chapter 7 title; frame the heading as intimate trust and shared secrets, not as a formal confession. |

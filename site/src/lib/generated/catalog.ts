@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 216,
-  readableChapterCount: 216,
+  translatedSegmentCount: 217,
+  readableChapterCount: 217,
   readableBookCount: 39,
 } as const;
 
@@ -477,9 +477,9 @@ export const books: BookMeta[] = [
     "title": "Продолжение ГПиМРМ: редукционизм побеждает",
     "originalTitle": "Reductionism for the Win",
     "order": 293,
-    "readableChapterCount": 3,
+    "readableChapterCount": 4,
     "totalChapterCount": 6,
-    "translatedSegmentCount": 3
+    "translatedSegmentCount": 4
   },
   {
     "id": "story-41",
@@ -3475,6 +3475,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 3: Звёзды",
     "originalTitle": "Chapter 3: Stars"
+  },
+  {
+    "bookId": "story-40",
+    "bookSlug": "reductionism-for-the-win",
+    "slug": "seg-0298",
+    "href": "/books/reductionism-for-the-win/chapters/seg-0298",
+    "order": 298,
+    "orderWithinBook": 4,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 4: Последствия",
+    "originalTitle": "Chapter 4: Consequences"
   }
 ] as ChapterMeta[];
 
@@ -3695,4 +3706,5 @@ export const chapterModules = {
   "seg-0295": () => import("@/content/chapters/seg-0295.mdx"),
   "seg-0296": () => import("@/content/chapters/seg-0296.mdx"),
   "seg-0297": () => import("@/content/chapters/seg-0297.mdx"),
+  "seg-0298": () => import("@/content/chapters/seg-0298.mdx"),
 } as const;
