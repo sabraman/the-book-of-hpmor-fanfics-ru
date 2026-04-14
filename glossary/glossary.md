@@ -66,6 +66,7 @@ across multiple segments.
 | Harry Potter and the Philosopher's Zombie | Гарри Поттер и философский зомби | Project / story-42 | Story title; keep the echo of `Философский камень`, but let the second half stay blunt and pulpy rather than over-explained. |
 | The Longest Day | Самый долгий день | Project / story-43 | Story title; keep the phrase direct and portentous so it can carry both the literal apocalyptic day and the story's high-stakes crossover melodrama. |
 | Notes of Confusion | Ноты замешательства | Project / story-43 | Chapter 14 title; keep the musical `notes` sense so the narration can escalate naturally into a fugue and then a symphony of confusion. |
+| Liberate Tutemet Ex Inferis | Liberate Tutemet Ex Inferis | Project / story-43 | Chapter 15 title; keep the faux-Latin incantatory phrasing unchanged in the heading so it reads like a named spell or rite rather than a prose sentence. |
 | Rhapsody in Blue | Рапсодия в синем | Project / story-43 | Chapter 5 title; keep it compact and music-title-like so later author notes can refer back to the graphic-novel section by the same Russian heading. |
 | My Past Is Not Today | Моё прошлое — не моё настоящее | Project / story-43 | Chapter 6 title; recast `today` as `настоящее` so the heading reads naturally in Russian while keeping Albus' refusal to be defined by his past. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
@@ -150,6 +151,7 @@ across multiple segments.
 | Fleur Delacour | Флёр Делакур | Potter's Army / ROSMEN | Canon form. |
 | Firenze | Флоренц | Potter's Army / ROSMEN | Canon centaur name. |
 | Discord | Дискорд | Project / story-43 / MLP usage | Draconequus trickster from the crossover cast; keep the standard fandom transliteration compact and unchanged in wizarding dialogue. |
+| Draconequus | драконеквус | Project / story-43 / MLP usage | Discord's species label; transliterate it directly so the hybrid-dragon pun remains legible without trying to naturalize it into an unrelated Russian creature name. |
 | Twilight Sparkle | Твайлайт Спаркл | Project / story-43 / MLP usage | Princess of Friendship in the crossover cast; keep the well-known fandom transliteration rather than translating the epithet literally. |
 | Tirek | Тирек | Project / story-43 / MLP usage | Villain name in Twilight's reference list; keep the short fandom transliteration. |
 | Pony of Shadows | Пони Теней | Project / story-43 / MLP usage | Antagonist title in Twilight's reference list; translate literally and keep both words capitalized as a proper title. |
@@ -515,6 +517,7 @@ across multiple segments.
 | Retrieval Charm | чары извлечения | Project / story-27 | Storage-item retrieval enchantment; distinct from `Accio` / standard summoning charm and tied to getting selected contents out of an enchanted container. |
 | Interdict of Merlin | Интердикт Мерлина | Project / HPMOR fanfic usage | Magical limit that prevents powerful spell-imprints from being learned except mind-to-mind from a living bearer or rediscovered independently. |
 | Transmigration | Переселение | Project / story-43 / recurring anthology usage | Capitalize when it refers to the epochal death-and-rebirth event in the Atlantis / Equestria cosmology. |
+| The Decimation | Истребление | Project / story-43 / recurring anthology usage | Chapter 25 title and prophecy keyword; keep it stark and apocalyptic rather than softening it into a merely military `децимацию`. |
 | Specters | Призраки | Project / story-43 / recurring anthology usage | Capitalize when it refers to the Atlantis-bred death entities; use `Призраки Смерти` when the fuller phrase appears in narration. |
 | Principia Discordia | Принципия Дискордия | Project / recurring anthology usage | Foundational magical-theory tome; keep the faux-Latin title transliterated rather than translated descriptively. |
 | Lethe Touch | Прикосновение Леты | Project / recurring anthology usage | Mind-altering effect that rewrites memory / affective structure; capitalize as a named technique. |
