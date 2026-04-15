@@ -72,6 +72,7 @@ across multiple segments.
 | Spike, the Brave and Glorious | Спайк, храбрый и славный | Project / story-43 | Chapter 19 title; keep the mock-epic epithet straightforward and slightly bombastic rather than over-archaic. |
 | Rhapsody in Blue | Рапсодия в синем | Project / story-43 | Chapter 5 title; keep it compact and music-title-like so later author notes can refer back to the graphic-novel section by the same Russian heading. |
 | My Past Is Not Today | Моё прошлое — не моё настоящее | Project / story-43 | Chapter 6 title; recast `today` as `настоящее` so the heading reads naturally in Russian while keeping Albus' refusal to be defined by his past. |
+| Ragnarok | Рагнарёк | Project / story-43 | Chapter 20 title; use the standard Russian mythic form with `ё` to preserve the apocalyptic end-of-world register of the graveyard climax. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | Consequences | Последствия | Project / story-40 | Chapter 4 title; keep the heading terse and procedural, emphasizing the legal and political fallout of Harry's Azkaban intervention. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
