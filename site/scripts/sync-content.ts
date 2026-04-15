@@ -170,6 +170,17 @@ function normalizeDecorativeSeparators(markdown: string) {
   return markdown.replace(/^\/\\\*(?:\/\\\*){4,}$/gm, "---");
 }
 
+function escapeUnsafeMdxBraces(markdown: string) {
+  return markdown.replace(/(```[\s\S]*?```|`[^`\n]+`)/g, (segment) => {
+    if (segment.startsWith("```") || segment.startsWith("`")) {
+      return `\u0000${Buffer.from(segment, "utf8").toString("base64")}\u0000`;
+    }
+    return segment;
+  }).replace(/(?<!\\)[{}]/g, (char) => `\\${char}`).replace(/\u0000([A-Za-z0-9+/=]+)\u0000/g, (_match, encoded: string) =>
+    Buffer.from(encoded, "base64").toString("utf8"),
+  );
+}
+
 function sanitizeMarkdown(markdown: string, readableTargets: Map<string, ReadableTarget>) {
   let result = normalizeLineEndings(markdown).trim();
 
@@ -181,6 +192,7 @@ function sanitizeMarkdown(markdown: string, readableTargets: Map<string, Readabl
   result = result.replace(/\sclass="[^"]*calibre[^"]*"/g, "");
   result = normalizeDecorativeSeparators(result);
   result = rewriteLinks(result, readableTargets);
+  result = escapeUnsafeMdxBraces(result);
   result = result.replace(/\n{3,}/g, "\n\n");
 
   return `${result.trim()}\n`;
