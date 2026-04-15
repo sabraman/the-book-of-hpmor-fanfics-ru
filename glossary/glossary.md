@@ -535,6 +535,7 @@ across multiple segments.
 | Cameleon Charm | чары хамелеона | Project / usage | Concealment charm that makes an object or surface blend into its surroundings; keep lowercase in running text unless a quoted spell name is needed. |
 | Retrieval Charm | чары извлечения | Project / story-27 | Storage-item retrieval enchantment; distinct from `Accio` / standard summoning charm and tied to getting selected contents out of an enchanted container. |
 | Interdict of Merlin | Интердикт Мерлина | Project / HPMOR fanfic usage | Magical limit that prevents powerful spell-imprints from being learned except mind-to-mind from a living bearer or rediscovered independently. |
+| Atlantis Mainframe | мейнфрейм Атлантиды | Project / story-45 | Use the computing term directly for the source-of-magic control systems; capitalize only in formal system greetings or headings if the surrounding Russian requires it. |
 | Transmigration | Переселение | Project / story-43 / recurring anthology usage | Capitalize when it refers to the epochal death-and-rebirth event in the Atlantis / Equestria cosmology. |
 | The Decimation | Истребление | Project / story-43 / recurring anthology usage | Chapter 25 title and prophecy keyword; keep it stark and apocalyptic rather than softening it into a merely military `децимацию`. |
 | Specters | Призраки | Project / story-43 / recurring anthology usage | Capitalize when it refers to the Atlantis-bred death entities; use `Призраки Смерти` when the fuller phrase appears in narration. |
