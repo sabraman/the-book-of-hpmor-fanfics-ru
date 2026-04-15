@@ -65,6 +65,7 @@ across multiple segments.
 | Repairing Ignorance | Исправляя невежество | Project / story-41 | Story title; use an active gerundive phrasing so the `repairing` / `Reparo` conceit stays legible while the Russian still reads like a natural title. |
 | Harry Potter and the Philosopher's Zombie | Гарри Поттер и философский зомби | Project / story-42 | Story title; keep the echo of `Философский камень`, but let the second half stay blunt and pulpy rather than over-explained. |
 | The Longest Day | Самый долгий день | Project / story-43 | Story title; keep the phrase direct and portentous so it can carry both the literal apocalyptic day and the story's high-stakes crossover melodrama. |
+| Griphook and the Strong Form EMH | Крюкохват и сильная форма гипотезы эффективного рынка | Project / story-44 | Expand `EMH` in Russian for reader clarity; in running text use `гипотеза эффективного рынка`, with `сильная форма` for the strong form. |
 | Friendship is Magic | Дружба - это магия | Project / story-43 | Chapter 22 title and refrain; keep `magic` literal rather than borrowing the franchise-localized `чудо`, because the climax hinges on friendship becoming literal magic. |
 | Notes of Confusion | Ноты замешательства | Project / story-43 | Chapter 14 title; keep the musical `notes` sense so the narration can escalate naturally into a fugue and then a symphony of confusion. |
 | Liberate Tutemet Ex Inferis | Liberate Tutemet Ex Inferis | Project / story-43 | Chapter 15 title; keep the faux-Latin incantatory phrasing unchanged in the heading so it reads like a named spell or rite rather than a prose sentence. |
@@ -479,6 +480,7 @@ across multiple segments.
 | Thief's Downfall | Воровская погибель | Potter's Army / ROSMEN / existing repo usage | Gringotts security cascade that strips concealment and many active enchantments. |
 | Galleon | галлеон | Potter's Army / ROSMEN | Standard gold wizarding coin. |
 | Sickle | сикль | Potter's Army / ROSMEN | Standard silver wizarding coin. |
+| Knut | кнат | Potter's Army / ROSMEN | Standard bronze wizarding coin. |
 | Flourish and Blotts | Флориш и Блоттс | Potter's Army / ROSMEN | Canon Diagon Alley bookshop name. |
 | Madam Malkin | мадам Малкин | Potter's Army / ROSMEN | Use lower-case honorific in running text unless display styling requires capitalization. |
 | Grimmauld Place | площадь Гриммо | Potter's Army / ROSMEN | Black family home location. |
@@ -503,6 +505,7 @@ across multiple segments.
 | Wrackspurt | мозгошмыг | Potter's Army / ROSMEN | Luna's creature term; plural usually follows the same form in running text. |
 | Howler | Громовещатель | Potter's Army / ROSMEN | Magical letter. |
 | Azkaban | Азкабан | Potter's Army / ROSMEN | Canon place name. |
+| Statute of Secrecy | Статут о секретности | Potter's Army / ROSMEN | Wizarding secrecy law; use the concise form unless the source names the international statute explicitly. |
 | Privet Drive | Тисовая улица | Potter's Army / ROSMEN | Dursley address. |
 | Forbidden Forest | Запретный лес | Potter's Army / ROSMEN | Canon place name. |
 | Enchanted Forest | Зачарованный лес | Project / Blue Tigers | Distinct story-specific forest name; do not normalize to `Запретный лес`. |
@@ -1011,6 +1014,7 @@ itself over literal back-translation of the English wording.
 | Loooxaxaz Collar | Ошейник Пеедиксстрекн | Project / story-43 | Discord's acronym joke for the Infinity-Gauntlet-like collar; keep it pronounceable and visibly acronym-derived from the Russian calculus phrase. |
 | Discordpedia | Дискордпедия | Project / story-43 | Joke encyclopedia title; keep the Wikipedia echo explicit in Russian and preserve the mock-reference tone in repeated mentions. |
 | Plain Jane | Джейн Плейн | Project / story-43 | Discord's undercover Hogwarts alias for Fluttershy; keep the faux-name in the same order as the announced school roster form. |
+| Efficient Market Hypothesis | гипотеза эффективного рынка | Project / story-44 / economics usage | Use the established Russian finance term; translate `weak form`, `semi-strong form`, and `strong form` as `слабая форма`, `полусильная форма`, and `сильная форма`. |
 
 ## Usage Rules
 

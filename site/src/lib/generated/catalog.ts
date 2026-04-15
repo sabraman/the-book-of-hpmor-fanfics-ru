@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 247,
-  readableChapterCount: 247,
-  readableBookCount: 42,
+  translatedSegmentCount: 248,
+  readableChapterCount: 248,
+  readableBookCount: 43,
 } as const;
 
 export const books: BookMeta[] = [
@@ -518,12 +518,12 @@ export const books: BookMeta[] = [
     "id": "story-44",
     "slug": "griphook-and-the-strong-form-emh",
     "href": "/books/griphook-and-the-strong-form-emh",
-    "title": "Griphook and the Strong Form EMH",
+    "title": "Крюкохват и сильная форма гипотезы эффективного рынка",
     "originalTitle": "Griphook and the Strong Form EMH",
     "order": 335,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-45",
@@ -3816,6 +3816,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 25: Истребление",
     "originalTitle": "Chapter 25: The Decimation"
+  },
+  {
+    "bookId": "story-44",
+    "bookSlug": "griphook-and-the-strong-form-emh",
+    "slug": "seg-0337",
+    "href": "/books/griphook-and-the-strong-form-emh/chapters/seg-0337",
+    "order": 337,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -4067,4 +4078,5 @@ export const chapterModules = {
   "seg-0332": () => import("@/content/chapters/seg-0332.mdx"),
   "seg-0333": () => import("@/content/chapters/seg-0333.mdx"),
   "seg-0334": () => import("@/content/chapters/seg-0334.mdx"),
+  "seg-0337": () => import("@/content/chapters/seg-0337.mdx"),
 } as const;
