@@ -76,6 +76,7 @@ across multiple segments.
 | My Past Is Not Today | Моё прошлое — не моё настоящее | Project / story-43 | Chapter 6 title; recast `today` as `настоящее` so the heading reads naturally in Russian while keeping Albus' refusal to be defined by his past. |
 | Ragnarok | Рагнарёк | Project / story-43 | Chapter 20 title; use the standard Russian mythic form with `ё` to preserve the apocalyptic end-of-world register of the graveyard climax. |
 | Rule 34 | Правило 34 | Project / story-43 | Chapter 23 title and Voldemort's private rule; keep the deadpan numbered-rule framing rather than importing the internet-rule connotation. |
+| A Funny Thing Happened | Забавная вышла история | Project / story-43 | Chapter 24 title; keep it conversational and meta-comic, matching the post-climax gag rather than making it a literal report that something funny occurred. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | Consequences | Последствия | Project / story-40 | Chapter 4 title; keep the heading terse and procedural, emphasizing the legal and political fallout of Harry's Azkaban intervention. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
@@ -159,6 +160,7 @@ across multiple segments.
 | Fleur Delacour | Флёр Делакур | Potter's Army / ROSMEN | Canon form. |
 | Firenze | Флоренц | Potter's Army / ROSMEN | Canon centaur name. |
 | Discord | Дискорд | Project / story-43 / MLP usage | Draconequus trickster from the crossover cast; keep the standard fandom transliteration compact and unchanged in wizarding dialogue. |
+| Captain Celaeno | капитан Целаено | Project / story-43 / MLP usage | Pirate-parrot captain from the crossover cast; keep the title lowercase in running text and transliterate the name directly. |
 | Draconequus | драконеквус | Project / story-43 / MLP usage | Discord's species label; transliterate it directly so the hybrid-dragon pun remains legible without trying to naturalize it into an unrelated Russian creature name. |
 | Twilight Sparkle | Твайлайт Спаркл | Project / story-43 / MLP usage | Princess of Friendship in the crossover cast; keep the well-known fandom transliteration rather than translating the epithet literally. |
 | Tirek | Тирек | Project / story-43 / MLP usage | Villain name in Twilight's reference list; keep the short fandom transliteration. |
@@ -190,6 +192,8 @@ across multiple segments.
 | Star Swirl the Bearded | Стар Свирл Бородатый | Project / story-43 / MLP usage | Legendary wizard pony; keep the fandom transliteration and literal epithet. |
 | Grogar | Грогар | Project / story-43 / MLP usage | Ancient villain / sibling reference in the crossover backstory. |
 | Storm King | Король Бурь | Project / story-43 / MLP usage | Villain from Derpy's anecdote; keep the concise title form. |
+| Cranky Doodle | Кренки Дудл | Project / story-43 / MLP usage | Donkey character referenced through a family gag; keep the fandom-style transliteration rather than translating the descriptive nickname. |
+| Excelsior Doodle | Эксельсиор Дудл | Project / story-43 / MLP usage | Cranky Doodle's joke relative in Chapter 24; keep the mock-grand given name as a direct transliteration. |
 | King Sombra | король Сомбра | Project / story-43 / MLP usage | Keep the title lowercase in running text unless sentence position requires capitalization; distinct from the modern alias `Ласомбра`. |
 | Crystal Empire | Кристальная Империя | Project / story-43 / MLP usage | Realm tied to Sombra and Celestia's shared past; capitalize both words as the proper place name. |
 | Francis Bacon | Фрэнсис Бэкон | Project / story-27 | Use the standard historical form when Harry initially misidentifies Bacon's diary. |
