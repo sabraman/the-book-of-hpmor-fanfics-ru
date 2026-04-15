@@ -159,8 +159,9 @@ def automation_state_path(
     return base_root / ".codex-automation-state" / automation_id / f"{book_id}.json"
 
 
-def book_paths(book_id: str) -> dict[str, Path]:
-    book_dir = REPO_ROOT / "books" / book_id
+def book_paths(book_id: str, repo_root: Path | None = None) -> dict[str, Path]:
+    root = repo_root or REPO_ROOT
+    book_dir = root / "books" / book_id
     return {
         "book_dir": book_dir,
         "source_dir": book_dir / "source",
@@ -173,23 +174,23 @@ def book_paths(book_id: str) -> dict[str, Path]:
     }
 
 
-def ensure_book_dirs(book_id: str) -> dict[str, Path]:
-    paths = book_paths(book_id)
+def ensure_book_dirs(book_id: str, repo_root: Path | None = None) -> dict[str, Path]:
+    paths = book_paths(book_id, repo_root=repo_root)
     for key in ("book_dir", "source_dir", "output_dir", "assets_dir", "build_dir"):
         paths[key].mkdir(parents=True, exist_ok=True)
     return paths
 
 
-def load_manifest(book_id: str) -> dict[str, Any]:
-    paths = book_paths(book_id)
+def load_manifest(book_id: str, repo_root: Path | None = None) -> dict[str, Any]:
+    paths = book_paths(book_id, repo_root=repo_root)
     manifest = load_json(paths["manifest_path"])
     if manifest is None:
         raise FileNotFoundError(f"Manifest not found: {paths['manifest_path']}")
     return manifest
 
 
-def load_config(book_id: str) -> dict[str, Any]:
-    paths = book_paths(book_id)
+def load_config(book_id: str, repo_root: Path | None = None) -> dict[str, Any]:
+    paths = book_paths(book_id, repo_root=repo_root)
     config = load_json(paths["config_path"])
     if config is None:
         raise FileNotFoundError(f"Config not found: {paths['config_path']}")
@@ -242,8 +243,10 @@ def copy_assets(src_root: Path, assets_dir: Path) -> int:
     return copied
 
 
-def detect_runtime_status(book_id: str, manifest: dict[str, Any]) -> dict[str, Any]:
-    paths = book_paths(book_id)
+def detect_runtime_status(
+    book_id: str, manifest: dict[str, Any], repo_root: Path | None = None
+) -> dict[str, Any]:
+    paths = book_paths(book_id, repo_root=repo_root)
     statuses: list[dict[str, Any]] = []
     counts: dict[str, int] = {}
     errors: list[str] = []
