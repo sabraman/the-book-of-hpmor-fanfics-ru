@@ -71,6 +71,7 @@ across multiple segments.
 | Father and Son | Отец и сын | Project / story-43 | Chapter 18 title; keep it plain and stark so the heading centers Draco and Lucius amid the graveyard battle. |
 | Spike, the Brave and Glorious | Спайк, храбрый и славный | Project / story-43 | Chapter 19 title; keep the mock-epic epithet straightforward and slightly bombastic rather than over-archaic. |
 | Rhapsody in Blue | Рапсодия в синем | Project / story-43 | Chapter 5 title; keep it compact and music-title-like so later author notes can refer back to the graphic-novel section by the same Russian heading. |
+| Lampshading in Blue | Абажур в синем | Project / story-43 | Chapter 21 title; keep the echo of `Рапсодия в синем` through the same `в синем` cadence, and render `lampshading` via the concrete `абажур` because the chapter is itself an overt lampshade-hanging aside. |
 | My Past Is Not Today | Моё прошлое — не моё настоящее | Project / story-43 | Chapter 6 title; recast `today` as `настоящее` so the heading reads naturally in Russian while keeping Albus' refusal to be defined by his past. |
 | Ragnarok | Рагнарёк | Project / story-43 | Chapter 20 title; use the standard Russian mythic form with `ё` to preserve the apocalyptic end-of-world register of the graveyard climax. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
