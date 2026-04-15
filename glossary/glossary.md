@@ -238,6 +238,7 @@ across multiple segments.
 | Ritual of the Forbears | Ритуал предков | Project / story-43 | Ancestor rite following `Хранение`; render `forbears` plainly as `предки` instead of inventing an Atlantis-specific title. |
 | Awakening | Пробуждение | Project / story-43 | Capitalize when it refers to the formal posthumous rite denied to Narcissa and discussed in this story cycle. |
 | Oblatorium | Облаторий | Project / story-43 / recurring anthology usage | Family memorial chamber that houses preserved ancestral tokens; keep the Latin-like proper noun rather than translating it generically. |
+| Oblatum Caelum / OC | Oblatum Caelum / OC | Project / story-43 | Faux-Latin term behind Discord's `OC` joke for magically preserved dead souls becoming new stars in Equus; keep the Latin phrase and abbreviation unchanged. |
 | Viktor Krum | Виктор Крам | Potter's Army / ROSMEN | Canon form. |
 | Luna Lovegood | Полумна Лавгуд | Potter's Army / ROSMEN | Canon form. |
 | Romilda Vane | Ромильда Вейн | Potter's Army / ROSMEN | Canon form. |
