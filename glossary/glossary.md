@@ -75,6 +75,7 @@ across multiple segments.
 | Lampshading in Blue | Абажур в синем | Project / story-43 | Chapter 21 title; keep the echo of `Рапсодия в синем` through the same `в синем` cadence, and render `lampshading` via the concrete `абажур` because the chapter is itself an overt lampshade-hanging aside. |
 | My Past Is Not Today | Моё прошлое — не моё настоящее | Project / story-43 | Chapter 6 title; recast `today` as `настоящее` so the heading reads naturally in Russian while keeping Albus' refusal to be defined by his past. |
 | Ragnarok | Рагнарёк | Project / story-43 | Chapter 20 title; use the standard Russian mythic form with `ё` to preserve the apocalyptic end-of-world register of the graveyard climax. |
+| Rule 34 | Правило 34 | Project / story-43 | Chapter 23 title and Voldemort's private rule; keep the deadpan numbered-rule framing rather than importing the internet-rule connotation. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
 | Consequences | Последствия | Project / story-40 | Chapter 4 title; keep the heading terse and procedural, emphasizing the legal and political fallout of Harry's Azkaban intervention. |
 | The Art of Negotiation | Искусство переговоров | Project / story-31 | Chapter 3 title; keep the heading formal and tactical, sounding like a deliberate political maneuver rather than casual haggling. |
@@ -408,6 +409,8 @@ across multiple segments.
 | Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
 | International Confederation of Wizards | Международная конфедерация магов | Potter's Army / ROSMEN | Dumbledore is the Supreme Mugwump of this body in canon and fanfic usage. |
 | Elder Wand | Бузинная палочка | Potter's Army / ROSMEN | One of the Deathly Hallows. |
+| True Cloak of Invisibility | Истинная мантия-невидимка | Project / story-43 | HPMOR variant of the Cloak as a Deathly Hallow; keep `Истинная` to distinguish it from generic invisibility cloaks. |
+| Spirit Stone | Камень Духа | Project / story-43 | Artifact form that stores Voldemort's Horcrux network before the Element assembly; capitalize as a unique artifact. |
 | Triwizard Tournament | Турнир Трёх Волшебников | Potter's Army / ROSMEN | Canon tournament name. |
 | King's Cross Station | вокзал Кингс-Кросс | Potter's Army / ROSMEN / usage | Canon London departure point for Hogwarts travel. |
 | Platform Nine and Three-Quarters | платформа девять и три четверти | Potter's Army / ROSMEN | Canon platform name; keep the numeral form `Платформа 9 ¾` on signage when the source presents it visually. |
@@ -996,8 +999,11 @@ itself over literal back-translation of the English wording.
 | surfaces | поверхности | Project / story-19 | Quirrell's introspective term for the outer structures of consciousness encountered first in legilimency; lowercase in running text. |
 | Elements of Harmony | Элементы Гармонии | Project / story-43 / MLP usage | Capitalize the artifact-set name in narration and dialogue; keep the phrase literal and high-mythic rather than inventing a looser paraphrase. |
 | Element of Honesty | Элемент Честности | Project / story-43 / MLP usage | Individual Harmony artifact title; capitalize both words when it names the specific element bound to truth and the Philosopher's Stone in this crossover cosmology. |
+| Element of Friendship | Элемент Дружбы | Project / story-43 / MLP usage | Harry's provisional name for the tiara-shaped Harmony artifact; preserve the friendship reading before Twilight corrects it to Magic. |
+| Element of Magic | Элемент Магии | Project / story-43 / MLP usage | Twilight's canonical name for the tiara-shaped Harmony artifact; capitalize both words as the artifact title. |
 | Ogres and Oubliettes | Огры и подземелья | Project / story-43 / MLP usage | Equestrian tabletop-RPG spoof of D&D; keep the parody legible in Russian by echoing the familiar `драконы и подземелья` cadence without introducing extra lore. |
 | The Limit of One Over X as X Approaches Zero Sack | Мешок предела единицы, делённой на икс, при иксе, стремящемся к нулю | Project / story-43 | Discord's absurd temporary name for Spike's pillowcase sack; keep the calculus phrasing maximally literal so the joke lands through sheer over-specificity. |
+| Loooxaxaz Collar | Ошейник Пеедиксстрекн | Project / story-43 | Discord's acronym joke for the Infinity-Gauntlet-like collar; keep it pronounceable and visibly acronym-derived from the Russian calculus phrase. |
 | Discordpedia | Дискордпедия | Project / story-43 | Joke encyclopedia title; keep the Wikipedia echo explicit in Russian and preserve the mock-reference tone in repeated mentions. |
 | Plain Jane | Джейн Плейн | Project / story-43 | Discord's undercover Hogwarts alias for Fluttershy; keep the faux-name in the same order as the announced school roster form. |
 
