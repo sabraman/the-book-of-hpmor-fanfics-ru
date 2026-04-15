@@ -69,6 +69,7 @@ across multiple segments.
 | Liberate Tutemet Ex Inferis | Liberate Tutemet Ex Inferis | Project / story-43 | Chapter 15 title; keep the faux-Latin incantatory phrasing unchanged in the heading so it reads like a named spell or rite rather than a prose sentence. |
 | Follow My Heart Into The Fire | Следуй за моим сердцем в огонь | Project / story-43 | Chapter 16 title; keep the lyric-like imperative phrasing so the heading sounds like a dramatic pull toward self-sacrifice rather than a flat instruction. |
 | Father and Son | Отец и сын | Project / story-43 | Chapter 18 title; keep it plain and stark so the heading centers Draco and Lucius amid the graveyard battle. |
+| Spike, the Brave and Glorious | Спайк, храбрый и славный | Project / story-43 | Chapter 19 title; keep the mock-epic epithet straightforward and slightly bombastic rather than over-archaic. |
 | Rhapsody in Blue | Рапсодия в синем | Project / story-43 | Chapter 5 title; keep it compact and music-title-like so later author notes can refer back to the graphic-novel section by the same Russian heading. |
 | My Past Is Not Today | Моё прошлое — не моё настоящее | Project / story-43 | Chapter 6 title; recast `today` as `настоящее` so the heading reads naturally in Russian while keeping Albus' refusal to be defined by his past. |
 | Reacquaintance | Снова знакомы | Project / story-32 | Chapter 11 title; keep the heading compact and lightly ironic, suggesting a return to public reality and to Quirrell after Harry and Hermione's private turning point. |
