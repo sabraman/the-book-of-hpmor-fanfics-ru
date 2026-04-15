@@ -112,6 +112,29 @@ def maybe_clear_claim(
     run(cmd, cwd=repo_root)
 
 
+def cleanup_completed_worktrees(
+    repo_root: Path,
+    book_id: str,
+    automation_id: str | None,
+    shared_root: Path | None,
+) -> None:
+    if not automation_id or not shared_root:
+        return
+    cmd = [
+        "python3",
+        str(repo_root / "scripts" / "cleanup_completed_worktrees.py"),
+        "--repo-root",
+        str(repo_root),
+        "--book-id",
+        book_id,
+        "--automation-id",
+        automation_id,
+        "--shared-root",
+        str(shared_root),
+    ]
+    run(cmd, cwd=repo_root)
+
+
 def main() -> int:
     args = parse_args()
     repo_root = Path(args.repo_root).resolve()
@@ -145,6 +168,7 @@ def main() -> int:
         run(["git", "commit", "-m", commit_message], cwd=repo_root)
 
     maybe_clear_claim(repo_root, args.book_id, args.automation_id, args.segment_id, shared_root)
+    cleanup_completed_worktrees(repo_root, args.book_id, args.automation_id, shared_root)
     print(f"Committed local publish state in {repo_root}")
     return 0
 

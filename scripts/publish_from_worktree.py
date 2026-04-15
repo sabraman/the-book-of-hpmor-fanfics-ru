@@ -227,6 +227,43 @@ def maybe_clear_claim(
     run(cmd, cwd=Path(__file__).resolve().parents[1])
 
 
+def cleanup_completed_worktree(
+    publisher_root: Path,
+    book_id: str,
+    automation_id: str | None,
+    shared_root: Path,
+    source_root: Path,
+) -> None:
+    if not automation_id:
+        return
+    script_path = Path(__file__).resolve().parent / "cleanup_completed_worktrees.py"
+    preserve_worktree = None
+    try:
+        current = Path.cwd().resolve()
+        if current == source_root or source_root in current.parents:
+            preserve_worktree = current
+    except Exception:  # noqa: BLE001
+        preserve_worktree = None
+
+    cmd = [
+        "python3",
+        str(script_path),
+        "--repo-root",
+        str(publisher_root),
+        "--book-id",
+        book_id,
+        "--automation-id",
+        automation_id,
+        "--shared-root",
+        str(shared_root),
+        "--queue-worktree",
+        str(source_root),
+    ]
+    if preserve_worktree:
+        cmd.extend(["--preserve-worktree", str(preserve_worktree)])
+    run(cmd, cwd=publisher_root)
+
+
 def main() -> int:
     args = parse_args()
     source_root = Path(args.source_root).resolve()
@@ -282,6 +319,13 @@ def main() -> int:
         args.automation_id,
         args.segment_id,
         shared_root=shared_root,
+    )
+    cleanup_completed_worktree(
+        publisher_root,
+        args.book_id,
+        args.automation_id,
+        shared_root,
+        source_root,
     )
 
     mode = "committed locally" if args.skip_push else "published"
