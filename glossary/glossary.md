@@ -258,6 +258,7 @@ across multiple segments.
 | Madam Pomfrey | мадам Помфри | Potter's Army / ROSMEN | Hogwarts matron / healer. |
 | Wainscott | Уэйнскотт | Project / story-10 | New Hogwarts nurse after Pomfrey's death; use `медсестра Уэйнскотт` or `мадам Уэйнскотт` by context. |
 | Amy Anne Bamford | Эми Энн Бэмфорд | Project / Blue Tigers | First-year Ravenclaw point-of-view character in this story cycle. |
+| Amy Benson | Эми Бенсон | Project / Tom Riddle Origins | Orphanage girl whose fate under young Tom Riddle is cited later as one of his earliest atrocities. |
 | Emily | Эмили | Project / Squibgineering | Point-of-view protagonist in the `Squibgineering` cycle. |
 | Matthew Merrick | Мэтью Меррик | Project / Tom Riddle Origins | Quiet orphan boy whom Tom finds unsettlingly relatable. |
 | Jameson | Джеймсон | Project / Tom Riddle Origins | Larger bully in Tom's orphanage. |
@@ -292,8 +293,12 @@ across multiple segments.
 | Thomas Chang | Томас Чанг | Project / Tom Riddle Conflict | Capable Hogwarts student from China and one of Tom's battle-magic rivals. |
 | Xiaoguang Li | Сяогуан Ли | Project / story-28 / recurring anthology usage | Auror-turned-professor in the postwar timeline; use `Сяогуан` when the source gives only the given name, and keep the surname order in full form. |
 | Lisa Fournier | Лиза Фурнье | Project / story-28 | French history teacher hired by Hogwarts in `Following the Phoenix - Flashes`; keep the surname in the compact `Фурнье` form. |
+| Jeremy Jaffe | Джереми Джаффе | Project / HPMOR backstory | One of Voldemort's long-term adult aliases in the postwar / Quirrell continuity; keep the surname form `Джаффе`. |
 | David Monroe | Дэвид Монро | Project / Tom Riddle Conflict | Confident Hogwarts student and Tom's rival. |
+| Alexander Chernyshov | Александр Чернышов | Project / HPMOR backstory | Benevolent-seeming public identity used by Voldemort; keep the Russian surname in the standard `Чернышов` form. |
+| Billy Stubbs | Билли Стаббс | Project / HPMOR backstory | Orphanage bully whose rabbit becomes one of Tom Riddle's early cruelty markers; keep the clipped surname form `Стаббс`. |
 | Monroe Act | Акт Монро | Project / story-27 | Emergency wartime law that authorized Aurors to use Unforgivable Curses against Death Eaters; keep the title concise and legislative. |
+| Artadus Bunting | Артадус Бантинг | Project / HPMOR backstory | Lesser-used alias listed alongside Quirrell / Monroe / Jaffe in the mirror-chamber reveal; transliterate the surname as `Бантинг`. |
 | Butnaru | Бутнару | Project / story-27 | Auror surname in the Windsor crisis and `Depart Azkaban`; keep the name as an indeclinable transliteration. |
 | Terence Keen | Теренс Кин | Project / Tom Riddle Conflict | Slytherin student who spreads Bellatrix's dark-ritual rumor in this story cycle. |
 | Galatea Merrythought | Галатея Мерритот | Potter's Army / canon usage / project transliteration | Defense professor in Tom's school years. |
@@ -386,6 +391,7 @@ across multiple segments.
 | Porskoff Ploy | финт Порскова | Potter's Army / ROSMEN | Classic quidditch passing feint. |
 | Hogwarts letter | письмо из Хогвартса | Potter's Army / usage | Phrase-level default. |
 | Horcrux | крестраж | Potter's Army / ROSMEN | Canon form. |
+| Greater Horcrux | высший крестраж | Project / story-48 | Technical label in `Разумы, имена и лица` for Voldemort's improved, soul-copy-preserving Horcrux form; contrast with `меньший крестраж` when the source explicitly sets up that distinction. |
 | Spattergroit | спаттергройт | Project / canon usage | Magical infectious disease; keep as a direct transliteration in running text. |
 | Line of Merlin | Линия Мерлина | Project / HPMOR fanfic usage | Succession / artifact term; extend naturally to `Line of Merlin Unbroken` as `Непрерывная Линия Мерлина` when needed. |
 | Bayesian Conspiracy | Байесовский заговор | Project / HPMOR fanfic usage | Student planning circle around Harry and Draco; keep the phrase conspiratorial rather than academic and capitalize only when styled as a named group. |
@@ -711,6 +717,7 @@ raw Latin spelling where we have already normalized them in this project.
 | Source | Russian | Authority | Notes |
 | --- | --- | --- | --- |
 | Accio | Акцио | Harry Potter Wiki RU / canon usage | Summoning Charm incantation. |
+| Draught of Living Death | Глоток Живой Смерти | Potter's Army / ROSMEN / usage | Canon potion name; capitalize both nouns when referring to the specific potion. |
 | Aguamenti | Агуаменти | Harry Potter Wiki RU / canon usage | Water-conjuring charm incantation. |
 | Aqua Eructo | Аква Эрукто | Harry Potter Wiki RU / project usage | Water-jet charm incantation. |
 | Bubble-Head Charm | Пузыреголовое заклинание | Harry Potter Wiki RU / canon usage | Use for the standard underwater air-supply spell. |
