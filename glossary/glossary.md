@@ -468,6 +468,7 @@ across multiple segments.
 | Polyjuice Potion | Оборотное зелье | Potter's Army / ROSMEN | Canon potion name. |
 | Slytherin Common Room | гостиная Слизерина | Potter's Army / ROSMEN | School location. |
 | Whomping Willow | Гремучая ива | Potter's Army / ROSMEN | Canon Hogwarts tree guarding a secret passage. |
+| Fluffy | Пушок | Potter's Army / ROSMEN | Hagrid's three-headed dog; use the canon pet name when the text refers to him individually, distinct from the generic `Цербер`. |
 | Devil's Snare | Дьявольские силки | Potter's Army / ROSMEN | Magical plant. |
 | Cerberus | Цербер | Project / canon usage | Mythic creature name. |
 | invisibility cloak | мантия-невидимка | Potter's Army / ROSMEN | Canon object name. |
