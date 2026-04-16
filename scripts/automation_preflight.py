@@ -25,13 +25,14 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def collect_dirty_translation_state(repo_root: Path, book_id: str) -> tuple[list[str], list[str]]:
+def collect_dirty_translation_state(repo_root: Path, book_id: str) -> dict[str, list[str]]:
     watched = [
         f"books/{book_id}/output",
         f"books/{book_id}/manifest.json",
         f"books/{book_id}/config.json",
         "glossary/glossary.md",
         "site/src/content/chapters",
+        "site/public/book-assets",
         "site/src/lib/generated/catalog.ts",
     ]
     result = subprocess.run(
@@ -45,7 +46,8 @@ def collect_dirty_translation_state(repo_root: Path, book_id: str) -> tuple[list
         raise RuntimeError(message)
 
     dirty_paths: list[str] = []
-    segment_ids: list[str] = []
+    output_segment_ids: list[str] = []
+    reader_segment_ids: list[str] = []
     output_pattern = re.compile(rf"^books/{re.escape(book_id)}/output/segment(\d{{4}})\.md$")
     reader_pattern = re.compile(r"^site/src/content/chapters/seg-(\d{4})\.mdx$")
 
@@ -58,15 +60,104 @@ def collect_dirty_translation_state(repo_root: Path, book_id: str) -> tuple[list
         dirty_paths.append(path)
         output_match = output_pattern.match(path)
         if output_match:
-            segment_ids.append(f"seg-{output_match.group(1)}")
+            output_segment_ids.append(f"seg-{output_match.group(1)}")
             continue
         reader_match = reader_pattern.match(path)
         if reader_match:
-            segment_ids.append(f"seg-{reader_match.group(1)}")
+            reader_segment_ids.append(f"seg-{reader_match.group(1)}")
 
-    deduped_paths = sorted(dict.fromkeys(dirty_paths))
-    deduped_segments = sorted(dict.fromkeys(segment_ids))
-    return deduped_paths, deduped_segments
+    return {
+        "dirty_paths": sorted(dict.fromkeys(dirty_paths)),
+        "output_segment_ids": sorted(dict.fromkeys(output_segment_ids)),
+        "reader_segment_ids": sorted(dict.fromkeys(reader_segment_ids)),
+    }
+
+
+def extract_missing_story_title(stderr: str) -> str | None:
+    match = re.search(r"Missing translated story title for (story-\d+)", stderr)
+    if match:
+        return match.group(1)
+    return None
+
+
+def is_generated_only_dirty(state: dict[str, list[str]], book_id: str) -> bool:
+    dirty_paths = state["dirty_paths"]
+    if not dirty_paths:
+        return False
+    if state["output_segment_ids"]:
+        return False
+
+    allowed_exact = {
+        f"books/{book_id}/manifest.json",
+        "site/src/lib/generated/catalog.ts",
+    }
+    allowed_prefixes = (
+        "site/src/content/chapters/",
+        "site/public/book-assets/",
+    )
+    blocked_exact = {
+        f"books/{book_id}/config.json",
+        "glossary/glossary.md",
+    }
+
+    for path in dirty_paths:
+        if path in blocked_exact:
+            return False
+        if path in allowed_exact:
+            continue
+        if any(path.startswith(prefix) for prefix in allowed_prefixes):
+            continue
+        return False
+    return True
+
+
+def run_checked(cmd: list[str], cwd: Path) -> tuple[bool, str]:
+    result = subprocess.run(cmd, cwd=str(cwd), capture_output=True, text=True)
+    if result.returncode == 0:
+        return True, result.stdout.strip()
+    return False, result.stderr.strip() or result.stdout.strip() or "Command failed"
+
+
+def attempt_generated_state_repair(repo_root: Path, book_id: str) -> dict[str, object]:
+    ok, message = run_checked(
+        ["python3", "scripts/sync_manifest.py", "--book-id", book_id],
+        cwd=repo_root,
+    )
+    if not ok:
+        return {
+            "result": "blocker",
+            "errors": [f"Automatic manifest repair failed: {message}"],
+        }
+
+    ok, message = run_checked(
+        ["python3", "scripts/validate_run.py", "--book-id", book_id],
+        cwd=repo_root,
+    )
+    if not ok:
+        return {
+            "result": "blocker",
+            "errors": [f"Automatic validation failed: {message}"],
+        }
+
+    ok, message = run_checked(["bun", "run", "sync-content"], cwd=repo_root / "site")
+    if ok:
+        return {
+            "result": "ok",
+            "auto_repaired_generated_state": True,
+        }
+
+    story_id = extract_missing_story_title(message)
+    if story_id:
+        return {
+            "result": "repair-missing-story-title",
+            "story_id": story_id,
+            "errors": [message],
+        }
+
+    return {
+        "result": "blocker",
+        "errors": [f"Automatic generated-state repair failed: {message}"],
+    }
 
 
 def main() -> int:
@@ -102,28 +193,37 @@ def main() -> int:
                 }
             )
         else:
-            dirty_paths, dirty_segments = collect_dirty_translation_state(
+            dirty_state = collect_dirty_translation_state(
                 repo_root or Path(__file__).resolve().parents[1], args.book_id
             )
-            if len(dirty_segments) == 1:
+            if is_generated_only_dirty(dirty_state, args.book_id):
+                payload.update(
+                    attempt_generated_state_repair(
+                        repo_root or Path(__file__).resolve().parents[1],
+                        args.book_id,
+                    )
+                )
+            elif len(dirty_state["output_segment_ids"]) == 1:
                 payload.update(
                     {
                         "result": "repair-local-publish",
-                        "segment_id": dirty_segments[0],
-                        "dirty_paths": dirty_paths,
-                        "dirty_segment_ids": dirty_segments,
+                        "segment_id": dirty_state["output_segment_ids"][0],
+                        "dirty_paths": dirty_state["dirty_paths"],
+                        "dirty_segment_ids": dirty_state["output_segment_ids"],
+                        "dirty_reader_segment_ids": dirty_state["reader_segment_ids"],
                     }
                 )
-            elif dirty_segments:
+            elif dirty_state["output_segment_ids"]:
                 payload.update(
                     {
                         "result": "blocker",
                         "errors": [
                             "Canonical checkout has unfinished local publish state for multiple segments: "
-                            + ", ".join(dirty_segments)
+                            + ", ".join(dirty_state["output_segment_ids"])
                         ],
-                        "dirty_paths": dirty_paths,
-                        "dirty_segment_ids": dirty_segments,
+                        "dirty_paths": dirty_state["dirty_paths"],
+                        "dirty_segment_ids": dirty_state["output_segment_ids"],
+                        "dirty_reader_segment_ids": dirty_state["reader_segment_ids"],
                     }
                 )
             else:

@@ -367,6 +367,11 @@ def clear_claim(args: argparse.Namespace, event: str, reason: str | None = None)
         path, state = load_state(args.book_id, args.automation_id, shared_root=shared_root)
         claim = state.get("active_claim")
         if not claim or claim.get("segment_id") != args.segment_id:
+            if event == "complete":
+                print(
+                    f"No matching active claim for {args.segment_id} in {path}; treating complete as already finished",
+                )
+                return 0
             print(
                 f"No matching active claim for {args.segment_id} in {path}",
             )

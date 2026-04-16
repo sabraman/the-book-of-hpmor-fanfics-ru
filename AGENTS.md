@@ -25,7 +25,9 @@ This repository is a markdown-first Russian translation workspace for *The Book 
 
 - When running in a detached worktree, do not manually choose the next segment from `scripts/pending.py`.
 - Before any lease work, run `python3 scripts/automation_preflight.py --book-id various-muggles --json`.
+- Preflight may auto-repair generated reader state in the canonical checkout by re-running manifest sync and reader generation; if it returns `ok` after that, continue normally.
 - If preflight returns `repair-truncated`, do not claim a new segment. Repair that already-translated segment first, validate in the worktree, and publish it locally through `scripts/publish_from_worktree.py --skip-push`.
+- If preflight returns `repair-missing-story-title`, do not claim a new segment. Add the missing Russian story title under `translated_story_titles` (and a glossary entry if this is a new title decision), then rerun validation and reader sync before continuing.
 - If preflight returns `blocker`, stop and report the exact structural error instead of claiming a new segment.
 - Always inspect lease state first with `python3 scripts/automation_claim.py show --book-id various-muggles --automation-id hourly-segment --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru --json`.
 - Only call `python3 scripts/automation_claim.py claim --book-id various-muggles --automation-id hourly-segment --shared-root /Users/sabraman/sandbox/the-book-of-hpmor-fanfics-ru --worktree-root "$PWD" --json` when `show` reports `no-active-claim`.
