@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 262,
-  readableChapterCount: 262,
+  translatedSegmentCount: 263,
+  readableChapterCount: 263,
   readableBookCount: 45,
 } as const;
 
@@ -543,9 +543,9 @@ export const books: BookMeta[] = [
     "title": "Гарри Поттер и криптографический ключ",
     "originalTitle": "Harry Potter and the cryptographic key",
     "order": 348,
-    "readableChapterCount": 6,
+    "readableChapterCount": 7,
     "totalChapterCount": 9,
-    "translatedSegmentCount": 6
+    "translatedSegmentCount": 7
   },
   {
     "id": "story-47",
@@ -3981,6 +3981,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 6: Недостаток опыта",
     "originalTitle": "Chapter 6: Lack of experience"
+  },
+  {
+    "bookId": "story-46",
+    "bookSlug": "harry-potter-and-the-cryptographic-key",
+    "slug": "seg-0356",
+    "href": "/books/harry-potter-and-the-cryptographic-key/chapters/seg-0356",
+    "order": 356,
+    "orderWithinBook": 7,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 7: Я не наследница Когтеврана",
+    "originalTitle": "Chapter 7: I am not the heir to Ravenclaw"
   }
 ] as ChapterMeta[];
 
@@ -4247,4 +4258,5 @@ export const chapterModules = {
   "seg-0353": () => import("@/content/chapters/seg-0353.mdx"),
   "seg-0354": () => import("@/content/chapters/seg-0354.mdx"),
   "seg-0355": () => import("@/content/chapters/seg-0355.mdx"),
+  "seg-0356": () => import("@/content/chapters/seg-0356.mdx"),
 } as const;
