@@ -217,8 +217,11 @@ across multiple segments.
 | Tom Riddle | Том Реддл | Potter's Army / ROSMEN | Canon form for Voldemort before he took the name `Lord Voldemort`. |
 | Albus Dumbledore | Альбус Дамблдор | Potter's Army / ROSMEN | Prefer canon form everywhere. |
 | Nicolas Flamel | Николас Фламель | Potter's Army / ROSMEN | Canon alchemist name; keep the given name in the `Николас`, not `Николя`, form already used in this project. |
+| Baba Yaga | Баба-яга | Potter's Army / folklore usage | Folkloric witch name; use the standard Russian hyphenated form, including when the story treats her as an ancient Dark Lady. |
+| Olga Xenda | Ольга Ксенда | Project / story-48 | Supposed tutor of Baba Yaga who named the Mirror of Vec; use a direct transliteration of the invented surname. |
 | Perenelle | Перенель | Project / canon historical usage | Use this compact form when the text refers to Nicolas Flamel's wife by given name only; later surnamed variants can be glossed separately if needed. |
 | Perenelle Dumarais | Перенель Дюмаре | Project / story-43 / recurring anthology usage | Use this surname form for Perenelle before or alongside `Фламель`; normalize split `du Marais` spellings to the single Russian form. |
+| Lethae | Лета | Project / story-48 | Dark Lady alias in Quirrell's cautionary potion anecdote; render through the Lethe allusion rather than a mechanical transliteration. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Bellatrix Black | Беллатриса Блэк | Project / Tom Riddle Conflict | Alternate-era Bellatrix before marriage in this story cycle. |
 | Cygnus Black | Сигнус Блэк | Potter's Army / canon-family usage | Bellatrix's father in Black family flashbacks; keep the star-name form `Сигнус`. |
@@ -421,11 +424,14 @@ across multiple segments.
 | Fidelius Charm | чары Фиделиуса | Potter's Army / canon usage | Use the established borrowed spell name rather than inventing a descriptive calque; singular/plural agreement follows Russian sentence flow. |
 | secret-keeper | хранитель тайны | Potter's Army / canon usage | Fidelius role term; capitalize only when a story styles it as a formal title. |
 | Philosopher's Stone | Философский камень | Potter's Army / ROSMEN | Canon artifact. |
+| Stone of Permanence | Камень Постоянства | Project / story-48 | Alternate functional name for the Philosopher's Stone when Quirrell discusses its healing and immortality role; keep the abstract alchemical register. |
 | Elixir of Life | Эликсир Жизни | Potter's Army / ROSMEN / usage | Capitalize as the fixed alchemical product of the Philosopher's Stone. |
 | Elixir of Sorcery | Эликсир Волшебства | Project / story-27 | Companion elixir from the Philosopher's Stone that restores magical capacity; keep the abstract noun, not a pseudo-scientific calque. |
 | Elixir of Nobility | Эликсир Благородства | Project / story-27 | Third Philosopher's Stone product tied to noble metals; keep the elevated alchemical phrasing. |
 | Mirror of Erised | Зеркало Еиналеж | Potter's Army / ROSMEN | Magical mirror revealing deepest desire. |
 | Mirror of Noitilov | Зеркало Нойтилов | Project / story-43 | Artifact mirror identified with the Element of Space; transliterate the invented proper name and keep the mirror label parallel to `Зеркало Еиналеж`. |
+| Mirror of Vec | Зеркало ВЭК | Project / story-48 | One of the alternate names for the Mirror of Erised / Noitilov; preserve the acronym echo of coherent extrapolated volition. |
+| Nillits | Ниллитс | Project / story-48 | Ancient standalone name for the Mirror; transliterate without trying to reverse or explain it in running text. |
 | Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
 | Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
 | International Confederation of Wizards | Международная конфедерация магов | Potter's Army / ROSMEN | Dumbledore is the Supreme Mugwump of this body in canon and fanfic usage. |
@@ -568,6 +574,7 @@ across multiple segments.
 | Department of Mysteries | Отдел Тайн | Potter's Army / ROSMEN | Ministry department. |
 | Hall of Prophecy | Зал Пророчеств | Potter's Army / ROSMEN / project usage | Room within the Department of Mysteries where recorded prophecies are stored and heard by those named in them. |
 | magical singularity | магическая сингулярность | Project / story-40 | Term used by prophecy scholars for the theory that the world has become too unpredictable for prophecy to see past a certain point; keep it as a slightly jargon-heavy phrase in running text. |
+| coherent extrapolated volition | когерентная экстраполированная воля | Project / story-48 / AI philosophy usage | Keep the standard LessWrong / Yudkowsky term literal and recognizable; the Mirror inscription depends on the technical phrasing. |
 | Unspeakables | невыразимцы | Potter's Army / ROSMEN | Canon name for Department of Mysteries personnel. |
 | Room of Requirement | Выручай-комната | Potter's Army / ROSMEN | Canon Hogwarts room name. |
 | Phoenix Price room | комната Цены Феникса | Project / HPMOR fanfic usage | Dumbledore's memorial room of losses and relics; keep the phrase capitalized as a named place despite the source's slightly odd wording. |
