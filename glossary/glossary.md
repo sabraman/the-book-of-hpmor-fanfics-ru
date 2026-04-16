@@ -69,6 +69,7 @@ across multiple segments.
 | Hacking the Source of Magic | Взлом источника магии | Project / story-45 | Story title; keep `hacking` as deliberate investigative intrusion, not generic computer jargon; `source` points to the origin/mechanism of magic. |
 | Harry Potter and the cryptographic key | Гарри Поттер и криптографический ключ | Project / story-46 | Story title; use the standard technical term `криптографический ключ` so the title keeps its computer-science precision without collapsing into a generic `шифр` or `код`. |
 | Lord Voldemort for a better tomorrow | Лорд Волдеморт ради лучшего завтра | Project / story-46 | Chapter 2 title; keep the slogan-like phrasing so Harry's willingness to create a dark lord for utilitarian ends reads like a grim political program, not a casual villain turn. |
+| My Precious | Моя прелесть | Project / story-46 | Chapter 3 title; keep the direct `моя прелесть` echo so Harry's possessive fixation on the diadem lands with the familiar obsessive undertone. |
 | Cheating Death | Обмануть смерть | Project / story-45 | Chapter 3 title; use the idiomatic infinitive for beating mortality rather than a literal `обман смерти`. |
 | Missing | Пропавшая | Project / story-45 | Chapter 4 title; keep the focus on Hermione's personal absence rather than a generic missing database record. |
 | Why? | Почему? | Project / story-45 | Chapter 6 title; keep the single blunt question because the chapter answers Harry's immediate moral and causal question about Dumbledore's actions. |
