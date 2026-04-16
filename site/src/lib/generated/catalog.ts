@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 253,
-  readableChapterCount: 253,
+  translatedSegmentCount: 254,
+  readableChapterCount: 254,
   readableBookCount: 44,
 } as const;
 
@@ -532,9 +532,9 @@ export const books: BookMeta[] = [
     "title": "Взлом источника магии",
     "originalTitle": "Hacking the Source of Magic",
     "order": 338,
-    "readableChapterCount": 5,
+    "readableChapterCount": 6,
     "totalChapterCount": 8,
-    "translatedSegmentCount": 5
+    "translatedSegmentCount": 6
   },
   {
     "id": "story-46",
@@ -3882,6 +3882,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 5: Обратный ход",
     "originalTitle": "Chapter 5: Going Backwards"
+  },
+  {
+    "bookId": "story-45",
+    "bookSlug": "hacking-the-source-of-magic",
+    "slug": "seg-0345",
+    "href": "/books/hacking-the-source-of-magic/chapters/seg-0345",
+    "order": 345,
+    "orderWithinBook": 6,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 6: Почему?",
+    "originalTitle": "Chapter 6: Why?"
   }
 ] as ChapterMeta[];
 
@@ -4139,4 +4150,5 @@ export const chapterModules = {
   "seg-0342": () => import("@/content/chapters/seg-0342.mdx"),
   "seg-0343": () => import("@/content/chapters/seg-0343.mdx"),
   "seg-0344": () => import("@/content/chapters/seg-0344.mdx"),
+  "seg-0345": () => import("@/content/chapters/seg-0345.mdx"),
 } as const;

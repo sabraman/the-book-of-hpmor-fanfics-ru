@@ -69,6 +69,7 @@ across multiple segments.
 | Hacking the Source of Magic | Взлом источника магии | Project / story-45 | Story title; keep `hacking` as deliberate investigative intrusion, not generic computer jargon; `source` points to the origin/mechanism of magic. |
 | Cheating Death | Обмануть смерть | Project / story-45 | Chapter 3 title; use the idiomatic infinitive for beating mortality rather than a literal `обман смерти`. |
 | Missing | Пропавшая | Project / story-45 | Chapter 4 title; keep the focus on Hermione's personal absence rather than a generic missing database record. |
+| Why? | Почему? | Project / story-45 | Chapter 6 title; keep the single blunt question because the chapter answers Harry's immediate moral and causal question about Dumbledore's actions. |
 | Friendship is Magic | Дружба - это магия | Project / story-43 | Chapter 22 title and refrain; keep `magic` literal rather than borrowing the franchise-localized `чудо`, because the climax hinges on friendship becoming literal magic. |
 | Notes of Confusion | Ноты замешательства | Project / story-43 | Chapter 14 title; keep the musical `notes` sense so the narration can escalate naturally into a fugue and then a symphony of confusion. |
 | Liberate Tutemet Ex Inferis | Liberate Tutemet Ex Inferis | Project / story-43 | Chapter 15 title; keep the faux-Latin incantatory phrasing unchanged in the heading so it reads like a named spell or rite rather than a prose sentence. |
