@@ -67,6 +67,7 @@ across multiple segments.
 | The Longest Day | Самый долгий день | Project / story-43 | Story title; keep the phrase direct and portentous so it can carry both the literal apocalyptic day and the story's high-stakes crossover melodrama. |
 | Griphook and the Strong Form EMH | Крюкохват и сильная форма гипотезы эффективного рынка | Project / story-44 | Expand `EMH` in Russian for reader clarity; in running text use `гипотеза эффективного рынка`, with `сильная форма` for the strong form. |
 | Hacking the Source of Magic | Взлом источника магии | Project / story-45 | Story title; keep `hacking` as deliberate investigative intrusion, not generic computer jargon; `source` points to the origin/mechanism of magic. |
+| Harry Potter and the cryptographic key | Гарри Поттер и криптографический ключ | Project / story-46 | Story title; use the standard technical term `криптографический ключ` so the title keeps its computer-science precision without collapsing into a generic `шифр` or `код`. |
 | Cheating Death | Обмануть смерть | Project / story-45 | Chapter 3 title; use the idiomatic infinitive for beating mortality rather than a literal `обман смерти`. |
 | Missing | Пропавшая | Project / story-45 | Chapter 4 title; keep the focus on Hermione's personal absence rather than a generic missing database record. |
 | Why? | Почему? | Project / story-45 | Chapter 6 title; keep the single blunt question because the chapter answers Harry's immediate moral and causal question about Dumbledore's actions. |
