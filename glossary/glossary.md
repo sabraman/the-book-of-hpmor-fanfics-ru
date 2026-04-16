@@ -70,6 +70,7 @@ across multiple segments.
 | Cheating Death | Обмануть смерть | Project / story-45 | Chapter 3 title; use the idiomatic infinitive for beating mortality rather than a literal `обман смерти`. |
 | Missing | Пропавшая | Project / story-45 | Chapter 4 title; keep the focus on Hermione's personal absence rather than a generic missing database record. |
 | Why? | Почему? | Project / story-45 | Chapter 6 title; keep the single blunt question because the chapter answers Harry's immediate moral and causal question about Dumbledore's actions. |
+| After | После | Project / story-45 | Chapter 7 title; keep it spare and aftermath-focused, pointing to what happens immediately after Harry learns the truth about Hermione. |
 | Friendship is Magic | Дружба - это магия | Project / story-43 | Chapter 22 title and refrain; keep `magic` literal rather than borrowing the franchise-localized `чудо`, because the climax hinges on friendship becoming literal magic. |
 | Notes of Confusion | Ноты замешательства | Project / story-43 | Chapter 14 title; keep the musical `notes` sense so the narration can escalate naturally into a fugue and then a symphony of confusion. |
 | Liberate Tutemet Ex Inferis | Liberate Tutemet Ex Inferis | Project / story-43 | Chapter 15 title; keep the faux-Latin incantatory phrasing unchanged in the heading so it reads like a named spell or rite rather than a prose sentence. |
@@ -539,6 +540,8 @@ across multiple segments.
 | Retrieval Charm | чары извлечения | Project / story-27 | Storage-item retrieval enchantment; distinct from `Accio` / standard summoning charm and tied to getting selected contents out of an enchanted container. |
 | Interdict of Merlin | Интердикт Мерлина | Project / HPMOR fanfic usage | Magical limit that prevents powerful spell-imprints from being learned except mind-to-mind from a living bearer or rediscovered independently. |
 | Atlantis Mainframe | мейнфрейм Атлантиды | Project / story-45 | Use the computing term directly for the source-of-magic control systems; capitalize only in formal system greetings or headings if the surrounding Russian requires it. |
+| Atlantis Ruling Council | Совет правителей Атлантиды | Project / story-45 | Formal warning phrase from the source-of-magic system; keep it institutional and slightly archaic rather than modern-corporate. |
+| computronium | компьютрониум | Project / story-45 / science-fiction usage | Use the standard technical transliteration for matter optimized for computation; adjectival forms may use `компьютрониумный`. |
 | Transmigration | Переселение | Project / story-43 / recurring anthology usage | Capitalize when it refers to the epochal death-and-rebirth event in the Atlantis / Equestria cosmology. |
 | The Decimation | Истребление | Project / story-43 / recurring anthology usage | Chapter 25 title and prophecy keyword; keep it stark and apocalyptic rather than softening it into a merely military `децимацию`. |
 | Specters | Призраки | Project / story-43 / recurring anthology usage | Capitalize when it refers to the Atlantis-bred death entities; use `Призраки Смерти` when the fuller phrase appears in narration. |
