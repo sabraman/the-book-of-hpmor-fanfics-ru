@@ -69,6 +69,7 @@ across multiple segments.
 | Hacking the Source of Magic | Взлом источника магии | Project / story-45 | Story title; keep `hacking` as deliberate investigative intrusion, not generic computer jargon; `source` points to the origin/mechanism of magic. |
 | Harry Potter and the cryptographic key | Гарри Поттер и криптографический ключ | Project / story-46 | Story title; use the standard technical term `криптографический ключ` so the title keeps its computer-science precision without collapsing into a generic `шифр` or `код`. |
 | Minds Names and Faces | Разумы, имена и лица | Project / story-48 | Story title; keep the abstract triplet identity-focused so it can cover minds, aliases, and outward personae without collapsing into a purely physical reading. |
+| Smoke and Mirrors | Дым и зеркала | Project / story-48 | Chapter 5 title; keep the stage-magic idiom literal enough to fit both the Mirror scene and Quirrell's deceptive escape. |
 | Lord Voldemort for a better tomorrow | Лорд Волдеморт ради лучшего завтра | Project / story-46 | Chapter 2 title; keep the slogan-like phrasing so Harry's willingness to create a dark lord for utilitarian ends reads like a grim political program, not a casual villain turn. |
 | My Precious | Моя прелесть | Project / story-46 | Chapter 3 title; keep the direct `моя прелесть` echo so Harry's possessive fixation on the diadem lands with the familiar obsessive undertone. |
 | Cheating Death | Обмануть смерть | Project / story-45 | Chapter 3 title; use the idiomatic infinitive for beating mortality rather than a literal `обман смерти`. |
@@ -420,6 +421,9 @@ across multiple segments.
 | Avada Kedavra | Авада Кедавра | Potter's Army / ROSMEN | Canon incantation. |
 | Lumos Maxima | Люмос Максима | Potter's Army / canon usage | Amplified light spell; keep the Latin incantation transliterated in running text. |
 | Leviosa immobilis | Левиоса Иммобилис | Project / story-34 | Amelia Bones's improvised immobilizing-levitation incantation during the Azkaban response; keep the faux-Latin spell transliterated in dialogue. |
+| Words of False Comprehension | Слова ложного понимания | Project / story-48 | Atlantean / Mirror-related magical language effect; capitalize as a formal label and keep the wording about false understanding rather than generic confusion. |
+| Singularis Nex | Singularis Nex | Project / story-48 | Duel incantation used by Quirrell against Dumbledore; keep the faux-Latin unchanged in dialogue. |
+| Lux Argentus | Lux Argentus | Project / story-48 | Dumbledore's duel incantation countering `Singularis Nex`; keep the faux-Latin unchanged in dialogue. |
 | Killing Curse | Убивающее заклятие | Potter's Army / ROSMEN | Canon description of `Avada Kedavra`. |
 | Fidelius Charm | чары Фиделиуса | Potter's Army / canon usage | Use the established borrowed spell name rather than inventing a descriptive calque; singular/plural agreement follows Russian sentence flow. |
 | secret-keeper | хранитель тайны | Potter's Army / canon usage | Fidelius role term; capitalize only when a story styles it as a formal title. |
@@ -436,6 +440,7 @@ across multiple segments.
 | Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
 | International Confederation of Wizards | Международная конфедерация магов | Potter's Army / ROSMEN | Dumbledore is the Supreme Mugwump of this body in canon and fanfic usage. |
 | Elder Wand | Бузинная палочка | Potter's Army / ROSMEN | One of the Deathly Hallows. |
+| Hallowed Wand | Священная Палочка | Project / story-48 | Dumbledore's title-style framing for the Elder Wand as a Deathly Hallow; capitalize when the source uses the formal epithet. |
 | True Cloak of Invisibility | Истинная мантия-невидимка | Project / story-43 | HPMOR variant of the Cloak as a Deathly Hallow; keep `Истинная` to distinguish it from generic invisibility cloaks. |
 | Spirit Stone | Камень Духа | Project / story-43 | Artifact form that stores Voldemort's Horcrux network before the Element assembly; capitalize as a unique artifact. |
 | Triwizard Tournament | Турнир Трёх Волшебников | Potter's Army / ROSMEN | Canon tournament name. |
