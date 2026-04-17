@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 272,
-  readableChapterCount: 272,
+  translatedSegmentCount: 273,
+  readableChapterCount: 273,
   readableBookCount: 46,
 } as const;
 
@@ -565,9 +565,9 @@ export const books: BookMeta[] = [
     "title": "Разумы, имена и лица",
     "originalTitle": "Minds Names and Faces",
     "order": 360,
-    "readableChapterCount": 7,
+    "readableChapterCount": 8,
     "totalChapterCount": 12,
-    "translatedSegmentCount": 7
+    "translatedSegmentCount": 8
   },
   {
     "id": "story-49",
@@ -4091,6 +4091,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 7: Змея и пёс",
     "originalTitle": "Chapter 7: The Snake and the Dog"
+  },
+  {
+    "bookId": "story-48",
+    "bookSlug": "minds-names-and-faces",
+    "slug": "seg-0369",
+    "href": "/books/minds-names-and-faces/chapters/seg-0369",
+    "order": 369,
+    "orderWithinBook": 8,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 8: Заткнись и умножай, ч. 1",
+    "originalTitle": "Chapter 8: Shut Up And Multiply, Pt 1"
   }
 ] as ChapterMeta[];
 
@@ -4367,4 +4378,5 @@ export const chapterModules = {
   "seg-0366": () => import("@/content/chapters/seg-0366.mdx"),
   "seg-0367": () => import("@/content/chapters/seg-0367.mdx"),
   "seg-0368": () => import("@/content/chapters/seg-0368.mdx"),
+  "seg-0369": () => import("@/content/chapters/seg-0369.mdx"),
 } as const;
