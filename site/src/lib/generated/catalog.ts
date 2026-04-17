@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 285,
-  readableChapterCount: 285,
-  readableBookCount: 47,
+  translatedSegmentCount: 286,
+  readableChapterCount: 286,
+  readableBookCount: 48,
 } as const;
 
 export const books: BookMeta[] = [
@@ -584,12 +584,12 @@ export const books: BookMeta[] = [
     "id": "story-50",
     "slug": "alt-chapters-109-110-riddles-upon-riddles-legacy-of-the-troll",
     "href": "/books/alt-chapters-109-110-riddles-upon-riddles-legacy-of-the-troll",
-    "title": "Alt Chapters 109-110 (Riddles Upon Riddles, Legacy of The Troll)",
+    "title": "Альтернативные главы 109-110 («Загадка за загадкой», «Наследие тролля»)",
     "originalTitle": "Alt Chapters 109-110 (Riddles Upon Riddles, Legacy of The Troll)",
     "order": 384,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 2,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-51",
@@ -4234,6 +4234,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 8: Омаке - Пока не падёт Смерть",
     "originalTitle": "Chapter 8: Omake – Till Death Shall Fall"
+  },
+  {
+    "bookId": "story-50",
+    "bookSlug": "alt-chapters-109-110-riddles-upon-riddles-legacy-of-the-troll",
+    "slug": "seg-0386",
+    "href": "/books/alt-chapters-109-110-riddles-upon-riddles-legacy-of-the-troll/chapters/seg-0386",
+    "order": 386,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 109: Истина, часть 6 — Загадка за загадкой",
+    "originalTitle": "Chapter 109: The Truth, Pt 6 – Riddles Upon Riddles"
   }
 ] as ChapterMeta[];
 
@@ -4523,4 +4534,5 @@ export const chapterModules = {
   "seg-0381": () => import("@/content/chapters/seg-0381.mdx"),
   "seg-0382": () => import("@/content/chapters/seg-0382.mdx"),
   "seg-0383": () => import("@/content/chapters/seg-0383.mdx"),
+  "seg-0386": () => import("@/content/chapters/seg-0386.mdx"),
 } as const;
