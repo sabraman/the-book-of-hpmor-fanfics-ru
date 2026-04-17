@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 280,
-  readableChapterCount: 280,
+  translatedSegmentCount: 281,
+  readableChapterCount: 281,
   readableBookCount: 47,
 } as const;
 
@@ -576,9 +576,9 @@ export const books: BookMeta[] = [
     "title": "Ничего, кроме огня",
     "originalTitle": "Nothing Left but Fire",
     "order": 374,
-    "readableChapterCount": 3,
+    "readableChapterCount": 4,
     "totalChapterCount": 8,
-    "translatedSegmentCount": 3
+    "translatedSegmentCount": 4
   },
   {
     "id": "story-50",
@@ -4179,6 +4179,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 3",
     "originalTitle": "Chapter 3"
+  },
+  {
+    "bookId": "story-49",
+    "bookSlug": "nothing-left-but-fire",
+    "slug": "seg-0379",
+    "href": "/books/nothing-left-but-fire/chapters/seg-0379",
+    "order": 379,
+    "orderWithinBook": 4,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 4",
+    "originalTitle": "Chapter 4"
   }
 ] as ChapterMeta[];
 
@@ -4463,4 +4474,5 @@ export const chapterModules = {
   "seg-0376": () => import("@/content/chapters/seg-0376.mdx"),
   "seg-0377": () => import("@/content/chapters/seg-0377.mdx"),
   "seg-0378": () => import("@/content/chapters/seg-0378.mdx"),
+  "seg-0379": () => import("@/content/chapters/seg-0379.mdx"),
 } as const;

@@ -486,6 +486,7 @@ across multiple segments.
 | Flobberworm | флоббер-червь | Potter's Army / canon usage | Sluggish magical worm used in beginner care lessons and potion ingredients; plural `Flobberworms` -> `флоббер-черви`. |
 | Deathday Party | вечеринка в честь дня смерти | Potter's Army / ROSMEN | Event term. |
 | Basilisk | василиск | Potter's Army / ROSMEN | Creature type. |
+| Anti-Confundus Charm | антиконфундусные чары | Project / story-49 | Basilisk-taught verification spell; keep the repo's `Конфундус` stem and treat the name as a descriptive spell label rather than inventing a new canonized term. |
 | Inferius | инфернал | Harry Potter Wiki RU / canon usage | Singular undead creature animated by Dark magic. |
 | Inferi | инферналы | Harry Potter Wiki RU / canon usage | Plural undead creatures animated by Dark magic. |
 | Chamber of Secrets | Тайная комната | Potter's Army / ROSMEN | Canon place name. |
