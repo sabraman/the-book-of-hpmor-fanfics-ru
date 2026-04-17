@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 286,
-  readableChapterCount: 286,
+  translatedSegmentCount: 287,
+  readableChapterCount: 287,
   readableBookCount: 48,
 } as const;
 
@@ -587,9 +587,9 @@ export const books: BookMeta[] = [
     "title": "Альтернативные главы 109-110 («Загадка за загадкой», «Наследие тролля»)",
     "originalTitle": "Alt Chapters 109-110 (Riddles Upon Riddles, Legacy of The Troll)",
     "order": 384,
-    "readableChapterCount": 1,
+    "readableChapterCount": 2,
     "totalChapterCount": 2,
-    "translatedSegmentCount": 1
+    "translatedSegmentCount": 2
   },
   {
     "id": "story-51",
@@ -4245,6 +4245,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 109: Истина, часть 6 — Загадка за загадкой",
     "originalTitle": "Chapter 109: The Truth, Pt 6 – Riddles Upon Riddles"
+  },
+  {
+    "bookId": "story-50",
+    "bookSlug": "alt-chapters-109-110-riddles-upon-riddles-legacy-of-the-troll",
+    "slug": "seg-0387",
+    "href": "/books/alt-chapters-109-110-riddles-upon-riddles-legacy-of-the-troll/chapters/seg-0387",
+    "order": 387,
+    "orderWithinBook": 2,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 110: Наследие тролля",
+    "originalTitle": "Chapter 110: Legacy of The Troll"
   }
 ] as ChapterMeta[];
 
@@ -4535,4 +4546,5 @@ export const chapterModules = {
   "seg-0382": () => import("@/content/chapters/seg-0382.mdx"),
   "seg-0383": () => import("@/content/chapters/seg-0383.mdx"),
   "seg-0386": () => import("@/content/chapters/seg-0386.mdx"),
+  "seg-0387": () => import("@/content/chapters/seg-0387.mdx"),
 } as const;
