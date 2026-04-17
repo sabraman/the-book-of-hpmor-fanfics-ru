@@ -70,6 +70,7 @@ across multiple segments.
 | Harry Potter and the cryptographic key | Гарри Поттер и криптографический ключ | Project / story-46 | Story title; use the standard technical term `криптографический ключ` so the title keeps its computer-science precision without collapsing into a generic `шифр` or `код`. |
 | Minds Names and Faces | Разумы, имена и лица | Project / story-48 | Story title; keep the abstract triplet identity-focused so it can cover minds, aliases, and outward personae without collapsing into a purely physical reading. |
 | Smoke and Mirrors | Дым и зеркала | Project / story-48 | Chapter 5 title; keep the stage-magic idiom literal enough to fit both the Mirror scene and Quirrell's deceptive escape. |
+| Interlude — Conspiracy Theories | Интерлюдия — теории заговора | Project / story-48 | Chapter 6 title; keep the dry rationalist framing and lowercase `теории заговора` because it describes the genre of explanation, not a named group. |
 | Lord Voldemort for a better tomorrow | Лорд Волдеморт ради лучшего завтра | Project / story-46 | Chapter 2 title; keep the slogan-like phrasing so Harry's willingness to create a dark lord for utilitarian ends reads like a grim political program, not a casual villain turn. |
 | My Precious | Моя прелесть | Project / story-46 | Chapter 3 title; keep the direct `моя прелесть` echo so Harry's possessive fixation on the diadem lands with the familiar obsessive undertone. |
 | Cheating Death | Обмануть смерть | Project / story-45 | Chapter 3 title; use the idiomatic infinitive for beating mortality rather than a literal `обман смерти`. |
@@ -429,6 +430,7 @@ across multiple segments.
 | secret-keeper | хранитель тайны | Potter's Army / canon usage | Fidelius role term; capitalize only when a story styles it as a formal title. |
 | Philosopher's Stone | Философский камень | Potter's Army / ROSMEN | Canon artifact. |
 | Stone of Permanence | Камень Постоянства | Project / story-48 | Alternate functional name for the Philosopher's Stone when Quirrell discusses its healing and immortality role; keep the abstract alchemical register. |
+| Blood of Atlantis | Кровь Атлантиды | Project / story-48 | Genetic marker for magic in Harry's Source-of-Magic theorizing; capitalize as the named marker rather than a literal blood substance. |
 | Elixir of Life | Эликсир Жизни | Potter's Army / ROSMEN / usage | Capitalize as the fixed alchemical product of the Philosopher's Stone. |
 | Elixir of Sorcery | Эликсир Волшебства | Project / story-27 | Companion elixir from the Philosopher's Stone that restores magical capacity; keep the abstract noun, not a pseudo-scientific calque. |
 | Elixir of Nobility | Эликсир Благородства | Project / story-27 | Third Philosopher's Stone product tied to noble metals; keep the elevated alchemical phrasing. |
