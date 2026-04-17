@@ -73,6 +73,7 @@ across multiple segments.
 | Interlude — Conspiracy Theories | Интерлюдия — теории заговора | Project / story-48 | Chapter 6 title; keep the dry rationalist framing and lowercase `теории заговора` because it describes the genre of explanation, not a named group. |
 | The Snake and the Dog | Змея и пёс | Project / story-48 | Chapter 7 title; keep the animal pairing compact and vivid, and prefer `пёс` over a neutral `собака` to match Sirius's shaggy canine form and Quirrell's later jabs about a dog with a bone / canine companion. |
 | Shut Up And Multiply | Заткнись и умножай | Project / story-48 | Chapter-title stem for Chapters 8-11; keep the familiar rationalist slogan terse and blunt, so the later `Pt 2/3` and `Aftermaths` variants still read like one continuous sequence. |
+| Shut Up And Multiply — Aftermaths | Заткнись и умножай — последствия | Project / story-48 | Chapter 11 title; keep the established sequence stem and render `Aftermaths` as a plain, post-crisis `последствия`. |
 | Lord Voldemort for a better tomorrow | Лорд Волдеморт ради лучшего завтра | Project / story-46 | Chapter 2 title; keep the slogan-like phrasing so Harry's willingness to create a dark lord for utilitarian ends reads like a grim political program, not a casual villain turn. |
 | My Precious | Моя прелесть | Project / story-46 | Chapter 3 title; keep the direct `моя прелесть` echo so Harry's possessive fixation on the diadem lands with the familiar obsessive undertone. |
 | Cheating Death | Обмануть смерть | Project / story-45 | Chapter 3 title; use the idiomatic infinitive for beating mortality rather than a literal `обман смерти`. |
@@ -399,6 +400,8 @@ across multiple segments.
 | Hogwarts letter | письмо из Хогвартса | Potter's Army / usage | Phrase-level default. |
 | Horcrux | крестраж | Potter's Army / ROSMEN | Canon form. |
 | Greater Horcrux | высший крестраж | Project / story-48 | Technical label in `Разумы, имена и лица` for Voldemort's improved, soul-copy-preserving Horcrux form; contrast with `меньший крестраж` when the source explicitly sets up that distinction. |
+| Stone of Alethiontology | Камень алетионтологии | Project / story-48 | Keep the pseudo-Greek name as a direct transliteration; the appositive `Камень Истинного Бытия` explains the concept in narration. |
+| Stone of True Being | Камень Истинного Бытия | Project / story-48 | Explanatory epithet for the Philosopher's Stone in Dumbledore's lore dump; capitalize it as a formal artifact title. |
 | Spattergroit | спаттергройт | Project / canon usage | Magical infectious disease; keep as a direct transliteration in running text. |
 | Line of Merlin | Линия Мерлина | Project / HPMOR fanfic usage | Succession / artifact term; extend naturally to `Line of Merlin Unbroken` as `Непрерывная Линия Мерлина` when needed. |
 | Bayesian Conspiracy | Байесовский заговор | Project / HPMOR fanfic usage | Student planning circle around Harry and Draco; keep the phrase conspiratorial rather than academic and capitalize only when styled as a named group. |
@@ -518,6 +521,7 @@ across multiple segments.
 | Wool's Orphanage | приют Вула | Potter's Army / ROSMEN | London orphanage where Tom Riddle grew up. |
 | Fizzing Whizzbees | шипучие шмельки | Potter's Army / canon usage | Wizarding sweet; when the source uses the singular office-password form `Fizzing Whizzbee`, translate it as `шипучий шмелёк`. |
 | St. Mungo's | Святой Мунго | Potter's Army / ROSMEN / usage | Wizarding hospital; use full phrases like `больница Святого Мунго` where clarity matters, and the idiomatic locative `в Святом Мунго` in running text. |
+| Bathilda Bagshot | Батильда Бэгшот | Potter's Army / ROSMEN / usage | Canon magical historian and author of `История магии`; keep the surname in the `Бэгшот` form already used elsewhere in the project. |
 | Head Boy | староста школы | Potter's Army / ROSMEN / usage | Senior student office in Hogwarts; prefer `староста школы` over literal calques like `главный мальчик`. |
 | Floo powder | Летучий порох | Potter's Army / ROSMEN / usage | Travel powder used with the Floo Network; capitalize only when treated as a fixed product name. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
@@ -565,6 +569,9 @@ across multiple segments.
 | Cameleon Charm | чары хамелеона | Project / usage | Concealment charm that makes an object or surface blend into its surroundings; keep lowercase in running text unless a quoted spell name is needed. |
 | Retrieval Charm | чары извлечения | Project / story-27 | Storage-item retrieval enchantment; distinct from `Accio` / standard summoning charm and tied to getting selected contents out of an enchanted container. |
 | Interdict of Merlin | Интердикт Мерлина | Project / HPMOR fanfic usage | Magical limit that prevents powerful spell-imprints from being learned except mind-to-mind from a living bearer or rediscovered independently. |
+| Sleep-Cycle Potion | зелье цикла сна | Project / HPMOR fanfic usage | Dumbledore's sleep-scheduling potion from the prophecy backstory; keep the name technical and slightly clinical rather than poetic. |
+| Ventriloquism Charm | чары чревовещания | Project / HPMOR fanfic usage | Use this phrase for the voice-throwing charm; lowercase in running text unless explicitly styled as a named spell. |
+| Enai's Greater Destruction | Великое Разрушение Эная | Project / story-48 | Destructive spell used to obliterate the Hall of Prophecy records; keep the eponymic construction rather than paraphrasing the effect. |
 | Atlantis Mainframe | мейнфрейм Атлантиды | Project / story-45 | Use the computing term directly for the source-of-magic control systems; capitalize only in formal system greetings or headings if the surrounding Russian requires it. |
 | Atlantis Ruling Council | Совет правителей Атлантиды | Project / story-45 | Formal warning phrase from the source-of-magic system; keep it institutional and slightly archaic rather than modern-corporate. |
 | computronium | компьютрониум | Project / story-45 / science-fiction usage | Use the standard technical transliteration for matter optimized for computation; adjectival forms may use `компьютрониумный`. |
