@@ -71,6 +71,7 @@ across multiple segments.
 | Minds Names and Faces | Разумы, имена и лица | Project / story-48 | Story title; keep the abstract triplet identity-focused so it can cover minds, aliases, and outward personae without collapsing into a purely physical reading. |
 | Nothing Left but Fire | Ничего, кроме огня | Project / story-49 | Story title; keep the phrase stark and residual, emphasizing that everything else has been burned away rather than making the fire sound triumphant or active. |
 | Alt Chapters 109-110 (Riddles Upon Riddles, Legacy of The Troll) | Альтернативные главы 109-110 («Загадка за загадкой», «Наследие тролля») | Project / story-50 | Story title; keep the anthology-style `Alt Chapters 109-110` framing explicit, and render the parenthetical chapter titles as readable Russian labels rather than a literal calque. |
+| Still In(,) The Mirror | Всё ещё в зеркале | Project / story-51 | Story title; keep `still` as continued presence/imprisonment in the Mirror rather than a static `неподвижно`, and let the parenthesized pause stay implicit in the Russian. |
 | Smoke and Mirrors | Дым и зеркала | Project / story-48 | Chapter 5 title; keep the stage-magic idiom literal enough to fit both the Mirror scene and Quirrell's deceptive escape. |
 | Interlude — Conspiracy Theories | Интерлюдия — теории заговора | Project / story-48 | Chapter 6 title; keep the dry rationalist framing and lowercase `теории заговора` because it describes the genre of explanation, not a named group. |
 | The Snake and the Dog | Змея и пёс | Project / story-48 | Chapter 7 title; keep the animal pairing compact and vivid, and prefer `пёс` over a neutral `собака` to match Sirius's shaggy canine form and Quirrell's later jabs about a dog with a bone / canine companion. |
@@ -446,6 +447,7 @@ across multiple segments.
 | Mirror of Noitilov | Зеркало Нойтилов | Project / story-43 | Artifact mirror identified with the Element of Space; transliterate the invented proper name and keep the mirror label parallel to `Зеркало Еиналеж`. |
 | Mirror of Vec | Зеркало ВЭК | Project / story-48 | One of the alternate names for the Mirror of Erised / Noitilov; preserve the acronym echo of coherent extrapolated volition. |
 | Nillits | Ниллитс | Project / story-48 | Ancient standalone name for the Mirror; transliterate without trying to reverse or explain it in running text. |
+| Friendly | Дружелюбный | Project / story-51 | Name/concept used by the Mirror's creators for the optimized friendly intelligence; capitalize as a proper name, lowercase when it is just the trait they demanded of it. |
 | Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
 | Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
 | International Confederation of Wizards | Международная конфедерация магов | Potter's Army / ROSMEN | Dumbledore is the Supreme Mugwump of this body in canon and fanfic usage. |

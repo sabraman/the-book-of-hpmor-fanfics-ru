@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 287,
-  readableChapterCount: 287,
-  readableBookCount: 48,
+  translatedSegmentCount: 288,
+  readableChapterCount: 288,
+  readableBookCount: 49,
 } as const;
 
 export const books: BookMeta[] = [
@@ -595,12 +595,12 @@ export const books: BookMeta[] = [
     "id": "story-51",
     "slug": "still-in-the-mirror",
     "href": "/books/still-in-the-mirror",
-    "title": "Still In(,) The Mirror",
+    "title": "Всё ещё в зеркале",
     "originalTitle": "Still In(,) The Mirror",
     "order": 388,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-52",
@@ -4256,6 +4256,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 110: Наследие тролля",
     "originalTitle": "Chapter 110: Legacy of The Troll"
+  },
+  {
+    "bookId": "story-51",
+    "bookSlug": "still-in-the-mirror",
+    "slug": "seg-0390",
+    "href": "/books/still-in-the-mirror/chapters/seg-0390",
+    "order": 390,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -4547,4 +4558,5 @@ export const chapterModules = {
   "seg-0383": () => import("@/content/chapters/seg-0383.mdx"),
   "seg-0386": () => import("@/content/chapters/seg-0386.mdx"),
   "seg-0387": () => import("@/content/chapters/seg-0387.mdx"),
+  "seg-0390": () => import("@/content/chapters/seg-0390.mdx"),
 } as const;
