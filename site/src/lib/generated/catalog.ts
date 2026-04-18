@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 291,
-  readableChapterCount: 291,
-  readableBookCount: 52,
+  translatedSegmentCount: 292,
+  readableChapterCount: 292,
+  readableBookCount: 53,
 } as const;
 
 export const books: BookMeta[] = [
@@ -639,12 +639,12 @@ export const books: BookMeta[] = [
     "id": "story-55",
     "slug": "near-mode-far-mode",
     "href": "/books/near-mode-far-mode",
-    "title": "Near Mode Far Mode",
+    "title": "Ближний режим, дальний режим",
     "originalTitle": "Near Mode Far Mode",
     "order": 400,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-56",
@@ -4300,6 +4300,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-55",
+    "bookSlug": "near-mode-far-mode",
+    "slug": "seg-0402",
+    "href": "/books/near-mode-far-mode/chapters/seg-0402",
+    "order": 402,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 114: последний экзамен",
+    "originalTitle": "Chapter 114: the final exam"
   }
 ] as ChapterMeta[];
 
@@ -4595,4 +4606,5 @@ export const chapterModules = {
   "seg-0393": () => import("@/content/chapters/seg-0393.mdx"),
   "seg-0396": () => import("@/content/chapters/seg-0396.mdx"),
   "seg-0399": () => import("@/content/chapters/seg-0399.mdx"),
+  "seg-0402": () => import("@/content/chapters/seg-0402.mdx"),
 } as const;
