@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 288,
-  readableChapterCount: 288,
-  readableBookCount: 49,
+  translatedSegmentCount: 289,
+  readableChapterCount: 289,
+  readableBookCount: 50,
 } as const;
 
 export const books: BookMeta[] = [
@@ -606,12 +606,12 @@ export const books: BookMeta[] = [
     "id": "story-52",
     "slug": "the-last-enemy",
     "href": "/books/the-last-enemy",
-    "title": "The Last Enemy",
+    "title": "Последний враг",
     "originalTitle": "The Last Enemy",
     "order": 391,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-53",
@@ -4267,6 +4267,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-52",
+    "bookSlug": "the-last-enemy",
+    "slug": "seg-0393",
+    "href": "/books/the-last-enemy/chapters/seg-0393",
+    "order": 393,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 114: Последний враг",
+    "originalTitle": "Chapter 114: The Last Enemy"
   }
 ] as ChapterMeta[];
 
@@ -4559,4 +4570,5 @@ export const chapterModules = {
   "seg-0386": () => import("@/content/chapters/seg-0386.mdx"),
   "seg-0387": () => import("@/content/chapters/seg-0387.mdx"),
   "seg-0390": () => import("@/content/chapters/seg-0390.mdx"),
+  "seg-0393": () => import("@/content/chapters/seg-0393.mdx"),
 } as const;
