@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 289,
-  readableChapterCount: 289,
-  readableBookCount: 50,
+  translatedSegmentCount: 290,
+  readableChapterCount: 290,
+  readableBookCount: 51,
 } as const;
 
 export const books: BookMeta[] = [
@@ -617,12 +617,12 @@ export const books: BookMeta[] = [
     "id": "story-53",
     "slug": "hpmor-the-final-exam",
     "href": "/books/hpmor-the-final-exam",
-    "title": "HPMoR the final exam",
+    "title": "ГПиМРМ: последний экзамен",
     "originalTitle": "HPMoR the final exam",
     "order": 394,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-54",
@@ -4278,6 +4278,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 114: Последний враг",
     "originalTitle": "Chapter 114: The Last Enemy"
+  },
+  {
+    "bookId": "story-53",
+    "bookSlug": "hpmor-the-final-exam",
+    "slug": "seg-0396",
+    "href": "/books/hpmor-the-final-exam/chapters/seg-0396",
+    "order": 396,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 114: последний экзамен",
+    "originalTitle": "Chapter 114: the final exam"
   }
 ] as ChapterMeta[];
 
@@ -4571,4 +4582,5 @@ export const chapterModules = {
   "seg-0387": () => import("@/content/chapters/seg-0387.mdx"),
   "seg-0390": () => import("@/content/chapters/seg-0390.mdx"),
   "seg-0393": () => import("@/content/chapters/seg-0393.mdx"),
+  "seg-0396": () => import("@/content/chapters/seg-0396.mdx"),
 } as const;
