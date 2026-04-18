@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 292,
-  readableChapterCount: 292,
-  readableBookCount: 53,
+  translatedSegmentCount: 293,
+  readableChapterCount: 293,
+  readableBookCount: 54,
 } as const;
 
 export const books: BookMeta[] = [
@@ -650,12 +650,12 @@ export const books: BookMeta[] = [
     "id": "story-56",
     "slug": "harry-potter-and-the-nuclear-bomb",
     "href": "/books/harry-potter-and-the-nuclear-bomb",
-    "title": "Harry Potter and the Nuclear Bomb",
+    "title": "Гарри Поттер и ядерная бомба",
     "originalTitle": "Harry Potter and the Nuclear Bomb",
     "order": 403,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-57",
@@ -4311,6 +4311,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 114: последний экзамен",
     "originalTitle": "Chapter 114: the final exam"
+  },
+  {
+    "bookId": "story-56",
+    "bookSlug": "harry-potter-and-the-nuclear-bomb",
+    "slug": "seg-0405",
+    "href": "/books/harry-potter-and-the-nuclear-bomb/chapters/seg-0405",
+    "order": 405,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -4607,4 +4618,5 @@ export const chapterModules = {
   "seg-0396": () => import("@/content/chapters/seg-0396.mdx"),
   "seg-0399": () => import("@/content/chapters/seg-0399.mdx"),
   "seg-0402": () => import("@/content/chapters/seg-0402.mdx"),
+  "seg-0405": () => import("@/content/chapters/seg-0405.mdx"),
 } as const;
