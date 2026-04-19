@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 296,
-  readableChapterCount: 296,
-  readableBookCount: 57,
+  translatedSegmentCount: 297,
+  readableChapterCount: 297,
+  readableBookCount: 58,
 } as const;
 
 export const books: BookMeta[] = [
@@ -705,12 +705,12 @@ export const books: BookMeta[] = [
     "id": "story-61",
     "slug": "chapter-113-exam-answers",
     "href": "/books/chapter-113-exam-answers",
-    "title": "Chapter 113 Exam Answers",
+    "title": "Отзывы на «Гарри Поттер и методы рационального мышления»",
     "originalTitle": "Chapter 113 Exam Answers",
     "order": 416,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 13,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-62",
@@ -4355,6 +4355,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-61",
+    "bookSlug": "chapter-113-exam-answers",
+    "slug": "seg-0418",
+    "href": "/books/chapter-113-exam-answers/chapters/seg-0418",
+    "order": 418,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Unknown",
+    "originalTitle": "Unknown"
   }
 ] as ChapterMeta[];
 
@@ -4655,4 +4666,5 @@ export const chapterModules = {
   "seg-0408": () => import("@/content/chapters/seg-0408.mdx"),
   "seg-0411": () => import("@/content/chapters/seg-0411.mdx"),
   "seg-0415": () => import("@/content/chapters/seg-0415.mdx"),
+  "seg-0418": () => import("@/content/chapters/seg-0418.mdx"),
 } as const;
