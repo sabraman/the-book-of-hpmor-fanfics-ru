@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 295,
-  readableChapterCount: 295,
-  readableBookCount: 56,
+  translatedSegmentCount: 296,
+  readableChapterCount: 296,
+  readableBookCount: 57,
 } as const;
 
 export const books: BookMeta[] = [
@@ -694,12 +694,12 @@ export const books: BookMeta[] = [
     "id": "story-60",
     "slug": "nonlinear-regression",
     "href": "/books/nonlinear-regression",
-    "title": "Nonlinear Regression",
+    "title": "Нелинейная регрессия",
     "originalTitle": "Nonlinear Regression",
     "order": 413,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 1,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-61",
@@ -4344,6 +4344,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-60",
+    "bookSlug": "nonlinear-regression",
+    "slug": "seg-0415",
+    "href": "/books/nonlinear-regression/chapters/seg-0415",
+    "order": 415,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1",
+    "originalTitle": "Chapter 1"
   }
 ] as ChapterMeta[];
 
@@ -4643,4 +4654,5 @@ export const chapterModules = {
   "seg-0405": () => import("@/content/chapters/seg-0405.mdx"),
   "seg-0408": () => import("@/content/chapters/seg-0408.mdx"),
   "seg-0411": () => import("@/content/chapters/seg-0411.mdx"),
+  "seg-0415": () => import("@/content/chapters/seg-0415.mdx"),
 } as const;

@@ -79,6 +79,7 @@ across multiple segments.
 | Harry Potter and the Nuclear Bomb | Гарри Поттер и ядерная бомба | Project / story-56 | Story title; keep the HPMOR-style naming frame intact and prefer `ядерная бомба` over `атомная`, because the fic turns on explicit nuclear-physics reasoning rather than a looser colloquial image. |
 | A Rational Response | Рациональный ответ | Project / story-57 | Story title; keep the HPMOR-style register compact and analytical, and render `rational` directly rather than softening it into a vaguer `разумный`. |
 | Final Revision | Окончательная редакция | Project / story-58 | Story title; render `revision` as `редакция`, keeping the sense of a final revised answer to the HPMOR final-exam challenge rather than a mere proofreading pass. |
+| Nonlinear Regression | Нелинейная регрессия | Project / story-60 | Story title; use the standard mathematical term directly, since the fic treats recursive self-correction and search through possibility space as an overt rationalist / technical conceit. |
 | Smoke and Mirrors | Дым и зеркала | Project / story-48 | Chapter 5 title; keep the stage-magic idiom literal enough to fit both the Mirror scene and Quirrell's deceptive escape. |
 | Interlude — Conspiracy Theories | Интерлюдия — теории заговора | Project / story-48 | Chapter 6 title; keep the dry rationalist framing and lowercase `теории заговора` because it describes the genre of explanation, not a named group. |
 | The Snake and the Dog | Змея и пёс | Project / story-48 | Chapter 7 title; keep the animal pairing compact and vivid, and prefer `пёс` over a neutral `собака` to match Sirius's shaggy canine form and Quirrell's later jabs about a dog with a bone / canine companion. |
@@ -178,6 +179,7 @@ across multiple segments.
 | Dean | Дин | Potter's Army / ROSMEN | Given-name short form used in dialogue. |
 | Percival Weasley | Персиваль Уизли | Potter's Army / ROSMEN | Use full form when the text spells it out. |
 | Molly Weasley | Молли Уизли | Potter's Army / ROSMEN | Canon form. |
+| Mulciber | Малсибер | Potter's Army / ROSMEN / usage | Death Eater surname; keep the established Russian form without a soft sign when it appears in masks-on wartime scenes or family plurals. |
 | Arthur Weasley | Артур Уизли | Potter's Army / ROSMEN | Canon form. |
 | Aurora Sinistra | Аврора Синистра | Potter's Army / ROSMEN | Astronomy professor; use the canon surname form in school and post-Hogwarts contexts alike. |
 | Charlie Weasley | Чарли Уизли | Potter's Army / ROSMEN | Canon form. |
