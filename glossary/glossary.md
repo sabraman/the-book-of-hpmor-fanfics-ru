@@ -254,6 +254,7 @@ across multiple segments.
 | Quirinus Quirrell | Квиринус Квиррелл | Potter's Army / ROSMEN | Canon form. |
 | Gilderoy Lockhart | Гилдерой Локхарт | Potter's Army / ROSMEN | Canon form. |
 | Fawkes | Фоукс | Potter's Army / ROSMEN | Dumbledore's phoenix. |
+| Mirror of VEC | Зеркало VEC | Project / recurring anthology usage | Keep the acronym in Latin letters as the fixed name of the mirror artifact / prison; in running text prefer constructions like `по ту сторону Зеркала VEC`. |
 | Rogue | Роуг | Project / story-40 | Harry's unconventional phoenix in `Продолжение ГПиМРМ: редукционизм побеждает`; keep the X-Men-derived codename as `Роуг`, distinct from the class noun `rogue`. |
 | Bentham | Бентам | Project / story-32 | Harry's phoenix in `Depart Azkaban`; keep the spelling aligned with Jeremy Bentham, since Harry explicitly names the bird after the prison reformer. |
 | Remus Lupin | Римус Люпин | Potter's Army / ROSMEN | Canon form. |
