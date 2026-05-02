@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 313,
-  readableChapterCount: 313,
-  readableBookCount: 60,
+  translatedSegmentCount: 314,
+  readableChapterCount: 314,
+  readableBookCount: 61,
 } as const;
 
 export const books: BookMeta[] = [
@@ -738,12 +738,12 @@ export const books: BookMeta[] = [
     "id": "story-64",
     "slug": "revival",
     "href": "/books/revival",
-    "title": "Revival",
+    "title": "Возрождение",
     "originalTitle": "Revival",
     "order": 439,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 61,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-65",
@@ -4542,6 +4542,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 2",
     "originalTitle": "Chapter 2"
+  },
+  {
+    "bookId": "story-64",
+    "bookSlug": "revival",
+    "slug": "seg-0441",
+    "href": "/books/revival/chapters/seg-0441",
+    "order": 441,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1: Анимаг-летучая мышь",
+    "originalTitle": "Chapter 1: The Bat Animagus"
   }
 ] as ChapterMeta[];
 
@@ -4859,4 +4870,5 @@ export const chapterModules = {
   "seg-0434": () => import("@/content/chapters/seg-0434.mdx"),
   "seg-0437": () => import("@/content/chapters/seg-0437.mdx"),
   "seg-0438": () => import("@/content/chapters/seg-0438.mdx"),
+  "seg-0441": () => import("@/content/chapters/seg-0441.mdx"),
 } as const;
