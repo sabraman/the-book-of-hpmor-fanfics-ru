@@ -440,6 +440,7 @@ across multiple segments.
 | The Prophet | «Пророк» | Potter's Army / ROSMEN | Newspaper short form. |
 | The Quibbler | «Придира» | Potter's Army / ROSMEN | Luna Lovegood's family magazine. |
 | Boy-Who-Lived | Мальчик-Который-Выжил | Potter's Army / ROSMEN | Canon epithet. |
+| Girl-Who-Revived | Девочка-Которую-Оживили | Project / story-64 / usage | Post-resurrection public epithet for Hermione Granger; keep the hyphenated parallel to `Мальчик-Который-Выжил` and avoid the active-reading ambiguity of `оживила`. |
 | Dark Mark | Чёрная Метка | Potter's Army / ROSMEN | Capitalized in title-like use. |
 | Unforgivable Curses | Непростительные заклятия | Potter's Army / ROSMEN | Canon collective name for the three forbidden curses. |
 | Imperius Curse | заклятие Империус | Potter's Army / ROSMEN | Canon curse name. |
