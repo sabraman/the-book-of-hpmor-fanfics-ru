@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 310,
-  readableChapterCount: 310,
+  translatedSegmentCount: 311,
+  readableChapterCount: 311,
   readableBookCount: 59,
 } as const;
 
@@ -719,9 +719,9 @@ export const books: BookMeta[] = [
     "title": "Как должен был закончиться ГПиМРМ",
     "originalTitle": "How HPMoR Should Have Ended",
     "order": 431,
-    "readableChapterCount": 1,
+    "readableChapterCount": 2,
     "totalChapterCount": 2,
-    "translatedSegmentCount": 1
+    "translatedSegmentCount": 2
   },
   {
     "id": "story-63",
@@ -4509,6 +4509,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 1",
     "originalTitle": "Chapter 1"
+  },
+  {
+    "bookId": "story-62",
+    "bookSlug": "how-hpmor-should-have-ended",
+    "slug": "seg-0434",
+    "href": "/books/how-hpmor-should-have-ended/chapters/seg-0434",
+    "order": 434,
+    "orderWithinBook": 2,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 2",
+    "originalTitle": "Chapter 2"
   }
 ] as ChapterMeta[];
 
@@ -4823,4 +4834,5 @@ export const chapterModules = {
   "seg-0429": () => import("@/content/chapters/seg-0429.mdx"),
   "seg-0430": () => import("@/content/chapters/seg-0430.mdx"),
   "seg-0433": () => import("@/content/chapters/seg-0433.mdx"),
+  "seg-0434": () => import("@/content/chapters/seg-0434.mdx"),
 } as const;
