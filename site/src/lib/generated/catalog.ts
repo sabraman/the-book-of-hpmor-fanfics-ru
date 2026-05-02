@@ -24,9 +24,9 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 311,
-  readableChapterCount: 311,
-  readableBookCount: 59,
+  translatedSegmentCount: 312,
+  readableChapterCount: 312,
+  readableBookCount: 60,
 } as const;
 
 export const books: BookMeta[] = [
@@ -727,12 +727,12 @@ export const books: BookMeta[] = [
     "id": "story-63",
     "slug": "the-philosophers-red-herring",
     "href": "/books/the-philosophers-red-herring",
-    "title": "The Philosopher's Red Herring",
+    "title": "Философский камень-обманка",
     "originalTitle": "The Philosopher's Red Herring",
     "order": 435,
-    "readableChapterCount": 0,
+    "readableChapterCount": 1,
     "totalChapterCount": 2,
-    "translatedSegmentCount": 0
+    "translatedSegmentCount": 1
   },
   {
     "id": "story-64",
@@ -4520,6 +4520,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 2",
     "originalTitle": "Chapter 2"
+  },
+  {
+    "bookId": "story-63",
+    "bookSlug": "the-philosophers-red-herring",
+    "slug": "seg-0437",
+    "href": "/books/the-philosophers-red-herring/chapters/seg-0437",
+    "order": 437,
+    "orderWithinBook": 1,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 1: Пролог",
+    "originalTitle": "Chapter 1: Prologue"
   }
 ] as ChapterMeta[];
 
@@ -4835,4 +4846,5 @@ export const chapterModules = {
   "seg-0430": () => import("@/content/chapters/seg-0430.mdx"),
   "seg-0433": () => import("@/content/chapters/seg-0433.mdx"),
   "seg-0434": () => import("@/content/chapters/seg-0434.mdx"),
+  "seg-0437": () => import("@/content/chapters/seg-0437.mdx"),
 } as const;
