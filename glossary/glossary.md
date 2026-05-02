@@ -242,6 +242,7 @@ across multiple segments.
 | Olga Xenda | Ольга Ксенда | Project / story-48 | Supposed tutor of Baba Yaga who named the Mirror of Vec; use a direct transliteration of the invented surname. |
 | Perenelle | Перенель | Project / canon historical usage | Use this compact form when the text refers to Nicolas Flamel's wife by given name only; later surnamed variants can be glossed separately if needed. |
 | Perenelle Dumarais | Перенель Дюмаре | Project / story-43 / recurring anthology usage | Use this surname form for Perenelle before or alongside `Фламель`; normalize split `du Marais` spellings to the single Russian form. |
+| Alaina | Алайна | Project / story-63 | Public alias used by Perenelle Flamel while posing as Lockhart's wife and co-teacher; keep it as a simple modern-sounding transliteration that fits the polished cover identity. |
 | Lethae | Лета | Project / story-48 | Dark Lady alias in Quirrell's cautionary potion anecdote; render through the Lethe allusion rather than a mechanical transliteration. |
 | Bellatrix Lestrange | Беллатриса Лестрейндж | Potter's Army / ROSMEN | Canon form. |
 | Bellatrix Black | Беллатриса Блэк | Project / Tom Riddle Conflict | Alternate-era Bellatrix before marriage in this story cycle. |
