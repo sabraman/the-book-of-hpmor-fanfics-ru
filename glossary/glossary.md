@@ -48,6 +48,7 @@ across multiple segments.
 | Educational | Поучительно | Project / story-25 | One-chapter Draco point-of-view epilogue to `Harry's Game`; keep the title terse and let it echo the final ironic line. |
 | Dark Lord Material | Материал для Тёмного Лорда | Project / story-26 | Keep the idiomatic `X material` sense as `material for`, pointing to Harry's apparent suitability for future dark-lord status without turning the title into a literal substance joke. |
 | Light Lord | Лорд Света | Project / story-64 | Counterpart title to `Тёмный Лорд` in the `Revival` continuity; keep the quasi-political, title-like capitalization when it refers to Harry's prospective public role. |
+| Meeting | Встреча | Project / story-64 | Chapter 11 title; keep it plain and slightly tense, since the scene is formally just a meeting but functionally a high-risk disclosure and negotiation. |
 | Aftermath | Последствия | Project / story-32 | Chapter 12 title; keep it terse and procedural, emphasizing the immediate fallout from Quirrell's flight rather than melodrama. |
 | Also Allowed to be Smart | И умным быть тоже можно | Project / story-32 | Chapter 13 title; keep the deadpan permissive phrasing so it still sounds like a grimly comic HPMOR-style concession that rationality remains "allowed". |
 | Following The Phoenix | Следуя за фениксом | Project / story-27 | Story title; keep the phrasing metaphorical rather than ornithological, matching the later author note that the title refers to doing the brave / right / foolish thing rather than literally trailing a phoenix. |
