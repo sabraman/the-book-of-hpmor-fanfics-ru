@@ -24,8 +24,8 @@ export type ChapterMeta = {
 
 export const stats = {
   totalSegmentCount: 1070,
-  translatedSegmentCount: 325,
-  readableChapterCount: 325,
+  translatedSegmentCount: 326,
+  readableChapterCount: 326,
   readableBookCount: 61,
 } as const;
 
@@ -741,9 +741,9 @@ export const books: BookMeta[] = [
     "title": "Возрождение",
     "originalTitle": "Revival",
     "order": 439,
-    "readableChapterCount": 12,
+    "readableChapterCount": 13,
     "totalChapterCount": 61,
-    "translatedSegmentCount": 12
+    "translatedSegmentCount": 13
   },
   {
     "id": "story-65",
@@ -4674,6 +4674,17 @@ export const chapters: ChapterMeta[] = [
     "reviewStatus": "unreviewed",
     "title": "Глава 12: Люциус - тайны и знание",
     "originalTitle": "Chapter 12: Lucius-Secrets and Knowledge"
+  },
+  {
+    "bookId": "story-64",
+    "bookSlug": "revival",
+    "slug": "seg-0453",
+    "href": "/books/revival/chapters/seg-0453",
+    "order": 453,
+    "orderWithinBook": 13,
+    "reviewStatus": "unreviewed",
+    "title": "Глава 13: Люциус - справедливость",
+    "originalTitle": "Chapter 13: Lucius-Justice"
   }
 ] as ChapterMeta[];
 
@@ -5003,4 +5014,5 @@ export const chapterModules = {
   "seg-0450": () => import("@/content/chapters/seg-0450.mdx"),
   "seg-0451": () => import("@/content/chapters/seg-0451.mdx"),
   "seg-0452": () => import("@/content/chapters/seg-0452.mdx"),
+  "seg-0453": () => import("@/content/chapters/seg-0453.mdx"),
 } as const;

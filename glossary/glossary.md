@@ -49,6 +49,7 @@ across multiple segments.
 | Dark Lord Material | Материал для Тёмного Лорда | Project / story-26 | Keep the idiomatic `X material` sense as `material for`, pointing to Harry's apparent suitability for future dark-lord status without turning the title into a literal substance joke. |
 | Light Lord | Лорд Света | Project / story-64 | Counterpart title to `Тёмный Лорд` in the `Revival` continuity; keep the quasi-political, title-like capitalization when it refers to Harry's prospective public role. |
 | Meeting | Встреча | Project / story-64 | Chapter 11 title; keep it plain and slightly tense, since the scene is formally just a meeting but functionally a high-risk disclosure and negotiation. |
+| Lucius-Justice | Люциус - справедливость | Project / story-64 | Chapter 13 title; keep the blunt compound framing parallel to Chapter 12's `Люциус - тайны и знание`, and render `Justice` as Harry's moral-legal problem rather than as narrow courtroom jargon alone. |
 | Aftermath | Последствия | Project / story-32 | Chapter 12 title; keep it terse and procedural, emphasizing the immediate fallout from Quirrell's flight rather than melodrama. |
 | Also Allowed to be Smart | И умным быть тоже можно | Project / story-32 | Chapter 13 title; keep the deadpan permissive phrasing so it still sounds like a grimly comic HPMOR-style concession that rationality remains "allowed". |
 | Following The Phoenix | Следуя за фениксом | Project / story-27 | Story title; keep the phrasing metaphorical rather than ornithological, matching the later author note that the title refers to doing the brave / right / foolish thing rather than literally trailing a phoenix. |
@@ -334,6 +335,8 @@ across multiple segments.
 | Galatea Merrythought | Галатея Мерритот | Potter's Army / canon usage / project transliteration | Defense professor in Tom's school years. |
 | Merrythought | Мерритот | Potter's Army / canon usage / project transliteration | Use the surname form for Professor Merrythought. |
 | Antonius Prewett | Антониус Прюэтт | Project / Tom Riddle Conflict | Bellatrix Black's betrothed in this story cycle. |
+| Fabian Prewett | Фабиан Прюэтт | Potter's Army / canon usage | Canon Order of the Phoenix casualty and Gideon Prewett's brother; keep the surname aligned with the already-established `Прюэтт` family forms. |
+| Gideon Prewett | Гидеон Прюэтт | Potter's Army / canon usage | Canon Order of the Phoenix casualty and Fabian Prewett's brother; keep the given name in the straightforward `Гидеон` form used in adjacent HPMOR-derived war references. |
 | Aerys Flintwood | Эйрис Флинтвуд | Project / Tom Riddle Conflict | Slytherin fixer Tom hires to procure metals for his ritual work. |
 | Abigail Myrtle | Эбигейл Миртл | Project / Tom Riddle Conflict | Student later identified with the Myrtle backstory in this anthology continuity. |
 | Tobo Mott | Тобо Мотт | Project / Tom Riddle Conflict | Tom Riddle's criminal mentor and combat instructor in this story cycle. |
@@ -345,6 +348,7 @@ across multiple segments.
 | Goryanof | Горянов | Project / story-27 | Auror surname in the Windsor crisis and `Depart Azkaban`; normalize the source's `Goryanof/Goryanoff` variation to the Russian-style `Горянов`. |
 | Headmaster Dippet | директор Диппет | Potter's Army / ROSMEN | Headmaster of Hogwarts in Tom's school years. |
 | Amelia Bones | Амелия Боунс | Potter's Army / ROSMEN | Head of the Department of Magical Law Enforcement. |
+| Susan Bones | Сьюзен Боунс | Potter's Army / ROSMEN | Canon student name; use the full form when the text stresses her family connection to Amelia Bones or the wartime massacre of her relatives. |
 | Theodorus Deas | Теодорус Диз | Project / story-31 | Wizengamot member in `Hermione Granger and the Burden of Responsibility`; keep the surname in the compact `Диз` form already used in adjacent segments. |
 | Rufus Scrimgeour | Руфус Скримджер | Potter's Army / ROSMEN | Ministry official who later serves as Minister for Magic; keep the canon surname form in both office-holder and action-scene mentions. |
 | Deputy Headmistress | заместительница директора | Project / usage | Use for McGonagall's Hogwarts title in this anthology; prefer the full phrase over colloquial shortenings. |
@@ -490,6 +494,7 @@ across multiple segments.
 | Cannons | Пушки Педдл | Potter's Army / ROSMEN | Quidditch team. |
 | Beauxbatons | Шармбатон | Potter's Army / ROSMEN | Canon school name. |
 | Durmstrang | Дурмстранг | Potter's Army / ROSMEN | Canon school name. |
+| Igor Karkaroff | Игорь Каркаров | Potter's Army / ROSMEN | Canon Durmstrang headmaster and former Death Eater; use the full form when the text contrasts his public post with his wartime crimes. |
 | veela | вейла | Potter's Army / ROSMEN | Magical being term. |
 | Quidditch | квиддич | Potter's Army / ROSMEN | Sport name, lower-case in running text. |
 | Coeur-arbre | кёр-арбр | Project / story-10 | Rare semi-sentient magical tree; keep the French-derived name transliterated rather than translated. |
