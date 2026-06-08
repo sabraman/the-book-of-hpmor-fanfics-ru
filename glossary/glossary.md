@@ -49,8 +49,8 @@ across multiple segments.
 | Dark Lord Material | Материал для Тёмного Лорда | Project / story-26 | Keep the idiomatic `X material` sense as `material for`, pointing to Harry's apparent suitability for future dark-lord status without turning the title into a literal substance joke. |
 | Light Lord | Лорд Света | Project / story-64 | Counterpart title to `Тёмный Лорд` in the `Revival` continuity; keep the quasi-political, title-like capitalization when it refers to Harry's prospective public role. |
 | Meeting | Встреча | Project / story-64 | Chapter 11 title; keep it plain and slightly tense, since the scene is formally just a meeting but functionally a high-risk disclosure and negotiation. |
-| Private Meeting | Частная встреча | Project / story-64 | Chapter 15 title; keep it plain and slightly formal, echoing the story's recurring one-on-one political conversations rather than implying clandestine secrecy alone. |
 | Lucius-Justice | Люциус - справедливость | Project / story-64 | Chapter 13 title; keep the blunt compound framing parallel to Chapter 12's `Люциус - тайны и знание`, and render `Justice` as Harry's moral-legal problem rather than as narrow courtroom jargon alone. |
+| Private Meeting | Частная встреча | Project / story-64 | Chapter 15 title; keep it plain and formal, matching the sequence of private debriefs while distinguishing it from the more casual `встреча` used earlier in the story. |
 | Aftermath | Последствия | Project / story-32 | Chapter 12 title; keep it terse and procedural, emphasizing the immediate fallout from Quirrell's flight rather than melodrama. |
 | Also Allowed to be Smart | И умным быть тоже можно | Project / story-32 | Chapter 13 title; keep the deadpan permissive phrasing so it still sounds like a grimly comic HPMOR-style concession that rationality remains "allowed". |
 | Following The Phoenix | Следуя за фениксом | Project / story-27 | Story title; keep the phrasing metaphorical rather than ornithological, matching the later author note that the title refers to doing the brave / right / foolish thing rather than literally trailing a phoenix. |
@@ -128,6 +128,7 @@ across multiple segments.
 | A Black Trial | Суд над Блэком | Project / story-28 | Chapter 4 title; keep the surname explicit so the heading reads like a legal proceeding while preserving the Black-family ambiguity. |
 | Transfiguring Energy | Энергия трансфигурации | Project / story-28 | Chapter 5 title; frame the heading around energy extracted via transfiguration, not around the act of magically `transfiguring` energy itself. |
 | Life Eater | Пожиратель жизни | Project / story-24 | Chapter-title and handle form in `Harry's Game`; keep the lower-case second word in running text unless the quoted alias is being styled as a title. |
+| life debt | долг жизни | Potter's Army / canon usage | Standard wizarding obligation for a life saved; use this fixed singular form for the concept, and `долги жизни` in plural contexts. |
 | Combat Commentators | Боевые комментаторы | Project / story-24 | Shared chapter-title phrase for Chapters 3-4; keep the wording brisk and a little sports-broadcast-like. |
 | Asimov's One and Half Laws | Полтора закона Азимова | Project / story-24 | Recurring chapter-title phrase for Chapters 11-12; keep the robotics echo compact and idiomatic, despite the source's ungrammatical `one and half`. |
 | Fosbury Flop | Фосбери-флоп | Project / story-24 | Chapter 14 title; keep the athletics term in its standard Russian borrowed form with a hyphen. |
