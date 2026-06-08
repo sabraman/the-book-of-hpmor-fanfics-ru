@@ -369,6 +369,7 @@ across multiple segments.
 | Dorcas Meadows | Доркас Медоуз | Potter's Army / ROSMEN | Order of the Phoenix member. |
 | Mrs. Cole | миссис Коул | Potter's Army / ROSMEN | Wool's Orphanage matron. |
 | Grindelwald | Грин-де-Вальд | Potter's Army / ROSMEN | Canon surname form. |
+| Hyakuju montauk curse | проклятие Хякудзю Монтаука | Project / story-64 | Voldemort's hallucination curse inflicted on Severus in `Revival`; keep the proper-name structure transliterated rather than trying to naturalize it into a descriptive spell title. |
 | the greater good | общее благо | Project / HP usage | Use in Grindelwald / Dumbledore ideological contexts as a fixed slogan-like phrase; in running text prefer `ради общего блага` / `во имя общего блага` over grander calques. |
 | Roger Bacon | Роджер Бэкон | Project / story-27 | Medieval Muggleborn wizard whose diary points Harry toward a later clue; use the standard historical surname form. |
 | Lord Voldemort | Лорд Волдеморт | hpmor.ru / Project | Match current HPMOR Russian usage in this repo. |
@@ -452,7 +453,6 @@ across multiple segments.
 | Imperius Curse | заклятие Империус | Potter's Army / ROSMEN | Canon curse name. |
 | Cruciatus Curse | заклятие Круциатус | Potter's Army / ROSMEN | Canon curse name. |
 | Avada Kedavra | Авада Кедавра | Potter's Army / ROSMEN | Canon incantation. |
-| Hyakuju Montauk Curse | проклятие Хякудзю Монток | Project / story-64 | Voldemort's hallucinatory punitive curse on Severus in `Revival`; keep the exotic proper-name feel through direct transliteration rather than trying to unpack the components. |
 | Lumos Maxima | Люмос Максима | Potter's Army / canon usage | Amplified light spell; keep the Latin incantation transliterated in running text. |
 | Leviosa immobilis | Левиоса Иммобилис | Project / story-34 | Amelia Bones's improvised immobilizing-levitation incantation during the Azkaban response; keep the faux-Latin spell transliterated in dialogue. |
 | Words of False Comprehension | Слова ложного понимания | Project / story-48 | Atlantean / Mirror-related magical language effect; capitalize as a formal label and keep the wording about false understanding rather than generic confusion. |
@@ -603,6 +603,7 @@ across multiple segments.
 | Cameleon Charm | чары хамелеона | Project / usage | Concealment charm that makes an object or surface blend into its surroundings; keep lowercase in running text unless a quoted spell name is needed. |
 | Retrieval Charm | чары извлечения | Project / story-27 | Storage-item retrieval enchantment; distinct from `Accio` / standard summoning charm and tied to getting selected contents out of an enchanted container. |
 | Interdict of Merlin | Интердикт Мерлина | Project / HPMOR fanfic usage | Magical limit that prevents powerful spell-imprints from being learned except mind-to-mind from a living bearer or rediscovered independently. |
+| Interdict of Harry | Интердикт Гарри | Project / story-64 | Hypothetical Harry-named magical prohibition modeled on the `Интердикт Мерлина`; keep the construction explicit and capitalized when Harry treats it as a coined proper term. |
 | Sleep-Cycle Potion | зелье цикла сна | Project / HPMOR fanfic usage | Dumbledore's sleep-scheduling potion from the prophecy backstory; keep the name technical and slightly clinical rather than poetic. |
 | Ventriloquism Charm | чары чревовещания | Project / HPMOR fanfic usage | Use this phrase for the voice-throwing charm; lowercase in running text unless explicitly styled as a named spell. |
 | Enai's Greater Destruction | Великое Разрушение Эная | Project / story-48 | Destructive spell used to obliterate the Hall of Prophecy records; keep the eponymic construction rather than paraphrasing the effect. |
