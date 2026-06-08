@@ -176,6 +176,7 @@ across multiple segments.
 | Marielle Dutant | Мариэль Дютан | Project / story-27 | Beauxbatons schoolgirl abducted for use of her Time-Turner during the Windsor crisis aftermath; keep the French surname in a compact transliteration. |
 | Mary's Place | «У Мэри» | Project / recurring anthology usage | Wizarding restaurant name; keep it idiomatic in Russian rather than transliterating `Place`. |
 | Helena Vela Boot | Хелена Вела Бут | Project / story-11 | The name Mary Poppins gives for herself on first introduction. |
+| Armand Malfoy | Арман Малфой | Project / story-64 | Early Malfoy ancestor, wyvern animagus, and Salazar Slytherin's trusted lieutenant; keep the given name in the compact French-derived `Арман` form used in the family's own lore. |
 | Michael Evans-Verres | Майкл Эванс-Веррес | Project / story-12 | Adoptive father in the remix continuity; use this surname order in narration where the source does. |
 | Michael Verres-Evans | Майкл Веррес-Эванс | Project / story-12 | Preserve the reversed surname order where the source explicitly uses it, such as Harry's formal letter. |
 | Sybill Trelawney | Сивилла Трелони | Potter's Army / ROSMEN | Canon form. |
@@ -469,6 +470,7 @@ across multiple segments.
 | Goblet of Fire | Кубок Огня | Potter's Army / ROSMEN | Tournament artifact. |
 | Order of Merlin | Орден Мерлина | Potter's Army / ROSMEN | Prestigious wizarding award. |
 | International Confederation of Wizards | Международная конфедерация магов | Potter's Army / ROSMEN | Dumbledore is the Supreme Mugwump of this body in canon and fanfic usage. |
+| Department of International Relations | Отдел международных отношений | Project / story-64 | British Ministry branch handling diplomacy in `Revival`; keep the name bureaucratic and straightforward rather than inflating it into a full ministry. |
 | Elder Wand | Бузинная палочка | Potter's Army / ROSMEN | One of the Deathly Hallows. |
 | Hallowed Wand | Священная Палочка | Project / story-48 | Dumbledore's title-style framing for the Elder Wand as a Deathly Hallow; capitalize when the source uses the formal epithet. |
 | True Cloak of Invisibility | Истинная мантия-невидимка | Project / story-43 | HPMOR variant of the Cloak as a Deathly Hallow; keep `Истинная` to distinguish it from generic invisibility cloaks. |
@@ -480,6 +482,7 @@ across multiple segments.
 | Great Hall | Большой зал | Potter's Army / ROSMEN | School location. |
 | Gobstones | плюй-камни | Potter's Army / ROSMEN / usage | Wizarding marble game; keep the lower-case form in running text. |
 | Hogwarts Express | Хогвартс-экспресс | Potter's Army / ROSMEN | Canon train name. |
+| Quill of Acceptance | Перо Приёма | Potter's Army / canon usage | Hogwarts admissions quill that records magical births in Britain; capitalize as the fixed artifact name. |
 | Knight Bus | Ночной Рыцарь | Potter's Army / ROSMEN | Canon wizarding transport. |
 | the Burrow | Нора | Potter's Army / ROSMEN | Weasley family home. |
 | Yule Ball | Святочный бал | Potter's Army / ROSMEN | Canon event name. |
@@ -550,6 +553,7 @@ across multiple segments.
 | Floo powder | Летучий порох | Potter's Army / ROSMEN / usage | Travel powder used with the Floo Network; capitalize only when treated as a fixed product name. |
 | Quick-Quotes Quill | Быстропишущее перо | Potter's Army / ROSMEN | Rita Skeeter's self-writing reporting quill. |
 | dragon heartstring | сердечная жила дракона | Potter's Army / ROSMEN | Standard wand-core term. |
+| wyvern | виверна | Project / story-64 / recurring anthology usage | Use for the Malfoy heraldic beast and animagus lore; keep it distinct from full dragons in both family-history and decorative contexts. |
 | Puddlemere United | Паддлмир Юнайтед | Potter's Army / ROSMEN | Quidditch team name. |
 | Dragon Pox | драконья оспа | Potter's Army / ROSMEN | Magical illness. |
 | Gaunts | Мраксы | Potter's Army / ROSMEN | Voldemort's maternal family line. |
