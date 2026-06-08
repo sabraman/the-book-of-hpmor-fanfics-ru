@@ -50,6 +50,7 @@ across multiple segments.
 | Light Lord | Лорд Света | Project / story-64 | Counterpart title to `Тёмный Лорд` in the `Revival` continuity; keep the quasi-political, title-like capitalization when it refers to Harry's prospective public role. |
 | Meeting | Встреча | Project / story-64 | Chapter 11 title; keep it plain and slightly tense, since the scene is formally just a meeting but functionally a high-risk disclosure and negotiation. |
 | Lucius-Justice | Люциус - справедливость | Project / story-64 | Chapter 13 title; keep the blunt compound framing parallel to Chapter 12's `Люциус - тайны и знание`, and render `Justice` as Harry's moral-legal problem rather than as narrow courtroom jargon alone. |
+| Private Meeting | Частная встреча | Project / story-64 | Chapter 15 title; keep it plain and parallel to the in-scene labels `Первая/Вторая частная встреча`, so the heading reads like part of an ongoing sequence rather than a grand council scene. |
 | Aftermath | Последствия | Project / story-32 | Chapter 12 title; keep it terse and procedural, emphasizing the immediate fallout from Quirrell's flight rather than melodrama. |
 | Also Allowed to be Smart | И умным быть тоже можно | Project / story-32 | Chapter 13 title; keep the deadpan permissive phrasing so it still sounds like a grimly comic HPMOR-style concession that rationality remains "allowed". |
 | Following The Phoenix | Следуя за фениксом | Project / story-27 | Story title; keep the phrasing metaphorical rather than ornithological, matching the later author note that the title refers to doing the brave / right / foolish thing rather than literally trailing a phoenix. |
@@ -403,6 +404,7 @@ across multiple segments.
 | Muggle | магл | Potter's Army / ROSMEN | Default fandom/canon form. |
 | Muggle-born | маглорождённый | Potter's Army / ROSMEN | Hyphenated adjective form. |
 | Muggleborns | маглорождённые | Potter's Army / ROSMEN | Plural collective form. |
+| Muggle-Repelling Charms | маглоотталкивающие чары | Potter's Army / ROSMEN / usage | Use the standard canon phrase for protections that deter non-magical people from approaching or noticing an area. |
 | Hogwarts | Хогвартс | Potter's Army / ROSMEN | Canon form. |
 | Hogsmeade | Хогсмид | Potter's Army / ROSMEN | Canon village name near Hogwarts. |
 | Gryffindor | Гриффиндор | Potter's Army / ROSMEN | House name. |
@@ -452,7 +454,6 @@ across multiple segments.
 | Imperius Curse | заклятие Империус | Potter's Army / ROSMEN | Canon curse name. |
 | Cruciatus Curse | заклятие Круциатус | Potter's Army / ROSMEN | Canon curse name. |
 | Avada Kedavra | Авада Кедавра | Potter's Army / ROSMEN | Canon incantation. |
-| Hyakuju Montauk Curse | проклятие Хякудзю Монток | Project / story-64 | Voldemort's hallucinatory punitive curse on Severus in `Revival`; keep the exotic proper-name feel through direct transliteration rather than trying to unpack the components. |
 | Lumos Maxima | Люмос Максима | Potter's Army / canon usage | Amplified light spell; keep the Latin incantation transliterated in running text. |
 | Leviosa immobilis | Левиоса Иммобилис | Project / story-34 | Amelia Bones's improvised immobilizing-levitation incantation during the Azkaban response; keep the faux-Latin spell transliterated in dialogue. |
 | Words of False Comprehension | Слова ложного понимания | Project / story-48 | Atlantean / Mirror-related magical language effect; capitalize as a formal label and keep the wording about false understanding rather than generic confusion. |
@@ -573,6 +574,7 @@ across multiple segments.
 | Grim | Грим | Potter's Army / ROSMEN | Omen name in Divination context. |
 | Wrackspurt | мозгошмыг | Potter's Army / ROSMEN | Luna's creature term; plural usually follows the same form in running text. |
 | Howler | Громовещатель | Potter's Army / ROSMEN | Magical letter. |
+| Hyakuju Montauk curse | проклятие Хякудзю Монтаук | Project / HPMOR fanfic usage | Voldemort's hallucinatory torture curse from HPMOR continuity; keep the Japanese-sounding proper-name string as a direct transliteration rather than trying to semanticize it. |
 | Azkaban | Азкабан | Potter's Army / ROSMEN | Canon place name. |
 | Statute of Secrecy | Статут о секретности | Potter's Army / ROSMEN | Wizarding secrecy law; use the concise form unless the source names the international statute explicitly. |
 | Privet Drive | Тисовая улица | Potter's Army / ROSMEN | Dursley address. |
