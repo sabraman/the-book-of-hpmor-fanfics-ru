@@ -49,7 +49,6 @@ across multiple segments.
 | Dark Lord Material | Материал для Тёмного Лорда | Project / story-26 | Keep the idiomatic `X material` sense as `material for`, pointing to Harry's apparent suitability for future dark-lord status without turning the title into a literal substance joke. |
 | Light Lord | Лорд Света | Project / story-64 | Counterpart title to `Тёмный Лорд` in the `Revival` continuity; keep the quasi-political, title-like capitalization when it refers to Harry's prospective public role. |
 | Meeting | Встреча | Project / story-64 | Chapter 11 title; keep it plain and slightly tense, since the scene is formally just a meeting but functionally a high-risk disclosure and negotiation. |
-| Private Meeting | Частная встреча | Project / story-64 | Chapter 15 title; keep `private` in the sense of a closed-door, no-witness conversation rather than a formal rank or military usage, and align the phrasing with the in-body `Первая/Вторая частная встреча` sequence labels. |
 | Lucius-Justice | Люциус - справедливость | Project / story-64 | Chapter 13 title; keep the blunt compound framing parallel to Chapter 12's `Люциус - тайны и знание`, and render `Justice` as Harry's moral-legal problem rather than as narrow courtroom jargon alone. |
 | Aftermath | Последствия | Project / story-32 | Chapter 12 title; keep it terse and procedural, emphasizing the immediate fallout from Quirrell's flight rather than melodrama. |
 | Also Allowed to be Smart | И умным быть тоже можно | Project / story-32 | Chapter 13 title; keep the deadpan permissive phrasing so it still sounds like a grimly comic HPMOR-style concession that rationality remains "allowed". |
@@ -453,6 +452,7 @@ across multiple segments.
 | Imperius Curse | заклятие Империус | Potter's Army / ROSMEN | Canon curse name. |
 | Cruciatus Curse | заклятие Круциатус | Potter's Army / ROSMEN | Canon curse name. |
 | Avada Kedavra | Авада Кедавра | Potter's Army / ROSMEN | Canon incantation. |
+| Hyakuju Montauk Curse | проклятие Хякудзю Монток | Project / story-64 | Voldemort's hallucinatory punitive curse on Severus in `Revival`; keep the exotic proper-name feel through direct transliteration rather than trying to unpack the components. |
 | Lumos Maxima | Люмос Максима | Potter's Army / canon usage | Amplified light spell; keep the Latin incantation transliterated in running text. |
 | Leviosa immobilis | Левиоса Иммобилис | Project / story-34 | Amelia Bones's improvised immobilizing-levitation incantation during the Azkaban response; keep the faux-Latin spell transliterated in dialogue. |
 | Words of False Comprehension | Слова ложного понимания | Project / story-48 | Atlantean / Mirror-related magical language effect; capitalize as a formal label and keep the wording about false understanding rather than generic confusion. |
